@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal language with explicit profanity, while Paragraph 2 maintains a formal tone and avoids profanity.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more casual and direct style of word choice, while Paragraph 2 exhibits a more formal and technical vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter and more straightforward sentences, whereas Paragraph 2 includes more complex sentence structures and technical terms.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a confrontational and expressive tone, whereas Paragraph 2 adopts a more neutral and informative tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone, vocabulary, sentence structure, and punctuation style, there are notable distinctions suggesting different authors.",
+        "score": 0.44
+    }
+}

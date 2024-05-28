@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and parentheses in a structured manner for listing and clarification. Paragraph 2 contains hyphens in compound words and quotes for direct speech.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a mix of technical military terminology due to the nature of the content. Paragraph 2 involves formal news reporting vocabulary related to geopolitical events.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter sentences with direct information. Paragraph 2 includes longer sentences and more complex structures typical of news articles.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more informative and factual due to personal experience. Paragraph 2 adopts a formal and objective tone common in news reporting.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and typographical accuracy without errors or mistakes.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the similarity in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is moderately low.",
+    "score": 0.44
+  }
+}

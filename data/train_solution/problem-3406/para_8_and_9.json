@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for punctuation, while Paragraph 2 uses commas and colons as well. Both paragraphs demonstrate a similar style in punctuation usage.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on technical vocabulary related to power plants and waste, while Paragraph 2 includes playful language and references to zombies and hamsters. There is a clear distinction in lexical and grammatical features between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a complex sentence structure with detailed information, while Paragraph 2 is more whimsical and imaginative with shorter and simpler sentences. The differences in sentence structure and quantitative features are notable.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone discussing environmental impact, whereas Paragraph 2 adopts a humorous and absurd tone suggesting unconventional solutions. The narrative styles and speech events are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, demonstrating similar accuracy in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts show differences in lexical and grammatical features, sentence structure, and narrative styles, but share similarities in punctuation style and absence of spelling errors. The overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.52
+  }
+}

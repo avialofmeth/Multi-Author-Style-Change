@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use ellipses, hyphens, and commas. However, the first text uses more ellipses and the second text contains more commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit variation in word choice and use different grammatical structures. The first text uses informal language like 'Hahahaha' and 'Your best bet is', while the second text is more formal with phrases like 'You’re kidding right?'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures vary between the texts. The first text has shorter, more informal sentences, while the second text contains longer sentences with complex clauses.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly. The first text has a mocking tone with informal expressions like 'Hahahaha', whereas the second text has a more serious tone and uses phrases like 'You’re kidding right?'",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, the texts are less likely to be written by the same author. However, the absence of spelling errors increases the overall confidence score slightly.",
+    "score": 0.56
+  }
+}

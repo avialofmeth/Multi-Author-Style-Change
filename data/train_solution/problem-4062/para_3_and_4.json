@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as parentheses and commas, though the second text contains more informal language and lacks some of the formal punctuation seen in the first text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The first text demonstrates a more formal and structured use of language with specific terms related to media outlets and subreddit guidelines. In contrast, the second text contains informal language with contractions and colloquial terms related to local politics.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is more coherent and structured in terms of sentence complexity and length. The second text is shorter and lacks the same level of coherence and cohesion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text maintains a formal and informative tone, while the second text adopts a more casual and conversational tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.62
+    }
+}

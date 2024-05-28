@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, slashes, and periods, while Paragraph 2 mainly relies on periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "There is a difference in the lexical and grammatical features between the two texts. Paragraph 1 contains formal language related to rules and guidelines, whereas Paragraph 2 is more casual and specific to personal experiences.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit differences in sentence structure and quantitative features. Paragraph 1 consists of longer and more complex sentences compared to the shorter and straightforward sentences in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The texts have distinct text and discourse features. Paragraph 1 conveys a set of rules and expectations, while Paragraph 2 describes a personal commute experience without engaging in any discourse.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, as well as the lack of errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

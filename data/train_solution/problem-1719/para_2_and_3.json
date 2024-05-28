@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of hyphens, commas, and parentheses, while Paragraph 2 lacks these specific punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more informal tone with some grammatical errors like 'I.e.' (should be 'i.e.'). Paragraph 2 appears more formal and lacks similar errors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of relatively short sentences with straightforward structures. Paragraph 1 contains more repetition ('they pretend', 'fake execution'), while Paragraph 2 is concise with no repetition.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 describes a scenario with a narrative style focusing on a specific event. Paragraph 2 is more informational regarding a link and its implications. The tone and mood differ between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and text discourse, along with the absence of spelling errors, the overall likelihood of the two texts being written by the same author is relatively low.",
+    "score": 0.46
+  }
+}

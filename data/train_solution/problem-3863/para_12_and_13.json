@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, the hyphen in 'underground' in Paragraph 1 is not present in Paragraph 2, and the use of quotation marks in Paragraph 2 is different from the lack of direct quotes in Paragraph 1.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit a formal tone with clear and straightforward language. However, the content in Paragraph 1 is more descriptive compared to the generic message in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and to the point. Paragraph 1 contains a mix of sentence lengths, while Paragraph 2 is a single short sentence. There is a difference in the complexity and organization of ideas between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more conversational tone with rhetorical questions, indicating a more engaging style. In contrast, Paragraph 2 is direct and impersonal, likely due to its automated nature.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, demonstrating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the differences and similarities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.66
+    }
+}

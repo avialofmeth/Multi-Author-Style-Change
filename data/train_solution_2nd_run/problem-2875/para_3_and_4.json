@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, commas, and quotation marks. Paragraph 2 only uses commas. This difference in punctuation style suggests a potential mismatch.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more informal language with repetition and simpler sentence structures. Paragraph 2 is more formal and direct. This disparity in lexical and grammatical features indicates a likely different authorship.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows shorter sentences with more repetition for emphasis. Paragraph 2 is more structured and concise. The contrast in sentence structure and quantitative features points towards different authors.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more narrative tone with a focus on fear and intentionality. Paragraph 2 is instructional and neutral. The divergence in narrative styles and tone suggests varying authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors. There are no significant differences in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts are likely written by different authors. The minimal discrepancies in spelling and typographical errors do not outweigh the other distinct differences in writing style.",
+    "score": 0.38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens, brackets, colons, commas, parentheses, and quotation marks, although their specific placement and frequency may vary.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical variation and word choice in the two texts are notably different, with one focusing on diplomatic language and the other on a narrative about a character from a book. Grammatical categories and part of speech usage also differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structure, length, and complexity vary greatly between the two texts, with one being more formal and analytical while the other is more conversational and narrative-driven. Coherence and cohesion are also quite distinct.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles, speech events, common expressions, idioms, tone, and mood are dissimilar in the two texts, reflecting different genres and themes.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling and typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit similar use of punctuation such as commas, periods, and parentheses. However, paragraph 1 uses an exclamation mark at the end, which is not present in paragraph 2.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use formal and clear language with a focus on conveying information. They both avoid slang or overly casual expressions. However, paragraph 2 has a more instructional tone compared to paragraph 1.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are concise and direct in their presentation, with clear and straightforward sentence structures. Paragraph 1 has shorter sentences overall compared to paragraph 2, which has slightly longer sentences due to the instructional nature.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs adopt a formal and informative tone. Paragraph 1 encourages participation, while paragraph 2 sets guidelines for behavior. There are subtle differences in the tone, but overall they share a similar formal style.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, demonstrating attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, the overall confidence in the paragraphs being written by the same author is moderate, with some differences in tone and sentence structure.",
+    "score": 0.76
+  }
+}

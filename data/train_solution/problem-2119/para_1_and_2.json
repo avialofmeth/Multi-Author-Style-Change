@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and parentheses to provide additional information or clarify points. However, the first paragraph contains more formal punctuation marks like colons and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical variation and word choice differ significantly between the two texts. The first paragraph is more formal and focused on diplomatic language, while the second paragraph uses informal and colloquial expressions.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structure in the first paragraph is more complex and formal, with longer sentences. The second paragraph is more straightforward and includes informal language.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a critical tone towards Russian actions, but the second paragraph uses more informal and emotive language, while the first paragraph is more diplomatic.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choice, sentence structure, and tone, as well as the similarities in punctuation style and lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.58
+    }
+}

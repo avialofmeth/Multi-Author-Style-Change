@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and a colon for punctuation. Paragraph 2 lacks these punctuation marks except for commas. The inconsistency in punctuation style suggests a potential difference in authorship.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal lexical and grammatical style with technical terms like 'migration' and 'population exceed'. Paragraph 2, on the other hand, is more informal with phrases like 'screw it up'. This contrast in lexical and grammatical features indicates a divergence in writing styles.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with a clear topic sentence and supporting details, showcasing coherence. In contrast, Paragraph 2 is less structured and lacks coherence, impacting the similarity of writing styles.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal narrative style focusing on factual information. Paragraph 2 adopts a casual tone with the use of colloquial expressions like 'something like that'. The disparity in narrative styles suggests different authors.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and no typographical errors, indicating consistency in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, discourse features, and spelling errors, there are notable differences that indicate a likelihood of different authors. The overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

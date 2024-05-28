@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation, including hyphens, commas, and colons. However, the second text introduces a different type of punctuation - em dashes, which are absent in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text uses more technical terms like 'antivax view' and 'antivaxxer', while the second text includes more colloquial language like 'spat' and 'couldn't find anyone'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, both texts display coherent and well-structured sentences. However, the second text appears to have longer sentences compared to the first text.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While both texts convey a narrative style, the tone differs. The first text has a more formal and analytical tone, whereas the second text adopts a more personal and conversational tone. This indicates a difference in discourse features.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "After considering all the features, the overall assessment suggests that the two texts are likely not written by the same author due to differences in punctuation style, lexical and grammatical features, sentence structure and discourse features. The spelling and typographical errors are consistent in both texts.",
+        "score": 0.6
+    }
+}

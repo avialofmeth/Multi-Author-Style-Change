@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods appropriately, while Paragraph 2 lacks proper punctuation and contains run-on sentences.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal tone with clear language, whereas Paragraph 2 uses more informal and dramatic language with a political context.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a single coherent sentence, while Paragraph 2 is fragmented and lacks cohesion.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a neutral and informative tone, while Paragraph 2 exhibits a strong opinion and warning.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the writing styles of the two paragraphs show significant differences in punctuation, tone, coherence, and formality, indicating low likelihood of being written by the same author.",
+        "score": 0.42
+    }
+}

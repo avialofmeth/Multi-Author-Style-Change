@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts make use of various punctuation marks such as hyphens, commas, and periods. However, the first text shows a more diverse range of punctuation usage including colons, ellipses, and quotation marks while the second text primarily uses periods and commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text showcases a more elaborate lexical and grammatical style with a mix of formal and informal language, as well as complex sentence structures. In contrast, the second text is more straightforward and robotic in its word choice and grammar.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text is longer, more detailed, and exhibits a higher level of coherence and cohesion. It contains complex sentence structures and a mix of sentence lengths. The second text is concise and lacks the complexity seen in the first text.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text conveys a strong opinion and a specific mood of fear and concern. It includes informal expressions and a narrative style. The second text, being a bot response, lacks emotion, idiomatic expressions, and has a neutral tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, displaying a similar level of accuracy in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is moderate, with some similarities in punctuation, sentence structure, and lack of spelling errors, but noticeable differences in lexical and grammatical features, text and discourse features, and tone.",
+    "score": 0.58
+  }
+}

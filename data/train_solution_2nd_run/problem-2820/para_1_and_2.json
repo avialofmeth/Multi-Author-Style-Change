@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as commas, colons, and periods. However, the first text includes more formal punctuation like parentheses and quotation marks, while the second text uses hyphens and lacks such formal punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts differ significantly. The first text uses more formal language related to guidelines and criteria, while the second text has a more narrative and descriptive tone with references to supernatural beings. The word choice and sentence structures are distinct between the two.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary widely. The first text consists of more straightforward and informative sentences, whereas the second text has complex and ambiguous sentence structures. The length and arrangement of sentences also differ greatly between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features are notably different between the two texts. The first text is more formal and instructional in nature, focusing on guidelines and information, while the second text adopts a more narrative and dramatic style with references to supernatural elements and suffering.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, demonstrating a similar level of attention to detail in terms of written accuracy.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in lexical and grammatical features, sentence structures, and text and discourse features, along with some commonalities in punctuation style and lack of spelling errors, the overall confidence in the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

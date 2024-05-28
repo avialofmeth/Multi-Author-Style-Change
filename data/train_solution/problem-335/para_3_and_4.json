@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of commas and periods. However, the first text shows a more consistent use of punctuation marks compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show differences in word choice and sentence structure. The first text uses more complex vocabulary and a slightly more formal tone compared to the second text.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "There are variations in sentence structures and lengths between the two texts. The first text has more varied sentence lengths and structures while the second text shows more straightforward and direct sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both texts convey information but with different tones and narrative styles. The first text discusses investment strategies with a neutral tone, while the second text presents a more opinionated and assertive tone regarding government actions.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall confidence score in the likelihood of the two texts being written by the same author is moderate. While there are some commonalities in punctuation and absence of spelling errors, the differences in lexical and grammatical features, sentence structures, and discourse styles suggest potential variation in authorship.",
+    "score": 0.64
+  }
+}

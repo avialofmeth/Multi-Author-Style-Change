@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize standard punctuation marks such as periods and commas. However, the first text contains more unconventional punctuation like hyphens and lacks proper punctuation in some instances.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. The first text contains more varied word choices and a slightly different grammatical structure compared to the second text.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and straightforward. The first text consists of shorter sentences compared to the second text. Both texts lack significant quantitative differences in terms of sentence length and complexity.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text adopts a more formal and serious tone due to the nature of the content discussed, while the second text is more neutral and robotic in its expression. This difference in tone may suggest distinct writing styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors. The writing in both texts appears to be well-edited and clean.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are noticeable differences in punctuation style, tone, and lexical choices between the two texts, indicating potential distinct authors. However, the absence of spelling errors and similarities in sentence structures provide some common ground. The overall confidence score is moderate.",
+        "score": 0.62
+    }
+}

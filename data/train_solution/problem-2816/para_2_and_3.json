@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as commas and periods. However, there are differences in the use of hyphens, colons, and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical choice and word usage in terms of political terminology. However, differences exist in the overall tone and specific vocabulary used.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit varying sentence structures and lengths, with one focusing on achievements and the other on actions taken. There are differences in coherence and cohesion due to the divergent topics.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts differ significantly, with one being more descriptive and the other more action-oriented. Tone and mood also vary considerably.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and narrative styles, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

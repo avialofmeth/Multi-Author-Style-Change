@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation including colons and commas appropriately. Paragraph 2 lacks proper punctuation, such as missing commas and periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more formal and structured use of language with specific terminology related to subreddit guidelines. Paragraph 2 is informal and contains slang and informal language.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a structured sentence arrangement with a clear call to action. Paragraph 2 has a more conversational tone and a single, complex sentence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and directive. Paragraph 2 is expressive and opinionated, displaying a different narrative style and tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts exhibit distinct writing styles. The lack of consistency across various linguistic features suggests a low likelihood of the same authorship.",
+    "score": 0.36
+  }
+}

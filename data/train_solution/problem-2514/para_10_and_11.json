@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and periods correctly, while paragraph 2 lacks these punctuations consistently.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a mix of complex and simple vocabulary and uses specific political terms. Paragraph 2 contains more informal language and simpler syntax.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with varied structures. Paragraph 2 has shorter, more straightforward sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more formal tone discussing political aspects. Paragraph 2 has a conversational tone and questions the political aspect.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, and tone, the writing styles of the two paragraphs do not strongly align, leading to a moderate likelihood of being written by the same author.",
+    "score": 0.58
+  }
+}

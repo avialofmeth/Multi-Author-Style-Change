@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and commas for punctuation, while Paragraph 2 uses commas and apostrophes. Both paragraphs lack significant use of hyphens, brackets, parentheses, or quotation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs display a similar level of lexical variation and word choice. They do not show significant differences in grammatical categories and part of speech usage.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both paragraphs are relatively short and straightforward. They do not exhibit notable differences in sentence complexity or length.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a formal tone related to subreddit guidelines, while Paragraph 2 adopts a more casual and conversational tone. The narrative styles and speech events differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account all the features, the overall likelihood that the two texts were written by the same author is moderate, considering the similarities in lexical features and absence of spelling errors, but significant differences in punctuation style and narrative tone.",
+    "score": 0.56
+  }
+}

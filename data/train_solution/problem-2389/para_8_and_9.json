@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and periods for punctuation, while Paragraph 2 uses question marks and periods. This difference in punctuation style indicates some variation in writing style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes formal language and specific terminology related to political events, while Paragraph 2 has a more informal tone with slang terms like 'dirty work' and 'stooges'. This difference in lexical and grammatical features suggests a divergence in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain relatively short sentences with straightforward structures. However, Paragraph 1 has a more informative and narrative style compared to the accusatory and rhetorical style of Paragraph 2. This difference in sentence structure and quantitative features indicates some disparity in writing style.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a sense of observation and reflection, while Paragraph 2 expresses skepticism and criticism. The differing narrative styles and tones suggest a contrast in writing style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in writing. This commonality in spelling and typographical accuracy suggests a potential shared authorship.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the variations in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles between the two texts, it is moderately likely that they were written by different authors. The similarity in spelling and typographical accuracy provides some common ground but may not be sufficient to override the other disparities in writing style.",
+        "score": 0.48
+    }
+}

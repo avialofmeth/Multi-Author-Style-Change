@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas to separate clauses and for lists. However, Paragraph 2 uses a colon to introduce a statement.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts are written in a conversational tone with straightforward language. Paragraph 2 uses more informal language compared to Paragraph 1.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively simple sentence structures with clear coherence. Paragraph 2 has shorter sentences compared to Paragraph 1.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is neutral and informative, while Paragraph 2 expresses a negative opinion. Both texts lack idiomatic expressions.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there is moderate confidence that the two texts were written by different authors. The overall confidence score is 0.74.",
+        "score": 0.74
+    }
+}

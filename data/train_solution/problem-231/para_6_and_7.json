@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal language and lack lexical variation. However, the use of the phrase 'this action was performed automatically' in Paragraph 2 contrasts with the informal tone of Paragraph 1.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the concise and straightforward sentences in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a casual, conversational tone, while Paragraph 2 is more formal due to its automated nature.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse style, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.46
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods, while Paragraph 2 lacks punctuation marks indicative of a human-written text.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays lexical variation and specific word choice, while Paragraph 2 is devoid of such features, reflecting a mechanical origin.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows varied sentence structures and coherence, whereas Paragraph 2 lacks complexity, indicating automated generation.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 reveals a distinct narrative style and tone, in contrast to the impersonal and neutral tone of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is without spelling or typographical errors, unlike Paragraph 2, which is typical of an automated message.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Considering the discrepancies in punctuation, lexical features, sentence structures, narrative styles, and errors, the likelihood of the two texts sharing the same author is low.",
+        "score": 0.22
+    }
+}

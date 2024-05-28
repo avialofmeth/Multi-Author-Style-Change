@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like periods, commas, and quotation marks, while Paragraph 2 contains hyphens, quotation marks, and informal punctuation like double quotes for emphasis.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal and technical tone with specific terminology related to media outlets, while Paragraph 2 uses informal language and slang terms like 'orange turd'. There is a difference in lexical choice and word usage.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured in a more formal and organized manner with clear sentence structures, whereas Paragraph 2 exhibits a more casual and fragmented style with shorter sentences and colloquial expressions.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone typical of official announcements, while Paragraph 2 adopts a more opinionated and derogatory tone towards Trump. The narrative styles and mood differ significantly.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of writing accuracy.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The overall assessment suggests that the two texts are unlikely to be written by the same author due to notable differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. However, the absence of spelling and typographical errors provides some common ground.",
+    "score": 0.6
+  }
+}

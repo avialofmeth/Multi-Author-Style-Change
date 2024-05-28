@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal punctuation with exclamation marks and informal abbreviations ('lol'). Paragraph 2 uses more formal punctuation with colons and parentheses.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and abbreviations ('lol'), while Paragraph 2 is more formal in tone and word choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with a more casual tone, while Paragraph 2 has longer and more structured sentences with a formal tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a conversational and informal tone with expressions like 'riddle me this' and 'lol'. Paragraph 2 has a formal and professional tone with instructions and guidelines.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs do not have spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall confidence score is moderate in indicating that the two texts were not likely written by the same author.",
+        "score": 0.44
+    }
+}

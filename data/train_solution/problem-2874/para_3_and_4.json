@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 primarily uses hyphens and em dashes for punctuation, while Paragraph 2 includes parentheses and quotation marks. There are some differences in punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, typical of official announcements. Paragraph 2 shows a more conversational and informal word choice and sentence structure.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain relatively simple sentences, but Paragraph 1 is more concise and to the point compared to the slightly more verbose and repetitive style in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone typical of official statements. In contrast, Paragraph 2 has a conversational tone with expressions like 'you know' and 'I really like'. There is a difference in narrative style and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, as well as narrative style and tone, the likelihood that the two texts were written by the same author is moderately low.",
+    "score": 0.54
+  }
+}

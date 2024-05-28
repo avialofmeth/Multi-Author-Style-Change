@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and quotation marks, but only the first text uses parentheses and brackets.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical choices and word usage, employing informal language and strong opinions.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have short, direct sentences with straightforward structures and similar cohesion in tone.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts express negative opinions towards political figures using informal language and contractions.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "Both texts are devoid of spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

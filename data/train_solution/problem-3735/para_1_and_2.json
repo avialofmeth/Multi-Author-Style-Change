@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, quotation marks, and periods. However, the first text includes more complex punctuation like colons and parentheses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are notable differences in lexical and grammatical features between the two texts. The first text uses informal language, contractions, and idiomatic expressions, while the second text employs more formal and courteous language with a focus on rules and guidelines.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity; however, the first text contains longer and more convoluted sentences with a mix of clauses and phrases. The second text is more straightforward with shorter sentences and clear instructions.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first text adopts a narrative style with a political tone and mood, focusing on a specific scenario. On the other hand, the second text adopts an instructional tone with a focus on rules and consequences.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the varied writing styles and content focus in the two texts, the overall confidence score for them being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

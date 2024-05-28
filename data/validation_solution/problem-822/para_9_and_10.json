@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation patterns with the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show similarities in lexical and grammatical features, such as sentence structure and word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structures and lengths are somewhat similar in both texts, contributing to a moderate level of coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The discourse features in the texts differ significantly, with one focusing on political commentary and the other on automated responses.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were noted in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, and absence of spelling errors, there is moderate confidence that the texts could be written by the same author despite differences in discourse style.",
+    "score": 0.66
+  }
+}

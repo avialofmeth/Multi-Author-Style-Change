@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "The punctuation style in both texts shows consistency in the use of commas and periods, although Text 2 contains ellipses and quotation marks which are not present in Text 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Texts exhibit differences in lexical and grammatical features. While Text 1 uses formal language with specific terms related to rules and bans, Text 2 includes informal language and slang like 'Oh my goodness...' and 'Elon Musk.'",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly between the two texts. Text 1 is more structured with clear rules and guidelines, whereas Text 2 is more conversational and less organized.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text 1 has a formal and instructive tone, focusing on guidelines and rules. In contrast, Text 2 has a more casual and opinionated tone, expressing personal views and reactions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no notable spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, alongside the commonality in spelling and typographical errors, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.48
+  }
+}

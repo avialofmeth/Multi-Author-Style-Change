@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens in 'Kitara' and 'drag competitions', while Paragraph 2 does not contain any hyphens. The use of hyphens in Paragraph 1 suggests a slightly different punctuation style compared to Paragraph 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit formal word choice and grammatical structures. However, the lexical variation and word choice in Paragraph 1 related to the specific event ('drag competitions') differ from the more general language used in Paragraph 2 ('media outlets, subreddit, approved domains list'). This slight variation in lexical features may indicate a different writing style.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences compared to the shorter, more straightforward sentences in Paragraph 2. The sentence structure and length differences contribute to a distinction in writing styles.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey information in a formal tone, but the narrative style and speech events differ significantly. Paragraph 1 focuses on a specific event involving a congressman, while Paragraph 2 addresses a more general audience regarding media outlets. The disparity in narrative styles indicates a divergence in authorship.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph. Both texts exhibit proper spelling and punctuation, indicating attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, discourse features, and the absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate. The variations in writing style across multiple linguistic features suggest a potential difference in authorship.",
+    "score": 0.7
+  }
+}

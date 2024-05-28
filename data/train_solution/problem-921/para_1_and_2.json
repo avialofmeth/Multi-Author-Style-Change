@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and conjunctions effectively to connect ideas and create flow. Paragraph 2 lacks similar punctuation complexity.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more varied and expressive word choice compared to the more straightforward language in Paragraph 2.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence lengths and structures, with no significant differences in coherence or cohesion.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more informal and critical tone, whereas Paragraph 2 is more formal and instructional.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

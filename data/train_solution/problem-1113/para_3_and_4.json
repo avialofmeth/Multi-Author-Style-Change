@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and colloquial punctuation like dashes and ellipses, while Paragraph 2 sticks to more formal punctuation marks like colons and commas.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and slang like 'crap,' 'zip-a-dee-doo-dah,' while Paragraph 2 is more formal and technical with terms like 'media outlets,' 'subreddit,' and 'approved domains.'",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter and more casual sentences, while Paragraph 2 is structured with longer and more complex sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual and informal tone with idiomatic expressions, whereas Paragraph 2 is formal and instructional in tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts show no spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.38
+    }
+}

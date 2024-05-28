@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with the use of colons, commas, and periods in a consistent manner. Paragraph 2 lacks this formality and consistency, with a more casual approach to punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a higher level of lexical and grammatical precision, using specific terms related to legal provisions and requirements. In contrast, Paragraph 2 contains informal language and abbreviations like 'pro' instead of 'pro-Ukraine'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 displays a more complex sentence structure with technical details and legal terms. In contrast, Paragraph 2 has shorter, disjointed sentences with a conversational tone.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone typical of legal texts. Paragraph 2, on the other hand, has a more personal and subjective tone with colloquial expressions like 'all up in arms'.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author. The similarity in spelling and typographical accuracy slightly increases the overall confidence but does not outweigh the other dissimilarities.",
+    "score": 0.44
+  }
+}

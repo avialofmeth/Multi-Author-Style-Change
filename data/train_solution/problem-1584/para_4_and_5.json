@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain informal language with no formal punctuation usage like semicolons or em dashes.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The first text is more formal and structured with standard grammar and vocabulary. The second text uses informal language and strong emotion.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both texts are short and direct, lacking complexity in sentence structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a neutral and informative tone, while the second text is emotional and expressive.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling errors or typos.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all features, the likelihood that the two texts were written by the same author is moderate due to differences in grammar, vocabulary, and tone.",
+    "score": 0.62
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas to separate clauses and information. Paragraph 2 also uses commas to separate clauses and phrases.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone with professional language choices. Paragraph 1 includes technical terms related to media outlets, while paragraph 2 uses idiomatic expressions.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, structured sentences with specific details. Paragraph 2 has shorter sentences with a more conversational tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative style, focusing on guidelines. Paragraph 2 uses informal language and a narrative style to describe contrasting behaviors.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable similarities in writing style, but some differences in tone and sentence structure. The overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.68
+    }
+}

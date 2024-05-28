@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks such as commas, periods, and brackets in a clear and organized manner. Paragraph 2 also utilizes punctuation marks like quotation marks and hyphens, but in a more informal and irregular way.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and respectful tone with a focus on clear communication. The lexical choices are appropriate for the context and maintain a professional style. In contrast, Paragraph 2 includes informal language and slang terms that deviate significantly from the style of Paragraph 1.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of well-structured sentences with proper coherence and cohesion, maintaining a logical flow of ideas. On the other hand, Paragraph 2 contains shorter and less structured sentences that lack coherence and may appear disjointed.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative discourse style, focusing on guidelines and rules. In contrast, Paragraph 2 uses a more casual and possibly confrontational tone, with strong language and a dismissive attitude.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse between the two paragraphs, it is unlikely that they were written by the same author. However, the shared attribute of accurate spelling and typographical correctness slightly raises the overall score.",
+        "score": 0.4
+    }
+}

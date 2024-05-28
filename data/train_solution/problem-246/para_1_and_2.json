@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal language with profanity and informal tone whereas Paragraph 2 is formal and polite. Different punctuation styles are used in each text.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more informal, expressive language with specific references to cyberpunk themes. Paragraph 2 is more straightforward and informational. Different lexical and grammatical features are present in each text.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with emotional intensity. Paragraph 2 consists of shorter, more concise sentences. Different sentence structures and quantitative features are observed.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a strong tone of frustration and criticism towards societal issues. Paragraph 2 has a neutral, automated tone. Different text and discourse features are evident.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts display correct spelling and no typographical errors. There are no distinguishable differences in spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the similarity in spelling and typographical errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

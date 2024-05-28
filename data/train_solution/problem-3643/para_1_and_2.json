@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of punctuation such as commas, periods, exclamation points, and question marks, although Text 1 contains more erratic and excessive punctuation with multiple expletives.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Texts differ significantly in lexical and grammatical features - Text 1 is highly emotional and uses aggressive language with profanity, while Text 2 focuses on general courtesy and rule enforcement.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Sentence structures in Text 1 are convoluted and emotional with abrupt shifts in tone, while Text 2 maintains a more formal and consistent structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text 1 conveys a highly emotional and aggressive tone with hostile language, while Text 2 adopts a neutral and polite tone for rule enforcement.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, maintaining a standard level of correctness.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in emotional tone, lexical choices, and sentence structures, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

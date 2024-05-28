@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display the use of punctuation such as commas, hyphens, and brackets. However, their usage and frequency may differ.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show some similarities in terms of word choice and sentence structure. However, there are differences in the specific vocabulary and grammatical patterns used.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The texts vary in sentence complexity, length, and coherence. While both display some coherence, there are notable differences in sentence structures and quantitative features.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 focuses on political statements at games and personal opinions, while Text 2 discusses personal challenges and political perspectives. The narrative styles and speech events differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, as there are similarities in punctuation and lexical features but notable differences in narrative styles and sentence structures.",
+        "score": 0.54
+    }
+}

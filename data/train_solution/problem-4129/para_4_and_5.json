@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and employ grammatical structures like subject-verb-object patterns.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple with coherent arrangements of ideas.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 is more formal and instructional in tone, while Text 2 is more expressive and speculative.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical features, and sentence structures, along with the absence of spelling errors, there is moderate confidence that the texts could be written by the same author.",
+        "score": 0.7
+    }
+}

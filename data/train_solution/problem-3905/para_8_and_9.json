@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as commas, periods, and quotation marks. However, there are differences in the specific use of colons and hyphens.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The texts share similarities in lexical choices and grammatical features like sentence structure and part of speech usage. However, there are differences in the level of formality and vocabulary.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts display a moderate level of sentence complexity and coherence, but they differ in terms of sentence length and arrangement.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The texts diverge in narrative styles and tone, with one focusing more on political analysis and the other expressing a call for change. This affects the overall similarity in discourse features.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors detected in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.62
+    }
+}

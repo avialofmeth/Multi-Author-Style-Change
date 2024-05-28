@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses and a period at the end of the sentence, while Paragraph 2 uses a hyphen and a period at the end of the sentence. The punctuation styles are different.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains technical vocabulary related to population growth, while Paragraph 2 uses informal language and slang. The lexical and grammatical features are distinct.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of one complex sentence with a specific statistical reference, while Paragraph 2 is a simple sentence about a personal experience. The sentence structure and quantitative features are dissimilar.",
+    "score": 0.1
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys factual information in a straightforward manner, while Paragraph 2 includes colloquial language and informal tone. The text and discourse features differ significantly.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the writing styles in the two texts show significant differences across various linguistic aspects, indicating a low likelihood of being written by the same author.",
+    "score": 0.3
+  }
+}

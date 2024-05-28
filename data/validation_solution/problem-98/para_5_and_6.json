@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more hyphens and quotation marks compared to Paragraph 2, which lacks these specific punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more informal and colloquial word choice and structure compared to the more formal tone and language in Paragraph 2. This indicates a difference in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively short sentence length and simple sentence structures. However, Paragraph 1 has a more fragmented arrangement compared to the slightly more cohesive structure in Paragraph 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts convey negative sentiments and aggressive tones, but the specific content and narrative styles differ significantly. Paragraph 1 focuses on physical challenges, while Paragraph 2 discusses geopolitical issues. This indicates a notable contrast in text and discourse features.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

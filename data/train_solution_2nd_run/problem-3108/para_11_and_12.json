@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods. However, text 1 contains a question mark, which is absent in text 2.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts display a formal tone with a focus on environmental issues. There is consistent use of technical terms related to urban planning and waste management.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Both texts are structured with clear topic sentences and supporting details. Sentences are of moderate length with appropriate coherence and cohesion.",
+    "score": 0.85
+  },
+  "feature4": {
+    "explanation": "The narrative style in both texts is informative and analytical. They discuss problems and potential solutions in a serious tone.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a level of care in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is a high likelihood that the two texts were written by the same author.",
+    "score": 0.89
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas, periods, and question marks. Paragraph 2 also uses these punctuation marks but includes additional punctuation like ellipses and an exclamation point.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of formal and informal language. Paragraph 1 is more formal due to its automated response nature, while Paragraph 2 contains informal language with contractions and colloquial expressions.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, straightforward sentences typical of automated responses. In contrast, Paragraph 2 has longer sentences with more complex structures and clauses.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone suitable for a bot response. Paragraph 2 expresses a critical and opinionated tone towards Trump, China, and his policies.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score leans towards the texts likely not being written by the same author due to notable differences in tone, sentence structure, and formality.",
+    "score": 0.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and quotation marks in a similar style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a more formal word choice and structure compared to the informal language and slang in Text 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences, while Text 2 consists of shorter, more fragmented sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 conveys a more professional tone related to LinkedIn, while Text 2 has a more casual and opinionated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and tones, it is unlikely that the two texts were written by the same author.",
+        "score": 0.62
+    }
+}

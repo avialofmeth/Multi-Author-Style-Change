@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar punctuation style with the use of commas, periods, and apostrophes. However, the lack of consistent use of hyphens, brackets, colons, and quotation marks may indicate some differences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are some similarities in lexical and grammatical features such as the use of contractions and informal language. However, differences in word choice and sentence structure suggest potential variation in authorship.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The texts differ significantly in sentence structure and quantitative features. One text is more complex and cohesive, while the other is fragmented and lacks coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the two texts convey different tones and moods. One text is more formal and informational, while the other is conversational and speculative.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, which suggest potential different authors. The similarity in spelling and typographical errors slightly increases the likelihood of the same author. Therefore, the overall confidence score is moderate.",
+    "score": 0.52
+  }
+}

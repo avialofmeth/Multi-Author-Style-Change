@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses and brackets for additional information, while Paragraph 2 includes hyphens and quotation marks for emphasis and attribution.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of formal and informal language, with Paragraph 1 using more technical terms related to public agencies and accountability, whereas Paragraph 2 includes colloquial expressions like 'pee in cups'.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences compared to the shorter, more straightforward sentences in Paragraph 2. The overall structure and coherence differ significantly between the two paragraphs.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more formal, informative tone discussing public agency hiring processes and accountability, while Paragraph 2 is more casual and anecdotal, focusing on personal experiences with drug testing.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are generally free of spelling and typographical errors, maintaining a similar level of accuracy in written expression.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, but the similarity in spelling and typographical accuracy, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

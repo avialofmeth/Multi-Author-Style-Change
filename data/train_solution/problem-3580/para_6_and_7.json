@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a casual writing style with lack of proper punctuation usage, including missing commas and periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show lexical simplicity and use of informal language. They both contain grammatical errors and lack varied vocabulary.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively simple with short sentences. Both lack coherence and cohesion in terms of logical flow.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar informal tone and mood, showcasing a critical perspective towards a specific topic.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood of the texts being written by the same author is moderate.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of commas and periods for punctuation. However, Text 1 uses more complex punctuation like colons, while Text 2 includes more exclamation points and informal punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show a tendency towards informal language and strong opinions. Text 1 includes references to historical events and political language, while Text 2 contains more aggressive language and insults.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences with historical references, while Text 2 consists of shorter, more direct sentences with explicit examples of atrocities. Both texts lack significant errors in coherence.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts share a critical and opinionated tone. Text 1 focuses on political events, while Text 2 uses more graphic and emotional language to convey its message.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable similarities in writing style between the two texts. However, differences in tone, language choice, and sentence complexity suggest some variation in authorship. The overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

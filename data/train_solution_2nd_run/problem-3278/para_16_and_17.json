@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit inconsistent and non-standard punctuation usage, including missing commas and periods.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show lexical and grammatical errors, such as incorrect verb forms and awkward phrasing.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is somewhat similar, with relatively short and fragmented sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "There are differences in the tone and mood of the texts, with one expressing frustration and the other making a point in a more reasoned manner.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Spelling and typographical errors are present in both texts, indicating a lack of attention to detail in writing.",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation styles, including the use of commas and colons.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features, such as vocabulary and sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ significantly in terms of complexity and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary, with one paragraph focused on media outlets and the other on political events.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There is no mention of spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text topics, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

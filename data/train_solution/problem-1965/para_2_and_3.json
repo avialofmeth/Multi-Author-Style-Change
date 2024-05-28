@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses for additional information and quotations marks for direct speech. However, only the first text includes hyphens, colons, and commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choice and word usage. The first text is more formal and technical, while the second text is informal and includes slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with more formal and longer sentences, while Paragraph 2 consists of shorter and more colloquial sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text maintains a neutral and informative tone related to guidelines, whereas the second text has a more informal, sarcastic tone discussing political events.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts exhibit some similarities in punctuation style and use of parentheses and quotation marks, but significant differences in lexical choices, sentence structures, and tones. The overall confidence in the texts being written by the same author is low.",
+    "score": 0.56
+  }
+}

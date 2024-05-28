@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains hyphens, parentheses, and commas, whereas Paragraph 2 lacks these punctuation marks. The punctuation styles differ significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical terms related to politics ('Dems', 'republicans', 'debt ceiling') while Paragraph 2 is more generic, referring to being a bot. The lexical and grammatical features do not align.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, complex sentences with political analysis, while Paragraph 2 is short and straightforward. The sentence structures and quantitative features are dissimilar.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a casual, conversational tone with rhetorical questions, while Paragraph 2 is formal and automated. The text and discourse features contrast.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written with no spelling or typographical errors observed.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The diverse use of punctuation, distinct vocabulary and sentence structures, varying tones, and different content suggest that the two texts are unlikely to have the same author.",
+    "score": 0.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a more formal and structured punctuation style with clear use of commas and colons. Paragraph 2 uses informal punctuation, including a slash for sarcasm (/s) at the end.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical and grammatical features. Paragraph 1 is more formal and rule-based, while Paragraph 2 includes informal language and slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structure and quantitative features. Paragraph 1 contains structured guidelines with clear sentences, while Paragraph 2 has a more conversational and sarcastic tone.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two paragraphs. Paragraph 1 focuses on rules and guidelines, while Paragraph 2 is a sarcastic comment on a political situation.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis, the overall confidence score is moderate, indicating that while there are some similarities in punctuation and absence of spelling errors, the significant differences in lexical, grammatical, and text features suggest a lower likelihood that the two texts were written by the same author.",
+    "score": 0.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods mostly, while Paragraph 2 includes a colon and brackets. Both texts show variation in punctuation usage.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate similar lexical and grammatical features, such as the use of pronouns, conjunctions, and prepositions. The word choice and sentence structures are somewhat comparable.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit coherent and cohesive sentence structures with moderate length and complexity. The quantitative features are somewhat aligned in terms of word and sentence length.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both paragraphs maintain a neutral tone with no distinct narrative styles. Common expressions and idioms are not prevalent in either text.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of care in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

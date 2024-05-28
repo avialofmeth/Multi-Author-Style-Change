@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and brackets for additional information. However, only the second text includes hyphens and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There is some variation in word choice and grammatical structures between the two texts. The first text uses more formal language related to political matters, while the second text contains more colloquial language in a legal context.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have a mix of short and longer sentences, contributing to overall coherence. However, the first text has more structured and complex sentences compared to the second text, which is relatively straightforward.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts differ significantly. The first text is more formal and informative, while the second text has a more legal and directive tone. There are distinct idiomatic expressions and mood differences between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all the features analyzed, the likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation style and coherence, but noticeable differences in lexical choice, sentence structure, narrative style, and tone.",
+    "score": 0.6
+  }
+}

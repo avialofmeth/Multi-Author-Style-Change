@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use common punctuation marks such as periods and commas. However, the second text includes more specific punctuation like ellipsis and an ampersand.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text uses more formal and technical language typical of automated responses, while the second text includes more informal and descriptive language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward. The first text is more concise, while the second text contains more descriptive details.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a neutral and informative tone, typical of automated responses. The second text has a more personal and emotive tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in language formality, tone, and detail level between the two texts, there is moderate confidence that they were not written by the same author.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles, including hyphens, quotation marks, and commas. However, the use of brackets, colons, and parentheses differs between the two texts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are some similarities in lexical and grammatical features such as the use of specific phrases ('it never does', 'the most critical technological infrastructure'). However, there are also differences in word choice and sentence structures.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts show differences in length and complexity. Paragraph 1 consists of shorter, more direct sentences while Paragraph 2 has longer, more convoluted sentences. This affects coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts differ significantly. Paragraph 1 seems to be a dialogue or conversation between characters, while Paragraph 2 presents a more analytical or argumentative tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.6
+    }
+}

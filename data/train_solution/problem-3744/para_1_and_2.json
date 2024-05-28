@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks like commas and periods. However, the first text includes a colon, which is not present in the second text. Overall, punctuation style is somewhat consistent but not identical.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text contains more formal language related to subreddit rules, while the second text uses more informal language discussing political issues. Lexical and grammatical features show some divergence.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ significantly between the two texts. The first text is more structured and formal, whereas the second text is more conversational with shorter sentences. Sentence structure and quantitative features show notable discrepancies.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features reveal a contrast in narrative styles and tone. The first text is informational and directive, while the second text is opinionated and critical. The styles and moods differ, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text. Both texts exhibit correct spelling and formatting. Spelling and typographical errors are consistent.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, while sharing consistency in spelling and typographical errors. The overall confidence score leans towards lower likelihood of the same authorship.",
+        "score": 0.52
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains a higher usage of punctuation marks like colons and commas compared to Paragraph 2, which has more straightforward punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more complex and varied lexical choices compared to the more technical and specific language used in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and more direct sentences in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs exhibit a serious and formal tone, but the content and context differ significantly.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable differences in writing style between the two paragraphs, suggesting they may not have been written by the same author.",
+        "score": 0.64
+    }
+}

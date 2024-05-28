@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas, while Paragraph 2 uses quotation marks and hyphens. Both texts show consistency in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal language related to tax and company registration, while Paragraph 2 uses informal language with phrases like 'Hell yeah'. There is a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more structured sentences, while Paragraph 2 has shorter, more fragmented sentences. The sentence structures differ significantly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is more informative and narrative, discussing tax loopholes and company registration, while Paragraph 2 is more colloquial and opinionated. The narrative styles and speech events differ.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, there are notable disparities in the writing style of the two texts. However, the consistent punctuation style and error-free text provide some common ground. Therefore, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

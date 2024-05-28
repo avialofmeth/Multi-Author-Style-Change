@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles such as commas and periods, but with some differences like the use of ellipses in the first paragraph and hyphens in the second paragraph.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is a difference in the lexical and grammatical features between the two paragraphs. One focuses on legal terms and settlements, while the other discusses historical events and symbols. This indicates a distinction in word choice and subject matter.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two paragraphs vary significantly. The first paragraph is more fragmented and concise, while the second paragraph is more descriptive and narrative. This difference in sentence complexity and coherence suggests a divergence in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features also differ between the paragraphs. One is more formal and legalistic, whereas the other is more historical and informative. The tone and mood in each paragraph indicate distinct writing styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and lack typographical errors, showing a similarity in attention to detail in that aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all five features, the likelihood of the two texts being written by the same author is low due to significant differences in lexical, sentence structure, and text/discourse features, despite some similarities in punctuation and spelling.",
+    "score": 0.52
+  }
+}

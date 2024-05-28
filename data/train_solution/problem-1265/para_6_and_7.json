@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and numbers, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of informal language and technical terms, but they differ significantly in terms of content and word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a complex sentence with specific details, while Paragraph 2 is a more general statement with a different structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey a sense of a specific scenario, but the tones and moods are distinct in each paragraph.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the writing styles of the two paragraphs are quite distinct.",
+        "score": 0.48
+    }
+}

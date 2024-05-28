@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas mainly for punctuation, while Paragraph 2 includes brackets for aside comments. Both paragraphs have a mix of punctuation marks, although the specific usage varies slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in lexical choice and word usage. Paragraph 1 discusses economic factors, while Paragraph 2 focuses on international trials and war crimes. The vocabulary and sentence structures differ significantly in content.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are distinct. Paragraph 1 contains more complex sentences related to economic analysis, whereas Paragraph 2 has shorter, direct sentences expressing opinions on justice and international condemnation.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 displays a more formal and analytical tone when discussing economic impacts, while Paragraph 2 has a more direct and opinionated tone regarding justice and condemnation. The narrative styles and speech events differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of proficiency in writing mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles between the two paragraphs, the likelihood of them being written by the same author is low.",
+        "score": 0.5
+    }
+}

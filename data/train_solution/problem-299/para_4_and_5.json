@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as periods, commas, and quotation marks. However, only the first text uses colons and hyphens.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text shows a specific style with unique word choices like 'stochastic terrorism' and 'buffalo shooter,' while the second text is more generic and automated. Both texts exhibit differences in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short but differ in sentence complexity and coherence. The first text contains longer, more complex sentences, while the second text is concise and straightforward.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The first text has a distinct narrative style with a critical tone, while the second text is neutral and automated. The differences in narrative style and tone suggest different authors.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.58
+  }
+}

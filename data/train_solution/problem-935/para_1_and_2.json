@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation with colons, commas, and quotation marks. However, the second text uses more informal punctuation like hyphens and expletives.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 contains more formal and structured language with specific references to legal matters and professional contexts. Text 2 uses more informal and colloquial language with slang and derogatory terms.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 features longer and more complex sentences with detailed explanations. Text 2 has shorter, more abrupt sentences with a lack of coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a formal narrative style with a focus on events and character interactions. Text 2 is more opinionated and dismissive in its tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality, sentence structure, and tone between the two texts, the likelihood of them being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

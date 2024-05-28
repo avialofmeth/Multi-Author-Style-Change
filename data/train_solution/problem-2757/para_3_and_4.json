@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, parentheses, and periods. However, the first text includes hyphens and quotation marks while the second text does not.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text has a more informal and opinionated tone with phrases like 'shockingly antiquated grasp' and 'should be voted out,' while the second text maintains a more formal and explanatory tone. Lexical variation and word choice differ between the texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively straightforward sentence structures and lengths. However, the first text has a more aggressive and direct arrangement of ideas compared to the explanatory nature of the second text.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The first text presents a critical view and uses idiomatic expressions like 'take a hard stand,' whereas the second text adopts a more neutral and factual tone. Narrative styles and speech events vary significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

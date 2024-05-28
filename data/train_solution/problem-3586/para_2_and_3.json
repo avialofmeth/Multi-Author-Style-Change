@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods, though the first text has more formal punctuation like colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts, with the first text using more formal language related to media outlets, while the second text has a more informal and personal tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ significantly, with the first text being more structured and formal compared to the second text, which is more conversational and less organized.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features show a contrast in narrative styles and tone, with the first text being informational and professional, while the second text expresses personal opinions and emotions.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a level of care in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the texts show more differences than similarities in writing style, suggesting they are less likely to be written by the same author.",
+        "score": 0.44
+    }
+}

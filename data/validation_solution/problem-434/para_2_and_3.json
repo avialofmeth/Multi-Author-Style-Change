@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts utilize a similar punctuation style, including commas and periods.",
+      "score": 0.8
+   },
+   "feature2": {
+      "explanation": "There are differences in lexical and grammatical features due to the different topics addressed in the texts.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "The sentence structures and quantitative features differ significantly due to the content variance.",
+      "score": 0.3
+   },
+   "feature4": {
+      "explanation": "Text and discourse features vary due to the subject matter divergence.",
+      "score": 0.2
+   },
+   "feature5": {
+      "explanation": "There are no spelling or typographical errors in either text.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text discourse, the likelihood of the same author is low.",
+      "score": 0.54
+   }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods, while Paragraph 2 also includes hyphens, brackets, and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 maintains a formal and courteous tone with specific vocabulary related to rules and behaviors. Paragraph 2 uses more informal language with specific references to individuals and events.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter and structured sentences focused on rules and consequences. Paragraph 2 has longer, complex sentences discussing a specific scenario and individuals.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is instructional and informative in nature, emphasizing respectful communication. Paragraph 2 adopts a more expressive and emotive tone, discussing a specific scenario.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

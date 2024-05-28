@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the use of periods, commas, and capitalization. However, they differ in the specific punctuation marks used.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features such as word choice and sentence structure. The vocabulary and sentence construction in the texts show some variation.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The texts exhibit differences in sentence structure, length, and coherence. Paragraph 1 has longer sentences with more complex structures compared to Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "There are differences in the text and discourse features, including tone and style. The overall narrative styles and expressions differ between the two texts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score leans towards the texts not being written by the same author.",
+        "score": 0.56
+    }
+}

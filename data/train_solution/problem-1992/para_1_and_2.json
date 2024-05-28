@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles, including parentheses, commas, and hyphens. However, paragraph 1 has more frequent use of brackets and colons compared to paragraph 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical and grammatical features. Paragraph 1 contains more informal language and abbreviations, while paragraph 2 maintains a formal tone with specific terminology related to governance and power.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, paragraph 1 consists of shorter, more direct sentences, while paragraph 2 contains longer, more complex sentences with detailed explanations.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts differ significantly. Paragraph 1 presents a more descriptive and historical account, while paragraph 2 focuses on governance principles and historical context.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the likelihood that the two texts were written by the same author is moderate, as there are both commonalities and distinctions in writing style. The average confidence score is 0.6.",
+    "score": 0.6
+  }
+}

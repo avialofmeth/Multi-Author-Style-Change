@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles including hyphens, colons, and commas. However, Paragraph 1 uses more varied punctuation with parentheses, slashes, and asterisks, while Paragraph 2 has a simpler structure with fewer punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal tone with specific vocabulary related to rules and guidelines. While Paragraph 1 focuses on behavior and consequences, Paragraph 2 discusses media outlets and subreddit criteria. There are differences in lexical choices and word usage between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are concise and to the point, with clear instructions and rules. Sentence structures are straightforward and easy to follow. However, Paragraph 1 has a higher complexity due to the enumeration of rule violations, while Paragraph 2 is more direct and informational.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both paragraphs maintain a formal and informative tone, focusing on setting guidelines and providing information to the audience. While Paragraph 1 emphasizes conduct and consequences, Paragraph 2 addresses specific queries regarding media outlets. The tone and mood are consistent but the subject matter differs.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a good level of attention to detail in both cases.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, sentence structure, and absence of spelling errors, along with the differences in lexical choices and subject matter, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.64
+  }
+}

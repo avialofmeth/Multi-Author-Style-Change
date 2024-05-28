@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as commas, periods, question marks, and parentheses. However, the first text contains more formal punctuation like colons and semicolons, while the second text has a more conversational style with informal punctuation choices like ellipses and exclamation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 demonstrates a more technical and formal lexical choice given the subject matter of industrial challenges and sanctions. In contrast, Text 2 utilizes a more informal and conversational vocabulary, reflecting a different tone and context.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is structured in longer, more complex sentences with a focus on conveying technical information. In comparison, the second text consists of shorter, more informal sentences with a narrative and persuasive tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 maintains a formal and informative tone discussing industrial challenges and sanctions. In contrast, Text 2 adopts a more persuasive and conversational style, reflecting personal opinions and emotions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and punctuation without typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is likely that the two texts were not written by the same author.",
+        "score": 0.54
+    }
+}

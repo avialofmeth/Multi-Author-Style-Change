@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as parentheses, exclamation marks, and commas. However, one text uses colons while the other uses hyphens and quotation marks.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical choices and word usage in both texts vary significantly, with different topics and styles. One text discusses GPS technology, utility, and navigation while the other focuses on political ideologies.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary between the two texts, with one being more complex and narrative-driven, while the other is more straightforward and direct. There are differences in coherence and cohesion due to the disparate topics.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the texts are distinct, one being more informative and reflective, while the other is more assertive and opinionated about political ideologies.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors. There are no apparent mistakes that would suggest a different author.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, along with some shared punctuation styles and error-free text, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

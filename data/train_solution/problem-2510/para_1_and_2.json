@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more standard punctuation marks like commas and periods. Paragraph 2 uses more informal punctuation like dashes and lacks the same level of conventional punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with clear sentences. Paragraph 2 shows a more informal and colloquial word choice with fragmented sentences.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more coherent sentences with a clear progression of ideas. Paragraph 2 has shorter, disjointed sentences with abrupt switches in topics.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a more informative and explanatory tone. Paragraph 2 is more opinionated and uses informal language.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, while noting the alignment in spelling and typographical errors, the overall confidence score leans towards the texts not being written by the same author.",
+        "score": 0.44
+    }
+}

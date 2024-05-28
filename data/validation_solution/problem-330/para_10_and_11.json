@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of exclamation marks, quotation marks, and periods.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. The vocabulary, tone, and structure vary significantly.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features differ notably. The first text is more direct and imperative, while the second text is more conversational.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features like narrative styles and idioms are distinct in the two texts, indicating different writing styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and discourse styles, the overall confidence in the two texts being written by the same author is low.",
+    "score": 0.56
+  }
+}

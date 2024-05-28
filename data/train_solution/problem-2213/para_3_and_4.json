@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and quotation marks, but the usage differs slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features vary significantly between the texts.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The text and discourse features show distinct differences in tone and style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the overall confidence score of the texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

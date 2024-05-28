@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts exhibit consistent use of punctuation such as hyphens, commas, and periods. However, the first text contains more complex punctuation like colons and parentheses.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"Both texts show a similar level of lexical and grammatical features, utilizing standard vocabulary and sentence structures. The first text includes more specific political terminology.",
+      "score":0.7
+   },
+   "feature3":{
+      "explanation":"In terms of sentence structure and quantitative features, both texts display coherence and cohesion in their respective contexts. The first text is more narrative-driven and includes longer sentences.",
+      "score":0.6
+   },
+   "feature4":{
+      "explanation":"The discourse features in both texts differ significantly. The first text is more opinionated and narrative-driven, while the second text is direct and informational.",
+      "score":0.4
+   },
+   "feature5":{
+      "explanation":"Both texts are free from spelling and typographical errors.",
+      "score":1.0
+   },
+   "overall":{
+      "explanation":"Considering the analysis of the individual features, there is a moderate likelihood that the two texts were written by the same author.",
+      "score":0.7
+   }
+}

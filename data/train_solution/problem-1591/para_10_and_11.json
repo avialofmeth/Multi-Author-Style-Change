@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent punctuation styles with the use of commas and periods. However, the first text includes more advanced punctuation like colons and parentheses, while the second text uses quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some differences between the texts. The first text uses more formal language with specific historical references, while the second text is more conversational and abstract.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts vary in complexity, with the first text containing longer and more intricate sentences compared to the second text. Cohesion is present in both texts, but the first text seems to have a more organized arrangement.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ significantly between the two texts. The first text is more factual and historical, while the second text is more philosophical and reflective. This difference in style may indicate different authors.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the variations in punctuation, lexical and grammatical features, sentence structure, and narrative style, there are notable differences that suggest the texts may have been written by different authors. However, the absence of spelling and typographical errors provides some common ground. The average score across all features indicates a moderate likelihood that the texts were written by the same author.",
+    "score": 0.6
+  }
+}

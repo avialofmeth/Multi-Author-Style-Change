@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas in a standard manner, while Paragraph 2 lacks proper punctuation in the second sentence.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits formal and legal language with specific terms like 'life sentence' and 'parole,' while Paragraph 2 uses informal language with phrases like 'happens all the time here.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2, which has shorter and more straightforward sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and factual tone due to the legal context, while Paragraph 2 has a casual and conversational tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate no spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and sentence structure, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.56
+  }
+}

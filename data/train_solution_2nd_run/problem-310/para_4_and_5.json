@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, parentheses, and quotation marks. However, Paragraph 2 lacks some of the specific punctuation found in Paragraph 1, such as hyphens and colons.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts display a similar level of formality and vocabulary choice. However, Paragraph 2 contains more technical language related to being a bot, while Paragraph 1 focuses on political discourse.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features differ significantly between the two texts. Paragraph 1 contains longer, more complex sentences with a narrative style, while Paragraph 2 is concise and straightforward.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features also vary notably. Paragraph 1 adopts a critical and analytical tone, discussing political dynamics, while Paragraph 2 is more informational and detached as it states its automated nature.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-spelled without typographical errors, indicating a level of care in writing. There are no spelling or typographical errors in either Paragraph 1 or 2.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall confidence score for the likelihood that the two texts were written by the same author is moderate, with some shared elements in punctuation and language use but notable differences in sentence structure and discourse.",
+    "score": 0.58
+  }
+}

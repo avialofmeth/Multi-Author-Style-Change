@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and question marks while Paragraph 2 lacks these punctuation marks. This indicates a difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more complex sentence structure with varied word choices compared to the straightforward and limited vocabulary in Paragraph 2. There is a notable difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences, while Paragraph 2 is brief and simple. This disparity in sentence structure and length suggests different writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses a political scenario with a critical tone, while Paragraph 2 is an automated response maintaining a neutral stance. The narrative styles and tones are distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing consistency in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it appears unlikely that the two texts were written by the same author. However, the shared absence of spelling and typographical errors increases the overall confidence slightly.",
+        "score": 0.42
+    }
+}

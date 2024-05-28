@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and periods consistently.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Texts display differences in lexical choices and word usage, indicating potential different authors.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the simpler structure in paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Texts show different narrative styles and tones, suggesting potential different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.62
+    }
+}

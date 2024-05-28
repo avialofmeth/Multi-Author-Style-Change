@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas and periods, while Paragraph 2 lacks punctuation variety and mainly uses periods.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit informal language and similar word choice, indicating a potential similarity in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of relatively similar sentence lengths and structures, focusing on personal opinions and experiences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey a casual tone and informal style, suggesting a potential shared narrative style.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both paragraphs do not contain spelling or typographical errors, indicating a similarity in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in informal language, tone, sentence structure, and lack of spelling errors, it is moderately likely that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

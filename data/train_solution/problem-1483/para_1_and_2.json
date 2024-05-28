@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation such as commas and periods. However, Paragraph 1 includes more diverse punctuation like parentheses and slashes compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts utilize formal lexical choices and grammatical structures. However, Paragraph 1 includes more specific language related to rules and consequences compared to the more general language in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively similar sentence lengths and structures. However, Paragraph 1 has a more directive and rule-oriented tone compared to the informative tone of Paragraph 2.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Both texts maintain a formal and informative style. Paragraph 1 emphasizes rules and consequences, while Paragraph 2 is more focused on providing guidance.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and typographical accuracy.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure, and discourse features, along with the absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.74
+  }
+}

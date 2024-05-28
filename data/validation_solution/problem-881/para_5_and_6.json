@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas appropriately, but Paragraph 1 tends to use more technical punctuation like colons, which is lacking in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and technical lexical and grammatical style compared to the more casual and informal style in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more complex sentences with technical vocabulary, while Paragraph 2 has shorter and simpler sentences with informal language.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and informational tone related to whale endangerment, while Paragraph 2 has a more conversational and critical tone towards the lobster industry.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there is a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.56
+  }
+}

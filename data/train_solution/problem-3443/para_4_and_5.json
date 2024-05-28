@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as periods, commas, and quotation marks. However, the first text demonstrates a more formal punctuation style compared to the second text, which includes more informal punctuation choices like hyphens and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text is straightforward and uses simple language without much variation. The second text exhibits more complexity in word choice and includes specific terms related to political ideologies.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text is concise and to the point with short sentences, while the second text contains longer sentences with a more dramatic tone. This difference in sentence structure indicates a notable distinction between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The first text adopts a neutral and helpful tone, typical of automated responses, whereas the second text conveys a strong opinion with a sense of urgency and concern. The contrast in tone suggests different authorial voices.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, demonstrating a similar level of accuracy in written language.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, the overall assessment suggests that the two texts are likely written by different authors due to distinct differences in punctuation style, lexical complexity, sentence structure, and tone. However, the absence of spelling errors indicates a shared level of proficiency in writing.",
+    "score": 0.5
+  }
+}

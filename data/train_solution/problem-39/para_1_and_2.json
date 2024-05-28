@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of hyphens, colons, commas, and parentheses for structuring and separating information. Paragraph 2 lacks these punctuation features.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains a more formal and sophisticated lexical and grammatical style with complex sentences and varied word choice. Paragraph 2 is simpler and more direct in its language use.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentence structures with cohesive elements linking ideas. Paragraph 2 consists of shorter and less complex sentences without as much cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and serious tone with a narrative style focused on political issues. Paragraph 2 has a more light-hearted and self-reflective tone with a focus on personal thoughts.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts show no spelling or typographical errors, indicating attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a moderate likelihood that the two texts were written by different authors.",
+        "score": 0.4
+    }
+}

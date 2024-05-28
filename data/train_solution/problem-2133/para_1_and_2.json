@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses and question marks, while Paragraph 2 uses periods and commas. There are differences in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes more informal language and contractions like 'we're', while Paragraph 2 uses formal language like 'Out of the extremely well functioning Nordic states'. There are noticeable differences in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with more abrupt transitions, while Paragraph 2 has longer, more descriptive sentences. There are significant differences in sentence structure and quantitative features.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a conversational tone with expressions like 'I don't understand why', while Paragraph 2 has a more informative tone. There is a difference in narrative styles and tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts exhibit significant differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone. The scores across all features indicate a low likelihood that the texts were written by the same author.",
+        "score": 0.44
+    }
+}

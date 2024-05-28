@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles with the presence of hyphens, commas, and parentheses. However, the second text includes more informal punctuation like expletives.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a use of strong, emotive language and similar word choices related to religious and political themes. However, the second text contains more informal and derogatory language.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts display a similar sentence structure with concise, direct statements. However, the second text has shorter sentences on average and a more abrupt tone.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Both texts share a common tone of criticism and disdain towards certain groups. However, the second text uses more aggressive and confrontational language.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit a similar level of spelling and typographical accuracy without errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, and spelling accuracy, alongside the differences in tone and word choice, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.67
+  }
+}

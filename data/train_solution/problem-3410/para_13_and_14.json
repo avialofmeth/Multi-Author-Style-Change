@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for punctuation, whereas Paragraph 2 has a lack of diverse punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similarities in lexical variation and word choice with phrases like 'actively celebrated' and 'general shambles'. However, Paragraph 2 includes more informal and descriptive language.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have varied sentence structures, with Paragraph 1 being more straightforward and concise, while Paragraph 2 includes longer, more descriptive sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and assertive tone, whereas Paragraph 2 adopts a more informal and mocking tone. Both paragraphs use idiomatic expressions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, and the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.56
+  }
+}

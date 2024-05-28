@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use hyphens and question marks. While the first text uses a question mark appropriately, the second text ends with a period instead of a question mark.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "Both texts exhibit formal language with complex sentence structures. However, the word choice and topic differ significantly between the texts.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "Both paragraphs are relatively short with coherent and logical sequences of thoughts. However, the first text poses a question and the second text expresses a statement.",
+      "score": 0.5
+   },
+   "feature4": {
+      "explanation": "Both texts convey a serious tone and address global issues. However, the specific topics and emotional intensity differ.",
+      "score": 0.6
+   },
+   "feature5": {
+      "explanation": "Both texts are free from spelling and typographical errors.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the mixed similarity and differences in the linguistic features analyzed, the likelihood of the two texts being written by the same author is moderate.",
+      "score": 0.62
+   }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes the use of colons, commas, and quotation marks, while Paragraph 2 features commas and a period.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more aggressive and informal lexicon, with terms like 'sedition,' 'treason,' 'AK,' 'machete,' and 'nukes.' Paragraph 2 is characterized by words like 'community radio,' 'fantastic,' 'local news,' and 'Democracy Now,' which are more neutral and informative in tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with a mix of clauses. In contrast, Paragraph 2 is structured with simpler and more straightforward sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 reflects a hostile and conspiratorial tone, while Paragraph 2 conveys a positive and appreciative sentiment towards community radio and news.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of distinct tones, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

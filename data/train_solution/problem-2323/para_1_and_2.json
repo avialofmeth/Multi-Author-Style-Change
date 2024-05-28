@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain standard punctuation marks such as commas and periods. However, the first text includes more complex punctuation like hyphens and colons, while the second text uses simpler punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use formal language and appropriate word choices. However, the first text discusses legislative efforts and protections, while the second text refers to media outlets and subreddit criteria, showcasing different lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences compared to the second text, which is more straightforward and concise. This difference in sentence structure affects coherence and cohesion.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts differ significantly, with the first text presenting factual information on child labor violations and legislative efforts, while the second text provides instructions and guidelines for subreddit users. The tone and mood vary between the texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, demonstrating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical accuracy, the overall confidence score for the likelihood of the two texts being written by the same author is moderately low.",
+    "score": 0.56
+  }
+}

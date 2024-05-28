@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks such as hyphens, commas, and periods. Paragraph 2 also includes commas and quotation marks, but it uses informal punctuation like multiple exclamation marks and all caps for emphasis.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts contain informal language and colloquial expressions, although the specific vocabulary and word choices differ. Paragraph 1 uses more formal language related to politics while Paragraph 2 includes informal language and slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and to the point. Paragraph 1 is structured in a more formal manner with coherent sentences, while Paragraph 2 contains more fragmented and colloquial speech.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more serious and analytical tone discussing political affiliations. In contrast, Paragraph 2 adopts a more casual and humorous tone with exaggerated speech events and expressions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there are notable distinctions that suggest different authors. However, the absence of spelling and typographical errors slightly increases the possibility of a shared authorship.",
+    "score": 0.48
+  }
+}

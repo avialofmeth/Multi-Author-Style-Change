@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation, but the first text also includes colons and parentheses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text uses more formal and technical language compared to the second text which is more informal and conversational.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward, with no significant differences in sentence structure or complexity.",
+        "score": 0.9
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more formal and informative tone, while Text 2 conveys a sense of urgency and prediction.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts show some similarities in punctuation and sentence structure, but differ in terms of tone and language complexity. The difference in lexical and grammatical features lowers the overall confidence in them being written by the same author.",
+        "score": 0.74
+    }
+}

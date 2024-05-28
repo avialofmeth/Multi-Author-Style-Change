@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of commas, periods, and question marks in a similar manner. However, the first text includes a colon and the second text uses more hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use informal language with abbreviations like 'U.K.' and unconventional terms like 'Czechia'. The second text features more colloquial expressions like 'Not Mexico' and 'somehow'.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively straightforward with short and concise sentences. The first text is slightly more formal with longer sentences compared to the second text.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar informational tone and focus on presenting facts. The second text shows a bit of humor or irony with phrases like 'some other Muslim countries due to Sharia', which is not present in the first text.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, and the absence of spelling errors, along with some distinctions in sentence structure and tone, the likelihood of the texts being written by the same author is moderate.",
+        "score": 0.68
+    }
+}

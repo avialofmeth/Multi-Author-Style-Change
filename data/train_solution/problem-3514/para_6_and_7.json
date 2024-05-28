@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and parentheses for punctuation, while Paragraph 2 uses hyphens, quotation marks, and commas. The use of punctuation differs slightly between the two texts.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show some differences in word choice and grammatical structures. For example, Paragraph 1 uses phrases like 'party over country' and 'character', while Paragraph 2 includes terms like 'Margarine Taylor Greene' and 'Freedom caucus'. The word choice and sentence structures vary, indicating potential differences in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features differ between the texts. Paragraph 1 has longer sentences with more complex structures, whereas Paragraph 2 contains shorter, more straightforward sentences. This contrast in sentence length and complexity suggests a divergence in writing styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The text and discourse features in the two paragraphs display differences in narrative styles and tone. Paragraph 1 conveys a more serious and critical tone, while Paragraph 2 appears more casual and dismissive. The differences in tone and narrative style indicate potential distinct authorship.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in terms of spelling and typing correctness.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the similarity in spelling and typographical errors, the likelihood that the two texts were written by the same author is moderately low.",
+        "score": 0.58
+    }
+}

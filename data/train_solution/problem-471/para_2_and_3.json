@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, parentheses, quotation marks, and commas in a similar manner. However, the presence of colons in only one of the texts is a distinguishing factor.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical choices and word usage in both texts exhibit some similarities, such as the use of formal language. However, the specific terms and expressions used differ significantly.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence complexity and structure between the two texts. One text contains a direct quote while the other does not. This impacts the coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones of the texts vary significantly. One is more formal and legalistic, while the other is more opinionated and argumentative.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, along with the similarity in punctuation usage and absence of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with commas and question marks present. Both texts do not have complex punctuation such as semicolons or em dashes.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical and grammatical features, with a mix of formal and informal language. The word choice is different due to the nature of the content.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts show differences in sentence structure and quantitative features due to the nature of the content. Both have coherent sentences with varied length.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts are different. The first text is more opinionated and expressive, while the second text is informative and neutral.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in narrative styles and sentence structures, the texts are less likely to be written by the same author. However, the commonalities in punctuation style and absence of spelling errors suggest some level of similarity.",
+        "score": 0.6
+    }
+}

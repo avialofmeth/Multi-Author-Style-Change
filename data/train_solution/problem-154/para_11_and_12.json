@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, colons, and quotation marks, while Paragraph 2 mainly relies on quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in lexical choices and word usage. Paragraph 1 uses more informal language and references complex economic concepts, while Paragraph 2 is more formal and legalistic in nature.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with multiple clauses, while Paragraph 2 consists of shorter and more straightforward sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have different narrative styles and tones. Paragraph 1 is informative and explanatory, while Paragraph 2 is accusatory and legalistic.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit informal punctuation styles with the use of hyphens, commas, and lack of complex punctuation such as semicolons or em dashes.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts share a similar lexical and grammatical style, using informal language and addressing complex topics in a straightforward manner.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively complex, with varying sentence lengths and arrangements, but there are differences in coherence and cohesion due to the disparate topics.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts exhibit a casual tone, but the speech events differ due to the specific topics discussed.",
+        "score": 0.65
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, narrative styles, and lack of spelling errors, the texts are somewhat likely to be written by the same author despite differences in content.",
+        "score": 0.75
+    }
+}

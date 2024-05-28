@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation such as commas and periods, although Text 2 includes more hyphens and quotation marks compared to Text 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show differences in lexical choices and word usage, with Text 1 focusing more on technical concepts like servers and migration, while Text 2 uses more informal language with references to specific events and people.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to the shorter, more fragmented sentences in Text 2. Text 1 also demonstrates better coherence and cohesion in its structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts have different narrative styles and tones, with Text 1 being more informative and explanatory while Text 2 adopts a critical and informal tone with specific references.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is relatively low.",
+    "score": 0.6
+  }
+}

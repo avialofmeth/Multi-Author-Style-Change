@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of commas and periods appropriately. However, the first text contains specific punctuation marks like colons and quotation marks, while the second text does not include such marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text contains specific terms like 'MAGA party,' 'rage quit,' and 'GQP,' which are not present in the second text. Additionally, the first text has a more informal tone compared to the second text.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts consist of relatively short sentences with clear structures. However, the first text has more complex sentence constructions and includes a mix of sentence types, whereas the second text is simpler and more direct.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text involves a narrative style discussing a specific scenario, while the second text is a standard automated message without any narrative elements. The tone in the first text is more opinionated and expressive compared to the neutral tone of the second text.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Upon considering the individual feature scores and the overall writing styles of the two texts, it is moderately likely (0.64) that they were written by the same author, despite some differences in terms of vocabulary and tone.",
+    "score": 0.64
+  }
+}

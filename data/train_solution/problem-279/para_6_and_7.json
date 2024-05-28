@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts utilize hyphens and commas for punctuation, but only the first text uses colons and parentheses extensively.",
+		"score": 0.6
+	},
+	"feature2": {
+		"explanation": "Both texts exhibit a mix of complex and simple sentence structures. The first text has more varied vocabulary and word choices compared to the second text.",
+		"score": 0.5
+	},
+	"feature3": {
+		"explanation": "Both texts present quantitative information with different levels of detail and complexity. The first text has longer and more detailed sentences compared to the second text.",
+		"score": 0.7
+	},
+	"feature4": {
+		"explanation": "Both texts convey factual information with a formal tone. The first text includes specific statistics and comparisons, while the second text provides a general trend.",
+		"score": 0.6
+	},
+	"feature5": {
+		"explanation": "Both texts are free from spelling and typographical errors.",
+		"score": 1
+},
+	"overall": {
+		"explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, there are similarities in some aspects but differences in others. The average confidence score is 0.68.",
+		"score": 0.68
+	}
+}

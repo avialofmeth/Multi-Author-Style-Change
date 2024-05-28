@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 lacks these punctuations. This difference suggests a variation in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more formal language and structured sentences, focusing on specific events. Paragraph 2 is more informal with contractions and a conversational tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and more straightforward sentences in Paragraph 2. This difference in sentence structure contributes to a distinction in writing style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and critical tone discussing a sensitive topic, while Paragraph 2 expresses a sarcastic and dismissive attitude. The tone divergence indicates dissimilar writing styles.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and no typographical errors, showing consistency in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the combined scores of the features, there are notable differences in punctuation style, sentence structure, lexical choices, and tone between the two texts, suggesting a low likelihood of being written by the same author.",
+        "score": 0.5
+    }
+}

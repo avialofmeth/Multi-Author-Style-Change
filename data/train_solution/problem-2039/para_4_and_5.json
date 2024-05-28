@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts demonstrate a varied use of punctuation marks such as hyphens, colons, commas, and quotation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. The first text uses formal and structured language related to historical and political events, while the second text employs informal language and slang.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features also show notable differences. The first text contains longer and more complex sentences with historical references, while the second text is more fragmented and colloquial.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features vary significantly. The first text is informative and narrative-driven, focusing on historical events, whereas the second text is more conversational and opinionated, discussing a contemporary issue in a casual tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in lexical, grammatical, sentence structure, and discourse features, along with some commonalities in punctuation and error-free text, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

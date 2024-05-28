@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas to separate clauses and provide additional information. Paragraph 2 uses a comma for direct address and ellipsis for pause.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes formal language related to ceasefire regimes and dates. Paragraph 2 includes informal language with terms like 'dude' and 'insult'.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more structured sentences with a formal tone. Paragraph 2 has shorter, conversational sentences with less complexity.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and formal in tone. Paragraph 2 is more casual and personal.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts show correct spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

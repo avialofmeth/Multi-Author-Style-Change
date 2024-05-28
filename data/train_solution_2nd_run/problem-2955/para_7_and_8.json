@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation marks such as colons, commas, and parentheses, while Paragraph 2 uses fewer punctuation marks in comparison.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, Paragraph 1 is more formal and technical with phrases like 'review our details as to our approved domains list and outlet criteria'. Paragraph 2 is more casual and direct with phrases like 'troops does not make for a strong military'. There are differences in word choice and style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in Paragraph 1 are longer and more complex with multiple clauses, while Paragraph 2 has shorter sentences and is more straightforward. Paragraph 1 is more coherent in terms of its organization and arrangement of ideas compared to Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informational tone related to subreddit guidelines, while Paragraph 2 has a more opinionated and critical tone regarding military personnel. The narrative styles and speech events differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts show notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, indicating a lower likelihood of being written by the same author. However, the absence of spelling and typographical errors boosts the overall score slightly.",
+    "score": 0.44
+  }
+}

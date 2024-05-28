@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks and styles such as question marks, periods, and quotation marks.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in word choice and tone between the two texts, with the first text being more formal and the second text containing more informal language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text is longer and more complex in structure compared to the second text, which is more straightforward and direct.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a strong opinionated tone, but the second text is more aggressive and confrontational compared to the first text.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in word choice and tone, as well as the varying complexity in sentence structure, there is moderate evidence to suggest that the two texts may not have been written by the same author.",
+    "score": 0.72
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, parentheses, and commas for punctuation, while Paragraph 2 lacks these features. Differences in punctuation style can indicate varied writing styles.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, using specific terminology related to politics and international relations. In contrast, Paragraph 2 has a more informal tone with colloquial language and abbreviations such as 'bud'. These differences suggest distinct lexical and grammatical choices by the authors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer, complex sentences with multiple clauses, demonstrating a more sophisticated sentence structure. In comparison, Paragraph 2 has shorter sentences, with simpler arrangements. This disparity indicates a divergence in sentence complexity and length between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal narrative style, discussing political opposition and military support in a factual manner. In contrast, Paragraph 2 adopts a narrative style that is more conversational and anecdotal, reflecting personal viewpoints and historical anecdotes. These contrasting styles suggest different approaches to text and discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of care in proofreading. This commonality in error-free writing enhances the likelihood of a shared authorship.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Taking into account the varying scores for each feature, the overall assessment suggests a moderate confidence level that the two texts were not written by the same author. The differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features outweigh the similarity in spelling and typographical accuracy.",
+    "score": 0.42
+  }
+}

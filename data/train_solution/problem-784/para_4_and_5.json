@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and parentheses, while Paragraph 2 uses colons and hyphens. Both texts show a mix of punctuation styles.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of lexical and grammatical features. Paragraph 1 includes informal language with contractions ('dems' for 'Democrats') and a specific political reference ('republican house members'). Paragraph 2 is more formal and technical ('media outlets', 'subreddit').",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structure in both texts is fairly straightforward. Paragraph 1 has one complex sentence, while Paragraph 2 is more concise with direct instructions. Both texts display coherence and cohesion in presenting their ideas.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone differ between the texts. Paragraph 1 has a more conversational and opinionated tone, evident in the author's personal declaration as a 'progressive dem'. Paragraph 2 maintains a formal and informational tone with a call to action.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mix of punctuation styles, lexical and grammatical features, sentence structures, narrative styles, and lack of spelling errors, there are notable differences in tone and formality that suggest different authors. The average confidence score is moderate.",
+        "score": 0.6
+    }
+}

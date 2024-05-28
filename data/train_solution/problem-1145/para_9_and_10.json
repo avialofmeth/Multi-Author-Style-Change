@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize standard punctuation marks such as periods, commas, and question marks. However, text 2 demonstrates a slightly more varied use of punctuation with the inclusion of hyphens and parentheses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and somewhat technical tone with specific vocabulary related to technology and finance. Text 2 shows a higher level of lexical variation and complexity compared to text 1.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Text 1 consists of shorter, more straightforward sentences, while text 2 contains longer and more complex sentences. Text 2 also displays a higher level of coherence and cohesion in its structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey information in a formal and informative style. However, text 2 has a more analytical and critical tone compared to the neutral tone of text 1.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate, with some differences in punctuation style, lexical complexity, and sentence structure but similarities in formal tone and absence of errors.",
+        "score": 0.68
+    }
+}

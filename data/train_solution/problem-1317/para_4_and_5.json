@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language and similar punctuation styles with the use of dashes and commas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a straightforward, direct writing style with a mix of simple and complex sentences.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and lack significant quantitative differences in terms of sentence length and structure.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text expresses a strong opinion and emotion, while the second text is more neutral and informative in tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical features, and lack of spelling errors, with some distinctions in tone and discourse features, the likelihood of the same author is moderate.",
+        "score": 0.7
+    }
+}

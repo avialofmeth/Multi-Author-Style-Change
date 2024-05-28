@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a lack of hyphens, brackets, colons, and quotation marks. However, text 2 uses more commas and parentheses compared to text 1.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Text 1 demonstrates a more formal and structured lexical and grammatical choice, while text 2 contains more abrupt and directive language with a focus on specific actions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively simple sentence structures with a focus on conveying information clearly. Text 2 is more directive and action-oriented compared to text 1.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles of the two texts are quite different, with text 1 discussing conscription logistics and combat, while text 2 describes a sabotage plan. The tone and mood vary significantly.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, there is moderate evidence to suggest that the two texts were not likely written by the same author.",
+    "score": 0.48
+  }
+}

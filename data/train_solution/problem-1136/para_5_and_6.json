@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use common punctuation marks such as commas and periods. However, paragraph 1 includes more complex punctuation like hyphens and parentheses, while paragraph 2 is more straightforward with simple punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs a more elaborate vocabulary and varied sentence structures compared to the straightforward and simple language used in paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 exhibits longer and more complex sentences with a mix of clause types, while paragraph 2 is brief and to the point with simpler sentence structures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts lack narrative elements and exhibit a more formal tone. However, paragraph 1 has a slightly more serious mood due to the context of the content, while paragraph 2 conveys a neutral and automated tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of different linguistic features, there are notable differences in punctuation style, vocabulary complexity, and sentence structures between the two texts. While some similarities exist, the overall writing styles of the two paragraphs appear distinct, suggesting a lower likelihood of being written by the same author.",
+        "score": 0.64
+    }
+}

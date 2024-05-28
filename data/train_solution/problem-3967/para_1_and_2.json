@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as parentheses, colons, and commas, while Paragraph 2 mainly relies on commas.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and more complex word choice compared to the simpler language used in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more complex in sentence structure and length, with a more cohesive flow of ideas. In contrast, Paragraph 2 consists of shorter, simpler sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more formal and analytical tone, discussing policy planning and healthcare systems, while Paragraph 2 adopts a more straightforward, instructional tone related to media outlets.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and typographical errors, showing no significant distinctions in this feature.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the texts show some differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, but share similarities in spelling and typographical errors. The overall confidence score is moderate.",
+        "score": 0.62
+    }
+}

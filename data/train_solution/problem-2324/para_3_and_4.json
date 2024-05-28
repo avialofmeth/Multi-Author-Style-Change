@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and periods effectively, while Paragraph 2 lacks these punctuation marks, showing a difference in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both texts use a similar level of formality and vocabulary choice, indicating some similarity in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with strategic arrangement, whereas Paragraph 2 is shorter and more direct, suggesting a difference in sentence structure and quantitative features.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts lack narrative styles and contain no idiomatic expressions, maintaining a neutral and informative tone, showing some similarity in text and discourse features.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, there are mixed similarities and differences between the two texts, with notable distinctions in punctuation style, sentence structure, and quantitative features, but some alignment in lexical and grammatical features, text and discourse features, and spelling. Therefore, the overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

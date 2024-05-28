@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation with hyphens, commas, and parentheses for emphasis and clarity. However, paragraph 1 contains more emotional punctuation like exclamation marks and ellipses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the texts. Paragraph 1 uses more informal language and contractions, while paragraph 2 is more technical in nature with terms related to education.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts exhibit variation in sentence length and complexity. However, paragraph 1 shows more emotional expression through sentence structure, whereas paragraph 2 is more straightforward and informative.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The discourse features in the two texts are distinct. Paragraph 1 has a more emotional and opinionated tone, using colloquial expressions, while paragraph 2 maintains a neutral and informative tone characteristic of educational writing.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the combination of features, the texts exhibit some similarities in punctuation style and sentence structure, but significant differences in lexical and discourse features. The absence of spelling errors suggests a similar level of writing proficiency. Overall, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with correct placement of commas, periods, and capitalization. Paragraph 2, however, uses informal punctuation with missing commas and periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and mature lexical and grammatical style with complex sentence structures. Paragraph 2, on the other hand, shows informal and colloquial language with simpler sentences.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences, indicating a formal writing style. Paragraph 2 consists of shorter and simpler sentences, reflecting an informal tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is written in a formal narrative style discussing legal matters. Paragraph 2 is informal, with a conversational tone and slang terms used.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.38
+  }
+}

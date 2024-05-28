@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts demonstrate consistent use of commas for listing items and information.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The use of specific terms and expressions in each text is distinct due to the different topics discussed, leading to a lower score in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit similar sentence structures with clear and concise information delivery.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts differ significantly due to the varied contexts and subjects, resulting in a lower score for this feature.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the different topics discussed leading to variations in lexical and discourse features, the overall confidence score is moderate.",
+    "score": 0.64
+  }
+}

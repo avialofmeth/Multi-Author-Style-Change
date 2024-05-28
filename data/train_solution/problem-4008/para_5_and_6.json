@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas in a more informal, conversational manner, while Paragraph 2 has a more formal and structured use of punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal terms like 'thunder runs' and 'mobkis,' whereas Paragraph 2 uses more formal language and references official entities like the UN Charter and countries.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter, more fragmented sentences with colloquial phrases, while Paragraph 2 contains longer, structured sentences with formal language.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more casual and conversational tone, using slang like 'off balance' and 'mass retreat,' while Paragraph 2 maintains a formal and diplomatic tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate correct spelling and no typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.46
+    }
+}

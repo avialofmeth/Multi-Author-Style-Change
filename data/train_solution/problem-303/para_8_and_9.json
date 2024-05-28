@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation like commas and periods, while Paragraph 2 includes various punctuation marks like hyphens, commas, and brackets. The usage of different punctuation styles indicates a difference in writing style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two paragraphs. Paragraph 1 uses more formal language with terms related to international relations, while Paragraph 2 includes more informal language and military-specific jargon. This suggests a difference in writing styles.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two paragraphs differ significantly. Paragraph 1 has shorter and more straightforward sentences, while Paragraph 2 contains longer and more complex sentences with additional information. This variance in sentence complexity indicates a divergence in writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two paragraphs are distinct. Paragraph 1 presents a direct statement of facts, while Paragraph 2 includes personal anecdotes and opinions. The difference in narrative styles suggests contrasting authorial voices.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either paragraph, indicating a similar level of attention to detail in writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is low due to significant differences in writing style across multiple features.",
+    "score": 0.46
+  }
+}

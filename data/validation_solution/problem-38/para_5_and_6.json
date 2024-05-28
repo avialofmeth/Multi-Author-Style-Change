@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation features such as hyphens and quotation marks. However, the usage of parentheses and colons differs between the texts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical style and word choice in terms of political language and informal expressions. However, there are also notable differences in the specific vocabulary used.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit a similar level of sentence complexity and coherence. While the sentence structures differ slightly, there are commonalities in sentence length and arrangement.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in both texts suggest a certain level of similarity, especially in discussing political scenarios. However, the mood and idiomatic expressions vary somewhat.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the combined analysis of the five features, there is moderate evidence to suggest that the two texts may have been written by the same author, although there are notable differences in punctuation style, lexical features, and narrative tone.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with periods and commas, while Paragraph 2 lacks proper punctuation and includes ellipses. The difference in punctuation style indicates a potential disparity in writing styles.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 maintains a formal and structured lexical and grammatical style with clear sentence construction. In contrast, Paragraph 2 exhibits informal language, including non-standard contractions and colloquial expressions. The difference in lexical and grammatical features suggests a divergence in writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 demonstrates coherent and well-structured sentences, contributing to the clarity of the text. On the other hand, Paragraph 2 displays fragmented sentences and lacks cohesion, affecting the overall flow. This discrepancy in sentence structure indicates a notable difference in writing styles.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, focusing on factual statements. In contrast, Paragraph 2 adopts a casual and conversational tone with rhetorical questions and informal language. The disparity in narrative styles suggests distinct writing styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts appear to be free of spelling and typographical errors, indicating a shared level of accuracy in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score leans towards the texts being written by different authors due to significant disparities in writing style across multiple linguistic aspects.",
+    "score": 0.44
+  }
+}

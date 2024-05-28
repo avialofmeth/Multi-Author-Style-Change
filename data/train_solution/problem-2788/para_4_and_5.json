@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons and commas appropriately to separate ideas and list items.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "There is a distinction in lexical and grammatical features with the use of different vocabulary and tone in each text.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ significantly in terms of complexity and length, impacting the overall coherence and cohesion.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features are distinct in terms of narrative style, tone, and mood, indicating different authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in lexical, sentence structures, and text features, along with the distinctive narrative styles, the overall likelihood of the same author is low.",
+        "score": 0.52
+    }
+}

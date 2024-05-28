@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and question marks. However, the presence of profanity in Paragraph 1 might influence the overall punctuation style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are notable differences in lexical and grammatical features between the two texts. Paragraph 1 contains profanity and more informal language compared to the more formal and courteous tone of Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures in Paragraph 1 are more informal and emotionally charged, with shorter sentences and direct appeals. In contrast, Paragraph 2 uses more balanced and structured sentences focused on etiquette and rules.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone differ significantly between the two texts. Paragraph 1 is aggressive and accusatory, while Paragraph 2 maintains a calm and instructive tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

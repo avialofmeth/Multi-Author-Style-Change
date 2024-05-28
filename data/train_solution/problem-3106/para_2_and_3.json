@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts utilize a formal punctuation style with the use of colons, commas, and periods. However, the first text includes parentheses and brackets, which are absent in the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts are somewhat different. The first text uses more technical language related to approved domains and outlet criteria, while the second text employs more informal language discussing climate change effects.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts exhibit varying sentence lengths and complexities. The first text is more concise and direct, while the second text contains longer, more descriptive sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ significantly between the two texts. The first text is informative and instructional, while the second text is more emotive and expressive in discussing the impact of climate change.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is moderate, as there are both commonalities and distinctions in the writing style.",
+    "score": 0.56
+  }
+}

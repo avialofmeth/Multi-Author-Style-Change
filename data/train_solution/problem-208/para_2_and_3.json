@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain similar punctuation styles with the use of commas and periods.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is a difference in lexical and grammatical features due to the specific mention of 'America' in one text.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures are relatively similar in complexity and coherence.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts share a formal tone and suggestiveness, although one text is more specific to location.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, there is moderate confidence (0.68) that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

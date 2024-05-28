@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation style with the use of ellipses, commas, and periods. However, paragraph 1 includes more varied punctuation marks such as ellipses and periods.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in word choice and sentence structure with concise and direct language. However, paragraph 1 includes more specific terminology related to political contexts.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are brief and to the point without extensive sentence complexity. Paragraph 1 has slightly longer sentences compared to the bot response in paragraph 2.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a more informal and narrative tone related to political events, while the bot response in paragraph 2 maintains a formal and informational tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are devoid of spelling and typographical errors, displaying competent writing skills.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, word choice, and absence of spelling errors, as well as the distinctions in tone and sentence structure, there is moderate confidence that the two texts were written by different authors.",
+        "score": 0.68
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both use standard punctuation marks such as periods, commas, colons, and parentheses. However, Paragraph 2 does not exhibit a consistent punctuation style as seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs demonstrate varied lexical choices and word usage. However, there is a noticeable difference in the tone and vocabulary used between the two texts, suggesting a potential difference in authorship.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits a more structured and coherent sentence arrangement compared to Paragraph 2, which appears to be less organized and lacks cohesion in its content.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative style, tone, and mood in Paragraph 1 focus on guidelines and rules, while Paragraph 2 adopts a more critical and accusatory tone towards specific political groups. This difference in discourse features indicates a potential variance in authorship.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language accuracy.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, discourse features, and the presence of potential authorial markers, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses mostly standard punctuation with some errors, while paragraph 2 lacks clear punctuation and structure.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical choices and word usage, indicating a significant difference in writing style.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more varied sentence structures and lengths compared to the repetitive and shorter sentences in paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more neutral tone focusing on historical context, while paragraph 2 expresses negative opinions with informal language.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choices, sentence structures, and tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, quotation marks, and periods for sentence endings.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts due to the different topics discussed. However, both texts maintain a formal tone and vocabulary.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts have varying sentence lengths, but they share coherence and cohesion in presenting information.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events differ significantly as one text is providing instructions while the other is discussing a political issue.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors, indicating a level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the texts show moderate similarities in punctuation, coherence, and absence of spelling errors. However, the differences in narrative styles and lexical choices lower the overall confidence in the texts being written by the same author.",
+    "score": 0.68
+  }
+}

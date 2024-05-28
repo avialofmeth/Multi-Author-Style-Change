@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, question marks, and periods. However, the first paragraph lacks the complex punctuation seen in the second paragraph.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts show differences in word choice and complexity. The first paragraph is more straightforward and uses simpler language compared to the second paragraph, which contains more complex terms and concepts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features differ significantly between the two texts. The first paragraph consists of shorter, simpler sentences, while the second paragraph contains longer and more complex sentences with a higher level of coherence and cohesion.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features such as narrative styles, idioms, and tone differ greatly between the two texts. The first paragraph is more direct and formal, while the second paragraph is more complex and contains specific references to economic terms.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, along with the shared feature of no spelling errors, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.5
+  }
+}

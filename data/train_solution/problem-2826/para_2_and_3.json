@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and no other punctuation marks extensively. In contrast, Paragraph 2 uses quotation marks and question marks but lacks commas.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit informal language with conversational elements. However, Paragraph 1 shows more formal word choice compared to the slang and informal abbreviations in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains a complex sentence structure with multiple clauses, while Paragraph 2 consists of shorter, more straightforward sentences. The coherence and cohesion differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both paragraphs express opinions and attitudes, but the tones are distinct. Paragraph 1 conveys a serious tone related to a political situation, while Paragraph 2 uses a more casual and playful tone for a different topic.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of some commonalities in informal language, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.46
+  }
+}

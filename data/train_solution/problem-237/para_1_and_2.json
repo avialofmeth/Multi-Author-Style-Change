@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and parentheses, while Paragraph 2 does not use any of these punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more informal and colloquial language with contractions like 'gonna' and 'tbf' compared to Paragraph 2, which is more formal in tone. Additionally, Paragraph 1 includes spelling errors like 'controvesial' and 'poleticians'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence lengths and structures with a mix of complex and straightforward sentences. They both maintain coherence and cohesion within each paragraph.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both paragraphs adopt a narrative style discussing political or geopolitical topics. However, the tone in Paragraph 1 is more opinionated and emotional, contrasting with the more analytical tone of Paragraph 2.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are spelling errors in Paragraph 1 ('controvesial' and 'poleticians'), while Paragraph 2 is free of such errors.",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and spelling errors, as well as the similarities in sentence structure and discourse features, the likelihood that the two texts were written by the same author is low to moderate.",
+        "score": 0.44
+    }
+}

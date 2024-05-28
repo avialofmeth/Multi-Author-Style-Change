@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal punctuation with hyphens, colons, and commas. However, Text 1 includes more parentheses and quotation marks compared to Text 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of lexical choices and grammatical structures. Text 1 shows a preference for informal language and slang, while Text 2 uses more technical terms related to statistics and official reports.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 is more conversational with shorter sentences and a narrative tone. In contrast, Text 2 contains longer sentences and a more formal, informative style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions and include references to external factors (e.g., politicians, asylum seekers). However, Text 1 has a more critical and assertive tone, while Text 2 adopts a neutral tone focused on factual information.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, while there are some similarities in punctuation and lack of spelling errors, the differences in lexical choices, sentence structure, and tone suggest that the two texts are likely written by different authors.",
+        "score": 0.64
+    }
+}

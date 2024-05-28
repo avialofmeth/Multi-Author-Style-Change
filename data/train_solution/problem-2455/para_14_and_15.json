@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks in a specific manner, while paragraph 2 uses hyphens and quotation marks differently.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses more on technical and military-related vocabulary, while paragraph 2 includes terms related to military but also everyday language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter, more concise sentences compared to paragraph 2, which contains longer and more descriptive sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more formal and objective tone, while paragraph 2 includes a mix of descriptive and narrative elements.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of different linguistic features, there are notable differences in writing style between the two texts, particularly in terms of vocabulary, sentence structure, and tone. This suggests a lower likelihood that they were written by the same author.",
+        "score": 0.52
+    }
+}

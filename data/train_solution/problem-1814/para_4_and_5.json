@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 includes hyphens, commas, and periods. Both texts have some punctuation marks in common like commas, but there are differences in the usage of hyphens and other punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses more on infrastructure-related vocabulary and formal language, while Paragraph 2 includes political terms and informal language. The lexical and grammatical features differ significantly in terms of vocabulary and word choice.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have varying sentence lengths and structures, with Paragraph 1 having longer sentences and Paragraph 2 containing shorter, more fragmented sentences. The sentence complexity and arrangement differ notably between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses infrastructure and improvement, while Paragraph 2 focuses on political processes and candidate selection. The narrative styles and speech events are distinct, indicating different tones and topics.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors, displaying a similar level of accuracy in writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is low due to significant differences in most linguistic aspects.",
+    "score": 0.38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and periods correctly, while paragraph 2 lacks such punctuations. However, both paragraphs use commas appropriately.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 showcases a higher level of lexical variation and uses more sophisticated vocabulary compared to paragraph 2. Both paragraphs exhibit similar grammatical structures and part of speech usage.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs differ in sentence complexity and length, with paragraph 1 having longer and more complex sentences compared to paragraph 2. However, both paragraphs demonstrate coherence and cohesion in their organization.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a more reflective and narrative style, emphasizing collective realization and sustainable business models. In contrast, paragraph 2 conveys a direct reporting of events related to ministerial arrests due to corruption.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.58
+  }
+}

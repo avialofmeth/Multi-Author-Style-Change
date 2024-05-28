@@ -1,0 +1,24 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and colons, while Paragraph 2 uses commas and dashes. The punctuation styles differ significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit strong language with derogatory terms and express negative sentiments. The lexical choice and tone are somewhat consistent.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is shorter and consists of shorter sentences compared to Paragraph 2. The sentence structures vary significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs express strong opinions, but the topics are different. The tone in both texts is harsh and critical.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall_explanation": "Considering the differences in punctuation style, sentence structure, and varying sentence lengths, and the similarities in lexical choice, tone, and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+  "overall_score": 0.56
+}

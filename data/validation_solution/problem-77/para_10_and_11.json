@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Paragraph 1 uses commas and conjunctions more frequently, whereas Paragraph 2 uses hyphens and parentheses. The punctuation style differs significantly.",
+      "score":0.2
+   },
+   "feature2":{
+      "explanation":"Paragraph 1 focuses on economic terms and concepts related to investment and wealth. In contrast, Paragraph 2 discusses cultural and educational topics. The lexical and grammatical features vary greatly.",
+      "score":0.1
+   },
+   "feature3":{
+      "explanation":"Paragraph 1 comprises longer and more complex sentences discussing historical events. In contrast, Paragraph 2 has shorter sentences that express opinions on modern cultural issues. The sentence structure and quantitative features are dissimilar.",
+      "score":0.3
+   },
+   "feature4":{
+      "explanation":"Paragraph 1 adopts a more factual and historical narrative style, while Paragraph 2 presents a critical and opinionated tone. The text and discourse features demonstrate a clear difference in style.",
+      "score":0.4
+   },
+   "feature5":{
+      "explanation":"Both paragraphs are relatively free of spelling and typographical errors, showing attention to detail in writing. There are no significant differences in this aspect.",
+      "score":0.5
+   },
+   "overall":{
+      "explanation":"Considering the significant variations in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, the likelihood of the two texts being written by the same author is low.",
+      "score":0.3
+   }
+}

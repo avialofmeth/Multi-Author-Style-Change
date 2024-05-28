@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles including commas, quotation marks, and colons. However, Paragraph 1 uses more parentheses and does not include hyphens, while Paragraph 2 includes hyphens and quotes directly from the US justice department.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both paragraphs exhibit formal language with specific terms related to legal and financial matters. Both paragraphs use technical words such as 'money laundering', 'cyber', 'compromise schemes', and 'losses'. However, Paragraph 1 has more varied lexical choices due to the description of roles and the scheme, whereas Paragraph 2 is more focused on the financial impact.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both paragraphs are complex and detailed, reflecting a formal and informative style. Both paragraphs contain a mix of longer and shorter sentences. Paragraph 1 delves into the specifics of the crime and the roles played, while Paragraph 2 provides a summary of the financial impact. Both paragraphs maintain coherence and cohesion within their respective topics.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both paragraphs adopt a serious and factual tone appropriate for legal matters. Both paragraphs report on criminal activities and legal proceedings with a straightforward narrative style. However, Paragraph 1 includes more direct quotes from court documents, while Paragraph 2 relies on a statement attributed to the US justice department.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a high level of attention to detail and professionalism in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation styles, lexical and grammatical features, sentence structures, text and discourse features, and the absence of spelling errors, the overall confidence in the likelihood that both texts were written by the same author is moderate.",
+    "score": 0.76
+  }
+}

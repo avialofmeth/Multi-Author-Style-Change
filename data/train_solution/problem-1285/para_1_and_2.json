@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and commas appropriately for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 includes more informal language and a sarcastic tone, while Text 2 is more technical in nature with specific terminology. Lexical variation differs between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have varied sentence structures and lengths. Text 1 contains more complex and longer sentences with informal arrangements, while Text 2 has a mix of shorter and longer sentences related to technical content.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more conversational tone with informal expressions, while Text 2 is more descriptive and focused on technical details. Different narrative styles and tones are observed.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No notable spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choice, tone, and narrative style, the texts are less likely to be written by the same author. However, the presence of common punctuation usage and absence of spelling errors provide some commonality.",
+        "score": 0.62
+    }
+}

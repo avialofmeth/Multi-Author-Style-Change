@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods correctly in a formal manner. Paragraph 2 lacks proper punctuation and uses more informal punctuation like slashes and abbreviations.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is more formal and structured in terms of lexical choices and grammar. Paragraph 2 contains informal language and abbreviations that are not present in Paragraph 1.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a clear sentence structure and coherence. In contrast, Paragraph 2 has erratic sentence structure and lacks coherence.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal tone in discussing subreddit guidelines. Paragraph 2 has a more casual and fragmented tone with slang and abbreviations.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs seem to have correct spelling and minimal typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and tone, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.36
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation marks more liberally and in a more informal manner, including exclamation points, while Paragraph 2 maintains a more formal and restrained use of punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two paragraphs. Paragraph 1 contains colloquial and informal language with a focus on humor and sarcasm, while Paragraph 2 uses more formal and technical vocabulary related to geopolitical analysis.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features also vary greatly. Paragraph 1 consists of shorter, more fragmented sentences with a focus on expressive language, while Paragraph 2 contains longer, more complex sentences with a serious tone.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The text and discourse features show a clear divergence. Paragraph 1 adopts a playful and sarcastic tone with exaggerated scenarios, while Paragraph 2 maintains a serious and analytical tone discussing geopolitical matters.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.34
+  }
+}

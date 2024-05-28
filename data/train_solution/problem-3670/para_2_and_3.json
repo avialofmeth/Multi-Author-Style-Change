@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates consistent and formal punctuation usage with proper placement of commas, colons, and periods. In contrast, Paragraph 2 lacks proper punctuation and uses informal language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 utilizes formal and structured language with specific terminology related to diplomatic relations and historical events. In contrast, Paragraph 2 is informal and contains slang terms.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences related to historical events and diplomatic relations. Paragraph 2, on the other hand, has shorter and simpler sentences discussing general opinions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative narrative style discussing historical events. Paragraph 2 adopts a casual and conversational tone with a more personal perspective.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is devoid of spelling errors or typographical mistakes. Paragraph 2 contains informal language and slang terms, but no apparent spelling errors.",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling errors, there is a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.28
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons, commas, and parentheses, but only the first text includes quotation marks. This difference may suggest a slight divergence in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical and grammatical complexity with no significant differences in word choice or grammar.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward. They both lack complexity in sentence structure and do not vary significantly in quantitative features.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts are informative and direct, with no distinct differences in tone or mood. However, the second text includes an abbreviation 'ETA,' which is not present in the first text.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, there are some minor differences in punctuation style and the presence of an abbreviation, but the texts share commonalities in lexical, grammatical features, sentence structure, and lack of spelling errors. Considering these factors, the likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 utilizes standard punctuation marks such as commas, periods, and parentheses, while Paragraph 2 lacks proper punctuation in some areas and includes informal language like 'Nah' and 'pets'.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 maintains a formal and courteous tone with a focus on respectful communication, using appropriate word choices. In contrast, Paragraph 2 contains more informal language and specific terms related to a negative topic, such as 'white supremacists', 'hate speech', and 'camps'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 presents clear and structured sentences emphasizing the importance of respectful debate. Paragraph 2 demonstrates less coherent sentence structure and includes a more emotional and aggressive tone.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative style, focusing on guidelines and rules. Paragraph 2 expresses a strong opinion against white supremacists using provocative language.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts show correct spelling and no typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and tone, the likelihood that these texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

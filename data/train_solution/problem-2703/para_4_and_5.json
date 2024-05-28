@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, periods, and hyphens. However, Text 1 uses more commas for elaboration while Text 2 utilizes longer dashes for additional information.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a similar level of lexical and grammatical features, with a mix of formal vocabulary and complex sentence structures. However, Text 1 includes more technical terms related to political and economic contexts, while Text 2 uses more descriptive language.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 tends to have longer sentences with subordination for explanation and elaboration, while Text 2 contains shorter sentences with direct statements. The overall sentence complexity differs between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar narrative style and tone, discussing geopolitical situations with a critical viewpoint. However, Text 1 focuses more on specific scenarios and actions, whereas Text 2 has a broader perspective on historical contexts.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a consistent level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, there are significant similarities in punctuation style, text and discourse features, and absence of spelling errors. However, variations in lexical choices and sentence structures suggest some differences in writing style. The average confidence score for the likelihood of the same authorship is moderate.",
+        "score": 0.64
+    }
+}

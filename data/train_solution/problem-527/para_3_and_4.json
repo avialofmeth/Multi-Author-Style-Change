@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Text 1 demonstrates a formal use of punctuation, including colons and parentheses, whereas Text 2 uses hyphens and lacks the same level of formal punctuation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in word choice and style. Text 1 is more formal and rule-oriented, while Text 2 is more informal and opinionated.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer, structured sentences with clear guidelines, while Text 2 has shorter, more fragmented sentences with emotional content.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a neutral tone with a focus on rules and guidelines, while Text 2 uses strong emotional language and expresses personal opinions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical features, sentence structure, and tone between the two texts, the overall likelihood of them being written by the same author is low.",
+        "score": 0.42
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language with profanity in the first text and a more formal tone in the second. Punctuation styles like commas and periods are used similarly in both texts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. The first text contains more colloquial language and informal word choices compared to the formal and structured language in the second text.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text is more complex and longer with informal sentence arrangements. The second text is concise and to the point with a clear structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary significantly between the two texts. The first text has a confrontational and informal tone, while the second text is formal and automated in nature.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, there are notable differences in lexical and discourse features that suggest different authors. However, the punctuation and absence of spelling errors provide some commonality. The overall confidence score leans towards the texts being written by different authors.",
+        "score": 0.52
+    }
+}

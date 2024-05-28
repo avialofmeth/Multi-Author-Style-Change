@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as colons, commas, and quotation marks, which indicates a similar style in punctuation usage.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts show some differences, as one text discusses historical events while the other focuses on a cultural practice. Word choice and grammatical structures may vary due to the different topics.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the texts differ significantly, with one text containing shorter, more direct sentences and the other having longer, descriptive sentences. This suggests a difference in writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone of the texts are distinct, with one being informative and historical in nature, while the other is more focused on current events and global implications. This indicates a divergence in writing approach.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and typographical accuracy, showing no errors in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, along with the similarities in punctuation and spelling accuracy, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

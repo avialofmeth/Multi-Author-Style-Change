@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a mix of punctuation marks such as exclamation points, commas, and periods in a casual manner. Paragraph 2 contains a simple sentence structure with a lack of varied punctuation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal and slang words like 'Qtip', 'bark at the moon', and 'lunatic'. Paragraph 2 is more formal and lacks such lexical variations.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with a conversational tone. Paragraph 2 is concise but lacks the informal tone of the first paragraph.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 exhibits a casual and conversational tone with idiomatic expressions. Paragraph 2 is formal and lacks such expressions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

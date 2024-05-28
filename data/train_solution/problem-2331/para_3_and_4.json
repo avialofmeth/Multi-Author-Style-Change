@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit irregular punctuation usage, including missing commas and incorrect placement of periods.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts show inconsistencies in word choice and grammatical structure, with errors in verb tenses and sentence construction.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The texts demonstrate varying degrees of sentence complexity and coherence, with abrupt shifts in topics and unclear connections between ideas.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "While both texts lack a clear narrative style and exhibit informal tone, they differ significantly in terms of content and idiomatic expressions used.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts contain typographical errors and misspellings, indicating a lack of attention to detail in writing.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the combination of the identified features, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.58
+  }
+}

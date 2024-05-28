@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks such as periods, commas, and question marks. Paragraph 2 also uses standard punctuation marks like commas and periods but includes more informal punctuation like hyphens and ampersands.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of simple and complex sentence structures. They also both employ a formal tone with clear and straightforward language. However, Paragraph 2 uses more specialized terms related to business and labor.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a more conversational style. In contrast, Paragraph 2 contains longer sentences with a more formal and informative tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey information clearly and directly, but the content and context differ significantly. While Paragraph 1 is a general statement about being a bot, Paragraph 2 discusses business operations and labor streams.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, sentence structure, and content specificity, the texts are less likely to have been written by the same author. However, the absence of spelling errors increases the overall confidence slightly.",
+    "score": 0.5
+  }
+}

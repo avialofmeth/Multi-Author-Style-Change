@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain punctuation marks such as commas and periods, but differ in their use of hyphens and brackets.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical choices and word usage. The first text contains words like 'calibrate' and 'electoral reform' that are not present in the second text.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The two texts vary in sentence structures and quantitative features. The first text has longer and more complex sentences compared to the shorter, more direct sentences in the second text.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in the two texts differ. The first text discusses political matters in a reflective tone, while the second text adopts a more dismissive and informal tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.5
+    }
+}

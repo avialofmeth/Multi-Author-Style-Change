@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles including parentheses, quotation marks, and commas. However, Paragraph 1 uses colons while Paragraph 2 does not. The presence of hyphens is also different between the two texts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two paragraphs. Paragraph 1 uses words related to local news and a specific news show, while Paragraph 2 discusses corporate media and conglomerates. The word choice and lexical variation are distinct.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both paragraphs exhibit coherence and clarity. However, the sentence complexity and length vary between the two texts. Paragraph 1 has more detailed and descriptive sentences compared to the more straightforward sentences in Paragraph 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ significantly between the two paragraphs. Paragraph 1 has a positive tone while discussing community radio, whereas Paragraph 2 adopts a more critical tone towards corporate media. The narrative styles and speech events are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the presence of similarities in punctuation and lack of spelling errors, the overall confidence score for the likelihood of the same author is moderate.",
+    "score": 0.52
+  }
+}

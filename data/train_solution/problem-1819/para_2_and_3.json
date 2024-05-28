@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with colons, commas, and periods, while Paragraph 2 uses informal punctuation with hyphens and lacks proper punctuation in some instances.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs formal language with specific terms related to media and subreddit guidelines. Paragraph 2 consists of informal language with colloquial terms and slang.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has structured sentences with clear coherence and cohesion. Paragraph 2 has shorter, fragmented sentences with a lack of coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone related to guidelines. Paragraph 2 exhibits a more informal and opinionated tone with critical expressions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and no typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there are notable disparities suggesting different authors. However, the consistent lack of spelling and typographical errors slightly increases the likelihood of the same author. The overall confidence score leans towards a low likelihood of the same author.",
+    "score": 0.54
+  }
+}

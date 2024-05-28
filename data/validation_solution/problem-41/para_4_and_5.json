@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and periods in appropriate places. Paragraph 2 lacks proper punctuation and uses exclamation marks inconsistently.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates formal and descriptive word choice related to a news report. Paragraph 2 contains informal language with a focus on propaganda and emotional appeals.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of well-structured and coherent sentences typical of a news report. Paragraph 2 has a more fragmented structure with abrupt shifts in topic and tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and factual tone appropriate for a news article. Paragraph 2 contains emotional language and appeals, indicating a different style.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts exhibit significant differences in punctuation, lexical and grammatical features, sentence structure, and text discourse style, suggesting different authors.",
+        "score": 0.4
+    }
+}

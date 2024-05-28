@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, hyphens, and periods, showing consistency in punctuation usage.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are some similarities in lexical choices and grammatical structures, such as the use of specific terms and sentence constructions that suggest a possible common author.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The texts differ significantly in terms of sentence structure, complexity, and coherence, indicating potential differences in authorship.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and discourse features in the two texts diverge, with one focusing on political analysis and the other on setting rules and guidelines, suggesting potential different authors.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not show significant spelling or typographical errors, indicating a similarity in attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the mix of commonalities and distinctions in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

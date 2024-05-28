@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and periods while Paragraph 2 only uses periods. This difference in punctuation style suggests a lack of consistency.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language and direct speech while Paragraph 2 is more formal and robotic in nature. The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more straightforward sentences, while Paragraph 2 has a longer sentence with a formal tone. Sentence structure and length vary greatly between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a tone of urgency and seriousness, discussing a specific event, while Paragraph 2 is a generic automated response. The narrative styles and mood are dissimilar.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two texts, the likelihood of them being written by the same author is low.",
+    "score": 0.34
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation with proper commas and periods, while Paragraph 2 lacks proper punctuation and includes more informal language like expletives.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal and neutral language typical of automated responses, while Paragraph 2 includes emotionally charged and informal language with strong expressions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a single formal sentence. Paragraph 2 has a longer, emotionally charged sentence with more complex structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and impersonal tone, common in automated responses. Paragraph 2 exhibits a highly emotional and critical tone towards a situation.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The overall confidence score is moderate, indicating that while some features align, the differences in punctuation style, language formality, sentence structure, and tone suggest different authors.",
+        "score": 0.42
+    }
+}

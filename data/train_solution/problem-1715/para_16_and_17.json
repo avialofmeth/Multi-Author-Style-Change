@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including dashes, commas, and periods. However, there are differences in the specific punctuation used such as the absence of quotation marks in one text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some similarities in terms of formal language use and sentence structures. However, there are differences in vocabulary choice and grammatical patterns that suggest potential variation in authorship.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features exhibit differences in complexity and coherence. One text is more descriptive and detailed, while the other is more concise and informative.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features indicate a difference in narrative styles and tones. One text is more journalistic and factual, while the other is more opinionated and emotive.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features assessed, there are notable differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features that suggest potential different authors. The absence of spelling errors increases the overall confidence slightly.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 displays a more formal punctuation style with appropriate use of commas, hyphens, and quotation marks. In contrast, Paragraph 2 lacks similar punctuation complexity and precision.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more sophisticated lexical and grammatical choice, using technical terms like 'mid and late term abortions' and 'fetus'. In comparison, Paragraph 2 has a more informal tone with slang terms like 'turds'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with detailed descriptions, whereas Paragraph 2 consists of shorter, more fragmented sentences with abrupt shifts in topic.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and empathetic tone discussing a sensitive topic, while Paragraph 2 reflects a more casual and dismissive attitude towards political figures.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain any noticeable spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the linguistic features examined, the texts exhibit notable differences in punctuation style, lexical sophistication, sentence structure, and tone. While there are certain similarities in spelling and typographical accuracy, the overall analysis suggests a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.46
+  }
+}

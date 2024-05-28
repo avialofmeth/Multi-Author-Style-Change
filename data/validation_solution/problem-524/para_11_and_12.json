@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of parentheses and commas for additional information and clarification. However, the punctuation styles differ in terms of the specific usage and frequency of hyphens, colons, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text uses more complex and specific vocabulary related to geopolitical events, while the second text focuses on political protests and regime change. Grammatical categories and part of speech usage vary as well.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts display varying sentence structures and lengths. The first text contains longer and more complex sentences, while the second text consists of shorter and more direct sentences. The coherence and cohesion differ due to the distinct topics and narrative styles present in each text.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Narrative styles, speech events, and tone diverge significantly between the two texts. The first text discusses historical events and geopolitical contexts with a more analytical tone, whereas the second text expresses personal opinions and desires with a more emotive tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

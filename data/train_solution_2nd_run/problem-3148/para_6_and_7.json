@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use proper punctuation, such as commas, periods, and apostrophes, although the second text has a typo ('it’s' instead of 'its').",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical choices and word usage, with varying sentence structures and vocabulary. The first text has a more formal tone compared to the second text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly in complexity, length, and arrangement. The first text is more coherent and structured compared to the second text, which contains abrupt shifts and lacks cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts are distinct. The first text presents historical information in a factual manner, while the second text appears to be responding to a specific claim about Germany and Switzerland.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "The second text contains a spelling error with 'it’s' instead of 'its,' while the first text is free of typographical errors.",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, as well as the presence of a spelling error in the second text, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.56
+    }
+}

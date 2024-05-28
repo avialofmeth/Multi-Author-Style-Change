@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for punctuation, while Paragraph 2 uses quotation marks and commas. The punctuation style is different between the two texts.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with specific terms like 'media outlets,' 'subreddit,' and 'approved domains list.' Paragraph 2 uses more informal language with terms like 'special counsel,' 'subpoena,' and 'Pence's legal team.' There is a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain relatively straightforward sentence structures with coherent explanations. While Paragraph 1 is more directive in style, Paragraph 2 provides a piece of information in a narrative form. There is a difference in sentence structure and quantitative features.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal tone with a request for action, while Paragraph 2 conveys a news update. The narrative styles and speech events differ between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there is moderate evidence to suggest that the two texts were not written by the same author.",
+        "score": 0.44
+    }
+}

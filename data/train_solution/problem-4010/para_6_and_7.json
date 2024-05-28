@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and quotation marks in a formal manner to convey information. Paragraph 2 uses hyphens and question marks but in a more informal and conversational tone.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical lexical choice with terms like 'extensively drug-resistant bacteria', 'infections', 'blindness'. Paragraph 2 includes casual language with references to pop culture and humorous elements like 'south park episode', 'Worcestershire sauce'.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with complex sentences and technical information about the bacteria outbreak. Paragraph 2 has shorter, more conversational sentences with interjections and informal questions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone discussing the bacterial infections. Paragraph 2 has a light-hearted and humorous tone with references to popular culture and absurd scenarios.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the overall likelihood of the two texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

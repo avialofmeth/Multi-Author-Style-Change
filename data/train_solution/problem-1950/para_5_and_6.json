@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and hyphens. However, the second text contains more punctuation errors and lacks consistency in punctuation usage.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical variation and word choice between the two texts, indicating a consistent writing style. However, the second text shows more grammatical errors and awkward phrasing.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structure in both texts is somewhat similar in terms of length and complexity. However, the second text lacks coherence and cohesion, leading to a lower score in this feature.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts share common expressions and a similar narrative style. However, the second text lacks clarity and a consistent tone, affecting the overall coherence.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "The first text is relatively error-free in terms of spelling and typographical errors. In contrast, the second text contains multiple spelling mistakes and typos, impacting the overall writing quality.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable similarities in punctuation style, lexical features, and narrative styles between the two texts. However, the presence of more grammatical errors, lack of coherence, and numerous spelling mistakes in the second text suggest a lower likelihood of being written by the same author.",
+    "score": 0.58
+  }
+}

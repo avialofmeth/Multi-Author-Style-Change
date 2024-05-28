@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, slashes, and periods. Paragraph 2 also includes punctuation marks like apostrophes and commas.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal and courteous tone with specific vocabulary related to rules and behavior. Paragraph 2 is more informal and politically charged with terms like 'Republican establishment' and 'Trump's 2016 nomination'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a clear rule statement with straightforward sentences. Paragraph 2 is a short sentence with a specific event description.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 focuses on behavior guidelines, while Paragraph 2 discusses a political event. The tone and mood are different in both texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

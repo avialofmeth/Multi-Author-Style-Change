@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 and Paragraph 2 both exhibit consistent use of commas for separating clauses and listing items.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 and Paragraph 2 differ significantly in lexical choice and grammar. Paragraph 1 uses formal language related to media outlets, while Paragraph 2 uses informal language expressing personal opinions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with clear sentences and straightforward language. In contrast, Paragraph 2 contains more complex and longer sentences with emotional language.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone related to media guidelines. Paragraph 2 adopts an informal and opinionated tone about a political figure.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both Paragraph 1 and Paragraph 2 do not contain obvious spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mix of features, the analysis suggests a low likelihood that the two texts were written by the same author.",
+        "score": 0.54
+    }
+}

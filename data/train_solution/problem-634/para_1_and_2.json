@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and full stops more frequently and consistently compared to Paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with technical terms related to energy costs present in both.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more structured sentences compared to the shorter and less structured sentences in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both paragraphs differ significantly; Paragraph 1 discusses energy costs while Paragraph 2 touches on global economic factors, showing a disparity in narrative styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and narrative styles, along with the similarity in lexical features and absence of spelling errors, the likelihood that the two texts were written by the same author is moderately low.",
+        "score": 0.7
+    }
+}

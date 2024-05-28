@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as colons, commas, and quotation marks. However, the presence of hyphens, brackets, and parentheses in the first text but not in the second text is a point of distinction.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit variation in lexical choices and word usage. Grammatically, both texts display a mix of sentence structures and part of speech usage.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts have varied sentence lengths and coherence. The complexity of sentences differs slightly, with the second text containing more complex structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text and discourse features show differences in narrative styles and tone. The first text is more formal and informational while the second text has a more casual and conversational tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are both commonalities and distinctions between the two texts. The presence of punctuation marks, lexical variation, and coherence suggest a potential similarity in writing style. However, differences in narrative style and tone may indicate different authors. The overall confidence score is moderate.",
+        "score": 0.72
+    }
+}

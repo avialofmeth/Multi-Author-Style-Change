@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses and quotation marks, while Paragraph 2 uses hyphens and parentheses. There is variation in punctuation style between the two texts.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes formal language with phrases like 'the decision has not been taken yet' while Paragraph 2 uses more informal language with phrases like 'this guy'. There are differences in lexical choice and word usage.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. However, Paragraph 1 has a slightly more complex sentence structure due to the inclusion of quotes. Both paragraphs exhibit coherence and cohesion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and formal tone discussing a government decision, while Paragraph 2 has a more informal and critical tone discussing an individual. There is a difference in narrative styles and tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and tone, there are notable distinctions that suggest the texts may not have been written by the same author.",
+        "score": 0.5
+    }
+}

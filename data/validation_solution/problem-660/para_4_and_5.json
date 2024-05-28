@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas for introductory phrases and in a list, while Paragraph 2 uses commas for separating clauses and for polite requests. Both paragraphs use periods for sentence endings.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and a derogatory term, while Paragraph 2 is formal and polite. Both paragraphs use clear and simple language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are short and direct. Paragraph 1 has one complex sentence, while Paragraph 2 consists of a single simple sentence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and informal tone, using slang and a negative opinion. Paragraph 2 has a formal and automated tone, providing information. The narrative styles and speech events differ significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone, narrative style, and formality level, and the similarity in punctuation and absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

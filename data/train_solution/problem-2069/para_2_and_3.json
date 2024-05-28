@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes hyphens and commas for punctuation, while Paragraph 2 uses only commas. The use of punctuation marks differs slightly.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit informal language and unconventional grammar with phrases like 'cookoo for cookoo puffs' and 'you know as much as I that'. The lexical choice and grammar usage show some similarity.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, more fragmented sentences compared to the slightly longer and more coherent sentences in Paragraph 2. The sentence structure and length vary between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs adopt a conversational tone and include informal expressions like 'cookoo for cookoo puffs' and 'you know as much as I that'. The narrative styles and informal tone are somewhat consistent.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph. Both texts are free from such errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there is moderate evidence that the two texts may have been written by the same author.",
+    "score": 0.6
+  }
+}

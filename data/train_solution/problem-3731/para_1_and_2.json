@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and colons, while Paragraph 2 does not. However, both paragraphs lack other punctuation marks like parentheses and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "There are differences in word choices and thematic content between the two paragraphs. While both paragraphs discuss military actions, the lexical and grammatical features differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain shorter sentences with a direct and assertive tone. Sentence structures are simple and lack complexity.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two paragraphs are different. Paragraph 1 is focused on military strategy and actions, while Paragraph 2 provides historical context.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.52
+    }
+}

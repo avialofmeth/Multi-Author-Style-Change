@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language with explicit language (profanity) included. However, different punctuation styles are observed (e.g., use of hyphens, brackets, colons, commas, parentheses, quotation marks).",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "While both texts exhibit a casual tone and choice of words, there are differences in lexical variation and word choice between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple with direct statements. They vary in length and arrangement, impacting coherence and cohesion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ in the two texts. The tone and mood are distinct, affecting the overall writing style.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and quotation marks correctly, but the second text has more informal punctuation style with the use of contractions and the absence of periods at the end of sentences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The second text shows more lexical variation and informal word choices compared to the first text. The first text has a more formal tone and uses specific legislative terms.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences with legislative details, while the second text has shorter, simpler sentences expressing opinion and emotion.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts discuss political matters but in different tones. The first text is neutral and factual, while the second text is more emotive and critical.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no major spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and tone, the likelihood of the two texts being written by the same author is low to moderate.",
+    "score": 0.64
+  }
+}

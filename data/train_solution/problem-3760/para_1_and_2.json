@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as hyphens, brackets, colons, commas, and quotation marks for structuring sentences and providing emphasis.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text displays a more formal and analytical tone with a focus on historical analysis and psychological insights, while the second text adopts a more direct and opinionated approach regarding wealth inequality.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 features longer, complex sentences with in-depth explanations and detailed reasoning. In contrast, Paragraph 2 consists of shorter, more straightforward sentences expressing a strong opinion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text maintains a scholarly and informative tone, discussing a historical figure and his actions, while the second text conveys a more casual and advocacy-oriented tone regarding wealth distribution.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a level of care and attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combined assessment of punctuation style, sentence structure, and absence of spelling errors, there are notable similarities in the writing style of the two texts despite differences in content and tone. However, the lexical and grammatical features and text/discourse features show significant distinctions, suggesting a moderate likelihood that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

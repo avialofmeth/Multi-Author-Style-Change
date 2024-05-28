@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons and commas for listing items or providing explanations. However, the second text also includes hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the two texts. The first text uses more formal language related to guidelines and criteria, while the second text employs informal language with a focus on fear and media control.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text is more structured and formal, with clear sentences. The second text is less structured and contains more fragmented sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts differ significantly. The first text is neutral and informative, while the second text has a more opinionated and critical tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are notable differences in writing style between the two texts, particularly in terms of lexical and grammatical features, sentence structure, and narrative tone. While some punctuation similarities exist, the overall writing styles suggest different authors.",
+        "score": 0.48
+    }
+}

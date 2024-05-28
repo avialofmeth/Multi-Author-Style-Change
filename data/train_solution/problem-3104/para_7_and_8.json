@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of hyphens, commas, and parentheses. However, some variations exist such as the use of ellipses in one text and not the other.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical and grammatical features between the texts, such as the use of formal language and technical terms related to criminology. However, some differences in word choice and sentence structures are present.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The texts share similarities in sentence complexity and coherence. Both texts present logical arguments with clear transitions. However, there are variations in sentence length and structures.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a formal tone and discuss a serious topic. They both present arguments and reasoning. However, one text contains more explicit details and lists while the other uses indirect suggestions.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation styles, coherence, formality, and lack of spelling errors, the texts show a moderate level of consistency in writing style, suggesting a likelihood of being written by the same author.",
+    "score": 0.76
+  }
+}

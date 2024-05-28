@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods. However, Text 1 includes more parentheses and quotation marks compared to Text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts display a mix of informal language and specific terminology. Text 1 focuses on health-related vocabulary, while Text 2 uses business jargon. Both texts use simple sentence structures with straightforward word choices.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and contain simple sentence structures. They maintain coherence and cohesion within each paragraph. However, Text 1 includes more fragmented sentences compared to Text 2.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more casual and conversational tone compared to the slightly more formal tone in Text 2. Both texts lack significant narrative styles or speech events.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the likelihood that the two texts were written by the same author is moderately high.",
+    "score": 0.74
+  }
+}

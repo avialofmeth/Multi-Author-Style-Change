@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and a colon, while paragraph 2 includes commas and slashes. Both paragraphs display a moderate level of punctuation usage.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 discusses religious concepts using specific terms like 'Reformation,' 'Protestantism,' 'Roman Catholic Church,' 'papacy,' and 'communion.' Paragraph 2 emphasizes general etiquette with terms like 'courteous,' 'debate,' 'discuss,' 'argue,' 'insults,' 'hate speech,' 'violence.' The lexical and grammatical features vary in topic-specific vocabulary but maintain a formal tone in both texts.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer sentences with technical terms related to religious history. Paragraph 2 consists of shorter sentences with straightforward instructions. The sentence structure and quantitative features differ in complexity and purpose.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more informative and historical tone, while Paragraph 2 is instructive and rule-based. The discourse features and narrative styles contrast in purpose and audience engagement.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate correct spelling and typographical accuracy without errors. There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the alignment in punctuation style, lexical and grammatical features, and spelling accuracy, along with some distinctions in sentence structure, discourse features, and tone, the overall assessment suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.6
+  }
+}

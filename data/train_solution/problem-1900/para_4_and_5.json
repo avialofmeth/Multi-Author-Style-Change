@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation with no specific pattern or consistency. It includes informal language like 'shite' and lacks proper punctuation at the end.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use informal and colloquial language. They both contain informal words and expressions common in casual writing.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure. They lack complexity in sentence structure and are easy to read.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both paragraphs exhibit a casual and conversational tone. They use everyday language and express personal opinions.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no obvious spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in informal language, casual tone, and lack of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.66
+  }
+}

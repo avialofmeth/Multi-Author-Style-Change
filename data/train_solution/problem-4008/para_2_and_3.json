@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and numbers (108th Mountain Assault Brigade, 10) while Paragraph 2 does not exhibit the same punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes military jargon and specific terms (warriors, Mountain Assault Brigade), while Paragraph 2 discusses political operations (Ukraine, Kreminna). The lexical and grammatical features differ significantly.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. However, the content and style of sentence arrangement are distinct due to the military versus political context.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a narrative of a military operation with a serious tone, whereas Paragraph 2 discusses a political situation with a skeptical tone. The narrative styles and mood vary significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that both texts were written by the same author.",
+        "score": 0.36
+    }
+}

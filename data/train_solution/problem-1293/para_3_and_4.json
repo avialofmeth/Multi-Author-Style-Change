@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for punctuation, while Paragraph 2 uses commas and lacks other types of punctuation marks. There is a difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a formal, descriptive style with a focus on geopolitical topics. Paragraph 2 is more informal and speculative, talking about potential future events in a casual manner. There is a clear difference in lexical and grammatical features.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences with a structured flow of information. Paragraph 2 has shorter, fragmented sentences with a less coherent structure. The sentence structure and quantitative features differ significantly.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and authoritative tone, typical of informational texts. In contrast, Paragraph 2 has a more speculative and imaginative tone, discussing hypothetical scenarios. The text and discourse features are distinct.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph. Both texts demonstrate good spelling and proper typographical usage.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the absence of spelling errors, the overall confidence in the texts being written by the same author is low.",
+        "score": 0.3
+    }
+}

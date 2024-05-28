@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as hyphens, colons, and parentheses. However, the first text includes more varied punctuation marks like quotation marks and ellipses compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some similarities in terms of vocabulary choice and sentence structures. However, the second text exhibits more direct and harsh language compared to the first text.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts demonstrate a mix of sentence lengths and complexity. However, the first text appears slightly more coherent and cohesive in its argumentation compared to the second text.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "When considering text and discourse features, both texts convey strong opinions and critical views. However, the tone in the second text is notably more aggressive and accusatory than the first text.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and lack typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Taking into account all the features evaluated, the overall confidence score that the two texts were written by the same author is moderate. The similarities in punctuation, sentence structure, and spelling suggest a potential common author, but differences in lexical choices and tone slightly lower the confidence level.",
+    "score": 0.69
+  }
+}

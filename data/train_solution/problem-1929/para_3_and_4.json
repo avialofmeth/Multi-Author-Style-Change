@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas appropriately to separate clauses and as part of a list, but there are no other punctuation marks present in either text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a straightforward and direct style with clear word choices and grammatical structures. However, the first text includes informal language ('screw with everything else') not present in the second text.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are concise and to the point, with a similar sentence structure and length. However, the second text is more direct and lacks the complexity of the first text.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts lack narrative styles and are more informational. The tone in the first text is more critical and opinionated compared to the neutral and automated tone in the second text.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure, and lack of spelling errors, there is a moderate level of confidence that the texts share a similar writing style. However, the differences in tone and formality slightly reduce the overall confidence.",
+    "score": 0.76
+  }
+}

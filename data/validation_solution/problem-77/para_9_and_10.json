@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and apostrophes. However, there are differences in the frequency and types of punctuation used, such as hyphens, colons, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some similarities in terms of word choice and grammatical structures. However, there are noticeable differences in vocabulary choice and sentence structures.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features vary between the texts. While both contain some complexity and coherence, there are differences in sentence length and arrangement.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features show distinctions in narrative styles and tone. The first paragraph seems more descriptive and straightforward, while the second paragraph is more narrative and historical.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable similarities in punctuation and spelling, but differences in lexical, grammatical, and discourse features. The overall confidence score is moderate, indicating some commonalities but also distinctions that suggest a lower likelihood of the same author.",
+    "score": 0.52
+  }
+}

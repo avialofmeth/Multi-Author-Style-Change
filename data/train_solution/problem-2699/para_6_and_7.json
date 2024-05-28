@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas while Paragraph 2 uses hyphens and colons. Both paragraphs employ punctuation marks, but the specific types differ.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a simple sentence structure with straightforward language, while Paragraph 2 contains specific terms related to election rules. Different lexical and grammatical features are observed.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are concise and to the point, with Paragraph 2 being slightly more detailed due to the nature of the content. Sentence complexity and structure are similar.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a generic tone of providing information, while Paragraph 2 discusses a specific rule. The narrative styles and speech events differ.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors are present in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

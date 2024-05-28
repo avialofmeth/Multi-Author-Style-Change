@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses punctuation more extensively, including colons and commas, to provide additional information and structure sentences. Paragraph 2, on the other hand, has simpler punctuation usage with fewer diverse elements.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in lexical and grammatical features. Paragraph 1 contains more complex vocabulary related to conflicts and political figures, while Paragraph 2 focuses on a specific event related to a ceasefire and celebration.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures in Paragraph 1 are longer and more detailed, with a focus on providing context and explanation. In contrast, Paragraph 2 consists of shorter sentences that directly convey information about a specific event.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both paragraphs differ significantly. Paragraph 1 adopts a critical and accusatory tone towards Putin, while Paragraph 2 presents a neutral description of a ceasefire event.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.48
+    }
+}

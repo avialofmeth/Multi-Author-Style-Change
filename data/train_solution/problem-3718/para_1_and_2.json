@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal language with profanity, while Paragraph 2 is more formal and professional in tone.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more casual tone with colloquial expressions, while Paragraph 2 is more structured and direct in its language use.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences, while Paragraph 2 is more concise and straightforward in its sentence structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a narrative style with personal opinions and comparisons, while Paragraph 2 presents a more analytical approach focusing on economic aspects.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone, language use, sentence structure, and narrative style, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

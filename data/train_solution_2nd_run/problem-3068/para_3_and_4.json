@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain unique punctuation choices such as hyphens and quotation marks, but their usage differs slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of complex and unconventional word choices and grammatical structures, showing some similarity.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures and lengths in the two texts vary significantly, indicating potential differences in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "While both texts display a unique tone and style, the specific expressions and idioms used differ, suggesting potential authorial distinctions.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are notable similarities in punctuation style and some lexical features, yet differences in sentence structure and discourse features. The absence of spelling errors boosts confidence slightly.",
+    "score": 0.64
+  }
+}

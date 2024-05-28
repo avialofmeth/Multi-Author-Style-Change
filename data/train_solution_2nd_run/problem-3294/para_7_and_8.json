@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 and 2 show differences in punctuation style. Paragraph 1 uses a variety of punctuation marks like commas, periods, and ellipses in a formal context related to listing items. Paragraph 2, on the other hand, uses hyphens and lacks proper punctuation structure, reflecting a more informal and aggressive tone.",
+		"score": 0.4
+	},
+	"feature2": {
+		"explanation": "There are differences in lexical and grammatical features between the two paragraphs. Paragraph 1 contains technical terms related to car parts and trade, while Paragraph 2 focuses on political language with derogatory terms. The word choices and grammatical structures are distinct, indicating different writing styles.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "Sentence structures in the two paragraphs differ significantly. Paragraph 1 consists of longer, descriptive sentences detailing items and demand. In contrast, Paragraph 2 contains shorter, more direct sentences proposing actions. The coherence and sentence length vary, suggesting different writing patterns.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Text and discourse features diverge in the two paragraphs. Paragraph 1 maintains a neutral and informative tone discussing trade details. Paragraph 2 adopts a confrontational and accusatory tone towards a country, reflecting a different narrative style and mood. The expressions and idioms used also differ.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors evident in either paragraph.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two paragraphs, the likelihood that they were written by the same author is low.",
+		"score": 0.48
+	}
+}

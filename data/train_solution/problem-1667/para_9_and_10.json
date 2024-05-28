@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods. However, there are differences in the use of parentheses and colons.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical variation and word choice differ between the two texts, with distinct vocabulary and phrasing used in each. Grammatical categories and part of speech usage also show variations.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure complexity and coherence between the texts. One text is more structured and detailed while the other is more straightforward and concise.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and analytical tone, discussing potential outcomes of a war scenario. However, the narrative styles and common expressions used vary.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is moderate, with notable differences in punctuation, lexical and grammatical features, sentence structure, and text discourse. However, the absence of spelling errors contributes positively to the overall assessment.",
+        "score": 0.66
+    }
+}

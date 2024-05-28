@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as periods, commas, and full stops. However, the second text contains more complex punctuation like colons and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts differ significantly. The first text is straightforward and uses formal language, while the second text is more informal with colloquial expressions and slang.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The first text is concise and to the point, while the second text is more elaborate with longer sentences and a more casual tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text has a neutral and formal tone, typical of automated responses. In contrast, the second text has a critical and informal tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Taking into account all the features analyzed, the texts show notable differences in lexical choice, tone, and sentence structure, indicating a low likelihood of being written by the same author.",
+    "score": 0.48
+  }
+}

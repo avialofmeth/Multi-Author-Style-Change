@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use a variety of punctuation marks such as hyphens, brackets, colons, commas, and quotation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choices and word usage. The first paragraph uses more complex and descriptive language compared to the second paragraph which is more direct and straightforward.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two paragraphs differ significantly. The first paragraph contains more elaborate and lengthy sentences, while the second paragraph is more concise with simpler structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone are distinct between the two texts. The first paragraph has a critical and introspective tone, discussing internal conflicts, while the second paragraph has a more assertive and declarative tone about negotiation.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.58
+  }
+}

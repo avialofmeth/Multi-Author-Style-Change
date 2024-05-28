@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of more formal punctuation such as colons and semicolons, while Paragraph 2 has a more casual punctuation style without these formal markers.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 utilizes a more formal and technical vocabulary related to legal and regulatory matters, while Paragraph 2 uses simpler and more colloquial language to describe a personal experience.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays longer and more complex sentences with a focus on legislative provisions, whereas Paragraph 2 consists of shorter, straightforward sentences detailing personal interactions with a utility company.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative tone discussing legal protections for consumers, while Paragraph 2 conveys a more informal and anecdotal tone about a specific company's practices.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and punctuation without typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the likelihood that these texts were written by the same author is low.",
+        "score": 0.42
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, and periods in a similar manner. However, paragraph 1 includes more complex punctuation such as colons and parentheses compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and descriptive writing style with specific vocabulary related to environmental issues and wildlife. In contrast, paragraph 2 uses more casual and colloquial language with phrases like 'Oh my god' and 'jade colored glasses.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs vary in sentence length and complexity. However, paragraph 1 contains longer sentences with detailed information, while paragraph 2 has shorter, more straightforward sentences.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and informative tone, discussing the impact of palm oil on wildlife. In comparison, paragraph 2 conveys a more personal and reflective tone about anxiety and perceptions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and no typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are similarities in punctuation and sentence structure, but notable differences in vocabulary, tone, and formality. The average score indicates a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.6
+  }
+}

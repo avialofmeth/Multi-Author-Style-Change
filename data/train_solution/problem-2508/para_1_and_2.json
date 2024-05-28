@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the consistent use of hyphens, commas, and parentheses to provide additional information and enhance the flow of the text. Paragraph 2 lacks this feature.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. Paragraph 1 contains a more informal and conversational tone with specific vocabulary related to tires and environmental impact. In contrast, Paragraph 2 uses a more formal tone with different vocabulary choices.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays longer and more complex sentences with detailed quantitative information, while Paragraph 2 consists of shorter and simpler sentences. This difference in sentence structure affects the overall coherence and cohesion of the texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two paragraphs are distinct. Paragraph 1 focuses on environmental impact and expresses frustration, while Paragraph 2 discusses righteousness and rebellion in a more philosophical manner.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, along with the shared absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.48
+    }
+}

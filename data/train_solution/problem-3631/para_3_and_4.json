@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and hyphens in a formal and structured manner, while Paragraph 2 lacks such punctuation and has a more informal tone.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and precise lexical choice, with a focus on political terms. In contrast, Paragraph 2 has a more informal and emotive language with terms like 'racist' and 'sickening'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays longer and more complex sentences that are coherent and structured. Paragraph 2, on the other hand, has shorter and fragmented sentences with a less organized structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and objective tone, typical of formal writing. Paragraph 2, however, conveys a strong emotional tone with expressions like 'sickening'.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.46
+    }
+}

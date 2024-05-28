@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates the use of formal punctuation such as colons and semicolons, while Paragraph 2 lacks such formal punctuation and includes more informal punctuation like expletives.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and technical language related to legal matters, while Paragraph 2 includes informal language with profanity and slang. The word choice and tone are significantly different between the two texts.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear and coherent sentences discussing specific issues, while Paragraph 2 contains shorter and fragmented sentences expressing strong emotions without much cohesion.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and formal tone discussing potential dysfunctions in the judiciary system, while Paragraph 2 conveys a highly emotional and opinionated tone towards a specific group of people. The narrative styles and speech events differ significantly.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author. The lack of similarity in writing style and content leads to a low overall confidence score.",
+    "score": 0.34
+  }
+}

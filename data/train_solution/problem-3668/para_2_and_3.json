@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks and commas for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text contains more technical and specific vocabulary related to military equipment. The second text includes informal language and internet slang like 'lol'.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short and straightforward sentences. The first text presents more complex ideas regarding military capabilities, while the second text is more conversational.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text discusses military capabilities and sanctions, maintaining a serious tone. The second text is more casual and humorous in nature.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in vocabulary, tone, and formality level, the texts are less likely to be written by the same author.",
+        "score": 0.66
+    }
+}

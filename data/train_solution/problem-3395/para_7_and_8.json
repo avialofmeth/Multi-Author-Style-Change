@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas and periods, while Paragraph 2 lacks some expected punctuation marks and uses informal language like contractions.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language and colloquial expressions, whereas Paragraph 2 showcases more technical terms and specific vocabulary related to military equipment.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with multiple clauses and a more conversational style, while Paragraph 2 has shorter, more direct sentences with a focus on technical details.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more casual and narrative tone, using comparisons and hypothetical scenarios, while Paragraph 2 presents information in a factual and informative manner.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free from spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

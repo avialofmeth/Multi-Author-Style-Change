@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of commas to separate clauses and phrases, indicating a similar punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text uses a more informal tone with simpler vocabulary, while the second text is more formal with specialized terms related to military command. This indicates some differences in lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and have straightforward sentence structures. They lack complexity in sentence arrangement and length, showing some similarity in this aspect.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text has a narrative style discussing historical events, while the second text is a spokesperson's statement, focusing on conveying information. This indicates differences in text and discourse features.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, showing a similarity in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation style and absence of spelling errors, but notable differences in lexical and grammatical features, text and discourse features, and tone. The average score across all features is 0.64.",
+        "score": 0.64
+    }
+}

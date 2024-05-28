@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation such as colons and commas, while paragraph 2 has informal punctuation like hyphens and lacks formal punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits formal and professional language, while paragraph 2 contains informal and colloquial expressions with strong opinionated language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with clear sentences and coherence, whereas paragraph 2 has shorter, fragmented sentences with a casual tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, while paragraph 2 shows a derogatory and mocking tone towards a specific group.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The analysis shows notable differences in punctuation, lexical style, sentence structure, and tone between the two texts, suggesting they are unlikely to be written by the same author.",
+        "score": 0.38
+    }
+}

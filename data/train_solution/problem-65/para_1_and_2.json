@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 exhibits a formal and structured punctuation style with proper use of commas, colons, and quotation marks. In contrast, Paragraph 2 lacks this structured use of punctuation and includes informal elements like emojis and informal language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "There is a significant difference in the lexical and grammatical features between the two texts. Paragraph 1 uses formal language with historical and political terminology. In contrast, Paragraph 2 includes informal language, slang, and contemporary references.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "The sentence structure and quantitative features diverge greatly between the texts. Paragraph 1 consists of longer, complex sentences with historical context, while Paragraph 2 contains shorter, more fragmented sentences with a focus on contemporary events.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "The text and discourse features differ significantly between the two paragraphs. Paragraph 1 presents a formal and historical narrative, while Paragraph 2 adopts a more conversational and informal tone with references to current events.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, the overall likelihood of the two texts being written by the same author is low.",
+        "score": 0.3
+    }
+}

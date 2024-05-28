@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 displays a formal punctuation style with the use of commas, colons, and parentheses. Paragraph 2 lacks such formal punctuation and uses more informal punctuation like quotation marks and abbreviations.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs a more formal and structured lexical and grammatical style with proper nouns and complete sentences. Paragraph 2 uses more casual language and abbreviations, indicating a less formal tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer, more complex sentences with a focus on conveying information. Paragraph 2 consists of shorter, fragmented sentences expressing strong opinions. Sentence structure and length differ significantly.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral tone discussing political leaders and legacy. Paragraph 2 has a more emotional and critical tone towards the political party. Narrative styles and tones are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, along with the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.38
+    }
+}

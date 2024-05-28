@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, commas, and parentheses, although the first text includes more complex punctuation like colons and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of formal and informal language, with varying lexical choices. The first text contains more detailed and specific vocabulary related to pensions and financial matters.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text is more complex with longer sentences and detailed quantitative information. The second text is more concise and straightforward.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts present a serious and informative tone, discussing societal issues. The first text includes more detailed narrative and specific examples.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features, there are notable similarities in punctuation style, lexical and grammatical features, and tone between the two texts, suggesting a moderate likelihood of being written by the same author.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, periods, and close brackets, but Paragraph 2 includes a colon and an open bracket which differs from Paragraph 1.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts use similar lexical choices like 'bot' and 'questions'. Grammatical structures are also comparable with consistent use of pronouns and verb forms.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both texts are short and straightforward with similar sentence lengths and structures. They exhibit similar coherence and cohesion in conveying a clear message.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal tone and share a similar purpose of addressing questions or concerns. They lack expressive narrative styles or unique idiomatic expressions.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderately high.",
+    "score": 0.72
+  }
+}

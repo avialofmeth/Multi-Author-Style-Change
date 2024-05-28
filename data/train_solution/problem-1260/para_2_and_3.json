@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation like colons and proper comma placement, while paragraph 2 has a lack of proper punctuation and uses dashes in a less structured manner.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured choice of words and grammar, while paragraph 2 shows a more informal and colloquial style with slang terms and informal language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a clear structure, whereas paragraph 2 contains shorter and less structured sentences with a lack of coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone, while paragraph 2 exhibits a more emotional and opinionated tone with strong language and expressions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts do not show significant spelling or typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all five features, the overall confidence score of the texts being written by the same author is moderate.",
+        "score": 0.42
+    }
+}

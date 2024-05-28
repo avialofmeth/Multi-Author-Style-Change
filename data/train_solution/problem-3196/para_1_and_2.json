@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a standard punctuation style with commas, periods, and colons for clarity and structure. Paragraph 2 lacks this level of punctuation consistency.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style, focusing on clear communication. Paragraph 2 contains more informal language and lacks the same level of grammatical precision.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits a balanced and coherent sentence structure with clear organization. Paragraph 2 shows a less organized and more fragmented sentence arrangement.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and respectful tone with direct communication. Paragraph 2 uses a more casual and informal tone with a different focus.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate a similar level of spelling and typographical accuracy without errors or mistakes.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall likelihood that the two texts were written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structure, and tone.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for listing items and clauses within sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show a preference for complex sentence structures and varied word choices.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text has shorter sentences compared to the second text. There is a difference in the narrative style and coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood in the two texts differ significantly, indicating a potential difference in authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, narrative style, and tone, along with the similarities in punctuation and absence of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

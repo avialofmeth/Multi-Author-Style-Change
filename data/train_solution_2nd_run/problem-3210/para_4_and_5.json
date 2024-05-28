@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and capitalization consistently.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The first text shows a higher level of lexical variation and word choice compared to the second text. However, both texts exhibit a formal tone.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are coherent and have clear sentence structures. The first text is longer and more complex in sentence structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal tone and a clear purpose. The first text is more expressive in tone compared to the second text.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, there are similarities in punctuation style, sentence structure, tone, and absence of spelling errors, but differences in lexical variation and expressiveness. Therefore, the likelihood of the same author is moderate.",
+    "score": 0.76
+  }
+}

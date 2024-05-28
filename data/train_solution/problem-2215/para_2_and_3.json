@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation such as periods and commas in a formal and structured manner. Paragraph 2 also employs commas and apostrophes but in a more informal and conversational style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and technical language related to financial matters. Paragraph 2 has a more casual tone with simpler vocabulary.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 presents information in longer sentences with a more structured flow. Paragraph 2 has shorter sentences and a more conversational structure.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious tone related to financial scandals. Paragraph 2 expresses a personal opinion in a more casual tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts appear to be free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Taking into account the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.46
+  }
+}

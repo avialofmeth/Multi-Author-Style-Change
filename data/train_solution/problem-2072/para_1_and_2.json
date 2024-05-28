@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods. However, Paragraph 1 employs a wider variety of punctuation marks like slashes, colons, and parentheses compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use formal language and maintain a professional tone, but they differ in the specificity of lexical choices. Paragraph 1 contains terms like 'shill or troll accusations' and 'hate speech,' while Paragraph 2 uses more straightforward and informational language.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more clauses and a higher level of complexity, while Paragraph 2 consists of shorter, more direct sentences. The coherence and cohesion are maintained in both texts, but the sentence structures differ significantly.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey formal instructions or guidelines with a serious tone. However, Paragraph 1 addresses behavior and rules, while Paragraph 2 focuses on providing information and directing readers to specific resources. The tone and mood are consistent but the narrative styles differ.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating attention to detail in writing. Both texts maintain a high level of accuracy in terms of spelling and typographical presentation.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score is moderate, indicating a likelihood that the two texts were written by different authors.",
+    "score": 0.62
+  }
+}

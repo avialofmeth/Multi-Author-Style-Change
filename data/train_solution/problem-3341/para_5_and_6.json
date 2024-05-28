@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Text 1 uses a hyphen and a colon, while text 2 uses a hyphen, colon, and quotation marks. Both texts exhibit a mix of punctuation marks.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts display a varied lexical choice and word usage with informal language but differ in specific terms used due to the different topics discussed.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively short sentences with straightforward structures. They lack complexity and exhibit coherence in conveying the message.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 has a strong negative tone, expressing hatred, while text 2 maintains a critical tone towards a specific topic. Both texts show a clear expression of emotions.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, there are notable similarities in punctuation style, lexical and grammatical features, text and discourse features, and lack of spelling errors. However, differences in sentence structure and quantitative features slightly lower the confidence in the texts being written by the same author.",
+    "score": 0.8
+  }
+}

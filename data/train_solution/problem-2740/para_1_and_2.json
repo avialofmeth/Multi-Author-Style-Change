@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, periods, and parentheses, whereas Paragraph 2 lacks this variety and mainly relies on periods and commas.",
+      "score": 0.4
+   },
+   "feature2": {
+      "explanation": "Both paragraphs exhibit similar lexical and grammatical features in terms of word choice and sentence structure. However, some differences exist in the specific vocabulary used.",
+      "score": 0.7
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 demonstrates more complex sentence structures and a higher level of coherence, while Paragraph 2 is less complex and lacks cohesion in comparison.",
+      "score": 0.6
+   },
+   "feature4": {
+      "explanation": "The narrative styles and tone differ significantly between the two paragraphs, with Paragraph 1 focusing on energy policies and Paragraph 2 shifting towards military contributions and reliance.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "Both paragraphs are free of spelling and typographical errors, displaying a similar level of accuracy in this regard.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, sentence structure, and narrative focus between the two texts, indicating a moderate likelihood that they were not written by the same author.",
+      "score": 0.6
+   }
+}

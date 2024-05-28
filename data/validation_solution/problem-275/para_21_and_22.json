@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens, colons, and commas appropriately for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some differences in topic and content but use standard grammar and vocabulary.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit varied sentence structures with different lengths and complexity.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The texts have different narrative styles and tones due to varying topics.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the features, there are similarities in punctuation, sentence structure, and absence of errors, but differences in narrative style and tone. The average score indicates moderate confidence in the texts being written by the same author.",
+        "score": 0.7
+    }
+}

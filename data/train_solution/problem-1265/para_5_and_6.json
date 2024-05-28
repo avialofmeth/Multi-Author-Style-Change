@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and numbers in a similar manner. However, there are differences in the use of colons and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. They contain specific terminology related to business and finance, indicating a potential similarity in the writer's vocabulary. However, there are differences in the complexity of the language and sentence structure.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively simple with straightforward information delivery. There are differences in sentence length and coherence, with one text being more fragmented than the other.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey factual information in a direct manner. However, there are differences in tone and mood, with one text being more explanatory while the other is more transactional.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style and some shared lexical features, along with differences in sentence structure and tone, there is moderate confidence that the two texts were not written by the same author.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens and commas for punctuation.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 contains more informal and emotive language compared to the neutral and formal tone of Text 2. Different lexical choices and word usage observed.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 has shorter, more direct sentences while Text 2 has longer, more complex sentences. Different sentence structures observed.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more opinionated and confrontational tone, while Text 2 is more informative and instructive. Different narrative styles observed.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the same author is low. However, the presence of some common punctuation styles and absence of spelling errors slightly increase the possibility.",
+    "score": 0.58
+  }
+}

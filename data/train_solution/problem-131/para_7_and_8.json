@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods, while Paragraph 2 lacks proper punctuation and structure.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured use of language with specific terminology related to politics and health care. Paragraph 2, on the other hand, is informal and uses colloquial language with negative connotations.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is coherent, structured, and follows a logical progression of ideas. In contrast, Paragraph 2 lacks coherence and has a fragmented structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone, typical of a political analysis. Paragraph 2, however, has a cynical and dismissive tone, suggesting a different style and attitude.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, showing a similar level of proficiency in this area.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the linguistic features, there are significant differences in punctuation, lexical and grammatical features, coherence, and tone between the two paragraphs, indicating a low likelihood of being written by the same author.",
+        "score": 0.4
+    }
+}

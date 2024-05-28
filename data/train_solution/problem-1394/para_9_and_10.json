@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods predominantly, while paragraph 2 also includes a colon and a comma.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and a more direct tone, while paragraph 2 uses more formal language and complex sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with a straightforward arrangement, while paragraph 2 has longer sentences with a more intricate structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a confrontational tone, using ultimatums and expressing a strong opinion. Paragraph 2 discusses political matters with a critical tone towards Putin.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts seem to be free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the varied punctuation styles, differences in lexical choices and sentence structures, and distinct tones in the texts, it is unlikely that they were written by the same author.",
+        "score": 0.5
+    }
+}

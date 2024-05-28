@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods, while Paragraph 2 contains more informal language with expletives but still utilizes common punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs demonstrate a mix of formal and informal language, with Paragraph 2 exhibiting stronger emotions and informal vocabulary, but there are similarities in terms of word choice and sentence structures.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more concise and straightforward in its sentences, while Paragraph 2 has longer sentences with emotional expressions, but both exhibit coherence within their respective contexts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, while Paragraph 2 is characterized by a highly negative and emotional tone. However, both texts express opinions and engage in some form of narrative discourse.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

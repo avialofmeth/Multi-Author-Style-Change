@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and parentheses for punctuation, while Paragraph 2 uses commas and a hyphen. Both texts exhibit consistent use of punctuation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display a similar level of lexical variation and word choice, with a mix of formal and technical language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured and formal, with clear sentence arrangements and coherence. Paragraph 2 is more conversational with shorter sentences and a less formal tone.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack narrative styles and speech events, focusing more on providing information. The tone in both paragraphs is informative and straightforward.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the linguistic features show some similarities in punctuation style, lexical choice, and lack of errors, but differences in sentence structure and tone. The overall confidence score is moderate.",
+        "score": 0.72
+    }
+}

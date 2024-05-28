@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of commas and quotation marks for direct speech or to set off information. However, differences in the use of colons and parentheses are present.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In both texts, there is a mix of complex and simple sentence structures. The lexical variation and word choice differ due to the varying contexts of the texts.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The texts differ significantly in sentence complexity and length. Paragraph 1 contains longer sentences compared to the more concise nature of Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are distinct in the two texts. Paragraph 1 focuses on legal proceedings and quotations, while Paragraph 2 presents investigative findings.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure, narrative style, and lexical features, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

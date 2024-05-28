@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and periods more frequently, while Paragraph 2 uses hyphens and commas more often.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and technical lexical choice compared to the informal tone in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit varied sentence structures and lengths, with Paragraph 1 being more concise and direct while Paragraph 2 is more conversational.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 focuses on a specific recommendation and data analysis, whereas Paragraph 2 discusses concerns about algorithms and jobs, showcasing different narrative styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choice, narrative styles, and the presence of some commonalities in sentence structures, with no spelling errors detected, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.52
+  }
+}

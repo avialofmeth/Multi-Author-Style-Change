@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation with colons and commas for clarity and structure. Paragraph 2 lacks proper punctuation and uses informal language with no structured punctuation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and professional tone with specific terminology related to media outlets. Paragraph 2 includes informal language and slang, indicating a casual style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a clear and straightforward sentence structure. Paragraph 2 has shorter, fragmented sentences and lacks coherence in comparison.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, typical for professional communication. Paragraph 2 expresses personal frustration and a more casual conversational tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text and discourse features, along with the similarity in spelling and typographical accuracy, the overall confidence score is moderate that the texts were not written by the same author.",
+        "score": 0.44
+    }
+}

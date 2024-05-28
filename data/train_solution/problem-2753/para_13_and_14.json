@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and commas appropriately to organize and separate ideas. Paragraph 2 lacks these punctuation marks and is more straightforward in structure.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choice and word usage. Paragraph 1 focuses on technical terms related to energy sources, while Paragraph 2 uses simpler language to convey a negative opinion.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer, more complex sentences with varied structures. In contrast, Paragraph 2 consists of shorter, more direct sentences with less variation in length and complexity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone and mood of the two paragraphs differ significantly. Paragraph 1 presents a more informative and balanced perspective, while Paragraph 2 conveys a more critical and accusatory tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the contrasting tones, the likelihood of the two texts being written by the same author is relatively low.",
+    "score": 0.46
+  }
+}

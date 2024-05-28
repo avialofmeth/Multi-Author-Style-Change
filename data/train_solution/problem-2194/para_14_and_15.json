@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens in 'F-itself' while Paragraph 2 does not feature hyphens.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit varied word choices and use of military-related terms. However, Paragraph 1 features more colloquial language compared to the more formal tone of Paragraph 2.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a shorter, less complex sentence compared to the longer and more detailed sentence structure seen in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts discuss military-related events, but the tone and narrative style differ - with Paragraph 1 showing a more informal and direct tone, while Paragraph 2 is more descriptive.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The analysis reveals some similarities in lexical and grammatical features, but notable differences in punctuation style, sentence structure, and text discourse features. The overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

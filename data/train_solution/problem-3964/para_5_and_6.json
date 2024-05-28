@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon, while Paragraph 2 does not. Both paragraphs use commas. The punctuation style shows some commonalities but also differences.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs employ a formal tone with complex sentence structures. Lexical variation and word choice differ due to the specific topics discussed in each paragraph.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences compared to Paragraph 2. Both paragraphs exhibit coherence and cohesion in their respective contexts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles vary due to the different topics discussed in each paragraph. Tone and mood differ based on the subject matter.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the linguistic features, while there are some commonalities in punctuation and coherence, the differences in tone, narrative style, and lexical choices suggest a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

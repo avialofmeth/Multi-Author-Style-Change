@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as periods and commas, but largely lack more complex punctuation like semicolons and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical and grammatical complexity, with a mix of formal language but lacking advanced vocabulary or grammar structures.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward in sentence structure, lacking complexity in sentence length, arrangement, and coherence.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts lack distinctive narrative styles or tone, appearing more informational and neutral.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

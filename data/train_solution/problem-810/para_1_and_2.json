@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, and commas in a professional and formal manner, while Paragraph 2 lacks these punctuations and uses more dashes and commas in a less structured way.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses a more varied and formal lexicon compared to Paragraph 2, which contains more direct and repetitive language. The grammatical structures in Paragraph 1 are more diverse and complex compared to the simpler structures in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a higher degree of coherence and cohesion, while Paragraph 2 consists of shorter, more fragmented sentences that lack overall coherence.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, typical of news reporting, whereas Paragraph 2 has a more accusatory and confrontational tone. The narrative styles and speech events differ significantly between the two paragraphs.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, demonstrating a similar level of attention to detail in terms of accuracy.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the linguistic features analyzed suggest that the two texts are unlikely to be written by the same author as they exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. The lack of consistency in these areas contributes to a lower likelihood of a shared authorship.",
+        "score": 0.5
+    }
+}

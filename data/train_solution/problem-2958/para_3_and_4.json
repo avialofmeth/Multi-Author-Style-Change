@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use colons, commas, and full stops appropriately. However, the first text contains more punctuation marks like hyphens and parentheses compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical choices in the two texts differ significantly. The first text contains more formal and technical language related to labor relations, while the second text is more casual and political in nature.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary, with the first text having longer and more complex sentences compared to the second text. The first text also shows better coherence and cohesion in presenting ideas.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are distinct in the two texts. The first text has a more informative and explanatory tone, whereas the second text is more opinionated and critical.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, the likelihood of the two texts being written by the same author is moderate. Differences in lexical choices and narrative styles reduce the overall confidence in the texts being from the same author.",
+    "score": 0.6
+  }
+}

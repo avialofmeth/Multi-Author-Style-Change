@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a mix of punctuation marks like commas, question marks, and exclamation marks in a conversational tone. Paragraph 2 also uses punctuation marks but in a more formal and direct manner.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more informal language with contractions like 'didn't' and 'won't'. Paragraph 2 uses more formal and direct language without contractions.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with a mix of sentence structures. Paragraph 2 has shorter, more direct sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a conversational tone with a hint of persuasion. Paragraph 2 is more informational and directive in tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs appear to be free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.48
+    }
+}

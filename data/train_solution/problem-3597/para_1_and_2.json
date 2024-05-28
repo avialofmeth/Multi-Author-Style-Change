@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, periods, and question marks predominantly, while Paragraph 2 emphasizes the use of commas and slashes.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more informal and colloquial style with contractions and slang, whereas Paragraph 2 maintains a formal and neutral tone.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with detailed descriptions, while Paragraph 2 consists of shorter and more direct sentences focused on rules and guidelines.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a narrative style with a somber and critical tone, discussing negative experiences. In contrast, Paragraph 2 adopts a directive and informative tone, focusing on guidelines and restrictions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate correct spelling and lack typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the similarity in spelling and absence of typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.44
+    }
+}

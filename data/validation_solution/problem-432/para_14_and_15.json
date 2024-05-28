@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, while Paragraph 2 uses commas and colons. Both paragraphs exhibit a similar level of punctuation complexity.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show similar lexical choices and grammatical structures. They both use common vocabulary and exhibit similar syntactic patterns.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain sentences of varying lengths and complexity. The overall structure and coherence are consistent in terms of style.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone are somewhat different in the two paragraphs, with one discussing aid and the other discussing political ties. However, the overall expression and mood are not significantly distinct.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text, indicating a consistent level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the consistency in punctuation, lexical and grammatical features, sentence structure, and lack of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.85
+    }
+}

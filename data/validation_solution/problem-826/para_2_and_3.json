@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for list enumerations, while Paragraph 2 lacks these specific punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal language related to subreddit guidelines, while Paragraph 2 uses informal language discussing political concepts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured and direct in conveying information, while Paragraph 2 is more complex and expressive in discussing political themes.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts have a serious tone but differ in subject matter, with Paragraph 1 being more instructional and Paragraph 2 being analytical.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text discourse features, it is unlikely that the two texts were written by the same author. However, the absence of spelling errors contributes to a minor increase in the overall confidence score.",
+    "score": 0.5
+  }
+}

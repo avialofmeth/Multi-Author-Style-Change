@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of commas for list items and within clauses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 shows formal language with specific terms related to subreddit guidelines. Text 2 includes informal language with names of individuals. Both texts demonstrate a mix of complex and simple sentence structures.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Text 1 is more structured with clear directives. Text 2 is conversational with a suggestion. Both texts are concise and to the point.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 is formal and informational in tone. Text 2 is more casual and opinionated. Both texts lack narrative elements and focus on conveying information.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lack of spelling errors, and some shared sentence structure features, along with the differences in lexical choices and tone, there is moderate confidence that the texts were written by the same author.",
+        "score": 0.72
+    }
+}

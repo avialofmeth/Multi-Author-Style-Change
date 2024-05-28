@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation marks such as parentheses and commas more consistently and in a structured manner, while Paragraph 2 lacks consistency and shows erratic use of punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with moderate variation in word choice, whereas Paragraph 2 exhibits informal language with more extreme word choices and grammatical structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains more balanced and coherent sentence structures with consistent length and organization, while Paragraph 2 displays erratic sentence lengths and lacks cohesion in its structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and factual tone in discussing historical events, while Paragraph 2 adopts a more opinionated and critical tone towards a political figure, showcasing a distinct narrative style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free from spelling and typographical errors, with no significant differences observed in this aspect.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two texts, indicating a lower likelihood of being written by the same author. The overall confidence score is moderate.",
+    "score": 0.36
+  }
+}

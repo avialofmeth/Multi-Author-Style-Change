@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation, including hyphens, commas, and exclamation marks. There is consistency in the style of punctuation usage between the two texts.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are notable differences in lexical and grammatical features between the two texts. The word choice, sentence structures, and grammatical patterns vary significantly, indicating a potential difference in authorship.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features differ in complexity, length, and arrangement. One text is more straightforward and direct, while the other contains longer and more elaborative sentences, suggesting a difference in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features like narrative styles, tone, and mood exhibit distinct differences between the texts. One text is critical and accusatory, while the other is more explanatory and opinionated, pointing towards potential different authors.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text, showing consistency in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the five features, the likelihood that the two texts were written by the same author is low. The differences in lexical, grammatical, and discourse features outweigh the similarities in punctuation and spelling, leading to an average confidence score indicating low likelihood of the same authorship.",
+    "score": 0.56
+  }
+}

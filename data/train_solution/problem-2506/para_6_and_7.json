@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as commas, colons, and periods. However, only the second text includes a correction note.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts are relatively similar in terms of sentence structure and word choice. However, the second text includes a specific correction which slightly deviates from the style of the first.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward. The sentence structure and coherence are consistent between the two texts, although the second text introduces a correction in the form of an 'Edit' note.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both texts convey a similar tone and mood. However, the inclusion of an 'Edit' note in the second text introduces a slight difference in narrative style.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, there are notable similarities in punctuation, lexical and grammatical features, sentence structure, and text discourse features. However, the presence of the 'Edit' note in the second text introduces a slight deviation. The absence of spelling errors aligns with a common writing style. Therefore, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.71
+  }
+}

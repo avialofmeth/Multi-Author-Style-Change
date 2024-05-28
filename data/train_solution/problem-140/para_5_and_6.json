@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation, including hyphens, commas, and informal language such as expletives.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a difference in the lexical and grammatical features between the texts. The first paragraph displays a more informal and aggressive tone with specific word choices and grammatical structures, while the second paragraph is more formal and robotic in nature.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly. The first paragraph is longer, more complex, and emotionally charged, whereas the second paragraph is short, direct, and lacks emotional expression.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone are distinct in the two texts. The first paragraph has a strong emotional and aggressive tone, while the second paragraph is neutral and detached.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, the overall likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

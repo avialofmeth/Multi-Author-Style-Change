@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as commas, periods, quotation marks, and hyphens.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 2 contains informal language and emphasizes certain words ('doo-doo', 'fantastic', 'tremendous'), while text 1 is more formal and straightforward.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 is succinct and to the point with short sentences, while text 2 has longer, more expressive sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 2 uses a more casual and boastful tone ('Let me tell you something...', 'Believe me, nobody.'), while text 1 is neutral and providing information.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering all features analyzed, there are noticeable differences in the writing styles of the two texts, particularly in terms of formality, tone, and sentence structure.",
+        "score": 0.62
+    }
+}

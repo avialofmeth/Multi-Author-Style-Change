@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and parentheses for additional information, while paragraph 2 lacks this type of punctuation. The presence or absence of these punctuation marks can indicate different writing styles.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is more formal and structured in terms of lexical choice and grammatical features, discussing laws and legislation. Paragraph 2 is more informal and opinionated, focusing on personal political views. The lexical and grammatical differences suggest different writing styles.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is longer and more complex, with detailed information about specific states' actions. Paragraph 2 is shorter and more straightforward, expressing a personal opinion. Sentence structure and length differ significantly between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more formal and informative tone, discussing legal matters. Paragraph 2 has a strong personal tone and expresses a clear opinion. The difference in narrative styles and tones indicates distinct writing styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of spelling and typographical correctness.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, the texts exhibit notable disparities that suggest different authors. The absence of spelling errors is a minor commonality. The overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.42
+    }
+}

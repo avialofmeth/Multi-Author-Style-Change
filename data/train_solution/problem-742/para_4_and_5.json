@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and colons for punctuation, but only the first text includes hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in word choice and lexical variation between the two texts. The first text includes more politically charged language compared to the second text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary between the two texts. The first text contains longer sentences with more complex arrangements, while the second text is more straightforward.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a serious and formal tone, but the first text is more emotionally charged compared to the second text.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the use of colons, commas, and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical and grammatical features with formal language and technical vocabulary.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts display a similar sentence structure with clear and concise statements, although the complexity differs due to the nature of the content.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone are different in the two texts, with one being informational and the other more analytical.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.7
+    }
+}

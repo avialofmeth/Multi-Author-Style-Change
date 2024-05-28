@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon for elaboration and instruction, while Paragraph 2 uses commas for listing and expansion of information.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more formal and technical language related to subreddit guidelines, while Paragraph 2 involves a mix of political and business-related terminology.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit moderate sentence complexity and coherence, with Paragraph 2 having slightly longer sentences due to the inclusion of detailed information.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative tone, focusing on guidelines and criteria. In contrast, Paragraph 2 presents a more news-like style with references to political tensions.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors detected in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

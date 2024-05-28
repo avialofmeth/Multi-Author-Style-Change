@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, quotation marks, and parentheses, while Paragraph 2 does not exhibit such punctuation marks. This difference suggests a variation in punctuation style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs display a mix of formal and informal language with a focus on conveying ideas clearly. The word choice and grammatical structures differ slightly, indicating some variation in lexical and grammatical features.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences with a mix of structures, while Paragraph 2 is more straightforward and direct. This difference in sentence structure and complexity suggests some variation in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone in Paragraph 1 is more informative and opinionated regarding education systems, while Paragraph 2 focuses on setting rules for discourse. The narrative styles and speech events differ, indicating some variation in text and discourse features.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, demonstrating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the variations in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, alongside the shared lack of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

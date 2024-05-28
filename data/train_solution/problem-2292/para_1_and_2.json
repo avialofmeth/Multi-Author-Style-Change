@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, parentheses, and colons for punctuation. There is a consistent style in punctuation usage.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar level of lexical variation and word choice. Grammatical categories and part of speech usage are also consistent.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts show similarities in sentence structure complexity, length, and coherence. They share a common quantitative feature in terms of word and sentence length.",
+    "score": 0.9
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are somewhat distinct between the two texts, with one focusing on casualties and military aspects while the other discusses political tactics. However, there are common expressions and mood elements observed.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were noted in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the alignment in punctuation style, lexical and grammatical features, sentence structure, and absence of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+    "score": 0.8
+  }
+}

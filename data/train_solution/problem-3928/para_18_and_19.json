@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and ellipses for punctuation, indicating a similar style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses informal language and contractions ('didn't'), while Text 2 presents statistical data with formal language. This difference in lexical and grammatical features suggests a mismatch.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, conversational sentences, while Text 2 presents data in longer, structured sentences. This contrast in sentence structure impacts the overall coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts discuss Brazil and its issues, indicating a common narrative style. However, the tone in Text 1 is more casual compared to the factual tone in Text 2.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and tone, along with the common use of punctuation and narrative style, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

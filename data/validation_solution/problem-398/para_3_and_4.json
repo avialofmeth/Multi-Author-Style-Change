@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of ellipsis (...) and hyphens, but only Paragraph 2 uses an exclamation mark and lacks other common punctuation like colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show some variation in word choice and sentence structure. However, Paragraph 2 contains more informal language and lacks the formal tone seen in Paragraph 1.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structurally more organized with clear sentences, while Paragraph 2 has a more fragmented structure with shorter, less coherent sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is formal and directive in tone, focusing on subreddit guidelines. In contrast, Paragraph 2 is more casual and conversational, discussing social security and disability issues.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.54
+    }
+}

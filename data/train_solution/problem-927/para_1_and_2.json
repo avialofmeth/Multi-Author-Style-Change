@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, slashes, and periods in a structured manner. Paragraph 2 also includes punctuation marks like commas and periods but lacks the structured use seen in Paragraph 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and respectful tone with a focus on clear and concise language. In contrast, Paragraph 2 contains informal language with potentially disrespectful remarks, indicating a difference in word choice and lexical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of well-structured sentences with a clear focus on conveying information cohesively. Paragraph 2, on the other hand, includes shorter and less complex sentences, leading to a variation in sentence structure and quantitative features.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and instructive tone, emphasizing respectful communication. In contrast, Paragraph 2 adopts a more casual and potentially derogatory tone, showcasing a distinct difference in narrative styles and mood.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, there is moderate evidence to suggest that the two texts were not likely written by the same author.",
+        "score": 0.54
+    }
+}

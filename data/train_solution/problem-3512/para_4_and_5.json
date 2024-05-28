@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as colons, commas, and periods. However, there are differences in the usage of hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is variation in lexical choice and word usage between the two texts. While both texts share some common vocabulary related to geopolitics, there are distinct differences in tone and specific terms used.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are somewhat similar in terms of complexity and length. However, there are differences in the coherence and cohesion due to the differing topics discussed.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts differ significantly. One text appears more formal and analytical, while the other is more conversational and opinionated.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, it is less likely that the two texts were written by the same author. The lack of spelling errors contributes to a higher overall confidence score.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation like hyphens, commas, and parentheses to convey a conversational and informal tone. In contrast, Paragraph 2 uses more formal punctuation such as colons to provide clear and structured information.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more casual and colloquial lexical style with informal word choices and slang. In contrast, Paragraph 2 employs a more formal and technical lexicon suitable for informational contexts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with varied structures, reflecting a narrative or expressive style. On the other hand, Paragraph 2 consists of shorter and more straightforward sentences typical of informational content.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a critical and opinionated tone, using strong language and expressive phrases. In comparison, Paragraph 2 maintains a neutral and instructional tone focused on providing guidelines.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and no typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the different linguistic features analyzed, the likelihood of the two texts being written by the same author is moderate. While there are notable differences in punctuation style, lexical choices, sentence structures, and tone, the absence of spelling errors suggests a consistent level of language proficiency. The average confidence score across all features is 0.48.",
+    "score": 0.48
+  }
+}

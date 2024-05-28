@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts use hyphens and commas in similar ways to connect phrases and clauses.",
+		"score": 0.8
+	},
+	"feature2": {
+		"explanation": "There is some consistency in word choice and grammatical structures, such as the use of possessives ('Obama's chance') and pronouns ('this action').",
+		"score": 0.7
+	},
+	"feature3": {
+		"explanation": "Both texts consist of relatively short and straightforward sentences, lacking intricate structures or extensive conjunctions.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "The first text displays a more opinionated and narrative style, while the second text is more informative and formal.",
+		"score": 0.4
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either text.",
+		"score": 1
+},
+	"overall": {
+		"explanation": "Based on the analysis of multiple linguistic features, the likelihood that the two texts were written by the same author is moderate.",
+		"score": 0.7
+	}
+}

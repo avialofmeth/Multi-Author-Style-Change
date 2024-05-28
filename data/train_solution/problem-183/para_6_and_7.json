@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Text 1 uses standard punctuation marks consistently while Text 2 includes an expletive which may indicate a more casual style of writing. However, both texts contain similar punctuation errors like missing periods at the end of sentences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 consists of more formal language typical of an automated response, whereas Text 2 has informal language with profanity. There are differences in lexical choice and formality.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts are short and contain simple sentences. Text 1 is more coherent due to its structured nature, while Text 2 appears more conversational and fragmented.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 has a neutral and formal tone as expected from a bot response. In contrast, Text 2 exhibits a more emotional and opinionated tone. The expressions and mood differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors are present in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of profanity and emotional tone in Text 2, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles, including commas and hyphens, but differ in the use of quotation marks and colons.",
+        "score": 0.75
+    },
+    "feature2": {
+        "explanation": "There is some consistency in lexical and grammatical features, such as the use of specific terms like 'Trump' and 'Netanyahu', but variations in word choice and sentence structures are present.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Sentence structures exhibit similarities in terms of coherence and word length, but differences in sentence length and complexity are noticeable.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts discuss political events involving Trump and Netanyahu, but the tone and mood vary between the two paragraphs.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the identified features, there is moderate confidence that the two texts were written by the same author, with some similarities in punctuation, lexical features, and sentence structures, but variations in tone and word choice.",
+        "score": 0.65
+    }
+}

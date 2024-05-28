@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of informal punctuation, such as expletives, quotation marks, and parentheses, although used in different contexts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 shows a more informal and emotive word choice, while Text 2 is more formal and rule-oriented. Different lexical and grammatical features are observed.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 contains longer, complex sentences with emotional content, while Text 2 has shorter, more straightforward sentences outlining rules. Sentence structures and lengths differ significantly.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The tone and mood in Text 1 are passionate and critical, contrasting with the neutral and informative tone of Text 2. Narrative styles and speech events are distinct.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "The overall assessment suggests that the texts show notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, indicating a lower likelihood of being written by the same author.",
+    "score": 0.48
+  }
+}

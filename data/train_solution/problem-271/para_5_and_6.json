@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and question marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text is more formal and structured, while the second text contains informal language, abbreviations, and lacks proper grammar.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text is concise and straightforward, while the second text is longer with more complex sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text has a neutral tone and is informative, while the second text has a more informal and demanding tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "The second text contains spelling errors (Biden, convert, please) while the first text is error-free.",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality, grammar, tone, and spelling errors, the likelihood of both texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

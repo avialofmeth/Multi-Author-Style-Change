@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as hyphens, brackets, and parentheses. However, the first paragraph uses more hyphens and parentheses compared to the second paragraph.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language with varied word choices. The second paragraph contains more technical terms related to healthcare compared to the first paragraph.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively similar sentence structures with a mix of complex and simple sentences. The first paragraph is slightly more concise compared to the second paragraph.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts share a similar informative tone but differ in terms of specific content and narrative styles. The first paragraph is more direct and opinionated compared to the second paragraph, which provides more detailed information.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, sentence structure, and absence of spelling errors, along with some differences in word choice and tone, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

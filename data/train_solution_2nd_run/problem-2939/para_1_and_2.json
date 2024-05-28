@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes the use of commas, parentheses, and quotation marks, while Paragraph 2 mainly uses commas and parentheses. Different punctuation styles may indicate different authors.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more informal and opinionated tone with specific word choices and grammatical structures, whereas Paragraph 2 is more formal and focused on providing guidelines. Differences in lexical and grammatical features suggest potential different authors.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer sentences with complex structures and higher word count compared to Paragraph 2, which has shorter and more straightforward sentences. The disparity in sentence structure and length may indicate different authors.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a critical and opinionated narrative style discussing political corruption and party preferences, while Paragraph 2 adopts a neutral and instructional tone regarding forum rules. The differences in narrative styles and speech events suggest varied authorship.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and typographical accuracy without errors, indicating consistency in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two texts, there is a moderate likelihood that they were written by different authors. The spelling and typographical accuracy is the only consistent feature. Therefore, the overall confidence score is moderately low.",
+    "score": 0.54
+  }
+}

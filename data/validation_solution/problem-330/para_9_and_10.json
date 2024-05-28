@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks and colons, while Paragraph 2 uses exclamation marks and parentheses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical terms like 'poverty line' and 'fixed', while Paragraph 2 includes slang terms like 'scammer' and 'karma'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter sentences in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more analytical tone discussing a specific issue, while Paragraph 2 is more accusatory and urgent in nature.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

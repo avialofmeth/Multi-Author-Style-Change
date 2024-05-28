@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, only the first text includes a colon, which is a slightly different punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate a similar level of lexical variation and word choice. They both exhibit a formal tone and use fairly complex grammatical structures.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively complex, but the second text is slightly more convoluted with longer sentences and more complex arrangements.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a somewhat formal tone and narrative style. The first text is more instructional, while the second text conveys a narrative element. However, the overall tone is consistent between the two.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, there is a moderate level of similarity in the writing style of the two texts, with some differences observed in punctuation style and sentence complexity. The overall confidence score is 0.77.",
+        "score": 0.77
+    }
+}

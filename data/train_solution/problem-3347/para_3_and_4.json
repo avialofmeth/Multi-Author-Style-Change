@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as commas, quotation marks, and hyphens. However, paragraph 1 has more complex punctuation with the use of colons and parentheses, while paragraph 2 mainly relies on commas and hyphens.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, paragraph 1 uses more informal language and contractions like 'us' instead of 'U.S.', while paragraph 2 employs more technical and formal vocabulary related to military operations.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure in paragraph 1 is more complex with longer sentences, while paragraph 2 contains shorter, more straightforward sentences. Paragraph 1 also shows a higher level of coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a reflective and critical tone, discussing past events, while paragraph 2 is more descriptive and focused on future actions. The narrative style and mood differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, demonstrating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, and text and discourse features, while similarities exist in spelling and typographical errors. The overall confidence score is moderate, indicating some inconsistencies in writing style that suggest different authors.",
+    "score": 0.36
+  }
+}

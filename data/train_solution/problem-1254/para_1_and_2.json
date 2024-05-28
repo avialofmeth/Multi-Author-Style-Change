@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, quotation marks, and full stops. However, the first text includes more varied punctuation like hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some commonality in style, such as informal language and specific terminology related to military events or equipment.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, both texts present a mix of complex and straightforward sentences. Some variations in sentence length and coherence are noticeable.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone differ between the texts; one is more anecdotal and dramatic, while the other is more informative and factual.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed similarity in punctuation usage, lexical and grammatical features, sentence structure, and the significant difference in narrative style, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks to indicate direct speech.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in lexical choice and sentence structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have varying sentence lengths and structures, indicating some similarity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 2 shows a more boastful and self-promoting tone compared to the more neutral tone in Text 1.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, and the absence of spelling errors, there is moderate confidence that the texts could be written by the same author.",
+        "score": 0.7
+    }
+}

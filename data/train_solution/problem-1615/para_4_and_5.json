@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display a similar use of punctuation, including hyphens and commas, to separate clauses and provide additional information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The texts share common lexical and grammatical features, such as informal language, slang ('hell of a bargain'), and a conversational tone.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit a similar sentence structure with short, direct sentences. They lack complexity and contain straightforward statements.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts share a common tone of casual conversation and use phrases like 'sounds like a bargain' and 'hell of a bargain'. They both convey a sense of informal dialogue.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, narrative tone, and lack of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.78
+    }
+}

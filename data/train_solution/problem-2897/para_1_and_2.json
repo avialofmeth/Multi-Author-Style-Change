@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates the use of various punctuation marks such as hyphens, colons, commas, and quotation marks for separating information and indicating details. In contrast, Paragraph 2 lacks such punctuations.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a formal and descriptive lexical choice with a focus on specific details related to the conditions described. In contrast, Paragraph 2 uses informal language and a more casual tone.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with detailed descriptions of events and conditions. Paragraph 2 consists of shorter, simpler sentences with a lack of detailed information.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a serious and informative tone, focusing on factual reporting. In contrast, Paragraph 2 uses a more casual and conversational tone with a touch of sarcasm.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts show no significant spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, as well as spelling and typographical errors, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

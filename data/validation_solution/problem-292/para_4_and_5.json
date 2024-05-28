@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar punctuation style with the use of commas, quotation marks, and periods. However, the first text contains more complex punctuation like colons and parentheses, which are not present in the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text contains more diverse vocabulary and complex sentence structures compared to the second text. The second text is more straightforward and uses simpler language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences with a mix of different sentence structures, while the second text is shorter and more straightforward in its sentence construction. Additionally, the first text includes references to future events, adding a layer of narrative style.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text presents a satirical and speculative tone regarding a future scenario, while the second text provides a positive, evaluative comment on a performance. The difference in narrative styles and speech events is evident.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the various linguistic features, the similarity in punctuation style and lack of spelling errors suggest a potential common author. However, differences in lexical complexity, sentence structures, narrative styles, and tone indicate some divergence in writing style. The overall confidence score is moderate, leaning towards the texts possibly not being written by the same author.",
+    "score": 0.52
+  }
+}

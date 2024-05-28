@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a formal punctuation style with proper use of commas, parentheses, and periods for clarity. In contrast, Paragraph 2 lacks structured punctuation, using more informal language and fewer punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, with specific vocabulary related to urban planning. In contrast, Paragraph 2 uses informal language and lacks the specialized terms seen in Paragraph 1.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a higher level of sentence complexity and coherence, with a clear argumentative structure. In contrast, Paragraph 2 contains shorter and less structured sentences, reflecting a more personal and reflective style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, focusing on a specific topic. In contrast, Paragraph 2 conveys a more emotional and reflective tone, discussing personal experiences and feelings.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate correct spelling and lack typographical errors, showing a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts. While there is similarity in spelling and typographical accuracy, the overall writing styles differ significantly, suggesting a low likelihood that the two texts were written by the same author.",
+    "score": 0.42
+  }
+}

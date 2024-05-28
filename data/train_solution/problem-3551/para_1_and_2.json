@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and quotation marks. However, the first paragraph uses more hyphens and parentheses compared to the second paragraph.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. The first paragraph contains specific vocabulary related to immigration and wages, while the second paragraph focuses on general guidelines for behavior. This indicates some variation in word choice and context-specific language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts exhibit a mix of sentence lengths and complexity. The first paragraph contains longer sentences with multiple clauses, whereas the second paragraph is more concise. However, both maintain coherence and cohesion within their respective contexts.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The text and discourse features differ significantly between the two paragraphs. The first paragraph adopts a more argumentative and confrontational tone, addressing specific issues and making pointed statements. In contrast, the second paragraph establishes a set of rules with a more formal and advisory tone. The narrative styles and speech events vary, suggesting potential differences in authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts do not exhibit spelling or typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The analysis reveals some commonalities in punctuation style and absence of spelling errors, but notable differences in lexical and discourse features. Considering the moderate level of strictness applied to scoring and the overall mixed results across features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

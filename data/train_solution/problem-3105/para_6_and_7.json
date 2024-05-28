@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods in a formal news report style, while Paragraph 2 uses informal language with no specific punctuation marks that stand out.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains formal and technical vocabulary related to news reporting, while Paragraph 2 includes informal and colloquial language with strong emotional expressions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences typical in news reporting, while Paragraph 2 has shorter, simpler sentences reflecting informal writing.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 follows a serious and factual tone common in news articles, while Paragraph 2 expresses personal emotion and strong opinions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts show correct spelling and no typographical errors, indicating a basic level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, tone, and the similarity in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.42
+  }
+}

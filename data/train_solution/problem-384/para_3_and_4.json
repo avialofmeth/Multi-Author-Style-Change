@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with proper usage of commas and periods. Paragraph 2 includes a colon for comparison and lacks commas in certain instances.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and courteous word choice, focusing on guidelines and rules. Paragraph 2 uses more direct and colloquial language with terms like 'blow up' and 'Nazis'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of relatively balanced sentence structures with clear coherence. Paragraph 2 has shorter, more abrupt sentences that lack the same level of cohesion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone focused on behavior guidelines. Paragraph 2 introduces a more emotive and comparative tone, referencing historical events.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, displaying a good level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, word choice, sentence structure, and tone, along with the similarities in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

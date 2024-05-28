@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts exhibit consistent use of hyphens and commas for listing and parenthetical information.",
+		"score": 0.8
+	},
+	"feature2": {
+		"explanation": "While both texts show variation in word choice and use of technical terms, they differ significantly in terms of subject matter, which might affect the lexical features.",
+		"score": 0.4
+	},
+	"feature3": {
+		"explanation": "The sentence structures in both texts are clear and coherent, with a mix of complex and simple sentences. However, the second text contains more technical details and longer sentences compared to the first text.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "The narrative styles and tone differ greatly due to the different topics discussed in each text, making it difficult to assess common expressions or mood.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "Both texts are free from spelling and typographical errors.",
+		"score": 1
+},
+	"overall": {
+		"explanation": "Considering the differences in subject matter and narrative styles, the overall confidence in the texts being written by the same author is moderate.",
+		"score": 0.62
+	}
+}

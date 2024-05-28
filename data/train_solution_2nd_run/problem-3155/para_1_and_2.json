@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts demonstrate a consistent use of punctuation marks such as colons, commas, and quotation marks. However, the first text focuses more on hyphens and parentheses, while the second text includes a detailed explanation with a variety of punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show differences in word choice and complexity. The first text emphasizes military and armed elements with specific terminology, while the second text delves into a broader discussion on genocide with a more academic vocabulary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text contains shorter and more direct sentences compared to the second text, which is more elaborate and detailed. The coherence and cohesion also differ significantly between the texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts vary greatly. The first text has a more direct and assertive tone, focusing on historical events, while the second text adopts a formal and academic tone discussing the concept of genocide in detail.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two texts, the likelihood of them being written by the same author is low. However, the absence of spelling errors provides some common ground. Therefore, the overall confidence score is moderate.",
+        "score": 0.48
+    }
+}

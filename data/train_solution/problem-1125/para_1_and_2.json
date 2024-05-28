@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains informal punctuation with ellipses and exclamation marks, while Paragraph 2 uses more standard punctuation with commas and periods.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has informal word choices and abbreviations ('omg'), whereas Paragraph 2 is more formal and uses standard language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter and less structured sentences with informal language compared to the more structured and coherent sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual tone and expresses personal opinions, while Paragraph 2 is more neutral and factual.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.44
+    }
+}

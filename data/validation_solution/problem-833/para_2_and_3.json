@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks and parentheses, although their usage differs slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a more informal and potentially confrontational tone, while Text 2 follows a more formal and courteous tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more direct sentences compared to Text 2, which has longer sentences with more formal structures.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts focus on discussing ideas, although the tone and approach differ significantly. Text 1 is more argumentative and provocative, while Text 2 emphasizes respectful debate.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone, sentence structure, and overall approach, the texts are less likely to be written by the same author.",
+        "score": 0.54
+    }
+}

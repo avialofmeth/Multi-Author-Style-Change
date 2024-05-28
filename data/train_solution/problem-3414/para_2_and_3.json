@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas and periods. However, text 1 includes more varied punctuation like parentheses and colons compared to text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 contains more formal and structured language related to guidelines and criteria, while text 2 has a more casual and opinionated tone. The lexical choices and word usage differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively simple sentence structures with clear coherence. However, text 1 is more directive and informative in nature, while text 2 expresses a personal opinion with a slightly more complex sentence structure.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 is more informational and instructional, maintaining a neutral tone. In contrast, text 2 conveys a specific political opinion with a tone that is more expressive and subjective.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, and text and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.52
+  }
+}

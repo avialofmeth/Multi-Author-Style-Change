@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, colons, and parentheses, but the first paragraph uses more formal punctuation like colons and brackets, whereas the second paragraph uses hyphens for emphasis.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. The first paragraph is more formal and instructional, while the second paragraph is more informal and narrative.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures in the two texts vary greatly. The first paragraph consists of short, straightforward sentences, while the second paragraph is more complex and includes speculation.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The discourse features also differ notably. The first paragraph is direct and informational, while the second paragraph includes speculation and a more argumentative tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

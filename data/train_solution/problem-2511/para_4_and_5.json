@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of punctuation, including commas and periods. However, there are differences in the use of hyphens and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of simple and complex sentence structures. There are variations in word choice and part of speech usage.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The texts differ in terms of sentence complexity and coherence. Paragraph 1 appears less structured compared to Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "There are differences in the narrative styles and tone between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different features, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

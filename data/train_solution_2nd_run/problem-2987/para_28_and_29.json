@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and question marks, while Paragraph 2 uses hyphens, commas, and periods. Both texts utilize punctuation marks to convey the writer's thoughts.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses informal language like 'just take the chance' and 'hope for the best,' whereas Paragraph 2 employs a more formal tone with phrases like 'educate yourself' and 'world power.' The lexical and grammatical choices differ significantly.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with simpler structures, focusing on energy needs. In contrast, Paragraph 2 contains longer sentences expressing distrust towards government actions. The sentence structures and quantitative features vary substantially.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a somewhat neutral tone, urging action with a hint of uncertainty. Whereas Paragraph 2 adopts a critical and accusatory tone, questioning motives and actions. The narrative styles and speech events diverge significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text, indicating a similar level of attention to detail in the writing process.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, along with some commonalities in punctuation usage and absence of spelling errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

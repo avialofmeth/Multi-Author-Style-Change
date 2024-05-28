@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas in a casual and conversational style, while Paragraph 2 lacks these elements.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal lexical choices and word structures, with a mix of complex and simple sentences.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more narrative and discursive, with longer sentences, while Paragraph 2 is concise and directive.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar tone of informative communication but differ in terms of formality and context.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and discourse features, along with some commonalities in lexical and grammatical choices and lack of errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

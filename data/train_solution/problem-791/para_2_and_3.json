@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a formal and structured punctuation style with colons and commas for clarity and organization. Paragraph 2 contains informal punctuation with ellipses and informal language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs more formal and technical vocabulary related to media outlets and subreddit guidelines. Paragraph 2 uses informal language with slang and references to political figures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of straightforward and informative sentences. Paragraph 2 has more complex and opinionated sentences with rhetorical questions and speculative statements.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and informative tone related to subreddit guidelines. Paragraph 2 has a sarcastic and critical tone towards political figures and events.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs do not exhibit spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and tone, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

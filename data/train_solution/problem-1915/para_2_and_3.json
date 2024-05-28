@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks for direct speech, while Paragraph 2 also uses quotation marks for direct speech. Both paragraphs use punctuation marks appropriately.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes informal language and slang like 'be like', while Paragraph 2 exhibits a more formal tone. There is a difference in lexical choice and word usage in the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is shorter and more straightforward in structure with a focus on conveying a quick message, whereas Paragraph 2 is longer, more elaborate, and includes complex sentence structures.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more casual tone with meme references, while Paragraph 2 has a serious and motivational tone. The narrative styles and speech events are quite different between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, text and discourse features, and tone, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.6
+  }
+}

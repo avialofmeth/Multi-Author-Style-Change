@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens and commas, but differ in the use of other punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Distinct differences in lexical choice and word usage between the two paragraphs.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Varying sentence structures and coherence in the two paragraphs.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Difference in narrative styles, tone, and mood in the two paragraphs.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors found in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, the linguistic features suggest a low likelihood that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

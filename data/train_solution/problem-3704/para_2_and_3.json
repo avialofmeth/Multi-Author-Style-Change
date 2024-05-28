@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with commas and periods, while Paragraph 2 contains a mix of punctuation marks like hyphens, colons, and periods.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit formal language with clear instructions, but Paragraph 1 focuses more on rule enforcement language, while Paragraph 2 addresses questions regarding media outlets.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with a list of prohibited behaviors, while Paragraph 2 has shorter sentences addressing a specific topic.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and informative tone, emphasizing rules and guidelines, suggesting a similar discourse style.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and topic focus, along with the similarities in formal language, tone, and absence of errors, the texts show moderate consistency in writing style, indicating a potential but not definitive likelihood of being written by the same author.",
+        "score": 0.62
+    }
+}

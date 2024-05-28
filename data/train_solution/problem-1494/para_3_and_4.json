@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with proper hyphens, colons, and commas. Paragraph 2 lacks proper punctuation, contains informal language, and includes profanity.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal and structured language with clear word choice. Paragraph 2 contains informal language, slang, and profanity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear sentence arrangements. Paragraph 2 has longer and more complex sentences, but lacks coherence and cohesion due to informal language and abrupt transitions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and neutral tone. Paragraph 2 has a more informal tone, contains expressions like 'fucking cocky', and reflects a specific political viewpoint.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, language style, sentence structure, and tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.44
+  }
+}

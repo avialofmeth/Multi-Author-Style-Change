@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use quotation marks and commas in a similar way. However, Paragraph 1 includes more complex punctuation like hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display a similar level of lexical variation and word choice. Grammatical categories and part of speech usage are also consistent.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs are straightforward. Paragraph 1 is longer and includes more complex sentence arrangements.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs present information in a direct manner without much narrative style. Paragraph 2 is more formal as it clarifies its automated nature.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all the features collectively, there are notable similarities in the punctuation style, lexical and grammatical features, and absence of spelling errors. The differences in sentence structure and narrative style slightly lower the confidence in the texts being written by the same author.",
+        "score": 0.72
+    }
+}

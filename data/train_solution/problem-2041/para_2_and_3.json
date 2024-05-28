@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of punctuation marks such as commas, periods, and apostrophes. However, the first paragraph contains more formal punctuation like colons and parentheses while the second paragraph lacks these formal marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of word choice and lexical variation, the first paragraph uses more technical language related to media outlets and subreddit guidelines, while the second paragraph contains more informal language with phrases like 'blow up in their faces.' There is a difference in the lexical and grammatical features between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have varying sentence lengths and structures. The first paragraph is more formal and structured, with concise sentences. In contrast, the second paragraph has a more conversational tone and longer sentences. This difference in sentence structure impacts coherence and cohesion.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The first paragraph is more formal and directive in tone, focusing on providing information. The second paragraph has a conversational tone with expressions like 'I just think it's going to blow up in their faces.' There is a noticeable difference in narrative styles and tone between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and similarity in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

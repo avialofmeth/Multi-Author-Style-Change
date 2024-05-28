@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses and commas to provide additional information and clarify the main idea. In contrast, Paragraph 2 lacks these types of punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more varied lexical choice with terms like 'coherent' and 'presidential,' while Paragraph 2 has a simpler vocabulary typical of automated responses.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with a narrative style, while Paragraph 2 is brief and lacks depth in sentence structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a tone of analysis and opinion, using evaluative language. In contrast, Paragraph 2 is purely informative in a neutral tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, showing proficiency in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts. However, they share a commonality in the absence of spelling and typographical errors. The overall confidence score for the likelihood of the same authorship is moderate.",
+    "score": 0.5
+  }
+}

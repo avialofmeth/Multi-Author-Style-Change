@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods. However, there are differences in the use of hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The texts exhibit differences in lexical choices and word usage. Sentence structures also vary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence length and complexity between the two texts. The coherence and cohesion also differ.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts differ in tone and mood, with one expressing gratitude and the other portraying shame. The narrative styles are not similar.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in lexical choices, sentence structures, and tone, along with some similarities in punctuation usage and absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.54
+    }
+}

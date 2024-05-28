@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, and commas for punctuation. Paragraph 2 uses hyphens and commas but lacks parentheses or colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display similar lexical variation and word choices. They both use informal language and contractions.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have similar sentence lengths and structures, with a mix of complex and simple sentences. They both maintain coherence and cohesion within the text.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While the topics differ, the narrative styles and tone are somewhat consistent in both paragraphs. Both express personal opinions and experiences.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are some typographical errors ('illigal' instead of 'illegal') in Paragraph 2. Paragraph 1 is relatively error-free.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there is moderate evidence to suggest that the two texts may have been written by the same author.",
+        "score": 0.66
+    }
+}

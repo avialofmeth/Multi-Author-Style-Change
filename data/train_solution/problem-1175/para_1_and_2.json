@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons to introduce steps in a process, while Paragraph 2 lacks clear punctuation structure and uses commas in an unconventional manner.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical lexical and grammatical style related to technology, whereas Paragraph 2 shows a more informal and opinionated tone with different word choices.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of structured sentences focused on a specific topic, while Paragraph 2 lacks coherence and features erratic sentence structure.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral tone related to technology, while Paragraph 2 exhibits a more critical and opinionated tone on political matters.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts do not show significant spelling or typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, as well as the slight similarity in lack of spelling errors, the overall confidence score is moderate, indicating a low likelihood that the two texts were written by the same author.",
+        "score": 0.38
+    }
+}

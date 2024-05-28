@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas more frequently compared to Paragraph 2, which uses more periods and lacks commas in some instances.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show similarities in lexical choice and word usage, such as 'crude,' 'impact,' 'oil,' and 'government.' However, Paragraph 2 displays slightly more formal language compared to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit a mix of complex and simple sentences. Paragraph 1 contains shorter sentences overall, while Paragraph 2 has longer sentences with more details. Both paragraphs demonstrate coherence in discussing oil prices and government funding.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a similar tone of discussing economic matters related to oil prices and government funding. However, Paragraph 2 appears slightly more formal in its tone compared to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no notable spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.66
+  }
+}

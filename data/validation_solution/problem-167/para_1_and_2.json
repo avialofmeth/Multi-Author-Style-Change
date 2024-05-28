@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts contain a mix of casual and formal language, indicating a moderate level of similarity in lexical and grammatical features.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity and length, but there are similarities in coherence and cohesion.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text is more narrative and expressive, while the second text is more functional and direct. There are differences in tone and mood.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the combination of these features, there are notable similarities in punctuation style, lexical and grammatical features, and sentence structure. However, the difference in narrative style and tone slightly lowers the overall confidence in the texts being written by the same author.",
+        "score": 0.7
+    }
+}

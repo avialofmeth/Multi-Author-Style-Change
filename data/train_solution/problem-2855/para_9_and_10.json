@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas and hyphens, while Paragraph 2 includes commas and apostrophes but lacks hyphens or colons.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choices and sentence structures, with Paragraph 1 focusing on political platforms and actions, while Paragraph 2 discusses education funding and party affiliations.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with multiple clauses, while Paragraph 2 consists of shorter sentences with a more direct style.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ significantly between the two texts, with Paragraph 1 being more critical of Republicans in general, while Paragraph 2 specifically targets Doug Ducey and GOP members.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

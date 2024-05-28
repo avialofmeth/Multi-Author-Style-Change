@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks like hyphens, commas, and quotation marks in a consistent manner. There are no significant differences in the punctuation style between the two texts.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The word choice, grammatical structures, and vocabulary vary significantly, indicating a difference in writing style.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ in complexity, length, and coherence between the two texts. Paragraph 1 is shorter and more straightforward, while Paragraph 2 contains longer and more detailed sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features diverge in narrative styles, tone, and mood. Paragraph 1 presents a more ominous and speculative tone, whereas Paragraph 2 focuses on factual information about carbon emissions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text/discourse features, it is unlikely that the two texts were written by the same author. The punctuation style and absence of spelling errors provide some commonality, but overall, the writing styles differ significantly.",
+        "score": 0.54
+    }
+}

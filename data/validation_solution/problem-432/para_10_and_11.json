@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and question marks for punctuation, while Paragraph 2 includes hyphens and commas. There are differences in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit complex vocabulary and formal language. However, the focus and specific terminology differ between the two texts. Some commonality in sentence structure and word choice.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer, more convoluted sentences compared to Paragraph 2. Paragraph 2 has clearer sentence structures. Differences in sentence complexity and arrangement.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts discuss geopolitical issues with a serious tone. However, Paragraph 2 includes more specific details about national security concerns and strategies. Some similarity in narrative style.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style and sentence complexity, along with the similarities in vocabulary and narrative style, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.54
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain informal language and expletives, using hyphens and profanity in a similar manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual and conversational tone with a mix of slang and colloquial expressions.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short sentences with straightforward structures, lacking complex syntactic patterns.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is informal and opinionated, discussing political figures with a critical perspective.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.76
+    }
+}

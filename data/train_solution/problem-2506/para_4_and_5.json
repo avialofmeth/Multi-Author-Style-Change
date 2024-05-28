@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses emojis, hyphens, and exclamation marks, while Paragraph 2 uses colons and parentheses. There is a difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and slang ('hahaha, hammer time!'), while Paragraph 2 is more formal and structured. There is a significant difference in lexical and grammatical features.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is short and consists of a single sentence with a casual tone. Paragraph 2 is longer and more informative. There is a clear distinction in sentence structure and quantitative features.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a sarcastic and mocking tone, while Paragraph 2 is neutral and informative. The narrative styles and tone differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, along with the absence of spelling errors, the overall confidence score for the likelihood of the two texts being written by the same author is low.",
+        "score": 0.32
+    }
+}

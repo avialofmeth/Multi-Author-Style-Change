@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses various punctuation marks such as hyphens, commas, quotation marks, and question marks in a confrontational or argumentative manner. Paragraph 2 lacks the aggressive tone and uses punctuation more for clarity and emphasis.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more informal and aggressive language with phrases like 'misogynist,' 'fragile,' 'shitty,' and 'mansplaining.' In contrast, Paragraph 2 maintains a more neutral and informative tone with terms like 'progressive' and 'noticeable.'",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 features longer, more complex sentences with a sarcastic and dismissive tone. In contrast, Paragraph 2 contains simpler, direct sentences focused on conveying information.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more confrontational and argumentative style, using phrases like 'I don't appreciate,' 'fragile,' and 'never treat women with the respect they deserve.' Paragraph 2 discusses observations without engaging in direct confrontation.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs display correct spelling and punctuation without typographical errors, indicating a level of attention to detail in written communication.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the texts exhibit marked distinctions in tone, complexity, and style. However, the absence of typographical errors provides a commonality in writing quality. Therefore, the overall confidence score is moderate, suggesting that the likelihood of the two texts being written by the same author is low to moderate.",
+    "score": 0.46
+  }
+}

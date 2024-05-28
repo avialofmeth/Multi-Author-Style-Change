@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar use of punctuation such as commas and periods. However, Paragraph 1 contains a wider variety of punctuation marks like colons and slashes, while Paragraph 2 uses more straightforward punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use formal language and specific terminology related to rules and guidelines. Paragraph 1 contains more varied vocabulary related to behavioral guidelines, while Paragraph 2 uses technical terms related to media outlets.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer sentences with a mix of clauses, creating a moderate level of complexity. In contrast, Paragraph 2 consists of simpler and shorter sentences focused on providing clear instructions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs adopt a formal and instructive tone suitable for conveying rules and guidelines. Paragraph 1 emphasizes behavioral expectations, while Paragraph 2 focuses on providing information and direction.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate accurate spelling and proper grammar without typographical errors. The writing is consistent and error-free in terms of spelling and punctuation.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score for the likelihood that the two texts were written by the same author is moderate to high.",
+        "score": 0.7
+    }
+}

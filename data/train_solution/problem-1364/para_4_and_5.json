@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation, but the first text includes more technical terms which may impact punctuation choices.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of technical and non-technical vocabulary, showing some similarity in lexical variation.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are somewhat complex, with technical explanations present. However, the second text discusses Android specifically, which influences sentence structures.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a more technical tone due to discussing kernel and firmware, while the second text is more casual in tone as it compares Android to Linux.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attentiveness to detail.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, lexical variation, and lack of spelling errors, along with the slight differences in tone and topic influence on sentence structures, the likelihood of the texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

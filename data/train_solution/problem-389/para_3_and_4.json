@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation like colons and commas for clarity and structure, while Paragraph 2 uses more informal punctuation like parentheses and em dashes for emphasis and asides.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs formal language and technical terms related to media outlets, while Paragraph 2 uses informal language and colloquial expressions like 'Yup' and 'might not deserve'. The lexical variation and word choice differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a longer and more complex sentence focused on providing information, whereas Paragraph 2 is shorter and more conversational in structure. Sentence length and complexity vary between the two texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informative tone, typical of an official announcement or guideline. In contrast, Paragraph 2 has a more casual and opinionated tone, expressing personal views. The narrative styles and tone are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts exhibit significant disparities in writing style. However, the absence of spelling and typographical errors suggests a common standard of language proficiency. On average, the overall confidence in the same authorship is moderate.",
+        "score": 0.46
+    }
+}

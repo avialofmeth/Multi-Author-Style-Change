@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as commas and periods. However, the first text uses more complex punctuation like colons and parentheses, while the second text does not. This difference may indicate a slight divergence in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show some differences. The first text uses technical terms related to military actions, while the second text discusses victory conditions. This distinction in vocabulary suggests a potential difference in writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text contains longer sentences with more complex structures, while the second text is more straightforward and concise. This contrast in sentence length and complexity points to a divergence in writing style.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The text and discourse features reveal that the first text focuses on describing specific events and actions, while the second text discusses broader concepts like victory conditions. This difference in narrative style suggests a potential variance in authorship.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The analysis of the five features indicates some notable differences in writing style between the two texts, particularly in terms of punctuation style, lexical and grammatical features, and sentence structure. While they share a commonality in the absence of spelling errors, the overall assessment suggests a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.64
+    }
+}

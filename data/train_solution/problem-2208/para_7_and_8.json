@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both paragraphs use parentheses and ellipses for additional information and emphasis. However, the first paragraph includes hyphens, colons, and commas in a more aggressive and fragmented manner compared to the second paragraph.",
+		"score": 0.6
+	},
+	"feature2": {
+		"explanation": "The first paragraph showcases more informal language with contractions like 'wasn't' and slang terms like 'groomed.' The second paragraph is more formal and direct in its word choice and structure.",
+		"score": 0.4
+	},
+	"feature3": {
+		"explanation": "Both paragraphs consist of relatively short sentences with straightforward structures. However, the first paragraph contains more complex sentence structures with multiple clauses, while the second paragraph is more concise and to the point.",
+		"score": 0.5
+	},
+	"feature4": {
+		"explanation": "Both paragraphs convey a critical tone and share a focus on political figures. However, the first paragraph expresses criticism towards specific individuals, while the second paragraph discusses a broader strategy without targeting individuals.",
+		"score": 0.7
+	},
+	"feature5": {
+		"explanation": "Both paragraphs are free of spelling and typographical errors.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the differences in punctuation style, word choice, sentence structure, and tone between the two paragraphs, the likelihood of them being written by the same author is moderate.",
+		"score": 0.64
+	}
+}

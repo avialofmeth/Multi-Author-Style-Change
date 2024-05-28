@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, quotation marks, and dashes consistently.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts display a mix of formal and informal language, with one using profanity.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structurally complex with longer sentences compared to the more fragmented structure of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is formal and informative, while Paragraph 2 is informal and expresses frustration.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality, structure, and language use, there are notable distinctions in writing style that lower the overall confidence in the texts being written by the same author.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as hyphens, quotation marks, and commas. The first text includes colons and parentheses, which are not present in the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The first text exhibits a more formal and technical vocabulary related to defense and security, while the second text is more informal with colloquial expressions. The differences in word choice suggest a potential variation in authors.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text contains longer and more complex sentences discussing a specific topic, while the second text is shorter and more conversational. The sentence structures and lengths differ significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The first text adopts a formal and informative tone related to a specific official announcement, while the second text has a casual and opinionated tone with abbreviations like 'tbh'. The narrative styles and speech events diverge noticeably.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in vocabulary, sentence structure, and tone, as well as the presence of unique punctuation in the first text, it is likely that the two texts were not written by the same author.",
+    "score": 0.56
+  }
+}

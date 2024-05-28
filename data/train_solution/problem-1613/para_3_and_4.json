@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, colons, and commas, although in different contexts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts contain a mix of informal language and specific terminology.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts have varying sentence lengths and structures, with one being more formal and the other more conversational.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The tone and mood differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in tone and mood, as well as the mix of formal and informal language, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

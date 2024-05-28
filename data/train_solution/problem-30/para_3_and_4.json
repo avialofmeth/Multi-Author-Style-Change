@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses to provide additional information within the sentences. However, the presence of other punctuation marks like hyphens, colons, commas, and quotation marks vary between the two texts.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "There is a mix of lexical and grammatical features in both texts. While one text is more casual and conversational in word choice, the other is more formal and structured due to the nature of being a bot response.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features differ significantly between the two texts. One text is a question expressing confusion while the other is a statement indicating automated action. The coherence and cohesion also vary.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show a clear distinction between the two texts. The narrative style, speech events, and tone are completely different, with one being a query and the other an automated response.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

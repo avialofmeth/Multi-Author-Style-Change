@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a more standard and appropriate punctuation style with colons, commas, and periods. Paragraph 2 has inconsistent punctuation and lacks proper punctuation in some instances.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more formal and structured lexical and grammatical style. In contrast, paragraph 2 includes more informal language, potentially indicating a different author.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has clear sentence structures and coherence. Paragraph 2 lacks cohesion and contains abrupt shifts in topics and ideas.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone suitable for a moderator application. Paragraph 2 exhibits a more opinionated and argumentative tone on historical and religious topics.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not show significant spelling or typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, along with some similarities in spelling and lack of typographical errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.52
+  }
+}

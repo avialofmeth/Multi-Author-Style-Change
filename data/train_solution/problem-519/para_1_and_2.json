@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of hyphens and quotation marks, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit different lexical choices and word usage, indicating distinct writing styles.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Sentence structures vary significantly between the two paragraphs, with differences in complexity and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ greatly between the two texts, suggesting different authors.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors noted in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, along with the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

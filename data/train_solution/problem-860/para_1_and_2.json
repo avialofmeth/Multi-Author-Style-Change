@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of punctuation marks such as commas, colons, and quotation marks. However, Paragraph 1 has more instances of commas and parentheses compared to Paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language, with varying word choices and grammatical structures. Paragraph 1 contains more colloquial expressions and informal language compared to the more formal tone of Paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts have varied sentence structures and lengths. Paragraph 1 includes longer sentences with multiple clauses, while Paragraph 2 consists of shorter, more straightforward sentences.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone differ significantly between the two texts. Paragraph 1 expresses a specific opinion on means testing in programs, while Paragraph 2 provides general guidelines on courteous behavior without expressing personal opinions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in narrative style and tone, as well as the variations in lexical choices and sentence structures, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.68
+    }
+}

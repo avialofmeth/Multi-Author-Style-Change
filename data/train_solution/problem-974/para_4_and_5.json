@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a formal and structured punctuation style with clear separation of clauses and ideas using commas, colons, and parentheses. Paragraph 2 lacks proper punctuation and instead relies on dashes for separation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a preference for formal and polite language with a focus on rule enforcement. Paragraph 2 uses informal and aggressive language with slang ('send Walker up the river') and references to political figures ('Putin').",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows well-structured and coherent sentences with a clear focus on rules and consequences. Paragraph 2 features shorter and more fragmented sentences with a narrative style and a focus on a specific event.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a neutral and informative tone focused on setting guidelines. Paragraph 2 conveys a dramatic and conspiratorial tone with references to secretive actions and downfall.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is well-written without spelling or typographical errors. Paragraph 2 contains some typographical errors ('GOP' not written in full, missing punctuation).",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, language style, sentence structure, tone, and errors, the overall confidence score is moderate, indicating that the two texts are unlikely to be written by the same author.",
+        "score": 0.28
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas, ellipses, and periods. Paragraph 2 uses informal punctuation like double periods and non-standard abbreviations ('um..').",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured use of language with proper grammar. In contrast, Paragraph 2 contains informal language with incomplete sentences and slang ('um..').",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of complex sentences and exhibits a higher level of coherence and cohesion. Paragraph 2 lacks coherent structure and features fragmented thoughts.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone discussing historical events. Paragraph 2 has a casual and conversational tone with colloquial expressions and abrupt transitions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

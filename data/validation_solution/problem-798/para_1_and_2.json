@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and proper punctuation style with the use of commas, colons, and periods. In contrast, Paragraph 2 lacks proper punctuation and includes run-on sentences.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses standard vocabulary and grammatical structures suitable for formal writing. Paragraph 2 includes informal language and non-standard grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of coherent and well-structured sentences. Paragraph 2 lacks coherence and contains abrupt shifts in content and tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone. Paragraph 2 adopts a sarcastic and mocking tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is free of spelling and typographical errors. Paragraph 2 contains typographical errors ('libs' instead of 'lives').",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of the two texts being written by the same author is low due to significant differences in writing style.",
+    "score": 0.42
+  }
+}

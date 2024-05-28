@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods correctly, while Paragraph 2 lacks proper punctuation and uses unconventional punctuation, such as the lack of spaces after commas and periods.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and coherent use of language with appropriate word choice and grammar, whereas Paragraph 2 contains informal language, lacks coherence, and includes non-standard word usage.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has structured and coherent sentences with proper length and arrangement, while Paragraph 2 displays fragmented and incoherent sentence structures with inconsistent length and arrangement.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a professional and informative tone suitable for a moderator application announcement, while Paragraph 2 conveys a more casual, disjointed, and possibly emotional tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is free from spelling and typographical errors, whereas Paragraph 2 contains multiple spelling errors and lacks proper punctuation, leading to a less polished appearance.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, language coherence, sentence structure, tone, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.24
+    }
+}

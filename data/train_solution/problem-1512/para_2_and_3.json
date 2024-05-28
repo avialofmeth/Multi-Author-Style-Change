@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses hyphens, colons, and parentheses, while Paragraph 2 uses quotation marks and hyphens. Both texts show a mix of punctuation styles.",
+		"score": 0.5
+	},
+	"feature2": {
+		"explanation": "Both paragraphs exhibit a mix of lexical and grammatical features with varied word choices and sentence structures, contributing to a moderate level of similarity.",
+		"score": 0.6
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 is more structured and informational, while Paragraph 2 is more conversational and includes examples. There is a difference in coherence and sentence structure.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Both texts have a different tone and mood - Paragraph 1 is formal and informative, while Paragraph 2 is more informal and critical, showing a discrepancy in narrative styles and speech events.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "The texts show some similarities in punctuation and lexical features but differ significantly in sentence structure, discourse features, and tone. The lack of spelling errors suggests a similar level of attention to detail. Considering all features, the overall confidence score is moderate.",
+		"score": 0.56
+	}
+}

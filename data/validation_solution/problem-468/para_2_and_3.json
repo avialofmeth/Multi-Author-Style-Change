@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation usage with colons, parentheses, and commas being used in a structured manner.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the texts, with one focusing on media guidelines and the other on political opinions. Different word choices and grammatical structures are apparent.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures and lengths vary greatly, with the first text being more formal and structured, while the second text is more emotive and opinionated.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The discourse features are notably distinct, with one text being informational and directive, while the other is expressive and accusatory.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and discourse styles, along with the similarity in punctuation usage and absence of spelling errors, the overall confidence score that these texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

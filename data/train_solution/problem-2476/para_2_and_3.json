@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains a mix of punctuation marks such as commas, periods, and apostrophes. Paragraph 2 lacks punctuation marks like periods and commas, making it harder to follow.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more descriptive language and specific terms related to the narrative. Paragraph 2 has a more abstract and philosophical tone with less specific language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more detailed sentences with a clear chronological order. Paragraph 2 consists of shorter, fragmented sentences lacking a clear structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a narrative style with a detailed account of events and interactions between characters. Paragraph 2 lacks a clear narrative structure and focuses more on abstract reflections.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences between the two texts in terms of sentence structure, tone, and narrative style. However, the lack of typographical errors suggests some consistency in writing quality. Overall, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.44
+  }
+}

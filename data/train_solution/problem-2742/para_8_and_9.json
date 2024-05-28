@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of hyphens, colons, and commas for sentence structuring and clarity.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 showcases a formal and structured use of language, while Text 2 appears more casual and conversational. Differences in word choice and grammar are noticeable.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences with clear coherence. Text 2 contains shorter, more fragmented sentences with abrupt transitions.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 maintains a narrative style with a clear tone and cohesive expression. Text 2 adopts a more opinionated and informal tone, lacking narrative flow.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "The texts demonstrate some similarities in punctuation style and absence of spelling errors, but significant differences in lexical choice, sentence structure, and tone. The overall likelihood of the same author is moderate due to mixed indicators.",
+    "score": 0.64
+  }
+}

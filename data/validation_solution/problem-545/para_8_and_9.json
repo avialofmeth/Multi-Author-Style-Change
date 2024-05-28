@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses normal punctuation marks like question marks and periods, while Paragraph 2 lacks proper punctuation and ends abruptly without a period.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs contain informal language with abbreviations ('Lol', 'what???'), indicating a casual writing style. However, Paragraph 2 includes a more formal question structure.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a straightforward sentence structure with clear coherence, while Paragraph 2 has a more complex sentence structure with multiple clauses.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs exhibit a direct tone, but Paragraph 1 expresses surprise ('Lol what???'), while Paragraph 2 poses a specific question.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and tone, the likelihood that the two texts were written by the same author is relatively low.",
+        "score": 0.48
+    }
+}

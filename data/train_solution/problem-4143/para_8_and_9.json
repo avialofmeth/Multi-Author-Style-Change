@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and parentheses, while Paragraph 2 uses commas and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more technical and precise word choice compared to the more casual language in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence complexity and coherent structure.",
+        "score": 0.9
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a slightly more informal tone with the use of 'Hehe' compared to the more serious tone in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style and word choice, but similarities in sentence structure, tone, and absence of errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

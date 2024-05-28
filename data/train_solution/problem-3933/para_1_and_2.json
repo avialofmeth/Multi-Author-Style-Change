@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent and appropriate use of punctuation marks such as commas, parentheses, and quotation marks. However, the first text contains more varied punctuation with the use of hyphens and colons.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There is a difference in the lexical and grammatical features between the two texts. The first text focuses on a specific character in fiction writing, while the second text discusses a scenario involving a shopping mall and economic downturn. This leads to distinct lexical choices and word usage.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structure in the first text is more elaborate with references to specific characters and scenarios, while the second text is more straightforward in its description of a situation. This reflects a difference in sentence complexity and arrangement.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts differ significantly due to their distinct topics. The first text adopts a storytelling approach related to a detective character, while the second text presents a hypothetical situation involving a shopping mall. The tone and mood also vary between the texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is low. The differences in lexical and grammatical features, sentence structure, and narrative styles outweigh the similarities in punctuation and absence of spelling errors.",
+        "score": 0.5
+    }
+}

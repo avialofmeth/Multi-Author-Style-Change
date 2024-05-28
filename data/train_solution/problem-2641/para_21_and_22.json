@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain informal language with the use of hyphens and informal contractions ('ya, y'all). However, the punctuation styles differ slightly with one text using more hyphens and the other using more formal punctuation like colons and semicolons.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal lexical choices and word variations. They both use colloquial expressions and informal language. However, one text shows slightly more complexity in word choice compared to the other.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both texts is relatively simple with a conversational tone. Both contain short sentences and lack complex syntactic structures. However, one text shows slightly more sentence complexity compared to the other.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts adopt a conversational and informal tone. They express frustration and disbelief. However, one text uses more explicit language than the other, affecting the overall tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are notable similarities in the writing style of the two texts, particularly in terms of informal language and tone. However, slight differences in punctuation style, lexical complexity, sentence structure, and tone suggest some variability in the authorship. The overall similarity score is moderate, indicating a likelihood that the texts were written by the same author.",
+    "score": 0.7
+  }
+}

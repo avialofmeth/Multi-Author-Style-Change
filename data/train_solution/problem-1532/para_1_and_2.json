@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show a consistent use of punctuation marks such as commas, parentheses, and hyphens. However, the presence of brackets in paragraph 1 and the absence of colons in both texts indicate some differences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a specific lexical and grammatical style with phrases like 'dereliction of duty' and 'sleeper cells' which are not present in paragraph 2. However, both texts maintain a formal tone and use varied vocabulary.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer, complex sentences with detailed explanations, while paragraph 2 is concise and straightforward. This difference in sentence structure may suggest a variation in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts express opinions or provide information, but the narrative style in paragraph 1 is more persuasive and argumentative in nature compared to the neutral and informative tone of paragraph 2.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a consistent level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

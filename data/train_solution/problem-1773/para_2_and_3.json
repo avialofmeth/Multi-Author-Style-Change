@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language with the inclusion of profanity. Paragraph 1 uses a hyphen while Paragraph 2 does not.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual tone with simple sentence structures. Paragraph 1 uses contractions ('can’t') while Paragraph 2 does not.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are short and lack complexity in sentence structure. Paragraph 1 has a slightly more complex sentence structure.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts express opinions bluntly. Paragraph 1 shows hope while Paragraph 2 suggests a harsh action.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in informal language, casual tone, and absence of spelling errors, along with the distinction in punctuation and sentence complexity, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

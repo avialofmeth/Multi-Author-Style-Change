@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation style, with the use of commas, slashes, colons, and periods to separate ideas and list items.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show differences in the choice of words and grammar structures, with the first text emphasizing respect and rules, while the second text focuses on media outlets and criteria.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features differ significantly between the texts, with the first text containing longer sentences and more complex arrangements compared to the second text.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features reveal distinct narrative styles and speech events in each text, with the first text being more directive and rule-oriented, while the second text is informative and specific to media outlets.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate accurate spelling and typographical errors, showing consistency in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, along with the similarities in punctuation and spelling, the overall confidence score is moderate.",
+    "score": 0.54
+  }
+}

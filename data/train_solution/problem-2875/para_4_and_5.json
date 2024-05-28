@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation such as colons and commas in a structured manner, while paragraph 2 lacks these formal punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and structured language with specific terms related to media outlets and subreddit rules, while paragraph 2 has informal language and slang with phrases like 'exploding people'.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences with a focus on providing information, whereas paragraph 2 has shorter and less structured sentences with a more imaginative tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone related to subreddit guidelines, while paragraph 2 has a more creative and playful tone discussing themesongs and exploding people.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the texts exhibit significant dissimilarities in writing style, indicating a low likelihood of being written by the same author.",
+    "score": 0.4
+  }
+}

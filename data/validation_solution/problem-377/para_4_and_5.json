@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks for emphasis and has a sarcastic tone, while Paragraph 2 uses hyphens and lacks punctuation in certain places.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and a deliberate misspelling ('freedumb'), while Paragraph 2 has a more formal tone with correct spelling and grammar.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences and a more complex structure, while Paragraph 2 consists of shorter, more straightforward sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs exhibit a critical tone towards political actions, but the specific expressions and idioms used differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and sentence structure between the two paragraphs, the likelihood of them being written by the same author is low.",
+        "score": 0.44
+    }
+}

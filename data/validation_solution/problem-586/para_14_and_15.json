@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain a mix of punctuation marks such as commas, periods, and hyphens. However, the first text includes more complex punctuation like brackets and colons while the second text has a simpler punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some similarities in terms of vocabulary and sentence structure. However, the first text includes specific references and technical terms related to wrestling, while the second text discusses political concepts.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features differ significantly between the two texts. The first text is more complex with longer sentences, while the second text is shorter and more straightforward.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features vary greatly between the two texts. The first text is more informative and factual, while the second text presents opinions and political commentary.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

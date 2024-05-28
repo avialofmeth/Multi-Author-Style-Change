@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses appropriate punctuation marks like commas and periods, while Paragraph 2 contains a profanity without any specific punctuation style observed.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a neutral and formal word choice, whereas Paragraph 2 includes a strong profanity, indicating different lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward, but Paragraph 1 is more structured and coherent compared to the abrupt and informal nature of Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and polite tone, while Paragraph 2 has a more casual and potentially offensive tone, suggesting different narrative styles and speech events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of these two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including commas, parentheses, and question marks. However, Paragraph 2 lacks the variety of punctuation seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, with varying word choices and structures. There are differences in the specific topics discussed that may influence the lexical choices.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts show moderate complexity with a mix of long and short sentences. Cohesion is present in both although the coherence differs due to different topics.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts differ due to the different topics discussed but share a similar tone of inquiry and observation.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation, sentence structure, and the absence of spelling errors, there is moderate confidence that the two texts were written by the same author despite differences in topic and content.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, a comma, and quotation marks for direct speech. Paragraph 2 uses hyphens, commas, and parentheses for additional information.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses specific terms like '16-year-old Canadian yeshiva student' while Paragraph 2 uses more general terms like 'Palestinian terrorist organizations' and 'Palestinian Authority'. Different word choices and vocabulary.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single, straightforward sentence. Paragraph 2 is more complex with multiple clauses and a longer sentence structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is factual and straightforward in tone. Paragraph 2 is more opinionated and argumentative in tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

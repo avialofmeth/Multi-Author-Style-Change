@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a lack of standard punctuation with missing periods and inconsistent use of capitalization, while Paragraph 2 follows conventional punctuation rules with proper sentence endings.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows informal and non-standard word choices like 'corected' and 'barn deers,' along with errors in grammar. In contrast, Paragraph 2 uses formal language and correct grammar.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, fragmented sentences with abrupt transitions. Paragraph 2 has longer, more coherent sentences with better overall structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a casual and somewhat chaotic tone with slang ('ourund,' 'traintraks'). In contrast, Paragraph 2 maintains a neutral and descriptive tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 contains spelling errors ('corected,' 'goverment,' 'deers,' 'traintraks'). Paragraph 2 is free from spelling mistakes.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "The analysis shows significant differences in writing style between the two texts, with variations in punctuation, vocabulary, sentence structure, tone, and spelling errors, indicating a low likelihood of being written by the same author.",
+    "score": 0.24
+  }
+}

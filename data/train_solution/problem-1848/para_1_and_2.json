@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit appropriate use of punctuation marks such as commas, colons, and periods. However, the first text contains more informal punctuation like ellipses and lacks the strict formality observed in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text shows a higher level of lexical variation and word choice compared to the second text, which is more direct and rule-oriented in its language. Grammatical categories and part of speech usage are consistent within each text.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts display varied sentence structures and lengths. The first text has more complex sentences and a more narrative style, while the second text is concise and to the point. They differ in coherence and cohesion due to the nature of their content.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The tone and mood in the first text are emotional, expressing fear and concern, while the second text is informational and directive. Common expressions and idioms are present in both texts, albeit with different purposes.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a certain level of attention to detail in writing. The language proficiency is consistent across both texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences and similarities in the linguistic features analyzed, there is moderate confidence that the two texts were written by different authors due to the notable distinctions in punctuation style, lexical and grammatical features, and text and discourse features.",
+        "score": 0.72
+    }
+}

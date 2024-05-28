@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and periods for punctuation, while Paragraph 2 uses periods and commas. The punctuation styles differ significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more informal and direct language with phrases like 'Fuck that,' while Paragraph 2 is more formal and automated. The lexical and grammatical features vary greatly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, direct sentences, whereas Paragraph 2 has a more complex sentence structure with a conditional statement. The sentence structure and quantitative features contrast significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a strong and assertive tone, focusing on a specific rule, while Paragraph 2 is polite and seeks interaction. The text and discourse features differ notably.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors. There is no distinction in this regard.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.36
+  }
+}

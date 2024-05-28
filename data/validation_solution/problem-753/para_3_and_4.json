@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation such as colons and commas in a structured manner, while Paragraph 2 lacks such formal punctuation and utilizes more dashes and periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with specific terminology related to media outlets and subreddit guidelines. Paragraph 2 shows a more informal and emotive style with words like 'misery' and 'plantation'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter and more coherent sentences related to guidelines and criteria, while Paragraph 2 has longer, more complex sentences expressing strong opinions regarding governance and dehumanization.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone regarding subreddit rules, while Paragraph 2 conveys a more emotional and accusatory tone towards the Federal government.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there are notable distinctions that suggest different authors. The lack of commonalities in writing style leads to a low likelihood that the two texts were written by the same author.",
+    "score": 0.52
+  }
+}

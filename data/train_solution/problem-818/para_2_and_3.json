@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with hyphens, colons, and informal language like 'fuck'. However, the first text exhibits more formal punctuation with parentheses and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text is more formal and structured in terms of lexical and grammatical features, while the second text shows informal language and slang.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is more coherent and structured in sentence complexity and length compared to the second text which is more fragmented with shorter sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts have a different tone and mood, with the first being informational and formal, and the second being informal and aggressive.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, the texts exhibit notable disparities in writing style, indicating a low likelihood of being written by the same author.",
+        "score": 0.6
+    }
+}

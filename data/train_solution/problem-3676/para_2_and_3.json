@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods in a conventional manner, but no other punctuation marks are present in either text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features, with variations in vocabulary and sentence structures.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly in complexity and length, with distinct coherence and cohesion patterns.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in the two texts are dissimilar, indicating different speech events and moods.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the varied linguistic features analyzed, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

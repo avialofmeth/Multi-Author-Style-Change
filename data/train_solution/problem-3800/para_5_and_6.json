@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, colons, and periods in a non-standard way, with more casual and fragmented punctuation. Paragraph 2, on the other hand, utilizes proper punctuation with clear sentence boundaries.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal language and lack of complex grammatical structures, indicating a similarity in lexical and grammatical features.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is characterized by shorter, fragmented sentences with less coherence, while Paragraph 2 consists of longer, more coherent sentences. This difference in sentence structure impacts the overall writing style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a casual tone and use common expressions, suggesting a similarity in narrative style and tone.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either paragraph, indicating a similarity in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the assessment of individual features, there are similarities in lexical and grammatical features, narrative style, and absence of spelling errors. However, differences in punctuation style and sentence structure suggest some variation in writing style. Therefore, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.66
+    }
+}

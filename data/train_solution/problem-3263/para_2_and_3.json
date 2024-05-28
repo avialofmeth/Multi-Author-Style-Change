@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, commas, and parentheses. Paragraph 2 also includes a mix of punctuation marks, including commas and periods.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal lexical and grammatical style with specific terms related to media outlets. Paragraph 2 contains more informal language and specific references to political events.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence structures with a mix of complex and straightforward sentences, contributing to coherence. However, the lengths and content differ significantly due to the different topics discussed.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone related to subreddit guidelines. Paragraph 2 adopts a more opinionated and speculative tone regarding political decisions, resulting in a noticeable difference in narrative style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative style, along with the similarities in punctuation usage and lack of spelling errors, the overall confidence score for the likelihood of the same author is moderate.",
+    "score": 0.6
+  }
+}

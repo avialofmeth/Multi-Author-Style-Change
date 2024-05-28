@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates the use of colons, quotation marks, and parentheses to convey ideas and structure the text. Paragraph 2 includes commas and a colon for listing items. Both texts exhibit a variety of punctuation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a casual, conversational tone with words like 'frenzy', 'terrible fiction'. Paragraph 2 uses more formal language related to a purchase order, terms of service, and delivery time estimation. Different lexical and grammatical features are present.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, more compact sentences with a focus on expressing opinions. Paragraph 2 includes longer sentences detailing order specifications and delivery information. Sentence structures and lengths vary significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more critical and reflective tone towards war rhetoric. Paragraph 2 is formal and business-oriented discussing a purchase order. The narrative styles and speech events differ greatly.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical features, sentence structures, and narrative styles, it is unlikely that the two texts were written by the same author. The punctuation and lack of spelling errors are not sufficient to override the dissimilarities in other aspects.",
+    "score": 0.48
+  }
+}

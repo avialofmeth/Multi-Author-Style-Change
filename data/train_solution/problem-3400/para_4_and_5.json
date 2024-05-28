@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, which are the most common punctuation marks in English. However, the first text uses hyphens and colons, which the second text lacks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text exhibits a more informal and colloquial word choice and sentence structure compared to the second text, which is more formal and direct.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text contains longer and more complex sentences with a mix of clauses, while the second text is straightforward and concise.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts lack narrative styles and idiomatic expressions. The first text has a critical tone, while the second text is neutral and informational.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and sentence structure, along with the commonalities in lack of spelling errors, there is moderate confidence that the texts were not written by the same author.",
+        "score": 0.56
+    }
+}

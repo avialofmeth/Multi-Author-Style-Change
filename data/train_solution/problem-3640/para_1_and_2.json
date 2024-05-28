@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, commas, and dashes for punctuation. However, paragraph 1 includes more specific punctuation marks like emojis and country flags, while paragraph 2 uses hyphens and dashes more prominently.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of formal and informal lexical choices and word arrangements. Paragraph 1 contains more technical terms related to military operations, while paragraph 2 is more focused on emotional and accusatory language. This difference may indicate a distinction in word choice and lexical variation.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with shorter, more direct sentences, reflecting a news report style. In contrast, paragraph 2 consists of longer, more complex sentences expressing a strong opinion. The sentence structure and length differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and direct tone, but the speech events and narrative styles vary. Paragraph 1 presents a factual report, while paragraph 2 expresses a more emotional and accusatory narrative. The overall narrative styles and tone differ between the texts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text, indicating a similar level of attention to detail in terms of accuracy.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the different punctuation styles, varying lexical and grammatical features, distinct sentence structures, and narrative tones between the texts, it is unlikely that they were written by the same author. The overall confidence score is moderate.",
+        "score": 0.52
+    }
+}

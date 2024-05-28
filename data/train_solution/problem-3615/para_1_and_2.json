@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a more formal and structured punctuation style, including colons and commas, to convey rules and guidelines. Paragraph 2 lacks this formality and uses a conversational style of punctuation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a focus on clear and direct language with specific terms related to rules and guidelines. Paragraph 2 shows a more casual and conversational tone with informal language and rhetorical questions.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, complex sentences with a formal structure. Paragraph 2 contains shorter, more fragmented sentences with a conversational flow.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, emphasizing guidelines and consequences. Paragraph 2 adopts a more opinionated and critical tone, expressing a specific viewpoint on Republicans.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate proper spelling and lack typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and tone, along with the similarity in spelling and lack of errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.46
+    }
+}

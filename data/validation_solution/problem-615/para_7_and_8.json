@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 lacks proper punctuation and includes grammatical errors.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates more standard lexical and grammatical features, while Paragraph 2 contains non-standard language and grammatical errors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has coherent and structured sentences. Paragraph 2 lacks coherence and has fragmented sentences.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone. Paragraph 2 exhibits a more emotional and aggressive tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 does not contain spelling or typographical errors. Paragraph 2 has several spelling errors.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical features, sentence structure, tone, and spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.24
+  }
+}

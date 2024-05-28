@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and conjunctions to separate clauses, while Paragraph 2 uses commas for listing items. Both use standard punctuation marks appropriately.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes terms like 'massacres,' 'civilians,' and 'state,' while Paragraph 2 includes terms like 'native,' 'Peruvians,' and 'constitution.' Both paragraphs exhibit some lexical variations.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences, while Paragraph 2 contains shorter, more straightforward sentences. There is a difference in sentence structure between the two paragraphs.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more serious and factual tone discussing massacres, while Paragraph 2 has a more formal and legal tone discussing rights and constitution. The narrative styles differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs do not exhibit any spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, narrative styles, and tone, along with some lexical variations, the likelihood of the two texts being written by the same author is lower.",
+        "score": 0.6
+    }
+}

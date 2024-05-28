@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods mostly, while Paragraph 2 includes parentheses, brackets, and no colons. Different punctuation styles.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and traditional language with phrases like 'endowed by their Creator' while Paragraph 2 uses more modern and politically charged language like 'remove slave wages'. Different in lexical and word choice.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain coherent sentences, but Paragraph 1 is more structured and balanced in length and complexity, while Paragraph 2 is more direct and less varied in sentence structure. Differences in sentence structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and declarative tone in discussing rights, while Paragraph 2 has a more assertive and opinionated tone, reflecting a different narrative style and mood.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph. Both are well-written in terms of spelling and typographical accuracy.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and narrative tones, it is less likely that the two texts were written by the same author.",
+    "score": 0.46
+  }
+}

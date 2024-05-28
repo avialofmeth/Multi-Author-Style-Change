@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens in compound words like 'auxiliary' and 'main-camp'. Paragraph 2 uses quotation marks for direct speech. Different punctuation choices indicate a distinction.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses technical terms like 'administratively' and 'auxiliary', while Paragraph 2 includes more emotionally charged language like 'rewrite history', 'absolve', and 'blame'. The lexical choices differ significantly.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with a clear statement about a location and its relation to Auschwitz. Paragraph 2 presents a controversial claim about historical revisionism. The sentence structures and content organization are dissimilar.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 provides factual information in a neutral tone. Paragraph 2 expresses a strong opinion and accusation. The narrative styles and tones are contrasting.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were noted in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the diverse linguistic features analyzed, the texts are likely written by different authors due to significant differences in punctuation style, lexical choices, sentence structure, and narrative tone.",
+        "score": 0.34
+    }
+}

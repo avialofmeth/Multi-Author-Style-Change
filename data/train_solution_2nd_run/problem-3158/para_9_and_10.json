@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use a similar punctuation style with commas and periods being the primary punctuation marks used. However, paragraph 1 includes more commas for listing and parenthetical elements compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in the lexical and grammatical features between the two paragraphs. Paragraph 1 discusses oil infrastructure and foreign investment, while paragraph 2 focuses on fleet maintenance and parts replacement. The lexical choices and word usage differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both paragraphs vary in complexity and length. Paragraph 1 consists of longer, more complex sentences with multiple clauses, while paragraph 2 contains shorter, more straightforward sentences. This difference in sentence structure is significant.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features diverge in tone and subject matter. Paragraph 1 has a more analytical and reflective tone discussing nationalization and industry pride, while paragraph 2 adopts a technical and procedural tone related to maintenance and parts replacement. The narrative styles and speech events are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either paragraph, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author despite some similarities in punctuation style and absence of spelling errors.",
+    "score": 0.48
+  }
+}

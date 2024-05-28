@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon to introduce an opinion, while Paragraph 2 lacks any punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a mix of informal and formal language with specific vocabulary related to education. Paragraph 2 is more neutral and automated in language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences compared to the concise and straightforward nature of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a personal opinion and frustration, using emotive language. Paragraph 2 is robotic and impersonal.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the linguistic features show notable differences in writing style between the two paragraphs, indicating a low likelihood of being written by the same author.",
+        "score": 0.42
+    }
+}

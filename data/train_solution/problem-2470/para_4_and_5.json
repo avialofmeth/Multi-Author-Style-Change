@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of punctuation marks such as hyphens, parentheses, and quotation marks, albeit in different contexts.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features; one text discusses political matters while the other is more focused on criticizing someone's communication style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features differ significantly between the two texts, with one being more complex and politically focused, while the other is more straightforward and critical.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The text and discourse features vary greatly, with one text discussing political events and strategies while the other criticizes an individual's communication style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and discourse features, as well as the common use of punctuation marks and absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

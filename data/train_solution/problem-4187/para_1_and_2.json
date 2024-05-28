@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, parentheses, and dashes for punctuation. However, the first text uses more complex punctuation such as colons and quotation marks, while the second text sticks to simpler punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text displays a more varied lexical and grammatical style with specific vocabulary related to political discourse. The second text is more straightforward and focuses on general rules and guidelines.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit differences in sentence structure complexity and coherence. The first text has longer sentences with a more elaborate structure, while the second text is concise with simpler sentence arrangements.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts. The first text is more opinionated and critical, while the second text is informative and directive.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it is moderately likely that the two texts were not written by the same author.",
+        "score": 0.56
+    }
+}

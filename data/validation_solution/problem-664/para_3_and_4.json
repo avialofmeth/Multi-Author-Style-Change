@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas in a similar manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts display a similar level of lexical variation and word choice.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ significantly, impacting coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Narrative styles and tone vary greatly between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all features, there are notable differences in sentence structure, narrative style, and tone which lower the likelihood of the same author. However, the consistent use of punctuation and lexical choices slightly increase the possibility of a shared authorship.",
+        "score": 0.64
+    }
+}

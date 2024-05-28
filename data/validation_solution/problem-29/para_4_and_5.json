@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more informal punctuation like ellipses and lacks proper punctuation in some instances, while Paragraph 2 maintains a formal and consistent punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in Paragraph 1 suggest a more colloquial tone with phrases like 'tough shit', in contrast to the formal and neutral tone of Paragraph 2. Different word choices and sentence structures are observed.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more complex sentences compared to the concise and straightforward sentences in Paragraph 2. There are differences in coherence and sentence length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a strong emotional tone with phrases like 'old poors out on the street', while Paragraph 2 maintains a neutral and informational tone. The narrative styles and speech events differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts do not show spelling or typographical errors, indicating a similar level of attention to detail in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author. The similarity in spelling and typographical accuracy slightly raises the overall confidence.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and parentheses for additional information within sentences. However, the first text uses more hyphens and colloquial punctuation like single quotation marks, while the second text uses more parentheses and quotation marks for direct speech.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text has a more informal and conversational tone with phrases like 'Let's be real' and 'If you fire off a gun'. The second text is more formal and structured in language use. There are differences in lexical choice and grammatical structures between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer sentences with more descriptive details and a casual flow. Text 2 is more concise and focused, with a clearer structure. There are differences in sentence complexity and coherence between the two texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts express opinions and viewpoints, but the first text is more sarcastic and informal, while the second text is more analytical and critical. Differences in narrative styles and tone are evident.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors. There are no discrepancies in spelling and grammar within the texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

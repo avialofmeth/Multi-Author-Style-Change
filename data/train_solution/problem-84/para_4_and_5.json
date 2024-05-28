@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal punctuation with lack of proper structure and coherence. It includes hyphens and lacks proper comma usage.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features with informal word choices and lack of formal language structure.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts share a similar sentence structure with short, direct sentences lacking complexity and coherence.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The texts demonstrate a common informal tone and mood, characterized by casual language and expressions.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

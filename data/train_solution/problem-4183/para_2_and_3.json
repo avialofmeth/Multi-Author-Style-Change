@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 utilizes commas and periods for punctuation, while Paragraph 2 uses colons, commas, and exclamation marks. The punctuation style differs significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more complex and formal language with words like 'genocides' and 'migrations', while Paragraph 2 employs religious and political terms like 'allah', 'heil', and 'america'. The lexical and grammatical features are distinct in each text.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences and more coherent structure compared to the shorter and less connected sentences in Paragraph 2. The sentence structures and quantitative features differ significantly.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a pessimistic and critical tone regarding global issues, while Paragraph 2 includes expressions of praise and political statements. The text and discourse features show a clear divergence in style.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.38
+    }
+}

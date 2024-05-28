@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain punctuation marks such as commas and periods, but differ in the use of hyphens, colons, and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The texts exhibit variation in word choice and sentence structures, with distinct lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence complexity and coherence between the two texts, impacting the overall writing style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "While both texts discuss geopolitical issues, their narrative styles, expressions, and tones differ significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.56
+  }
+}

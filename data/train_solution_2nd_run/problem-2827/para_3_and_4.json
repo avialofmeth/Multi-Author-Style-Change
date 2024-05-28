@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts display the use of parentheses and brackets for additional information, indicating a similar punctuation style.",
+		"score": 0.8
+	},
+	"feature2": {
+		"explanation": "Both texts exhibit a formal tone and vocabulary, with no significant variations in word choice or grammatical features.",
+		"score": 0.7
+	},
+	"feature3": {
+		"explanation": "Both texts are relatively short and straightforward in structure, with no notable differences in sentence complexity or arrangement.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "The first text discusses specific policies and details, while the second text is a generic automated response, leading to a difference in narrative styles and speech events.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either text.",
+		"score": 1
+},
+	"overall": {
+		"explanation": "Considering the similarities in punctuation style, lexical features, and sentence structure, along with the absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+		"score": 0.68
+	}
+}

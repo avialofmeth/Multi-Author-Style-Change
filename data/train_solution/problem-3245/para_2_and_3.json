@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like colons and commas, whereas Paragraph 2 lacks proper punctuation and uses hyphens and commas in an unconventional manner.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates formal and structured language with specific terms related to media outlets. In contrast, Paragraph 2 contains informal and colloquial language with terms like 'religious nuts' and 'agnostic bigots.' The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of formal and well-structured sentences with a clear purpose. Paragraph 2 has longer, complex sentences with a narrative style that lacks coherence and cohesion. The sentence structures and quantitative features vary greatly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, typical of an official communication. In contrast, Paragraph 2 contains a strong opinionated and critical tone. The text and discourse features differ substantially.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, the likelihood of the two texts being written by the same author is low. The only commonality in terms of spelling and typographical errors does not significantly impact the overall assessment.",
+    "score": 0.34
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and commas correctly for list items. Paragraph 2 lacks proper punctuation marks like periods and commas in some places.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice. Both use informal language and show signs of casual writing style.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have short to medium-length sentences with a conversational tone. They lack complexity in sentence structure.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs express personal opinions and observations in an informal manner. They share a similar tone of casual conversation.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are minor spelling errors in both paragraphs, such as 'he didn\u2019t want it he' which should have proper punctuation.",
+        "score": 0.6
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features analyzed, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

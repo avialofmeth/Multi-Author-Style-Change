@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses brackets and colons for clarification, while paragraph 2 uses quotation marks for emphasis. The punctuation styles differ in usage and purpose.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes more technical language related to subreddit guidelines, while paragraph 2 discusses freedom of speech and specific companies. The lexical and word choices vary significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured and formal in its sentence construction, focusing on guidelines and criteria. Paragraph 2 is more conversational and opinionated, discussing irony and specific actions. The sentence structure and coherence differ greatly.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more informative and instructive tone, while paragraph 2 takes on a critical and questioning tone. The narrative styles and tones are distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing a commonality in this aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the significant variations in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the commonality in spelling and typographical errors, the overall confidence score that the two texts were written by the same author is low.",
+        "score": 0.34
+    }
+}

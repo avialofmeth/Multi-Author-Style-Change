@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens and parentheses for additional information and colons for introducing explanations.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical choices and word usage differ significantly between the two paragraphs, showing variations in writing style.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured and concise in sentence length and complexity compared to the more descriptive and varied sentence structures in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones differ between the paragraphs, with Paragraph 1 focusing on efficiency and Paragraph 2 reflecting on tradition and history.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.58
+  }
+}

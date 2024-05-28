@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, parentheses, and commas but in different contexts. Paragraph 1 uses these punctuations in a more complex and irregular manner compared to the simpler use in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There is a notable difference in lexical choice and word usage between the two texts. Paragraph 1 uses specific technical terms and instructions, while Paragraph 2 focuses on general, philosophical language.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structure and complexity differ significantly between the texts. Paragraph 1 contains longer, more complex sentences with technical details, while Paragraph 2 consists of shorter, more straightforward sentences with a philosophical tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are distinct in the two texts. Paragraph 1 has a tactical, directive tone, while Paragraph 2 has a reflective, moralizing tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

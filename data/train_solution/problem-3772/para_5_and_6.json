@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, periods, and a question mark for punctuation. Paragraph 2 uses commas, periods, and apostrophes for punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a mix of formal and informal language. Paragraph 2 shows more emotional and informal language with strong negative sentiment.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have varied sentence structures with different lengths and complexities.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses a more neutral and analytical tone. Paragraph 2 has a highly emotional and accusatory tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Neither paragraph contains spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, emotional tone, and formality of language, there are notable distinctions in the writing style between the two paragraphs.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, commas, and a semicolon in a complex structure. Paragraph 2 mainly uses commas and parentheses in a simpler structure.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and more complex word choice compared to the straightforward and informational tone of Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with varied structures, while Paragraph 2 is more concise and straightforward in its sentence structures.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a conversational tone with informal expressions and references, whereas Paragraph 2 maintains a formal and informative style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.46
+    }
+}

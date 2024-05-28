@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, and parentheses for punctuation. However, Paragraph 2 lacks the colons and quotation marks seen in Paragraph 1.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a formal and courteous tone with clear lexical choices, while Paragraph 2 shows a more informal and colloquial word choice. Grammatical categories are used appropriately in both texts.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of clear, coherent sentences with a focus on etiquette and rules. In contrast, Paragraph 2 has longer, more complex sentences discussing political strategies.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts. Paragraph 1 is instructional and rule-based, while Paragraph 2 discusses political maneuvers with a critical tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.62
+  }
+}

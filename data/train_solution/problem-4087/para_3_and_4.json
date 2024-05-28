@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas more frequently while Paragraph 2 lacks hyphens and uses commas differently.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show variation in word choice and use different grammatical structures. This suggests different writing styles.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences and more complex structures compared to Paragraph 2, indicating differences in sentence construction.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more formal and narrative tone while Paragraph 2 is more direct and inviting. The styles are distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, word choice, sentence structure, and tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

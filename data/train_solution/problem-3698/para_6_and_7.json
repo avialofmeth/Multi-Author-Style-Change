@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a single ellipsis, while Paragraph 2 uses commas, periods, and an exclamation mark.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and abbreviations like 'imo' (in my opinion), while Paragraph 2 is formal and structured with no abbreviations.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is a single complex sentence with informal language, while Paragraph 2 is a formal notification with multiple sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual tone discussing societal issues, while Paragraph 2 has a formal and informative tone related to forum rules.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the texts have notable distinctions that suggest different authors.",
+        "score": 0.44
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and parentheses, while Paragraph 2 does not use these punctuation marks. Both texts use colons and commas.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 discusses tourism with specific terms related to the topic. Paragraph 2 delves into economic concepts with technical language. This indicates a difference in lexical and word choice.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in sentence structure, lacking complexity. Paragraph 1 is more descriptive, while Paragraph 2 is more analytical. They differ in coherence and style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys factual information in a neutral tone. Paragraph 2 presents a more critical analysis. Different narrative styles and tones are evident.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, text and discourse features, and similarity in spelling and typographical errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

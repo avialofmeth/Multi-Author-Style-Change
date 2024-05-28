@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, slashes, and parentheses, while Paragraph 2 does not exhibit these punctuation styles.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use fairly common lexical and grammatical features with no distinct patterns that suggest a common author.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is concise and straightforward with shorter sentences, while Paragraph 2 has longer sentences with a more complex structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and instructional in tone, focusing on financial advice, whereas Paragraph 2 is more political and speculative in nature.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, sentence structure, and tone, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

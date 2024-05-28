@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation such as commas and periods. However, the first text uses a hyphen, which is absent in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show a relatively formal and structured lexical and grammatical style. They use standard vocabulary and grammar. However, the first text has a more complex sentence structure compared to the second text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are concise and to the point. The first text has a slightly higher level of complexity compared to the second text.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Text and discourse features show that both texts have a serious and informative tone. However, the first text seems more reflective or philosophical compared to the straightforward recommendation in the second text.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the analyzed features, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.71
+    }
+}

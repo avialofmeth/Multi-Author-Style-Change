@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon, while Paragraph 2 uses hyphens and commas. Both texts use punctuation marks effectively but with different styles.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language with phrases like 'human feces' and 'make sure you have every immunisation ever', whereas Paragraph 2 uses more formal language with phrases like 'I pride myself' and 'like traveling to more remote tiny areas'. The lexical and grammatical features differ significantly in terms of formality and choice of words.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with direct statements, while Paragraph 2 includes longer sentences with a mix of personal anecdotes and descriptions. The sentence structures and quantitative features vary notably in terms of complexity and length.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more informal and descriptive tone, mentioning specific incidents like 'hepatitis and liver damage'. In contrast, Paragraph 2 adopts a more reflective tone, discussing personal experiences in different countries. The narrative styles and speech events are distinct.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts exhibit notable divergences in writing style. However, the absence of spelling and typographical errors suggests some consistency in language mechanics. Therefore, the overall confidence score is moderate, indicating a likelihood that the texts were not written by the same author.",
+        "score": 0.54
+    }
+}

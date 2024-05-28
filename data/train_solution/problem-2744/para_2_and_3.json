@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains more varied punctuation marks such as ellipses and an em dash, while Paragraph 2 mainly uses periods, commas, and a question mark. There is a difference in punctuation style between the two texts.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more narrative and descriptive lexical choice, discussing personal experiences and emotions. In contrast, Paragraph 2 uses more technical and analytical language related to numbers and military references. There is a notable difference in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit varied sentence structures and lengths. Paragraph 1 includes a mix of shorter and longer sentences, reflecting a more conversational tone. Paragraph 2 consists of shorter, more direct sentences focused on conveying numerical information. While there are differences in sentence structures, both maintain coherence and cohesion within their respective contexts.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys an emotional tone as it reflects on personal experiences and uncertainties. In contrast, Paragraph 2 adopts a critical, almost sarcastic tone when discussing the monetary compensation. There is a distinct difference in narrative styles and moods between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, demonstrating a consistent level of accuracy in written expression.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "After evaluating the individual features, the likelihood that the two texts were written by the same author is moderate. While there are some shared elements like lack of spelling errors, the differences in punctuation style, lexical and grammatical features, sentence structures, and narrative tones suggest potential different authors.",
+    "score": 0.54
+  }
+}

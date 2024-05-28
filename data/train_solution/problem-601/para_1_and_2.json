@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and the occasional use of parentheses. However, the first text contains more varied punctuation marks like colons and quotation marks compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate a formal and structured lexical and grammatical style. They contain a mix of complex and simple sentences with a consistent use of formal language. However, the first text shows more variation in word choice and sentence structure compared to the second text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text includes longer sentences with more detailed explanations and transitions between ideas. In contrast, the second text is more concise and straightforward. While both texts show coherence and cohesion within their respective contexts, the sentence structures differ in complexity and length.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text adopts a narrative style with a conversational tone, using examples and specific scenarios to convey the message. On the other hand, the second text is more instructional and direct in its tone, focusing on providing guidelines. Despite the difference in narrative styles, both texts maintain a formal register.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, there are notable similarities in punctuation style, formal language use, and absence of spelling errors between the two texts. However, differences in lexical variation, sentence structure, and narrative style suggest some divergence in writing styles. The overall confidence score is moderate, leaning towards a likelihood that the texts were not written by the same author.",
+        "score": 0.68
+    }
+}

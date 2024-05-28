@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 and Paragraph 2 both use commas, periods, and question marks correctly and consistently. However, Paragraph 1 uses more formal punctuation like colons and parentheses, while Paragraph 2 relies more on hyphens and slashes.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both paragraphs exhibit differences. Paragraph 1 uses more formal and structured language typical of automated responses, while Paragraph 2 shows a more conversational and direct style. The word choices and grammar structure vary significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two paragraphs differ significantly. Paragraph 1 consists of a single sentence, while Paragraph 2 is composed of multiple shorter sentences. Additionally, the cohesion and coherence in Paragraph 1 are clearer due to the singular focus, whereas Paragraph 2 introduces new elements as it progresses.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two paragraphs are distinct. Paragraph 1 adopts a more formal and instructional tone, typical of automated responses, whereas Paragraph 2 conveys a sense of action and progression in a narrative style. The mood and tone differ significantly between the texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of care in writing. However, the use of slashes and hyphens in Paragraph 2 could be considered a deviation from standard writing conventions.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five linguistic features, the overall assessment suggests that the likelihood of the two texts being written by the same author is moderate. While there are some commonalities in punctuation and absence of spelling errors, the substantial differences in language style, sentence structure, and narrative tone point towards different authors.",
+        "score": 0.46
+    }
+}

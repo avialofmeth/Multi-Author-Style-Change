@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and ampersands consistently for listing items.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts contain simple and straightforward language without complex lexical variations.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short with simple sentence structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal tone discussing policies and financial burden, while paragraph 2 is more informal as it's from a bot. However, both maintain a serious tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in both texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, simple language, sentence structures, and lack of errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

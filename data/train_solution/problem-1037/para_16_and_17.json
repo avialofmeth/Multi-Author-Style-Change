@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation. However, the first text uses more hyphens while the second text does not use any hyphens. This difference may indicate a slight variation in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a mix of formal and informal language, with distinct word choices in each. The first text uses terms like 'FSB' and 'pissed' while the second text uses words like 'statistically' and 'generation.' This difference in lexical and grammatical features suggests a moderate divergence in writing style.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity, length, and arrangement. The first text contains shorter, more direct sentences, while the second text has longer, more descriptive sentences. This disparity in sentence structure may contribute to a noticeable contrast in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in the two texts differ significantly. The first text discusses a specific event (Putin not informing his command) in a straightforward manner, while the second text reflects on a broader societal issue with a more reflective tone. This disparity in text and discourse features indicates a clear distinction in writing style.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text. Both texts appear to be well-written in terms of spelling and grammar. This similarity in accuracy suggests a common standard of writing proficiency.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the commonality in the absence of spelling errors, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

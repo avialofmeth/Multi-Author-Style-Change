@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation such as commas and periods. However, the use of colons and parentheses in Text 1 is more frequent compared to Text 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in lexical choices and grammatical structures. However, Text 1 has a slightly more formal tone with terms like 'investment' and 'subsidies' compared to Text 2 which uses simpler language.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer sentences and more complex sentence structures compared to Text 2. Text 2 contains shorter sentences and simpler arrangements.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a common theme related to economic investments and regulations, but the tone and mood differ slightly. Text 1 focuses more on the positive aspects while Text 2 expresses concerns and hypothetical scenarios.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, there are notable similarities in punctuation style, lexical and grammatical features, and text and discourse features. However, differences in sentence structure and quantitative features slightly lower the likelihood of the two texts being written by the same author.",
+        "score": 0.7
+    }
+}

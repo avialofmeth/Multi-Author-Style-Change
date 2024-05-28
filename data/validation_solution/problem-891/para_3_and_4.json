@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and no other punctuation marks, while Paragraph 2 uses commas, periods, and a question mark.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language with abbreviations like 'lol', while Paragraph 2 is more formal with complete sentences.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward, lacking complex sentence structures.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a casual tone with the use of 'lol', while Paragraph 2 adopts a more serious tone discussing policy.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

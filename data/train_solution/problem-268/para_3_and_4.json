@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, colons, and parentheses for punctuation. Paragraph 2 uses commas and parentheses but lacks colons and hyphens. There is some inconsistency in punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on formal and serious language related to mental health discussions. Paragraph 2 contains informal language and references to pop culture. There is a significant difference in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more structured sentences with a narrative style. Paragraph 2 has shorter, more casual sentences with a different narrative tone. The sentence structures and lengths differ significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and concerned tone regarding mental health. Paragraph 2 adopts a light-hearted and sarcastic tone about the subject. There is a notable contrast in text and discourse features.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, showing consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

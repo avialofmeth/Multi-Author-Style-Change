@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and quotation marks, while Paragraph 2 lacks these punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 features more formal and complex lexical choices and grammatical structures compared to the simpler language and structure in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences with cohesive elements, while Paragraph 2 consists of shorter, more straightforward sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a serious and informative tone discussing a serious issue, while Paragraph 2 has a more casual tone and addresses a different topic.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and no typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the combined analysis of all features, there are significant differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, indicating a low likelihood of the same author for both texts.",
+    "score": 0.46
+  }
+}

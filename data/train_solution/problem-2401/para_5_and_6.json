@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with periods and commas, while Paragraph 2 lacks proper punctuation and contains run-on sentences.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured language use compared to Paragraph 2, which contains informal language and errors in grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has well-structured sentences with varying lengths, while Paragraph 2 has more simplistic and repetitive sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral tone and formal style, whereas Paragraph 2 reveals personal experiences and emotional tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts have minimal spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five linguistic features, the likelihood of the two texts being written by the same author is low due to significant differences in punctuation, language use, sentence structure, and tone.",
+    "score": 0.5
+  }
+}

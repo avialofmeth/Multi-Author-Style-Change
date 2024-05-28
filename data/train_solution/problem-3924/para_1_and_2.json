@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, periods, question marks, and apostrophes. However, the first text includes more diverse punctuation like exclamation points and ellipses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts display a conversational tone with informal language. The first text contains more informal language and contractions compared to the second text. Some differences in word choice and sentence structure are present.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features show variations between the texts. The first text has shorter, more fragmented sentences, while the second text includes longer sentences with more complex structures. This indicates a difference in sentence complexity and arrangement.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features reveal differences in narrative style and tone. The first text has a more casual, conversational tone with rhetorical questions and expressions, while the second text presents a more formal and factual tone. The narrative styles and speech events differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing. There are no significant differences in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are notable similarities in punctuation style and absence of spelling errors. However, differences in lexical choice, sentence structure, and narrative tone suggest some variation in writing style. The average confidence score leans towards moderate to low, indicating that while some similarities exist, the differences in writing style are more pronounced.",
+        "score": 0.54
+    }
+}

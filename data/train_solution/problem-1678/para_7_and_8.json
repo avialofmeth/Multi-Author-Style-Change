@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain commas and question marks, though the first text has more informal punctuation with missing spaces after some punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use informal language with contractions and informal expressions. However, the second text shows slightly more formal language with phrases like 'is this because' and 'generally think'.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and have simple sentence structures. The first text shows some lack of coherence with abrupt shifts in topics.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts have a conversational tone, but the second text seems to engage in a more structured argumentative discourse compared to the first text.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, and absence of spelling errors, with some distinctions in formality and coherence, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.62
+  }
+}

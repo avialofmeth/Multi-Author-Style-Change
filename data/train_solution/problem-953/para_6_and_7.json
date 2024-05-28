@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language with the use of quotation marks and colloquial expressions, showing a similarity in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text is more informal and uses slang phrases, while the second text is formal and straightforward, indicating a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and direct, but the first text has more complex sentence structures with humor, while the second text is concise and informative.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text has a sarcastic and informal tone, using idiomatic expressions, while the second text is robotic and formal, showing a difference in text and discourse features.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts show some similarities in punctuation style and lack of spelling errors, but significant differences in lexical, grammatical, and discourse features, leading to a moderate confidence that they were not written by the same author.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates the use of various punctuation marks such as colons, commas, and periods in a structured and coherent manner. However, Paragraph 2 lacks such punctuation variety and complexity.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more diverse and sophisticated choice of words and sentence structures compared to the straightforward and limited language used in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 showcases a mix of sentence lengths and complexity, contributing to a more engaging and varied writing style. In contrast, Paragraph 2 is brief and lacks diversity in sentence structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a specific topic with detailed information and a consistent tone throughout. On the other hand, Paragraph 2 is a generic bot message with a different narrative style and purpose.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in that aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, there are noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts, suggesting they were likely written by different authors. The presence of commonalities in spelling and typographical errors slightly increases the overall confidence in author consistency.",
+    "score": 0.42
+  }
+}

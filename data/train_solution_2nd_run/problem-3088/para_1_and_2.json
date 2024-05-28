@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, colons, and parentheses, although in different contexts and frequencies.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Lexical and grammatical features show some differences in word choice and grammatical structure.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features differ significantly in complexity, coherence, and word distributions.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary notably in tone, narrative styles, and idiomatic expressions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

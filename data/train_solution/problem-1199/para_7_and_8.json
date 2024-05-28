@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, periods, and apostrophes consistently. However, Paragraph 1 uses more commas to separate clauses, while Paragraph 2 has longer sentences with fewer commas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal writing style with a focus on business-related topics. However, Paragraph 1 uses simpler language and more straightforward sentences compared to the slightly more complex language and longer sentences in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter sentences with clear and direct points. In contrast, Paragraph 2 contains longer sentences with more elaborate explanations. The overall structure and coherence differ between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts present arguments logically without excessive use of idioms or figurative language. However, the tone in Paragraph 1 is more neutral and informative, while Paragraph 2 adopts a slightly more persuasive tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, tone, and complexity, along with the similarities in punctuation and absence of errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

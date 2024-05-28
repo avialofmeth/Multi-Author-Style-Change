@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas, periods, and question marks, while Paragraph 2 lacks proper punctuation and contains fragmented sentences with missing punctuation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and proper use of language and grammar, while Paragraph 2 contains informal language, slang, and lacks grammatical correctness.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of well-structured sentences with clear coherence and cohesion, while Paragraph 2 has erratic sentence structures and lacks coherence.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a neutral and informative tone, focusing on providing assistance, whereas Paragraph 2 showcases a more emotional and opinionated tone with negative connotations.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 contains no spelling or typographical errors, while Paragraph 2 has misspellings and typographical errors (e.g., 'Biden's' should be 'Bidens', 'won\u2019t' should be 'won't').",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, language formality, sentence structure, tone, and spelling errors, the texts are likely not written by the same author.",
+        "score": 0.36
+    }
+}

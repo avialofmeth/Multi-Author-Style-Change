@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use brackets, colons, and parentheses in a similar manner for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical variation and word choice, such as the use of common expressions and idiomatic language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts exhibit some coherence and cohesion, but there are differences in sentence complexity and length.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ between the two texts, impacting the overall writing style similarity.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of all features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.66
+    }
+}

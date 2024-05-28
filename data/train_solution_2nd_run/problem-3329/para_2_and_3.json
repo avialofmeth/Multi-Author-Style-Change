@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks consistently to attribute direct speech.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, with variations in word choice and sentence structure.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured and directive, focusing on instructions. Paragraph 2 contains quotes and opinionated language.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and neutral, while Paragraph 2 is more opinionated and includes a direct quote with a negative tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the identified features, there are similarities in punctuation style and absence of errors, but differences in tone, structure, and discourse features.",
+    "score": 0.74
+  }
+}

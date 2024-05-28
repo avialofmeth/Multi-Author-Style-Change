@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas for punctuation, but only the first text includes a colon and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of formal and informal language, but the first text includes more unique word choices and grammatical structures.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short sentences with straightforward structures, but the first text is slightly more complex in terms of sentence arrangement.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text uses a more casual and conversational tone compared to the second text, which is more formal due to the automated response.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are similarities in punctuation and sentence structure, but differences in formality, language complexity, and tone. The overall confidence score is moderate.",
+    "score": 0.72
+  }
+}

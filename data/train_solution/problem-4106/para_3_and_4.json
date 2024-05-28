@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, periods, and question marks consistently. However, text 1 has more informal punctuation with the use of contractions and lack of formal structures like colons, semicolons, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice, using informal language and common vocabulary. Grammatical categories and part of speech usage are consistent with simple sentence structures in both texts.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Text 1 is more straightforward and direct with shorter sentences compared to the slightly more complex and varied sentence structures in text 2. Both texts exhibit coherence and cohesion but differ in sentence length and complexity.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar tone of informal discussion on political matters. Text 2 shows a slightly more nuanced view with the mention of diplomats and peace, while text 1 focuses more on practical considerations.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, text and discourse features, and spelling accuracy, along with some distinctions in sentence structure and tone, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and periods correctly for sentence structure. Paragraph 2 uses ellipses and periods but lacks other punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows more formal language with terms like 'Tarifs' and 'imported into the EU'. Paragraph 2 has a more informal tone with 'Hahahaha…' and 'Your best bet is'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively short sentences. Paragraph 1 has a more informative tone with statistics, while Paragraph 2 includes a more casual tone with the use of 'Hahahaha...'.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses a factual topic with a formal tone. Paragraph 2 includes humor and a more conversational style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs appear to be free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

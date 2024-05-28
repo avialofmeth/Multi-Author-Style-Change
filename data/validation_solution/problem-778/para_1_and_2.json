@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, commas, and parentheses for elaboration and listing. Paragraph 2 lacks these features.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical choice, while Paragraph 2 contains more informal language and direct speech.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, complex sentences with detailed geopolitical analysis. Paragraph 2 consists of shorter, direct sentences focusing on a specific event.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and analytical tone regarding global politics. Paragraph 2 adopts a more casual and critical tone towards Xi's actions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

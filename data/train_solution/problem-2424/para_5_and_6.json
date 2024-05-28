@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, the second paragraph contains more advanced punctuation like colons and dashes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of formal and informal language. The first text is more formal due to its introductory nature, while the second text includes informal expressions like 'Do it.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure, both texts are relatively short and straightforward. However, the second paragraph has slightly longer sentences compared to the first. Both texts exhibit coherence and cohesion.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts are different, with the first text being informative and the second text being more directive and opinionated. The tone and mood vary between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a good level of attention to detail in both cases.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation and coherence but differences in tone and narrative styles.",
+    "score": 0.6
+  }
+}

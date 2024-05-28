@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of parentheses and ellipses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in lexical choices and informal language use.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Differences in sentence structure and complexity suggest potential variability in authorship.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "While both texts convey opinions, the tone and focus differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were observed in either text.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and differences in the analyzed features, the overall confidence score is moderate.",
+        "score": 0.62
+    }
+}

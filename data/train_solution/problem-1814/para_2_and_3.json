@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as periods, commas, and ellipses. However, paragraph 1 uses a hyphen while paragraph 2 does not, which indicates a slight difference in punctuation style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts show consistency in word choice and grammatical structure. There are no significant differences in lexical and grammatical features that would suggest different authors.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, more direct sentences compared to paragraph 2. This difference in sentence complexity and length may indicate a slight variation in writing style.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts, with paragraph 1 being more descriptive and personal, while paragraph 2 is more formal and instructional. This divergence suggests a notable difference in text and discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the overall confidence in the likelihood that the two texts were written by the same author is moderate, as there are some similarities but also noticeable differences in writing style.",
+    "score": 0.7
+  }
+}

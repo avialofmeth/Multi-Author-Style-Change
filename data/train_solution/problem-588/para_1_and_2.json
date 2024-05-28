@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as slashes, commas, periods, and parentheses. Paragraph 2 also includes hyphens, quotation marks, and commas for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical and grammatical complexity, with a moderate range of vocabulary and standard grammatical structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts show a comparable level of sentence complexity and coherence, with varying sentence lengths and structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents guidelines or rules in a formal tone, while Paragraph 2 describes a series of events in a narrative style. Despite the difference in content, the tone and mood are consistent within each text.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

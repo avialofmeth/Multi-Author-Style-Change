@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and ellipses, while Paragraph 2 uses commas and a colon. Different punctuation styles indicate a potential difference in authorship.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show variations in word choice and sentence structure. The use of different terms and structures suggests a potential difference in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts vary in sentence complexity, length, and coherence. While both show differences, the overall arrangement and distribution of words differ, indicating potential different authors.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts. Paragraph 1 focuses on a personal anecdote, while Paragraph 2 discusses a different scenario with a distinct tone. This suggests a likely difference in authorship.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of care in writing. However, this does not strongly indicate common authorship.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, it is likely that the two texts were written by different authors. The overall confidence score is moderate.",
+        "score": 0.44
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, slashes, and periods, while Paragraph 2 uses fewer punctuation marks and lacks the same variety.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs a formal and respectful tone with clear and direct language, while Paragraph 2 is more specific and politically charged with terms like 'gerrymandering' and 'Democrats'. Different lexical choices and word usage patterns are observed.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences focused on rules and behavior, while Paragraph 2 is more straightforward and descriptive about a political situation. Sentence structure and length vary significantly.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts an instructional and guiding tone, emphasizing proper behavior in discourse. In contrast, Paragraph 2 has a critical and analytical tone discussing a political issue. The narrative styles and speech events are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors, demonstrating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, there are notable disparities in writing style between the two texts. The overall confidence score for the likelihood of the same authorship is moderate.",
+        "score": 0.42
+    }
+}

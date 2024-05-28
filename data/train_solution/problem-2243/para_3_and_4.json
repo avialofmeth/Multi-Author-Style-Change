@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a more formal and structured punctuation style with clear separation of ideas using colons and commas. Paragraph 2 lacks some of this formality and has longer sentences with fewer punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, using complex vocabulary and expressions.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, more structured sentences with a clear focus on etiquette guidelines. Paragraph 2 has longer, more convoluted sentences focusing on personal fears and political views.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a neutral and formal tone focused on rules and guidelines. Paragraph 2 conveys strong emotions, fear, and personal experiences.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the varying levels of similarities and differences in linguistic features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

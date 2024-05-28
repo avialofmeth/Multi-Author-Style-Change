@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both exhibit similar punctuation styles with the use of commas and periods. However, Paragraph 2 displays a higher frequency of hyphens and lacks consistency in punctuation usage compared to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show some similarity in lexical and grammatical features such as informal language and word choice. However, Paragraph 2 contains more colloquial expressions and slang terms compared to Paragraph 1.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both paragraphs vary in complexity and length. Paragraph 1 has shorter sentences with clearer coherence, while Paragraph 2 includes longer sentences with some inconsistencies in arrangement.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two paragraphs. Paragraph 1 maintains a critical and judgmental tone, while Paragraph 2 presents historical facts with a more casual and storytelling tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, as there are some similarities in punctuation, lexical choices, and sentence structures, but notable differences in text and discourse features.",
+    "score": 0.6
+  }
+}

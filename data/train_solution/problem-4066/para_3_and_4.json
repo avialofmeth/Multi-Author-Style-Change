@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and parentheses for clarification and organization, while Paragraph 2 does not display similar punctuation patterns.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs more formal and structured language compared to the somewhat informal and colloquial tone of Paragraph 2. This includes the use of specific terms like 'approved domains list' in Paragraph 1, which is absent in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit relatively similar sentence lengths and structures. However, Paragraph 1 has more concise and direct sentences compared to the slightly longer and more complex sentences found in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more formal and informational tone, focusing on guidelines and criteria, while Paragraph 2 adopts a more opinionated and critical tone towards companies and billionaires.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts exhibit notable distinctions in writing style. However, the absence of spelling errors contributes to a slightly higher confidence score.",
+        "score": 0.5
+    }
+}

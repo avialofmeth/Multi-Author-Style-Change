@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and colons. However, there are differences in the specific punctuation choices (e.g., hyphens, parentheses) used in the texts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The texts share similarities in lexical choices and word usage, but there are also noticeable differences in terms of specific vocabulary and grammatical structures.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts display similarities in sentence complexity and coherence. However, there are variances in sentence length and arrangement between the two texts.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the two texts differ slightly, with one focusing more on political disillusionment and the other on voting dynamics. There are distinctions in idiomatic expressions and mood.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five linguistic features, the likelihood that the two texts were written by the same author is moderate. While there are notable similarities in punctuation, sentence structure, and absence of spelling errors, the differences in vocabulary, narrative style, and tone suggest some divergence in authorship.",
+    "score": 0.64
+  }
+}

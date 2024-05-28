@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts exhibit consistent punctuation style with the use of hyphens, colons, and parentheses to provide additional information or clarify points.",
+		"score": 0.9
+	},
+	"feature2": {
+		"explanation": "There are differences in lexical and grammatical features between the texts. The first text contains technical terms related to military equipment and organization, while the second text lacks such specialized vocabulary.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "The first text has longer and more complex sentences with technical details, while the second text consists of shorter, simpler sentences. The quantitative features and coherence differ significantly.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "The narrative styles and speech events vary between the texts. The first text presents factual information in a formal tone, whereas the second text seems to involve a discussion or argument.",
+		"score": 0.4
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either text.",
+		"score": 1
+},
+	"overall": {
+		"explanation": "Considering the mixed findings across different features, the likelihood of the two texts being written by the same author is moderate.",
+		"score": 0.6
+	}
+}

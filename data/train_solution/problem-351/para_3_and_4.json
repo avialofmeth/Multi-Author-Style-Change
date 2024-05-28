@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and parentheses to provide additional information.",
+        "score": 0.75
+    },
+    "feature2": {
+        "explanation": "Text 1 is more formal with specific terminology related to weaponry, while Text 2 is more casual and personal in tone.",
+        "score": 0.25
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit variation in sentence length and structure, with Text 1 having longer and more complex sentences than Text 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts express opinions and concerns, but the tone and mood differ significantly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, tone, and sentence complexity, the overall assessment leans towards the texts not being written by the same author.",
+        "score": 0.6
+    }
+}

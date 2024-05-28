@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a more formal punctuation style with proper usage of colons and commas for clarity and structure. Paragraph 2, on the other hand, lacks proper punctuation and uses informal language like 'lol'.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal lexical and grammatical style with specific terms related to geopolitics. In contrast, Paragraph 2 uses informal and colloquial language with slang like 'lol' and lacks the depth of vocabulary seen in Paragraph 1.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences, contributing to a more structured and coherent narrative. Paragraph 2 consists of shorter, fragmented sentences with informal language and lacks the cohesion seen in Paragraph 1.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone suitable for geopolitical analysis. In contrast, Paragraph 2 adopts a casual and dismissive tone with the use of 'lol', indicating a different discourse style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, showing a similar level of accuracy in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the similarity in spelling and typographical accuracy, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.4
+  }
+}

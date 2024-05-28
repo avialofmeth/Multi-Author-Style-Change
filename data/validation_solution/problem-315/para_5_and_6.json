@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, quotation marks, and hyphens. However, the presence of different punctuation styles (e.g., parentheses in Paragraph 1, quotation marks in Paragraph 2) suggests some variability in punctuation usage.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. Paragraph 1 focuses on political discourse with terms like 'fascists,' 'influential on the government,' while Paragraph 2 discusses international relations and terrorism with terms like 'PYD spokesperson,' 'Turkey,' and 'terrorist factions.' This indicates a significant contrast in word choice and lexical variation.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure in both texts varies in complexity and length. Paragraph 1 contains longer, more complex sentences with multiple clauses, while Paragraph 2 consists of shorter, more straightforward sentences. This difference in sentence structure suggests a divergence in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts exhibit distinct discourse features. Paragraph 1 conveys a critical tone towards fascism and government influence, while Paragraph 2 presents a more factual statement regarding accusations in international relations. The differing narrative styles and tones indicate a lack of consistency in writing approach.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text, indicating a similar level of attention to detail in terms of accuracy.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, discourse features, and spelling accuracy, the overall confidence in the likelihood of the two texts being written by the same author is moderate. While there are some similarities in punctuation and absence of spelling errors, the notable differences in lexical choices, sentence structure, and discourse styles suggest distinct authorship.",
+        "score": 0.5
+    }
+}

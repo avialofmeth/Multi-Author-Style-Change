@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas while Paragraph 2 lacks these punctuation marks. The presence or absence of specific punctuation marks can indicate different writing styles.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains formal language related to subreddit guidelines, while Paragraph 2 has more informal language discussing political issues. The differences in lexical choice suggest different writing styles.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is succinct and structured, focusing on providing information, whereas Paragraph 2 is more descriptive and emotive. The variance in sentence structure and length indicates different writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral tone for instruction, while Paragraph 2 is opinionated and critical. The difference in tone and mood implies distinct writing styles.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mix of commonalities and distinctions in punctuation, lexical choices, sentence structure, tone, and absence of errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

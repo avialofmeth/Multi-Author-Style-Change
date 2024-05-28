@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas and question marks, while Paragraph 2 includes hyphens and exclamation marks. Both paragraphs demonstrate a different usage of punctuation.",
+      "score": 0.2
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 includes informal language and contractions like 'do not' as well as colloquial phrases like 'get into all sorts of trouble and strife'. In contrast, Paragraph 2 uses more formal language and complex sentence structures. The lexical and grammatical features differ significantly.",
+      "score": 0.1
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 consists of relatively shorter sentences with simpler structures, whereas Paragraph 2 contains longer sentences with more complex arrangements. The sentence structures and quantitative features are notably distinct.",
+      "score": 0.1
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 adopts a conversational tone with rhetorical questions, while Paragraph 2 presents a more critical and assertive tone. The text and discourse features diverge in terms of style and mood.",
+      "score": 0.2
+   },
+   "feature5": {
+      "explanation": "Both paragraphs do not exhibit any significant spelling or typographical errors. The lack of errors does not provide strong evidence for or against the same authorship.",
+      "score": 0.5
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, the likelihood of the two texts being written by the same author is low.",
+      "score": 0.22
+   }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, quotation marks, and parentheses, but the first text includes colons while the second text does not. Overall, punctuation styles differ slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text discusses funding and prosecuting crimes with formal language, while the second text uses more informal language with idiomatic expressions like 'Hell'. Lexical and grammatical features show some differences.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text has longer and more complex sentences compared to the second text. Sentence structures vary significantly, impacting coherence and cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The first text has a formal narrative style discussing legislative matters, while the second text adopts a casual and expressive tone. Text and discourse features are quite distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing consistency in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, the texts exhibit noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, suggesting different authors. The only commonality is the absence of spelling and typographical errors.",
+        "score": 0.5
+    }
+}

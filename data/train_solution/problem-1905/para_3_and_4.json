@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas, periods, and quotation marks, but they differ in their usage of specific punctuation like hyphens, brackets, colons, and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 uses more informal language and contractions, while Text 2 is more formal with specific terms related to media outlets. Both texts exhibit variations in word choice and show a different grammatical style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short sentences with straightforward structures. Text 1 has a more conversational tone, while Text 2 is more instructional in nature. The sentence length and coherence differ slightly.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 has a narrative style discussing a political situation, while Text 2 is more instructional and direct regarding subreddit rules. The tone and mood vary significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, the overall likelihood that the two texts were written by the same author is moderate, showing differences in writing style but sharing similarities in punctuation usage and absence of spelling errors.",
+    "score": 0.6
+  }
+}

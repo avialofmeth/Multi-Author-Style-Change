@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods in a standard manner, with no noticeable differences in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The word choice and lexical variation differ significantly between the texts. The first text uses formal language related to politics and diplomacy, while the second text has a more informal and colloquial tone.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts are distinct. The first text contains longer, more descriptive sentences, while the second text has shorter, more direct sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events are different in the two texts. The first text presents a specific scenario involving politicians, while the second text makes a general statement about corruption without a specific context.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the overall confidence score for the likelihood that the two texts were written by the same author is low, around 0.5.",
+        "score": 0.5
+    }
+}

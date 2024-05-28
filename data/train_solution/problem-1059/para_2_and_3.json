@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains formal punctuation such as colons and parentheses, while Paragraph 2 includes a hyphen and lacks formal punctuation. This difference indicates some variance in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display a formal and structured lexical and grammatical style, using complex sentence structures and vocabulary. While the topics differ, the writing styles are consistent in this aspect.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and provides clear instructions, while Paragraph 2 presents a more complex and slightly convoluted structure. This discrepancy in sentence complexity and arrangement suggests a difference in writing style.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is direct and informational, maintaining a neutral tone, while Paragraph 2 expresses a more critical and opinionated view. This divergence in tone indicates a potential difference in authorship.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, demonstrating a consistent level of attention to detail in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are noticeable differences in punctuation style, sentence complexity, and tone between the two texts, which suggest potential variations in authorship. However, the shared attention to detail in spelling and grammatical accuracy provides some consistency. Therefore, the overall confidence score of the two texts being written by the same author is moderate.",
+        "score": 0.66
+    }
+}

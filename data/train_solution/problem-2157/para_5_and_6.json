@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display a similar use of punctuation marks such as question marks, commas, and quotation marks. However, there are differences in the specific punctuation used (e.g., hyphens in text 1).",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. Text 1 uses more colloquial language and contractions, while text 2 has a more formal tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit similar sentence structures with a mix of complex and straightforward sentences. However, text 1 shows more variation in sentence length and complexity compared to text 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The two texts differ in their discourse features. Text 1 focuses on a specific scenario (freedom of speech and racism), while text 2 expresses frustration and dismissiveness towards a broader topic.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, as well as discourse styles, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

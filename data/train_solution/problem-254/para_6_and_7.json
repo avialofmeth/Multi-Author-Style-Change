@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation like colons, commas, and parentheses, although the first text uses more hyphens compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two texts. The first text contains more historical and descriptive language, while the second text is more focused on contemporary events and conspiracies.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary significantly. The first text has longer and more complex sentences, while the second text consists of shorter and more direct sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ between the two texts. The first text adopts a more reflective and explanatory tone, while the second text is written in a more sensational and conspiratorial style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and minimal typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are notable differences in lexical choices, sentence structures, and narrative styles between the two texts, which indicate a lower likelihood of being written by the same author.",
+    "score": 0.54
+  }
+}

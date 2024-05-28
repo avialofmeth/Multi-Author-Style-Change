@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens, colons, and parentheses for clarification and emphasis. However, the presence of brackets and quotation marks in the first text distinguishes it slightly.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show a similar level of lexical variation and word choice. Grammatical categories and part of speech usage also align in terms of formality and structure.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts are coherent and well-organized, with a mix of complex and simple sentences. Quantitative features like length and arrangement are consistent.",
+    "score": 0.85
+  },
+  "feature4": {
+    "explanation": "Text and discourse features such as narrative styles and tone differ significantly between the two texts, indicating potential different authors.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, maintaining a standard level of correctness in written form.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the five features, there are notable similarities in punctuation style, lexical and grammatical features, and sentence structure. However, the differences in text and discourse features suggest a potential variance in authorship, leading to a moderate confidence level in concluding that they were written by the same author.",
+    "score": 0.81
+  }
+}

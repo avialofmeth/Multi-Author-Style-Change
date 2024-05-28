@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, the first text includes more complex punctuation like colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in the lexical and grammatical features between the two texts. The first text focuses more on economic terms and concepts related to agribusiness and sanctions, while the second text mentions military expenditures and hydrocarbon markets. This indicates a variation in word choice and lexical focus.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts display coherence and cohesion in discussing economic or budget-related issues. However, the first text is more detailed and structured in its presentation, including specific examples and cause-effect relationships, while the second text is more general and recommends reading other authors.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ between the two texts. The first text is more informative and analytical about the economic impact of events, while the second text is more suggestive and refers to other authors, indicating a different discourse style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The analysis shows that while there are some similarities in punctuation and coherence, the differences in lexical focus, narrative style, and tone suggest that the two texts may not have been written by the same author.",
+        "score": 0.56
+    }
+}

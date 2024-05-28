@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses commas and a colon, while Paragraph 2 uses parentheses and hyphens. The punctuation styles differ between the two texts.",
+      "score": 0.2
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 includes terms like 'environmental policies' and 'exemptions,' while Paragraph 2 uses 'degrowth,' 'capitalism,' and 'resource extraction.' The lexical choices differ significantly between the two texts.",
+      "score": 0.1
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 has a longer sentence structure with more complex arrangements, while Paragraph 2 is more straightforward and concise. The sentence structures vary notably.",
+      "score": 0.3
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 expresses a critical tone towards the Australian government, while Paragraph 2 advocates for political alternatives. The narrative styles and tones are distinct.",
+      "score": 0.2
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were identified in either text.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation styles, lexical choices, sentence structures, and narrative tones, the likelihood of the two texts being written by the same author is low.",
+      "score": 0.36
+   }
+}

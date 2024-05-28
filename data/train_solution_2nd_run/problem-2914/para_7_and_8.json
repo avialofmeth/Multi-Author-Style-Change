@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon at the end of the first sentence for emphasis, while Paragraph 2 uses a colon within a sentence for introducing a reason.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different styles of word choice and sentence structures. Paragraph 1 uses more informal language and shorter sentences, while Paragraph 2 is more formal and structured.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with simpler structures, while Paragraph 2 has longer and more complex sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a reflective tone, discussing personal perspectives, while Paragraph 2 has a formal and informative tone, relating to content moderation.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis indicates that the two texts show notable differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, suggesting they were likely written by different authors.",
+    "score": 0.5
+  }
+}

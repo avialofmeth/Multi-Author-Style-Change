@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show the use of punctuation marks such as commas, hyphens, colons, and parentheses. However, the first text exhibits a more informal and expressive tone compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The first text contains more informal and emotionally charged language with strong opinions, whereas the second text is more neutral and focused on setting rules and guidelines. Lexical and grammatical features differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The first text is characterized by longer and more complex sentences with a narrative style, while the second text is more straightforward and direct in its structure. There are notable differences in sentence complexity and coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone differ greatly between the two texts. The first text is emotionally charged and accusatory, while the second text is formal and instructive. The tone and mood are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts display correct spelling and typographical errors. There are no apparent differences in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the likelihood of the two texts being written by the same author is moderately low due to significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features.",
+    "score": 0.52
+  }
+}

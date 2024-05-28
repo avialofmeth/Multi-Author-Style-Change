@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show a similar use of punctuation marks such as commas and periods. However, there are differences in the specific punctuation used (hyphens, colons, parentheses, quotation marks) which may indicate a slight variation in writing style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. Text 1 focuses on migrants and NGOs, while Text 2 discusses death sentences and torture. These differences suggest a variation in writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit different sentence structures and lengths. Text 1 contains longer sentences with more complex arrangements, while Text 2 has shorter, more direct sentences. This indicates a divergence in writing style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts differ significantly. Text 1 is more informative and factual, while Text 2 conveys a sense of urgency and condemnation. This disparity suggests distinct writing styles.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the variations in punctuation, lexical choices, sentence structures, and narrative styles, it is unlikely that the two texts were written by the same author. The lack of spelling errors provides a minor point of similarity.",
+        "score": 0.48
+    }
+}

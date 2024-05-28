@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and a period for punctuation, while Paragraph 2 uses commas and periods. Different punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses straightforward, informal language, with phrases like 'stone-first' and 'being a jerk.' Paragraph 2 has a more formal tone with phrases like 'may I ask you a question' and 'Conservative member of the Supreme Court.' Different lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more direct sentences. Paragraph 2 has longer, more complex sentences. Different sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs express opinions but in different ways. Paragraph 1 is more assertive and direct, while Paragraph 2 is more polite and indirect. Different text and discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show differences in the use of punctuation, such as the presence of parentheses in text 1 and quotation marks in text 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts, with text 1 exhibiting informal language and text 2 containing legal and formal language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to text 2, indicating a difference in sentence structure and complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Texts show distinct narrative styles and tones, with text 1 being critical and opinionated while text 2 is more factual and formal.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, narrative styles, and the absence of typos, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.54
+  }
+}

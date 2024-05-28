@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts exhibit a similar use of punctuation, including colons, commas, and periods, with consistent adherence to standard punctuation rules.",
+      "score":0.9
+   },
+   "feature2":{
+      "explanation":"Both texts use formal language and a similar level of vocabulary, with a focus on providing clear and direct instructions or guidelines.",
+      "score":0.8
+   },
+   "feature3":{
+      "explanation":"Both texts maintain a similar sentence structure with a focus on clarity and coherence. They are composed of concise sentences with a straightforward organization.",
+      "score":0.85
+   },
+   "feature4":{
+      "explanation":"Both texts display a formal tone and a direct communication style, focusing on conveying information or instructions rather than narrative elements.",
+      "score":0.75
+   },
+   "feature5":{
+      "explanation":"Both texts are free of spelling and typographical errors, indicating attention to detail and professionalism in writing.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Based on the analysis of the five features, there is a high likelihood that the two texts were written by the same author, as they consistently exhibit similar writing styles and characteristics.",
+      "score":0.86
+   }
+}

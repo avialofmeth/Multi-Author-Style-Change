@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a wide range of punctuation including hyphens, colons, quotation marks, and exclamation marks. Paragraph 2, on the other hand, only uses periods and commas.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more casual and colloquial tone with phrases like 'hot take' and 'This never would have happened if I were president!' Paragraph 2 is more formal and straightforward as it is likely a bot-generated message.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more varied sentence structures with a mix of short and long sentences. Paragraph 2 is more uniform in sentence length and structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 shows a conversational and opinionated tone with references to Trump and Putin. Paragraph 2 is purely informative and lacks any personal opinion or narrative style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.42
+  }
+}

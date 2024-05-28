@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 predominantly uses commas and periods for punctuation, while Paragraph 2 includes hyphens, quotation marks, and commas. The presence of different punctuation styles indicates a potential difference in writing style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language with technical terms related to media outlets and subreddit guidelines. In contrast, Paragraph 2 includes more informal language with personal names and addresses specific events. The difference in lexical choice suggests a potential mismatch in writing style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single complex sentence, while Paragraph 2 has two shorter sentences. The variation in sentence structure indicates a difference in writing style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and directive in tone, focusing on providing guidelines. In contrast, Paragraph 2 is more personal and narrative, addressing a specific incident. The disparity in narrative styles suggests a potential divergence in authorship.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph. Both texts are written with precision in terms of spelling and grammar.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, there is a moderate likelihood that the two texts were not written by the same author. The absence of spelling and typographical errors slightly increases the overall confidence.",
+    "score": 0.54
+  }
+}

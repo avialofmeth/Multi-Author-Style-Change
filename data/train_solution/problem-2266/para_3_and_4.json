@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both lack the use of hyphens, brackets, colons, and parentheses. Commas are used in both texts, but with different frequency and placement. Quotation marks are not present in either text.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choice and word usage, with Paragraph 1 focusing on technical terms related to infrastructure and loans, while Paragraph 2 contains more informal language. Grammatical categories and parts of speech usage vary between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly between the two texts, with Paragraph 1 containing longer, more complex sentences related to a detailed explanation of a process. Paragraph 2 consists of shorter, more direct sentences discussing a different topic. The coherence and cohesion also differ due to the nature of the content.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal tone focused on explaining a specific scenario, while Paragraph 2 has a more casual tone and addresses a different subject. Narrative styles and speech events are distinct between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Overall, the analysis of the linguistic features suggests that the two texts are likely not written by the same author, as they exhibit significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. The absence of commonalities in these areas indicates a low likelihood of the same authorship.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles, such as commas and quotation marks, to separate clauses and dialogue.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts; one text includes informal language and profanity, while the other discusses political matters in a more formal tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly; one text contains shorter, more fragmented sentences, while the other has longer, more complex sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text styles differ in terms of narrative and tone; one text expresses frustration and casual speech, while the other presents a more analytical and serious tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There is no evidence of spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed scores across different features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.54
+    }
+}

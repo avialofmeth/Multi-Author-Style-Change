@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as parentheses, ellipsis, and hyphens. Paragraph 2 uses commas and colons more prominently.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows lexical variation with specific terms related to violence and oppression. Paragraph 2 has a more professional and academic tone with terms related to global affairs and corruption.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences discussing a serious topic. Paragraph 2 has shorter, more structured sentences related to professional affiliations and social media handles.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a tone of urgency and seeking help. Paragraph 2 maintains a formal and informative tone about the author's roles and associations.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structures, and tones between the two paragraphs, the overall likelihood that they were written by the same author is low.",
+        "score": 0.56
+    }
+}

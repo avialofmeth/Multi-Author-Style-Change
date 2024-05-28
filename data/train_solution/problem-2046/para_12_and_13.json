@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks like commas and periods correctly and consistently.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The first text is formal and informational, using specific terms related to media outlets. The second text is more informal and critical, using strong language and colloquial expressions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more structured sentences, typical of formal writing. The second text has shorter, more fragmented sentences with a different tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The first text is neutral and informative in tone. The second text is opinionated and critical, displaying a different narrative style and mood.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, text and discourse features, the texts exhibit notable divergences in writing style, suggesting different authors.",
+    "score": 0.54
+  }
+}

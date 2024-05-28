@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods. However, there are differences in the specific punctuation used, like hyphens in paragraph 1 and a lack of punctuation in paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in the lexical and grammatical features, with both texts using formal language and technical terms. However, paragraph 1 includes more complex sentence structures compared to the more straightforward sentences in paragraph 2.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have concise sentence structures, but paragraph 1 contains longer sentences with more clauses compared to the shorter sentences in paragraph 2. There is a difference in the overall sentence complexity and arrangement.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts convey a formal and informative tone. However, paragraph 1 focuses on providing specific details about a previous submission, while paragraph 2 is a generic automated response.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing. Both texts exhibit proper spelling and grammar.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are notable similarities in punctuation, lexical and grammatical features, and text coherence. However, differences in sentence structure and narrative style suggest some variation in writing style. The absence of spelling errors indicates a consistent level of writing proficiency. The overall confidence score is moderate, suggesting a reasonable likelihood that the texts were written by the same author.",
+        "score": 0.68
+    }
+}

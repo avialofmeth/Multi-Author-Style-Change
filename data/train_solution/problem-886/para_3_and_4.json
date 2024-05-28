@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas while Paragraph 2 uses colons and commas, showing some differences in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 discusses political events using complex language and specific terminology, while Paragraph 2 provides clear instructions using more straightforward language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a narrative style, whereas Paragraph 2 consists of shorter and more direct sentences with clear instructions.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses opinions and emotions regarding a political issue, while Paragraph 2 provides guidelines with a neutral tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit good spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, although some similarities in spelling and tone are present, the overall writing styles differ significantly, leading to a moderate level of confidence that they were written by different authors.",
+        "score": 0.44
+    }
+}

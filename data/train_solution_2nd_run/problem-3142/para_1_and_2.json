@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a mix of hyphens, colons, commas, and parentheses for punctuation. However, the first text displays a higher frequency and variety of punctuation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text exhibits a more formal and complex lexical and grammatical style with a focus on strategic geopolitical concepts, whereas the second text is more informal and uses simpler language with a focus on a metaphorical description of Putin. There are differences in word choice and complexity.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text contains longer and more complex sentences with strategic geopolitical analysis, while the second text has shorter, more direct sentences focusing on a metaphorical comparison. Sentence structures and lengths vary significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a critical or negative tone towards a specific subject (Russia or Putin), yet the narrative styles and speech events differ. The first text adopts a more analytical and strategic tone, while the second text uses a metaphorical and sarcastic tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative style, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.56
+  }
+}

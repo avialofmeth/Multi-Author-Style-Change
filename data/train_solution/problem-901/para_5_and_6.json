@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and informal punctuation like ellipses. However, the first text includes more diverse punctuation marks such as colons and commas, while the second text relies more on dashes.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit informal and conversational word choices, including slang terms. The second text shows more variation in terms of lexical choices and sentence structures compared to the first text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text contains longer, more complex sentences, while the second text is more fragmented and includes shorter sentences with abrupt transitions. The coherence and cohesion are stronger in the first text.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a casual and somewhat mocking tone. However, the first text uses more specific references (e.g., 'Jr, The My Pillow Guy') compared to the second text's general references ('Jared', 'Vanky').",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The overall assessment of the likelihood that the two texts were written by the same author is moderate, with some commonalities in punctuation style and tone, but notable distinctions in lexical and grammatical features and sentence structure.",
+        "score": 0.64
+    }
+}

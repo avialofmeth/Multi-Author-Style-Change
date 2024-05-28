@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of commas and lack of other punctuation such as hyphens, brackets, colons, parentheses, or quotation marks.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text uses formal language typical of automated responses, while the second text contains more informal language and specific political terms.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly. The first text is more concise and straightforward, while the second text is more complex with longer sentences and more details.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the texts are distinct. The first text is neutral and informative, typical of automated responses, whereas the second text is opinionated and expressive.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, the overall confidence in the texts being written by the same author is low.",
+        "score": 0.56
+    }
+}

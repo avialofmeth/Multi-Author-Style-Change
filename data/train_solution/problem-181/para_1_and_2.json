@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and exclamation points. However, there are differences in the specific punctuation used such as colons in Paragraph 1 and hyphens in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features such as the use of imperative verbs ('consider', 'be courteous'), and the avoidance of informal language. However, there are differences in the vocabulary and tone between the two texts.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have a clear and direct sentence structure with a focus on conveying information. The sentence lengths are relatively short and to the point. However, there are differences in the complexity and arrangement of sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The discourse features in both texts suggest a formal and informative tone. They both provide instructions or guidelines to the reader. However, the specific content and style differ between the two paragraphs.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing. Both texts appear well-edited and polished.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the individual features, there are notable similarities in punctuation, sentence structure, and lack of spelling errors. However, differences in vocabulary, tone, and specific content suggest some variation in writing style. The overall confidence score is moderate, indicating a likelihood that the two texts were not written by the same author.",
+        "score": 0.66
+    }
+}

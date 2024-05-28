@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods in a formal and clear manner. Paragraph 2 utilizes quotation marks and commas for direct quotes and to separate clauses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 consists of legal and formal language related to governance and definitions. Paragraph 2 contains legal language but is more focused on disciplinary charges and recognizing harm.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has clear and straightforward sentence structures with legal definitions. Paragraph 2 includes complex sentences with quotes and explanations.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and explanatory. Paragraph 2 is more assertive and emphasizes the importance of the Law Society's actions.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the consistency in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

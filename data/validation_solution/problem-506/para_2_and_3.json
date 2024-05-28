@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses fewer punctuation marks compared to Paragraph 2. It includes commas and periods but lacks other punctuations like colons, semicolons, and parentheses.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show differences in lexical choices and word usage. Paragraph 1 contains informal language and specific terms related to weaponry, while Paragraph 2 uses more formal and strategic vocabulary related to chess and military tactics.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two paragraphs differ significantly. Paragraph 1 has shorter, more straightforward sentences, while Paragraph 2 contains longer and more complex sentences with a higher level of cohesion and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the paragraphs vary greatly. Paragraph 1 presents a more direct and action-oriented narrative, focusing on physical conflict, while Paragraph 2 adopts a more metaphorical and abstract discourse related to strategic thinking.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of errors in spelling and typography, the overall confidence score is moderate, suggesting a potential difference in authorship.",
+        "score": 0.42
+    }
+}

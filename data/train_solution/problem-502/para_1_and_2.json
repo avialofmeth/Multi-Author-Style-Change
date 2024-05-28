@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of hyphens and commas within sentences for punctuation. Paragraph 2 emphasizes the importance of courteous communication, thus utilizing punctuation differently.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more formal and complex lexical and grammatical style with technical terms and specific references. In contrast, Paragraph 2 focuses on a general guideline for communication without intricate vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with detailed explanations, while Paragraph 2 is concise and straightforward in its structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a critical and analytical tone discussing economic issues and specific events. Paragraph 2 maintains a neutral and informative tone focused on behavioral guidelines for communication.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts show correct spelling and typographical accuracy without errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse features between the two texts, the likelihood of them being written by the same author is low. However, the absence of spelling and typographical errors increases the overall confidence slightly.",
+        "score": 0.44
+    }
+}

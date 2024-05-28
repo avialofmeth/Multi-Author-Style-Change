@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks, commas, and ellipses. However, the first text uses more varied punctuation marks like colons and parentheses compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts employ a formal and informative tone with a focus on economic concepts. The first text has a more technical vocabulary related to currency and stability, while the second text includes terms related to currency valuation and volatility.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The first text contains longer and more complex sentences with detailed explanations, while the second text uses shorter sentences with a more direct style. Both texts are coherent within themselves.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts discuss economic matters and use a serious tone. The first text is explanatory and informative, while the second text is more descriptive and comparative.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, discourse features, and lack of spelling errors, along with some distinctions in lexical and grammatical features and sentence structure, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

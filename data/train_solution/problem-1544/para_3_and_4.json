@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of punctuation such as commas and quotation marks, although in different contexts. Both texts also utilize informal language.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show a mix of complex and simple sentence structures and use varied vocabulary. However, differences exist in the choice of specific terms and expressions.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The texts differ in sentence complexity and length. Text 1 includes longer sentences, while Text 2 is more concise. Both exhibit coherence but vary in sentence arrangement.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey a critical or negative tone towards specific entities, but the targets differ. Text 1 criticizes sanctions and the EU, while Text 2 laments Hungary's situation and US republicans.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text, indicating a level of care in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, varied vocabulary usage, and critical tone, alongside differences in sentence structure and topic focus, there is a moderate likelihood that the texts were written by the same author.",
+    "score": 0.62
+  }
+}

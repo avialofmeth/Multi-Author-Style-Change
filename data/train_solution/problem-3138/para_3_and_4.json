@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, periods, and capitalization. However, one text includes more varied punctuation marks like hyphens, parentheses, and colons, while the other lacks such diversity.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, one text shows a more formal and structured language with specific references to political concepts, while the other is concise and direct, lacking complexity in word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Regarding sentence structure and quantitative features, one text contains longer and more complex sentences with detailed arguments, whereas the other is brief and straightforward, lacking in depth and complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, one text presents a persuasive argument with a clear stance, while the other is a generic automated message lacking any opinion or perspective.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is moderate, with some shared punctuation and spelling styles, but noticeable differences in language complexity and content.",
+        "score": 0.6
+    }
+}

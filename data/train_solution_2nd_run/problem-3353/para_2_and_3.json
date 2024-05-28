@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas, semicolons, and periods appropriately. However, paragraph 2 contains more informal punctuation like dashes and lacks the formal tone seen in paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style compared to the informal tone and word choice in paragraph 2. There are differences in vocabulary and sentence structure.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has clear and direct sentence structures related to providing information, while paragraph 2's sentences are more emotive and opinionated. There is a difference in sentence complexity and coherence.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative and discourse styles differ significantly between the two paragraphs. Paragraph 1 is informative and directive, while paragraph 2 expresses personal opinions and emotions. The tone and mood are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate correct spelling and no typographical errors, indicating attention to detail in writing. There are no spelling or typographical discrepancies.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and coherence, narrative styles, and discourse features, as well as the similarity in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses various punctuation marks such as commas, periods, and hyphens, while Paragraph 2 includes quotation marks and commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and legalistic language with phrases like 'violating the oath to office' compared to the more straightforward and factual language in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences discussing legal matters, while Paragraph 2 is a shorter statement about a resignation.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and authoritative tone discussing legal consequences, whereas Paragraph 2 is a formal notification of resignation.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are some similarities in punctuation and absence of errors, but notable differences in language formality, sentence complexity, and tone, suggesting a moderate likelihood that the texts were written by the same author.",
+    "score": 0.6
+  }
+}

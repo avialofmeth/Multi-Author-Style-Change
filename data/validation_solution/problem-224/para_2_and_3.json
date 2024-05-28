@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles such as colons, commas, and periods. However, paragraph 1 includes parentheses while paragraph 2 does not. Overall, punctuation style is somewhat consistent between the two texts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two paragraphs. Paragraph 1 focuses on media outlets and subreddit guidelines, while paragraph 2 discusses werebear and wereraven populations in Georgia. The word choice, lexical variation, and grammatical categories vary greatly, indicating a notable difference in writing style.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures in the two paragraphs differ in complexity and content. Paragraph 1 is more straightforward and informational, while paragraph 2 introduces fantasy elements and character descriptions. The sentence lengths and arrangements also vary, suggesting distinct writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show a clear distinction between the two paragraphs. Paragraph 1 adopts a formal tone related to guidelines and criteria, whereas paragraph 2 delves into a fantasy narrative with references to werebeasts. The narrative styles and speech events differ significantly, indicating diverse writing approaches.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit proper spelling and typographical accuracy, with no evident errors detected. The spelling and typographical features are consistent across the texts.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall likelihood that the two texts were written by the same author is low. The significant differences in writing style across multiple linguistic aspects suggest distinct authorship.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, parentheses, and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts, such as the formality of language and word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ, where one is more directive and the other is informative.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text and discourse features like tone and mood vary significantly, indicating a different style of writing.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text/discourse features, the texts are likely written by different authors.",
+        "score": 0.62
+    }
+}

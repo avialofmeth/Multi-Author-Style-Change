@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods in a structured manner for punctuation. Paragraph 2 only contains commas and periods with no use of hyphens, brackets, colons, or parentheses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses technical language related to gas taxes, EVs, and vehicle registration fees. Paragraph 2 contains more general and neutral language about media outlets and subreddit rules.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. Paragraph 1 also focuses on a more informative tone, whereas Paragraph 2 is more directive.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and informative tone discussing a specific issue, while Paragraph 2 has a formal and instructional tone regarding subreddit rules and media outlets.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a moderate similarity in writing style between the two texts.",
+        "score": 0.56
+    }
+}

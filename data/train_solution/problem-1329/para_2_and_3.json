@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use a similar style of punctuation such as commas and periods. However, they differ in the use of specific punctuation marks like colons and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features vary significantly between the two paragraphs. The first paragraph uses formal language and specific terms related to media outlets, while the second paragraph is informal with regional dialect words like 'y'all' and 'Michigander'.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first paragraph is more structured and formal, with clear coherence and cohesion. The second paragraph has a more casual tone and shorter sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ significantly between the two paragraphs. The first paragraph is more informative and directive, while the second paragraph is more opinionated and expressive.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

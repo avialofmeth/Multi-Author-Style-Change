@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use standard punctuation marks such as commas, periods, and capitalization. However, Paragraph 2 includes a hyphen and a slash, which are not present in Paragraph 1.",
+      "score": 0.4
+   },
+   "feature2": {
+      "explanation": "Both texts exhibit a formal tone with clear language. However, Paragraph 2 uses more specific terms like 'R's' and 'warm bodies', which are not present in Paragraph 1.",
+      "score": 0.5
+   },
+   "feature3": {
+      "explanation": "Both paragraphs are relatively short and straightforward. Paragraph 2 has a slightly more complex structure due to the inclusion of a clause ('as long as they get warm bodies on committees').",
+      "score": 0.6
+   },
+   "feature4": {
+      "explanation": "Both texts convey information in a direct manner. However, the tone in Paragraph 2 is more critical and opinionated compared to the neutral tone in Paragraph 1.",
+      "score": 0.7
+   },
+   "feature5": {
+      "explanation": "Both texts are free of spelling and typographical errors.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the analysis of individual features, there are some commonalities in writing style but also some distinctions, particularly in terms of specific terms and tone. The overall confidence score is moderate, indicating a likelihood that the texts were written by different authors.",
+      "score": 0.64
+   }
+}

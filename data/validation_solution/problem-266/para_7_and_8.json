@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas, while Paragraph 2 uses parentheses and brackets. Differences in punctuation style could indicate a lack of consistency in writing.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of informal and technical language. While Paragraph 1 is more casual, Paragraph 2 introduces a reference to ISIS, showing a different tone and vocabulary choice.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to the simpler sentences in Paragraph 2. The structures and lengths vary significantly, suggesting a potential divergence in writing style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more narrative and descriptive, recounting a personal experience, while Paragraph 2 refers to an external source, adopting a more formal and informative tone. The difference in narrative styles points to distinct authorship.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph, indicating a similar level of attention to detail in writing mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the varying punctuation style, lexical and grammatical differences, sentence structures, and narrative tones, it is likely that the two texts were written by different authors. However, the absence of spelling errors suggests a slight commonality in writing mechanics.",
+    "score": 0.6
+  }
+}

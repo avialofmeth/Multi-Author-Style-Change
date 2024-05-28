@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and parentheses, while Paragraph 2 only uses commas. The presence of different punctuation styles indicates a difference in punctuation preference.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit varied lexical and grammatical features. Paragraph 1 includes more complex sentence structures and specific word choices related to political discourse, while Paragraph 2 is concise and straightforward due to its automated nature.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a narrative tone, while Paragraph 2 is straightforward and lacks the narrative quality. The differences in sentence complexity and arrangement suggest separate writing styles.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style with a specific tone related to political viewpoints, while Paragraph 2 is a standard automated response lacking any expressive elements. The distinct narrative styles indicate different authors.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating good attention to detail in writing. The absence of errors does not provide a significant clue to the authorship similarity.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and narrative tone between the two paragraphs, the overall likelihood of them being written by the same author is low.",
+        "score": 0.4
+    }
+}

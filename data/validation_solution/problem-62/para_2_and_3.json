@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods consistently. However, the second text lacks proper punctuation in the word 'coolaid', which could be a typographical error.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical choices with straightforward language and lack of complex vocabulary. Grammatically, they both contain simple sentence structures without intricate clauses.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short and direct sentences. They lack intricate sentence arrangements or significant quantitative differences in word or clause length.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of narrative styles, both texts have a serious and somewhat bleak tone. They both express strong opinions and viewpoints without much variation in tone. However, the topics differ significantly.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in the first text. The second text contains a possible typographical error in the word 'coolaid'.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, narrative styles, and minimal typographical errors, there is a moderate level of confidence that these texts were written by the same author despite the differences in content.",
+        "score": 0.73
+    }
+}

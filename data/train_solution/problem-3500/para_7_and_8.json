@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts demonstrate the use of hyphens in compound adjectives (e.g., '100% dependent'). However, the first text utilizes parentheses for additional information, whereas the second text does not have such punctuation features.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts use formal language with complex structures. The first text contains specialized vocabulary ('context,' 'willingness'), while the second text includes terms related to rights and authority ('rights,' 'police'). However, there are differences in the specific vocabulary used.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Regarding sentence structure and quantitative features, both texts exhibit similar sentence complexity and coherence. Both texts convey ideas logically and cohesively. However, the first text is slightly longer and more elaborative compared to the second text.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts convey serious tones and discuss societal issues. However, the first text appears more philosophical in nature, while the second text is more assertive and direct in its tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text. Both texts are well-written in terms of spelling and grammar.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are notable similarities in terms of punctuation style, sentence structure, and absence of spelling errors. However, there are distinctions in lexical choices and text tone. The overall assessment indicates a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with commas separating ideas and periods to end sentences. There are no hyphens, brackets, colons, or quotation marks used.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit distinct lexical and grammatical features. Paragraph 1 has a more informal and direct style with specific technical terms like 'Abrams,' 'NATO,' and 'politburo.' In contrast, Paragraph 2 is reflective and uses words such as 'horrifyingly' and 'unjust.'",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is characterized by short, direct sentences with a focus on conveying urgency and action. In contrast, Paragraph 2 consists of longer, more complex sentences that express contemplation and emotion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more urgent and dramatic narrative style with a prediction of events unfolding. On the other hand, Paragraph 2 conveys a sense of despair and criticism towards the justice system.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit proper spelling and no typographical errors. There are no issues with spelling accuracy in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

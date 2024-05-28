@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation consistently with commas, quotation marks, and periods. In contrast, Paragraph 2 lacks proper punctuation and uses informal language.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured use of words and grammatical categories. In contrast, Paragraph 2 contains informal language and lacks the sophistication seen in Paragraph 1.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 exhibits longer and complex sentences with coherence and cohesion. In contrast, Paragraph 2 has shorter, fragmented sentences lacking in depth and organization.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone in discussing climate crisis consequences. In contrast, Paragraph 2 uses colloquial language and an informal tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 does not contain spelling or typographical errors. In contrast, Paragraph 2 contains a profanity making it less formal.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.74
+    }
+}

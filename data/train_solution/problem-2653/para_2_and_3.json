@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with colons, commas, and periods. Paragraph 2 lacks proper punctuation and contains more informal language with less structured sentences.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more formal and structured lexical and grammatical style with professional language. Paragraph 2 contains informal language, slang, and grammatical errors.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is well-structured with clear sentence arrangements and coherence. Paragraph 2 lacks coherence, contains longer sentences without proper structure, and has a less organized flow.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone appropriate for official communication. Paragraph 2 has a more critical and opinionated tone with informal expressions and negative sentiments.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.36
+    }
+}

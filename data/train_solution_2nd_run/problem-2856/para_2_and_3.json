@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a comma and a conjunction in a compound sentence, while Paragraph 2 uses a colon to introduce additional information. Both texts use proper punctuation but differ in style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and slang ('fuck around'), while Paragraph 2 uses formal language ('deliberately false information'). There is a distinction in lexical choice and formality.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively similar sentence lengths and coherence. However, the topic and narrative styles differ significantly, affecting the overall quantitative comparison.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The tone in Paragraph 1 is more casual and opinionated, while Paragraph 2 adopts a more formal and informational tone. The narrative styles and speech events are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of care in writing. This feature shows commonality in attention to detail.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choice, tone, and narrative style between the two paragraphs, the overall confidence in the likelihood of the same authorship is moderate.",
+        "score": 0.54
+    }
+}

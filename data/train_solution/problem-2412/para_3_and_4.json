@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Text 1 uses parentheses and colons, while Text 2 uses hyphens and commas. The punctuation style differs significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Text 1 has a more formal and structured lexical and grammatical style compared to the informal and aggressive tone in Text 2. Word choice and grammatical categories differ notably.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer, more complex sentences with a clear focus on the topic, while Text 2 consists of shorter, more fragmented sentences with a negative and dismissive tone. Sentence structure and coherence vary substantially.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts share a critical and somewhat sarcastic tone towards the GOP, but the narrative styles and speech events differ significantly. Text 1 is more analytical, while Text 2 is more emotionally charged.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the similar critical tone towards the GOP, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

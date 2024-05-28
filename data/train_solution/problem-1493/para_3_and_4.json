@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation throughout the text, including colons and commas, while Paragraph 2 contains several punctuation errors and lacks consistency.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and more varied word choice compared to the repetitive and less varied language seen in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more structured and coherent sentences with a formal tone, while Paragraph 2 has longer, less organized sentences with a more casual tone.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal narrative style, while Paragraph 2 lacks coherence and contains more informal expressions.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the mixed results across the different features, the overall confidence score for the likelihood of the same authorship is moderate.",
+    "score": 0.66
+  }
+}

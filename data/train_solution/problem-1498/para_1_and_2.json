@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses commas, colons, and parentheses to provide additional information within sentences, while Paragraph 2 lacks this complexity in punctuation usage.",
+      "score": 0.4
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and specific terminology related to historical contexts, whereas Paragraph 2 is more straightforward and lacks specialized vocabulary.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 has longer and more complex sentences with historical references, while Paragraph 2 consists of shorter, direct sentences discussing a contemporary political situation.",
+      "score": 0.4
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 adopts a more informative and historical narrative style, focusing on facts and events, while Paragraph 2 has a more opinionated and urgent tone regarding a current issue.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "There are no spelling or typographical errors in either text.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low to moderate.",
+      "score": 0.48
+   }
+}

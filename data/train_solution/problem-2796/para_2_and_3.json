@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, and commas to provide additional information and clarify points. There is a consistent use of punctuation throughout the text.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates technical vocabulary related to missiles, defense systems, and specifications. The language is precise and specific to the topic.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of structured, informative sentences that are clear and concise. The text is cohesive and logically organized.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative tone suitable for a technical description. It lacks expressive or emotional elements.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the consistent use of punctuation, technical vocabulary, structured sentences, formal tone, and absence of errors in both texts, there is a moderate likelihood that they were written by the same author, despite differences in content.",
+        "score": 0.8
+    }
+}

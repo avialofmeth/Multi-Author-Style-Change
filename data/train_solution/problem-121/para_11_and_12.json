@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show a similar use of punctuation marks like commas and periods.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts differ significantly, with one focusing on historical information and the other on a different topic with specific language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "There is a difference in sentence structure and complexity, with one text containing a list and the other expressing a future prediction.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Narrative styles and tone are distinct; one text is informative while the other expresses a negative viewpoint.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.52
+    }
+}

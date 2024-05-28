@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar level of punctuation, including commas, colons, and ellipses. However, the first text has more diverse punctuation with parentheses and ellipses, while the second text lacks such variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text uses more varied vocabulary and complex sentence structures compared to the second text, which is more straightforward.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text contains longer and more complex sentences with a focus on the future impact of global events. In contrast, the second text is shorter and more direct, discussing a specific issue without much elaboration.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey serious topics with a tone of concern or criticism, but the first text discusses broader societal issues, while the second text focuses on a specific language algorithm.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of written accuracy.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, as well as the similarities in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

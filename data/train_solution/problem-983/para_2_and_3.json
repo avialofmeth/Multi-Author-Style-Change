@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation like colons and parentheses, while Paragraph 2 uses more informal punctuation like hyphens and quotation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains technical language related to subreddit guidelines, whereas Paragraph 2 discusses a specific political event with more casual language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs differ significantly; Paragraph 1 is concise and direct, while Paragraph 2 is more descriptive and narrative.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal tone related to guidelines, while Paragraph 2 has a more conversational tone discussing a political event.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the lack of spelling errors, the overall confidence score for the likelihood of the same author is moderate.",
+        "score": 0.44
+    }
+}

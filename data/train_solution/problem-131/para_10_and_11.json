@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use standard punctuation marks such as periods, commas, and parentheses, but Paragraph 1 includes a colon and Paragraph 2 does not. This slight difference suggests a potential variance in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs more formal language related to media outlets and subreddit guidelines, while Paragraph 2 uses a more casual tone discussing the actions of the Black Panthers. This difference in lexical choice indicates a dissimilarity in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of relatively short and straightforward sentences with clear coherence. However, the content and structure of the sentences differ significantly, with Paragraph 1 being more informational and Paragraph 2 being more narrative. This disparity in sentence structure reduces the likelihood of the same authorship.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a formal and informative tone related to subreddit guidelines, while Paragraph 2 adopts a more emotive and narrative style discussing the actions of the Black Panthers. The dissimilarity in narrative styles and speech events suggests distinct authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a consistent level of attention to detail in terms of language mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two paragraphs, the overall confidence in them being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

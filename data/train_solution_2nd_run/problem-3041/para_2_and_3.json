@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as commas, slashes, and periods. However, Paragraph 1 uses more complex punctuation like colons and parentheses while Paragraph 2 lacks these features.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal and professional tone with specific vocabulary related to rules and guidelines. There are differences in lexical choices, with Paragraph 1 using terms like 'hate speech' and 'violence' while Paragraph 2 focuses on 'media outlets' and 'approved domains list.'",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with a focus on rule violations and consequences. In contrast, Paragraph 2 consists of shorter sentences that provide instructions. The coherence and cohesion differ due to the nature of the content.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts maintain a formal and instructive tone suitable for guidelines. However, the narrative styles diverge as Paragraph 1 emphasizes behavior rules while Paragraph 2 is more informative about media outlets.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, formal tone, and lack of spelling errors, along with the differences in sentence structure and vocabulary choices, the overall confidence score is moderate.",
+    "score": 0.6
+  }
+}

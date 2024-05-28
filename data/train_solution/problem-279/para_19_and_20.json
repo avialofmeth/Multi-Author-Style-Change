@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles with the use of periods, commas, and apostrophes. However, text 1 includes colons, while text 2 lacks this punctuation mark.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. Text 1 uses more technical language related to energy production and reactors, while text 2 uses more general and abstract language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure and quantitative features. Text 1 contains shorter, direct sentences, while text 2 has longer and more complex sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey a directive or instructive tone, but text 1 focuses on India's achievements, while text 2 emphasizes self-reflection.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and content focus, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

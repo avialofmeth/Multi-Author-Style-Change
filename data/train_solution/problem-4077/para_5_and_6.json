@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods. However, the first text includes hyphens and quotation marks which are not present in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual and informal tone with words like 'funny,' 'dipshits,' and 'bot.' They also contain short, simple sentences.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short sentence lengths and lack complexity. They also lack detailed coherence and cohesion.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a direct and informal style, with the first text showing a slightly more sarcastic tone compared to the second text's straightforward nature.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in the informal tone, sentence structure, and lack of spelling errors, along with the slight differences in punctuation style and tone, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.77
+    }
+}

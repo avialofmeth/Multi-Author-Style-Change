@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, commas, and parentheses. However, the first text includes more diverse punctuation like quotation marks and dashes, while the second text mainly relies on commas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone and use a varied vocabulary. The first text contains more complex lexical choices and a slightly different word selection compared to the second text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively similar, with a mix of complex and straightforward sentences. However, the first text has longer sentences on average compared to the second text.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts convey serious tones and focus on presenting ideas logically. However, the first text discusses political issues, while the second text outlines rules and guidelines.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, lexical and grammatical features, sentence structure, and the absence of spelling errors, the texts demonstrate a moderate level of consistency in writing style. However, the difference in topics and slight variations in punctuation and tone suggest potential differences in authorship.",
+        "score": 0.72
+    }
+}

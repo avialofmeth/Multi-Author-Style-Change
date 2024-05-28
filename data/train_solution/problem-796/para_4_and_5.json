@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and a period. Paragraph 2 uses commas and a period. Both texts utilize standard punctuation marks, although Paragraph 1 includes a hyphen and more complex punctuation.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and profanity. Paragraph 2 is formal and devoid of such language. The lexical variation and word choice in Paragraph 1 differ significantly from Paragraph 2.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains one complex sentence. Paragraph 2 is a simple sentence. Paragraph 1 exhibits more sentence complexity and length variation compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses frustration and emotion. Paragraph 2 is neutral and informational. The tone and mood are starkly different between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical and grammatical features, sentence structure, and tone.",
+        "score": 0.56
+    }
+}

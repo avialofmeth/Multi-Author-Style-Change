@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and parentheses, while Paragraph 2 uses ellipses and commas. Both texts show some diversity in punctuation usage.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more formal tone with phrases like 'dwindling faith in incremental progress in the material world' compared to the informal tone in Paragraph 2 with phrases like 'Bringing up the minsk agreement just gets you called a Russian sympathiser around here.' There are some differences in lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively complex sentence structures and similar sentence lengths. However, Paragraph 1 has a more coherent flow compared to the slightly disjointed nature of Paragraph 2.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a contemplative, reflective tone, while Paragraph 2 has a more conversational tone with direct references to specific events. The narrative styles and speech events differ slightly.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles between the two paragraphs, there are notable differences that suggest they may not have been written by the same author.",
+        "score": 0.64
+    }
+}

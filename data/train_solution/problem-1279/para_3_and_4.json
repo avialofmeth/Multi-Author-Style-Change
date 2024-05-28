@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of explicit and aggressive language, with frequent use of expletives and strong statements. However, the punctuation style differs significantly with the first text containing more aggressive and forceful punctuation such as exclamation points and asterisks, while the second text is more casual and conversational in its punctuation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "While both texts display a level of informality and colloquial language, the lexical and grammatical features diverge noticeably. The first text showcases a more aggressive and militaristic tone with specific jargon related to military training and combat, whereas the second text adopts a more relaxed and pop culture reference approach.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text is characterized by long, complex sentences filled with detailed descriptions of combat skills and threats. In contrast, the second text is shorter and more straightforward, lacking the intricate sentence constructions and excessive details found in the first text.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey a strong and assertive tone, albeit in different contexts. The first text presents a threatening and vengeful narrative, emphasizing the speaker's military prowess and intentions to harm the addressee. On the other hand, the second text adopts a more detached and observational tone, likening the content to a character from a movie.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of proficiency in writing mechanics. Both texts are coherent and free from noticeable mistakes in spelling or punctuation.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the variations in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts, there is moderate evidence to suggest that they may not have been written by the same author. The distinct differences in tone, content, and stylistic choices contribute to a lower overall confidence score.",
+        "score": 0.54
+    }
+}

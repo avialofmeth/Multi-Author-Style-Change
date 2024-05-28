@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains informal language with casual punctuation like ellipses, exclamation marks, and slang. Paragraph 2 maintains a more formal tone without such punctuation elements.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses colloquial language and slang, while Paragraph 2 appears more formal and structured in terms of lexical choice and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and lack complex sentence structures. However, Paragraph 1 shows more informal sentence arrangements compared to the more straightforward structure of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more conversational tone with informal expressions, whereas Paragraph 2 seems to be discussing a specific topic in a more formal manner.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in that aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with similarities in spelling and typographical errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.42
+    }
+}

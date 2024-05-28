@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, quotation marks, and hyphens appropriately. However, there are differences in the use of parentheses and colons. Text 1 uses more parentheses and colons while Text 2 does not contain any instances of these punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual and conversational tone with a mix of informal language. Both texts include technical terms and abbreviations specific to the topics discussed. However, Text 1 displays more colloquial language compared to Text 2.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences with varying structures. In contrast, Text 2 consists of shorter sentences with simpler structures and less diversity in sentence length. However, both texts demonstrate a coherent flow of ideas.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions and provide explanations with a critical tone. However, Text 1 focuses on military events and strategies, while Text 2 discusses a political address and quotes. The narrative styles differ due to the nature of the topics.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a good level of attention to detail in writing. The language used is clear and coherent without any noticeable mistakes.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate. While there are notable similarities in punctuation and absence of errors, there are distinct differences in lexical choices, sentence structures, and narrative styles that suggest potential different authors.",
+        "score": 0.64
+    }
+}

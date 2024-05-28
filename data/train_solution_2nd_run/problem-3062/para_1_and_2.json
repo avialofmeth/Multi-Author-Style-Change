@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display the use of colons, commas, and periods, but with different frequency and placement.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical variation and word choice patterns, with distinct differences in the specific terms used.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts show differences in complexity and length, impacting coherence and cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "While both texts exhibit variations in tone and mood, the narrative styles and speech events differ significantly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the combination of features, there are notable differences in sentence structures, narrative styles, and speech events, indicating potential different authors. However, the consistent use of punctuation and lexical choices suggests some level of similarity in writing style.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas for listing items and separating clauses. However, Paragraph 1 uses a colon and a period for sentence structuring, whereas Paragraph 2 uses periods and commas predominantly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in word choice and sentence structure. Paragraph 1 contains more complex and specialized vocabulary related to geopolitical matters, while Paragraph 2 uses simpler language discussing economic issues.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the simpler and shorter sentences in Paragraph 2. The coherence and cohesion are different due to the varied sentence structures.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both paragraphs differ significantly. Paragraph 1 has a more accusatory and conspiratorial tone, while Paragraph 2 maintains a factual and descriptive tone regarding economic situations.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and tone, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

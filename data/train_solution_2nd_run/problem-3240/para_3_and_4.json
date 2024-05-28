@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods correctly, but the first text includes more informal punctuation such as ellipses and quotation marks around specific phrases.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of formality in word choice and grammar, with a tendency towards informal language and slang.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text is more fragmented in sentence structure, using shorter sentences with abrupt transitions compared to the second text, which has longer, more coherent sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a casual and somewhat critical tone, with the first text displaying more sarcastic and colloquial expressions.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.7
+    }
+}

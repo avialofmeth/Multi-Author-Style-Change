@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses and slashes for additional information, while Paragraph 2 includes parentheses and quotation marks. Both paragraphs make use of punctuation marks for clarification and emphasis.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice. They contain technical terms related to technology and privacy, showcasing a consistent use of specialized vocabulary.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The sentences in both paragraphs are of moderate length and complexity. They maintain coherence and cohesion within each paragraph. The quantitative features are somewhat similar in terms of sentence structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Although the topics differ, both paragraphs demonstrate a formal tone and convey information rather than emotion. They share a common style in discussing technical aspects and privacy concerns.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph, indicating a level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, there is a moderate level of consistency in writing style between the two paragraphs, suggesting they could potentially be written by the same author despite the differences in content.",
+        "score": 0.76
+    }
+}

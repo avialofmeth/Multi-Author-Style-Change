@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas consistently for punctuation, with no significant variations.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a formal and military-focused vocabulary compared to the informal and descriptive language in Text 2. The word choice and lexical variation differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Text 1 consists of longer and more complex sentences focused on military defense strategies, while Text 2 has shorter, more straightforward sentences discussing political actions. The sentence structures and lengths vary notably.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 maintains a serious and directive tone with a focus on defense planning, while Text 2 includes a more casual and speculative tone regarding political outcomes. The narrative styles and tones are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in lexical choices, sentence structures, and narrative styles between the two texts, the overall confidence in them being written by the same author is low.",
+        "score": 0.54
+    }
+}

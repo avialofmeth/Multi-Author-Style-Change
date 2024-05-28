@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains more punctuation errors and inconsistencies, such as missing commas and run-on sentences, compared to Paragraph 2.",
+    "score": 0.25
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choices and word usage, indicating a difference in writing style.",
+    "score": 0.15
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows longer and more complex sentences compared to Paragraph 2, which has simpler sentence structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts have different narrative styles and tones, with Paragraph 1 being more informal and descriptive, while Paragraph 2 is more concise and straightforward.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are spelling and typographical errors present in both texts, but the frequency and type of errors differ, indicating a distinction in writing style.",
+    "score": 0.25
+  },
+  "overall": {
+    "explanation": "The analysis of the linguistic features suggests a moderate likelihood that the two texts were not written by the same author, as there are notable differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors.",
+    "score": 0.23
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and parentheses in multiple instances, while Paragraph 2 mainly relies on commas.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal lexical choices, with Paragraph 1 being slightly more informal.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 tends to have longer and more complex sentences compared to the more concise and direct sentences in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey factual information with a formal tone, but Paragraph 1 includes more details and technical terms.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis indicates moderate similarity in writing style between the two texts, with some differences in punctuation style and sentence complexity.",
+    "score": 0.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, colons, and periods. However, the first text uses a colon to introduce a list of sentences, while the second text lacks such punctuation usage.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text contains formal language with legal terms like 'sentenced' and 'imprisonment', while the second text uses more informal language referring to the individuals as 'heroes' and criticizing the government. This difference in lexical choice suggests distinct writing styles.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts consist of relatively simple sentence structures with clear information delivery. However, the first text presents information in a straightforward manner with legal details, whereas the second text includes a call to action and emotional language.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text follows a formal narrative style typical of legal announcements. In contrast, the second text adopts a more persuasive and opinionated tone, appealing for support and criticizing the government. These distinct narrative styles indicate differing authorial intents.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, displaying a good level of writing proficiency in terms of accuracy.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, and text discourse features, it is less likely that the two texts were written by the same author. The spelling and typographical error analysis indicates a high level of proficiency in both texts, which is a commonality. Therefore, the overall likelihood of the same authorship is moderate.",
+        "score": 0.56
+    }
+}

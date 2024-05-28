@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and quotation marks. However, there are differences in the specific punctuation used.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of complex and simple sentence structures. Lexical variation and word choice differ significantly between the texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have varying sentence lengths and coherence. However, Text 2 shows more complexity and quantitative features.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text 1 focuses on instructional discourse, while Text 2 is more narrative in style. Tone and mood differ significantly between the texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts show some commonalities in punctuation and sentence structure, but significant differences in lexical choice, discourse style, and tone. The presence of unique features in each text reduces the likelihood of them being written by the same author.",
+        "score": 0.56
+    }
+}

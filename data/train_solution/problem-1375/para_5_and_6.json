@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and quotation marks, but the first text lacks colons and has different punctuation usage compared to the second text.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The first text includes informal language and slang ('brothers/sisters'), while the second text uses more formal and technical terms ('Armed Forces of Ukraine', 'Challenger 2'). This indicates a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward in sentence structure. While the first text uses a casual tone, the second text is more informative and structured. Some differences are observed in coherence and cohesion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts are distinct, with the first text expressing surprise or sarcasm, and the second text presenting factual information. The tone and mood differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors are present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, narrative styles, and tone, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

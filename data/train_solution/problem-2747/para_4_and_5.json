@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with proper use of commas, periods, and parentheses. In contrast, Paragraph 2 lacks proper punctuation in some instances and uses hyphens and ellipses inconsistently.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with a focus on clarity. In comparison, Paragraph 2 contains informal language, fragmented sentences, and a less coherent expression.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has well-structured sentences with proper length and coherence, indicating a clear writing style. Paragraph 2, on the other hand, lacks uniformity in sentence structure, length, and cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, focusing on guidelines and rules. In contrast, Paragraph 2 conveys a more opinionated and negative tone, discussing political matters with a biased perspective.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, showing competence in basic writing mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone between the two texts, the overall confidence in them being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

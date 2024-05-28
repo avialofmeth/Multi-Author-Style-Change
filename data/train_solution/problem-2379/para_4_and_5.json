@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas, but the first text also includes a dash and lacks other punctuation marks like colons and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts contain informal language with a mix of contractions and informal expressions, suggesting a similar writing style.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively simple with straightforward communication, although the second text is more concise.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone differ between the texts, with the first text being more conversational and opinionated compared to the second text's formal and automated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical features, and absence of spelling errors, the texts show some similarity in writing style despite differences in narrative tone.",
+        "score": 0.7
+    }
+}

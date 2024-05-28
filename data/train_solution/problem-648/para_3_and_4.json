@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as periods, commas, and quotation marks. However, there are differences in the use of hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit variations in word choice and grammatical structures. The first text includes specific terms related to military actions, while the second text contains more emotional and descriptive language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text has shorter, more fragmented sentences with abrupt transitions, possibly reflecting urgency or action. The second text has longer, more descriptive sentences that convey a sense of reflection and emotion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles of the two texts differ significantly. The first text is more focused on a specific event and conveys a tense, urgent tone. In contrast, the second text is more reflective and emotive, discussing a personal experience.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Overall, the linguistic features show some commonalities but also significant differences in writing style, particularly in sentence structure and narrative style. While there are similarities in punctuation and word choice, the overall tone and structure of the texts suggest different authors.",
+        "score": 0.58
+    }
+}

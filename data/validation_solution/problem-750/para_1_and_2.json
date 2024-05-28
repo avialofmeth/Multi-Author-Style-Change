@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, parentheses, quotation marks, and commas to convey the author's tone and express complex ideas. Paragraph 2 lacks this diversity and relies more on basic punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a distinctive word choice and lexical variation, reflecting the author's specific style and tone. In contrast, Paragraph 2 lacks this unique lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 demonstrates longer, complex sentences with a more structured arrangement, contributing to the overall coherence and cohesion. Paragraph 2 consists of shorter sentences lacking the same level of complexity.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar informal and conversational tone, using direct speech and expressing personal opinions. The tone and mood in both paragraphs are somewhat comparable.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable similarities in the writing style of both texts, particularly in terms of tone and language mechanics. However, differences in lexical variation and sentence complexity suggest some variation in authorship style.",
+        "score": 0.62
+    }
+}

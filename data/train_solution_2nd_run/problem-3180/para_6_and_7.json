@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks to indicate direct speech, but the first text includes more varied punctuation such as colons and commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choice and grammatical features. The first text contains more formal language related to government and intelligence, while the second text uses more colloquial and informal language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences related to intelligence activities, whereas the second text has shorter and simpler sentences reflecting casual conversation on public transport.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the two texts differ significantly. The first text maintains a serious and informative tone, while the second text conveys a more casual and conversational tone with the use of slang and informal expressions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling errors, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.5
+  }
+}

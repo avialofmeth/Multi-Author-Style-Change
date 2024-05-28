@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods for punctuation but do not show consistent use of other punctuation marks like colons, brackets, or quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar word choice and use of informal language. However, the second text shows a slightly higher level of grammatical errors and informal language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively simple sentence structures with moderate coherence and cohesion. The sentence lengths are similar, but the second text contains more complex sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions and use a serious tone. However, the second text is more critical in nature compared to the first text.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering all the features collectively, there are noticeable similarities in the writing style of both texts, particularly in the use of informal language, sentence structures, and overall tone. However, differences in grammatical errors and slight variations in punctuation usage suggest a slightly lower likelihood of the same author.",
+        "score": 0.72
+    }
+}

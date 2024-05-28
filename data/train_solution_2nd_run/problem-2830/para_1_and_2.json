@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of hyphens, commas, and quotation marks in a consistent manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. Paragraph 1 contains more informal language and specific vocabulary related to geopolitical situations, while Paragraph 2 uses more general language related to historical events.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly. Paragraph 1 is more complex with longer sentences, while Paragraph 2 consists of shorter, more straightforward sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features vary widely between the two paragraphs. Paragraph 1 has a serious and tense tone discussing potential conflict, while Paragraph 2 uses a historical analogy in a more reflective tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text/discourse features, there is a moderate level of confidence that the two texts were not written by the same author.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use punctuation marks like hyphens, commas, and colons similarly. However, the first paragraph has more parentheses and quotation marks compared to the second paragraph.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show similarities in lexical choices and grammatical structures. However, the second paragraph contains more complex lexical variations compared to the first paragraph.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit differences in sentence structures and lengths. The first paragraph contains longer sentences, while the second paragraph has shorter and more concise sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both paragraphs differ in narrative styles and speech events. The first paragraph is more personal and anecdotal, while the second paragraph adopts a more informative and explanatory tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are both similarities and distinctions in the writing style between the two paragraphs. The moderate level of strictness in scoring indicates some commonalities but also notable differences, leading to moderate confidence in the likelihood of the same author.",
+        "score": 0.64
+    }
+}

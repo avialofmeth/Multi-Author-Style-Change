@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for listing items and setting off non-essential information.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There is variation in vocabulary and word choice, with one text discussing a specific event and the other focusing on geopolitical analysis.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures are relatively similar in terms of complexity and length, with coherent organization.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ significantly, with one text reporting an event and the other presenting an opinion on a geopolitical situation.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the moderate level of strictness in scoring, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

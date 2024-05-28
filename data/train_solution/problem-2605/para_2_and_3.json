@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas effectively in structuring complex sentences. Paragraph 2 lacks such punctuation intricacies.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more technical and specialized vocabulary related to security systems. Paragraph 2 employs simpler language with terms like 'clients,' 'banks,' and 'museum.'",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is characterized by longer, more complex sentences with detailed descriptions. Paragraph 2 is more concise and straightforward in its sentence structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style, presenting a scenario with a detailed sequence of events. Paragraph 2 is more conversational and speculative in tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the linguistic features analyzed, the writing styles of the two texts show some variations, particularly in punctuation, vocabulary, sentence structure, and narrative style. However, the absence of spelling errors suggests a level of consistency. Therefore, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.48
+    }
+}

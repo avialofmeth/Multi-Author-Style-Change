@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as commas and ellipses. However, the first text uses more commas for listing examples and clauses, while the second text contains fewer punctuation marks overall.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in the informal and colloquial word choices in both texts. However, the first text displays more varied vocabulary and grammatical structures compared to the second text, which is more straightforward in language use.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and lack significant complexity. Both texts contain short, direct sentences with a clear focus on conveying the message. However, the first text has slightly more diverse sentence lengths.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar tone of aggression and violence, as well as a dark humor element. The use of vivid and graphic language to convey strong emotions is present in both texts. However, the specific content and context differ between the two texts.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors. The language is coherent and consistent in terms of spelling and grammar.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the above features, the overall likelihood that the two texts were written by the same author is moderate. While there are similarities in punctuation style, tone, and absence of errors, there are noticeable differences in lexical variation, sentence structure, and content specificity.",
+        "score": 0.66
+    }
+}

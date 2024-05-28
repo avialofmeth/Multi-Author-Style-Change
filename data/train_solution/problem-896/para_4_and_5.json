@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and full stops consistently.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit variation in word choice and use of complex grammatical structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have varying sentence lengths and demonstrate coherence in their respective contexts.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts differ significantly in tone and mood, with one being more formal and the other more emotional and confrontational.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the likelihood of the two texts being written by the same author is moderately confident.",
+        "score": 0.73
+    }
+}

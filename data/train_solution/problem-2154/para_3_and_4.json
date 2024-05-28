@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use quotation marks consistently for direct speech.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 is more formal and structured in its language compared to the informal language and abbreviations used in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with a focus on political discourse, while Paragraph 2 has shorter sentences and a narrative style discussing a specific event.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a diplomatic and formal tone, discussing disagreements respectfully, while Paragraph 2 has a more accusatory and sensational tone focusing on blame.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse style, the likelihood that the two texts were written by the same author is low to moderate.",
+    "score": 0.6
+  }
+}

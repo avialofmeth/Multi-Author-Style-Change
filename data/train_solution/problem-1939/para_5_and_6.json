@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and quotation marks for direct speech. However, only Paragraph 1 uses brackets, a colon, and a comma in a non-standard way.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal word choices and a lack of complex vocabulary. They also share a similar grammatical style with short and fragmented sentences.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain short and straightforward sentences with a conversational tone. There is a similarity in sentence length and structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 shows a more opinionated and emotional tone compared to the neutral and informative tone of Paragraph 2. Both texts lack idiomatic expressions.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical features, sentence structure, and lack of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.72
+  }
+}

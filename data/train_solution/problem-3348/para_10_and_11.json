@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, colons, and parentheses while Paragraph 2 lacks these punctuation marks. However, both texts use hyphens and quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits more formal and legalistic lexical and grammatical features with phrases like 'Judge Otis D Wright' and 'personal funds', while Paragraph 2 has a more informal tone regarding the 'Instagram influencer'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain relatively short sentences but differ in complexity. Paragraph 1 includes more complex sentence structures due to legal context, while Paragraph 2 has simpler sentence structures.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more serious and apologetic tone with phrases like 'crimes', 'apologised', and 'victims'. In contrast, Paragraph 2 uses terms like 'notorious' and 'jailed' which convey a negative but less remorseful tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of obvious spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts show some similarities in spelling and typographical accuracy. The overall confidence score is moderate.",
+    "score": 0.52
+  }
+}

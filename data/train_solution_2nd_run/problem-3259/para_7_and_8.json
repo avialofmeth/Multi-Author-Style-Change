@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and commas correctly, while paragraph 2 lacks proper punctuation and uses informal language like 'ofc'.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical choice compared to the informal and colloquial language used in paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with cohesive structure, whereas paragraph 2 has shorter, fragmented sentences with less coherence and cohesion.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and professional tone in discussing a strategic change, while paragraph 2 uses strong language and expresses negative sentiment towards western countries and media.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and tone, the overall likelihood that these texts were written by the same author is low.",
+    "score": 0.48
+  }
+}

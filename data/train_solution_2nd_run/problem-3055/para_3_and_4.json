@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for listing and clarification, while paragraph 2 lacks punctuation variety and uses informal language.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a formal tone with specific terminology ('approved domains list and outlet criteria'), while paragraph 2 uses informal language and slang ('simping').",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, structured sentences, while paragraph 2 has shorter, more direct sentences with informal language.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone related to subreddit rules, while paragraph 2 has a more opinionated and casual tone regarding a specific individual.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The texts show significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, indicating likely different authors. The presence of spelling and typographical errors does not compensate for the stylistic disparities.",
+    "score": 0.44
+  }
+}

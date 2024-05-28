@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a clear and direct punctuation style with proper use of commas and periods. It does not contain hyphens, brackets, colons, or other special punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style with a focus on conveying rules and guidelines. In contrast, Paragraph 2 exhibits a more informal and opinionated tone with specific references to individuals.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of straightforward and concise sentences with a clear purpose, while Paragraph 2 contains longer and more complex sentences that convey a personal opinion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a neutral and instructional tone, emphasizing the importance of respectful communication. Paragraph 2, on the other hand, conveys a critical and judgmental tone towards a specific individual (Trump).",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit proper spelling and no typographical errors, maintaining a consistent level of accuracy in written language.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking into account the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall assessment suggests a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.6
+    }
+}

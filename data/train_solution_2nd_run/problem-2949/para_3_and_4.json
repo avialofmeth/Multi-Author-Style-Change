@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, parentheses, and periods, while Paragraph 2 mainly employs periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs have a formal tone with complex sentence structures. However, Paragraph 1 includes more specialized terms related to legal matters compared to the straightforward language in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences and more detailed information, whereas Paragraph 2 is brief and to the point.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a serious and factual narrative, discussing investigations and denials. Paragraph 2 is a generic automated response with a neutral tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and discourse features, it is less likely that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

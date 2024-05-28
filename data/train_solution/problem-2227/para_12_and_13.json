@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and question marks, but the first text has more complex punctuation including colons and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts use informal language and show some lexical variation, but the second text has a more casual tone and slang ('sick too').",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward, but the first text has slightly more complex sentence structures.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts express opinions in an informal manner, with the second text showing a more emotional reaction ('Good grief').",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, there are similarities in punctuation style, text and discourse features, and absence of spelling errors. However, differences in lexical and grammatical features and sentence structure reduce the likelihood that the texts were written by the same author.",
+    "score": 0.74
+  }
+}

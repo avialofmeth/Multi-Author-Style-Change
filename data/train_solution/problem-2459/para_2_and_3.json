@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use a similar style of punctuation, including commas and periods, although the first paragraph includes more formal punctuation like colons and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both paragraphs exhibit a mix of formal and informal language, with varied word choices. However, the second paragraph contains more informal language and a more casual tone.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs vary in sentence structures and lengths. The first paragraph consists of shorter, more concise sentences, while the second paragraph includes longer sentences with a more casual flow.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "While both paragraphs convey information, the first paragraph maintains a more formal and informative tone, whereas the second paragraph adopts a more informal and opinionated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score in determining whether the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

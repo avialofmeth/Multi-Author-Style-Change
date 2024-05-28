@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and apostrophes. However, the first text includes more informal punctuation like the ellipsis and lacks formal punctuation like semicolons or em dashes.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts display differences. The first text shows a more informal and conversational tone with simpler vocabulary and sentence structures, while the second text is more technical and uses specialized terms related to geology.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two texts differ significantly. The first text has shorter, more straightforward sentences, while the second text contains longer, more complex sentences with technical details and explanations.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the texts vary greatly. The first text is more direct and urgent in tone, possibly related to weather warnings or urgent messages. The second text is more explanatory and technical, discussing fault lines and stress partitioning.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative style, it is unlikely that the two texts were written by the same author. The lack of spelling errors contributes positively to the overall assessment.",
+        "score": 0.6
+    }
+}

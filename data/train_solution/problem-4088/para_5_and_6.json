@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as quotation marks, hyphens, and commas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some similarities in word choice and sentence structure.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure and style between the texts, affecting the coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Narrative styles and tone differ significantly between the texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in the texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering all the features, there are some commonalities in punctuation and lexical features, but notable differences in sentence structure, narrative styles, and tone. However, the absence of spelling errors boosts the overall confidence slightly.",
+        "score": 0.62
+    }
+}

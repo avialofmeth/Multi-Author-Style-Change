@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as periods, commas, and capitalization.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts have a straightforward and direct style of writing with simple vocabulary and sentence structures.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are short and lack complexity in sentence structure, showing similar patterns in length and arrangement.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more informal and opinionated tone compared to the neutral and formal tone of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts have no spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, sentence structure, and lack of spelling errors, but the differences in tone, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.7
+    }
+}

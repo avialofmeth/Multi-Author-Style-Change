@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a hyphen correctly in 'decision-makers', while Paragraph 2 uses a colon and parentheses in 'EDIT 2: Thanks for all of your questions everyone Unfortunately, we have to go'. Different punctuation styles suggest a potential difference in writing style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs a formal tone with phrases like 'resolve and courage of the west' and 'decision makers', indicating a more serious and analytical lexical choice. Paragraph 2 is more casual and conversational, seen in 'Thanks for all of your questions everyone' and 'Have a nice day'. The difference in lexical and grammatical features suggests a divergence in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a complex sentence structure with a clear argumentative tone, while Paragraph 2 is shorter and more informal with a focus on an event announcement. The variance in sentence structure and quantitative features indicates a dissimilarity in writing style.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and assertive tone throughout, contrasting with Paragraph 2's friendly and concluding style. The distinct narrative styles and speech events suggest a difference in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and typographical accuracy, without any evident errors. The absence of spelling and typographical mistakes indicates consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, there are noticeable differences in writing style between the two texts, leading to a moderate confidence level that they were not written by the same author.",
+        "score": 0.52
+    }
+}

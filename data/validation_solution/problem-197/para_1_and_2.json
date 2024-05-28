@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, parentheses, and quotation marks in a technical and structured manner. In contrast, Paragraph 2 does not exhibit as many varied punctuation styles.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 showcases a more technical and specialized vocabulary related to space and technology. Paragraph 2, on the other hand, uses simpler language with a focus on social commentary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a higher level of technical detail. Paragraph 2 consists of shorter and more straightforward sentences with a reflective tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more informative and instructional tone, typical of technical writing, while Paragraph 2 is more reflective and philosophical in nature.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and tone between the two paragraphs, there are notable distinctions that suggest they may not have been written by the same author.",
+        "score": 0.54
+    }
+}

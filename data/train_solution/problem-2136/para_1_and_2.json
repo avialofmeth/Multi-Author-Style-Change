@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, full stops, and hyphens consistently.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical variation and word choice, using technical terms and specific quantitative references.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence structures are somewhat similar in complexity and length, focusing on quantitative information.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey a formal and informative tone, discussing statistics and waste management.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the consistent punctuation style, similar lexical and grammatical features, aligned text and discourse features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.77
+    }
+}

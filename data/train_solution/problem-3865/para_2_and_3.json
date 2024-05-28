@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Different punctuation styles may indicate different writing styles or habits.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Significant differences in lexical choices and sentence structures.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Varied sentence structures and lengths, lack of coherence in topics.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Distinct narrative styles and tones in the two texts.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors noted in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the differences in punctuation, lexical choices, sentence structures, narrative styles, and tones, the overall likelihood of the same author is low.",
+        "score": 0.34
+    }
+}

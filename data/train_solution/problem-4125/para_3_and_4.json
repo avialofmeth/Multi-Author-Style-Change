@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as commas and parentheses, showing a similarity in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical choices and word usage between the two texts, indicating a potential difference in authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are somewhat complex and show coherence, suggesting a similarity in this aspect.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the texts differ significantly, with one focusing on military action and the other on violence in Iran.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, there are notable differences in lexical choices and narrative styles between the two texts, lowering the likelihood of them being written by the same author.",
+        "score": 0.6
+    }
+}

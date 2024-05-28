@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and quotation marks in a formal and structured manner, whereas Paragraph 2 lacks these punctuation marks and appears more informal.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes formal and technical terms related to government and social assistance, while Paragraph 2 contains informal language, slang, and strong opinions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, coherent sentences with structured information, while Paragraph 2 has shorter, fragmented sentences with emotional content and abrupt shifts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone focused on reporting facts, whereas Paragraph 2 expresses strong personal opinions and uses informal language.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain noticeable spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the variations in punctuation style, lexical and grammatical features, sentence structure and discourse features, and tone, the texts are likely written by different authors. However, the absence of spelling errors increases the likelihood of a slightly shared writing style.",
+    "score": 0.42
+  }
+}

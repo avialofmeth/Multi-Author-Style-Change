@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas in a structured and formal manner. Paragraph 2 lacks this level of punctuation consistency and uses unconventional punctuation in a playful manner.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a serious and formal lexical and grammatical style with precise word choices and grammatical structures. Paragraph 2, on the other hand, employs a more whimsical and imaginative vocabulary that contrasts starkly with the first paragraph.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is characterized by coherent and structured sentences with a focus on military analysis. In contrast, Paragraph 2 lacks the same level of sentence complexity and coherence, instead introducing fantastical elements.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a serious and analytical tone in discussing military capabilities. Paragraph 2 deviates significantly by introducing a playful and imaginative narrative style with references to anime-like scenarios.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the texts exhibit significant differences in tone, vocabulary, and structure, indicating a low likelihood of being written by the same author.",
+    "score": 0.34
+  }
+}

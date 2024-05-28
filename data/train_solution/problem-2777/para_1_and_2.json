@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a wide range of punctuation marks like commas, colons, and parentheses to structure the text and convey complex ideas. Paragraph 2 lacks such varied punctuation and tends to use simpler punctuation marks.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and academic tone with lexical variation and complex word choices. Paragraph 2, on the other hand, uses simpler language and more direct word choices.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with longer and more complex sentences, displaying a higher level of coherence and cohesion. Paragraph 2 consists of shorter sentences with less complexity and cohesion.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more formal and academic narrative style focused on academic curiosity. Paragraph 2 is more direct and focused on reporting events.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

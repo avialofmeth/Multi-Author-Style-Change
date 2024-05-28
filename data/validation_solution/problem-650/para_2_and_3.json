@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation marks like colons and commas in a more formal and structured manner. Paragraph 2 includes hyphens and lacks strict adherence to punctuation rules.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured word choice and grammar. Paragraph 2 contains informal language with slang terms and less adherence to standard grammar rules.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a structured sentence arrangement and coherence. Paragraph 2 has shorter sentences and lacks cohesion in ideas.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal tone and discourse style. Paragraph 2 exhibits a more informal and critical tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "While there are some similarities in punctuation and absence of spelling errors, the differences in word choice, sentence structure, and tone suggest different authors.",
+    "score": 0.48
+  }
+}

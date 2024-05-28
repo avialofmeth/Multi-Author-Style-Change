@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show unconventional punctuation styles with the use of dashes and explicit language. However, the punctuation usage differs in terms of coherence and consistency.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the texts exhibit a difference in word choice and grammar. The vocabulary and sentence structure vary significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "There is a disparity in sentence structure and quantitative features between the texts. One text is more coherent and organized, while the other lacks clarity and structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the texts contrast greatly, indicating a divergence in authorial voice and expression.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts contain typographical errors, but the nature and frequency of these errors differ significantly.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all 5 features, the likelihood that the two texts were written by the same author is low due to notable differences in punctuation style, lexical and grammatical features, sentence structure, narrative styles, and typographical errors.",
+        "score": 0.3
+    }
+}

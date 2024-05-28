@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, parentheses, and commas to provide additional information and structure the text. Paragraph 2, on the other hand, lacks this diversity in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical lexical and grammatical choice with terms like 'authorized resellers,' 'payment methods,' 'MSRP,' and 'CPU shipments.' In contrast, Paragraph 2 features more informal language like 'fucking magnificent beer,' 'epic little bars,' and 'beer I'd never heard of.'",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with technical details about products and services. Paragraph 2, in comparison, uses shorter sentences and focuses on personal experiences and opinions.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone discussing technology-related topics and services. Paragraph 2, however, features a more casual and conversational tone expressing personal preferences and experiences.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is relatively low. However, the absence of spelling and typographical errors suggests a potential commonality.",
+        "score": 0.56
+    }
+}

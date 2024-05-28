@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "The texts both use hyphens and commas, but the specific usage and placement differ slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show differences in word choice and grammatical structures, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths vary, with one text being more concise and the other having longer sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the varied writing styles, differing narrative tones, and other linguistic features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

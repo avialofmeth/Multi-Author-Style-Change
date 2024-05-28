@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and slashes. However, the first text includes more complex punctuation like semicolons and parentheses while the second text primarily uses commas and periods.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts demonstrate a formal and informative tone with specific terms related to rules and guidelines. However, the first text uses a broader range of vocabulary and grammatical structures compared to the more straightforward language in the second text.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The first text consists of longer sentences with embedded clauses and clear organization of rules. In contrast, the second text is shorter and more direct, focusing on specific instructions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey informative content with a serious and instructive tone. However, the first text emphasizes behavioral guidelines and consequences, while the second text focuses on providing guidance for specific queries.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are well-structured and free from spelling or typographical errors, indicating a certain level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation complexity, vocabulary usage, sentence structures, and tone between the two texts, the overall confidence in them being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

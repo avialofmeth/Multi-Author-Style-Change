@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with the presence of commas and periods. However, the first text includes more hyphens and lacks other punctuation marks like colons and quotation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. The first text uses simpler language and has grammatical errors like 'spinless' instead of 'spineless'. The second text demonstrates a more sophisticated use of language with words like 'manifest' and correct grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary significantly. The first text has shorter, less complex sentences with fragmented thoughts. In contrast, the second text contains longer sentences with better coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both texts convey different tones and moods. The first text is critical and negative, while the second text is reflective and hopeful. They exhibit distinct narrative styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text that would indicate different authors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, and text and discourse features, there is moderate evidence to suggest that the two texts were not written by the same author.",
+    "score": 0.48
+  }
+}

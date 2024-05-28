@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, periods, and a question mark, while Paragraph 2 mainly uses periods and a comma. Both paragraphs lack complex punctuation marks like semicolons or ellipses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a formal tone with words like 'redditor,' 'broker,' 'whip votes,' and 'GOP.' Paragraph 2, being automated text, lacks such specific lexical choices and uses more general terms. However, the structure and grammar in both paragraphs are clear and error-free.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with multiple clauses and ideas. In contrast, Paragraph 2 is concise and straightforward, typical of automated responses. Both texts display coherence and logical progression.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses an opinion about political leadership and uses informal language like 'redditor.' Paragraph 2 is an automated message with a neutral and informative tone. The tone and mood differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, maintaining a standard level of correctness in written communication.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the mixed results across punctuation, lexical and grammatical features, sentence structure, text and discourse features, and the clear difference in tone and mood, there is moderate confidence that the two texts were not written by the same author.",
+    "score": 0.54
+  }
+}

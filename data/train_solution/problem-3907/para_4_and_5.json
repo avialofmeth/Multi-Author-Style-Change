@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and parentheses in a similar manner for additional information and asides.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show similarities in the use of technical terms and formal language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure and coherence due to the varied nature of the topics discussed.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ significantly due to the different tones and narrative styles in each text.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure and discourse features, alongside the similarities in punctuation, lexical features, and lack of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.62
+    }
+}

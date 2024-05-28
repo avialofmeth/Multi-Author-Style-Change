@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, commas, parentheses, and colons, showing consistency in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in word choice and lexical variation, indicating a potential similarity in authorship.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "While the sentence structures differ due to the nature of the content, both texts display coherence and cohesion in conveying information.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts differ significantly, with one being more politically charged and the other reporting on numerical data. This distinction lowers the likelihood of the same author.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, suggesting a level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features, the likelihood that the two texts were written by the same author is moderate, leaning towards a potential common authorship.",
+        "score": 0.66
+    }
+}

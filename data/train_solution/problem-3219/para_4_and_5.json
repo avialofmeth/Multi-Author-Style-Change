@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation such as commas and periods. However, Paragraph 1 shows a lack of consistent punctuation with missing periods and spaces, while Paragraph 2 is more consistently punctuated.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use modern vocabulary and straightforward language. Paragraph 1 shows a mix of formal and informal language, while Paragraph 2 uses more concise and direct language.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, complex sentences with varying structures. In contrast, Paragraph 2 is brief and straightforward with simpler sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more serious and informative tone discussing social manipulation, while Paragraph 2 is neutral and automated. The narrative style and tone differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the varied punctuation, vocabulary, sentence structures, and tones between the two texts, the overall likelihood of them being written by the same author is low.",
+    "score": 0.56
+  }
+}

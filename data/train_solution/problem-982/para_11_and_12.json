@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and colons. However, the use of hyphens, brackets, and quotation marks is not consistent between the two texts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a mix of formal and informal language in both texts. While Paragraph 1 includes technical terms like 'USSR' and 'nukes', Paragraph 2 contains more casual language like 'last man'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and to the point. However, Paragraph 1 has longer sentences with more complex structures compared to the simpler sentences in Paragraph 2.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts present factual information without emotional tone. Paragraph 1 is more explanatory, while Paragraph 2 includes a historical reference to Wikipedia.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts share similarities in punctuation usage and lack spelling errors, but they differ in terms of sentence complexity, language formality, and tone. The overall confidence score is moderate.",
+        "score": 0.64
+    }
+}

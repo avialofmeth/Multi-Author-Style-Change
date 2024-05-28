@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation usage with consistent use of commas and colons.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features; one text discusses working hours while the other involves a currency conversion. This impacts the lexical choices and word usage.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths differ significantly due to the nature of the topics discussed in each text.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The texts have different discourse features and tones, one being more factual and the other involving a comparison.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and discourse features, it is unlikely that the texts were written by the same author.",
+        "score": 0.54
+    }
+}

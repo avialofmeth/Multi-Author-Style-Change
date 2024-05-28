@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation consistently with commas and periods. Paragraph 2 lacks proper punctuation and contains excessive use of commas and lacks coherence in punctuation usage.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with appropriate word choices. Paragraph 2 shows a disjointed and informal style with erratic word choices.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has consistent sentence structures and coherence. Paragraph 2 lacks coherence, has erratic sentence structures, and lacks cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone. Paragraph 2 exhibits a highly opinionated and erratic tone, using hyperbolic language and self-references.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 shows proper spelling and typographical accuracy. Paragraph 2 contains numerous typographical errors and spelling mistakes.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a low likelihood that the two texts were written by the same author.",
+        "score": 0.22
+    }
+}

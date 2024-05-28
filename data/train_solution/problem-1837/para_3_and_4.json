@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and ellipses for pauses and asides, while Paragraph 2 focuses more on correcting spelling errors without much use of punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a casual tone with phrases like 'spitting in the cake batter', while Paragraph 2 is more focused on grammatical correctness and word choice.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure, lacking complex sentences or extensive elaboration.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational style with references to leaving reviews on Yelp, while Paragraph 2 is more instructional in nature with corrections to spelling.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 contains a typographical error ('LGTBQ+'), while Paragraph 2 is focused on correcting spelling mistakes in the text.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, and text/discourse features, it is less likely that the two texts were written by the same author.",
+    "score": 0.36
+  }
+}

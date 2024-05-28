@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of consistent punctuation usage and casual style, with instances of dashes, lack of proper capitalization, and informal language.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts share similarities in lexical choices, such as informal language and specific terms related to legal systems. Grammatical features also show consistency in terms of sentence structure and word choice.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The texts have similar sentence structures with a mix of shorter and longer sentences. They both lack extensive complexity in sentence arrangements but maintain coherence within each text.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have a casual and conversational tone, discussing legal matters in an informal way. They share similarities in narrative style and mood.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text, indicating a consistent level of attention to detail in terms of writing mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, text and discourse features, and lack of spelling errors, with some variations in sentence structure and length, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.75
+    }
+}

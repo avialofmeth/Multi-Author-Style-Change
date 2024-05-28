@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts demonstrate the use of varied punctuation marks such as parentheses, commas, and hyphens. However, the first text displays a more erratic usage of punctuation, including expletives and a mix of formal and informal punctuation styles, whereas the second text is more straightforward.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The lexical choices in the two texts differ significantly. The first text contains strong language, political terms, and emotional expressions, while the second text is more neutral and focused on political figures. The grammatical structures also vary, with the first text being more complex.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text is lengthier, more complex, and emotionally charged compared to the second text, which is more concise and direct. The coherence and cohesion also differ, with the first text showing a stronger narrative style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text adopts a confrontational and passionate tone, using strong language and expressing clear opinions against oppressive regimes. In contrast, the second text maintains a more factual and detached tone, focusing on political events.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, showing a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical errors, the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.44
+    }
+}

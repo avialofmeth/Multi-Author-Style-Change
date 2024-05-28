@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for listing items and separating clauses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Texts have differences in lexical choices and word usage, such as the presence of technical terms in paragraph 1 compared to paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts contain relatively short and straightforward sentences with clear structures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal tone related to guidelines, while paragraph 2 expresses opinions in a more informal and conversational style.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the varying writing styles, differences in lexical choices, and differences in tone between the two texts, there is moderate confidence that they were not written by the same author.",
+        "score": 0.68
+    }
+}

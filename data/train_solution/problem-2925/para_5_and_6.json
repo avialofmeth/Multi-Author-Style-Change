@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and a period for punctuation. Paragraph 2 uses hyphens, quotation marks, and periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical language like 'performed automatically' and 'concerns.' Paragraph 2 has a more informal tone with phrases like 'For all his talk about' and 'goes against his own values.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a more straightforward structure. Paragraph 2 has longer sentences and more complex ideas.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 sounds more formal and informative. Paragraph 2 has a critical and opinionated tone.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.54
+  }
+}

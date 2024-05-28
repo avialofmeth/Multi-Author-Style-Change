@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a formal punctuation style with proper use of colons and commas. Paragraph 2 lacks proper punctuation and uses ellipses instead.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 uses formal language with technical terms, while Paragraph 2 has informal language with colloquial expressions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, structured sentences with clear coherence. In contrast, Paragraph 2 has shorter, fragmented sentences with less cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious, informative tone, typical of a formal setting. Paragraph 2 has a conversational and questioning tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and tone, the likelihood of the texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

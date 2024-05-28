@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, commas, and parentheses, while Paragraph 2 uses hyphens, brackets, and parentheses. Both texts make use of various punctuation marks, indicating some similarity in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language with colloquial expressions like 'he's fucked,' while Paragraph 2 uses more formal language discussing legal matters. The lexical and grammatical features differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of relatively short sentences and lack complex structures. They are straightforward and to the point. However, the content and arrangement differ, affecting coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more narrative in style, recounting a personal experience, while Paragraph 2 is more analytical, discussing a legal situation. The tone and mood vary significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of correctness.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse style, the likelihood that the two texts were written by the same author is low. However, the consistent use of punctuation marks and lack of spelling errors suggest some minor similarities.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks including commas, quotation marks, and periods. However, the first text includes colons and parentheses, which are not present in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit formal language with a mix of complex and simple sentence structures. The second text contains more direct speech with specific vocabulary related to politics.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text is more structured and formal, focusing on providing information. The second text is more conversational and direct, reflecting a different tone and style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text is informational and directive, while the second text presents a direct quote with a political focus. The narrative styles and speech events differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.6
+    }
+}

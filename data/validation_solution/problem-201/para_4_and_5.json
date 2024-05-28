@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas, while Paragraph 2 uses hyphens and parentheses. Both texts use punctuation marks, but there are differences in usage.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 is more straightforward and technical in language, typical of automated responses, while Paragraph 2 contains nautical terminology and informal expressions. There is a notable difference in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of short, concise sentences with clear structures. However, Paragraph 2 has slightly longer sentences due to the explanation of sailing terms. The overall sentence structure is similar but with some minor differences.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is formal and instructional, lacking expressive idioms or narrative style. In contrast, Paragraph 2 has a more casual and explanatory tone with specific domain-related terms. The narrative styles and speech events are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, narrative styles, and tones between the two texts, the likelihood of them being written by the same author is low. The punctuation style and lack of spelling errors provide some commonality, but the substantial differences in other features lead to a moderate confidence level that they have different authors.",
+    "score": 0.54
+  }
+}

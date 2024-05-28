@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and a colon in a structured manner, while Paragraph 2 utilizes commas and slashes in a more informal style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes technical terms like 'cocaine' and 'illegal U-turn,' while Paragraph 2 focuses on general language that emphasizes courteous behavior.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit a mix of sentence lengths and structures, with Paragraph 1 containing more complex and lengthy sentences compared to the concise and straightforward sentences in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more dramatic and accusatory tone, emphasizing the negative actions of an individual, while Paragraph 2 adopts a neutral and instructive tone for maintaining respectful discourse.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and tones, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation such as commas, periods, and hyphens in a formal manner, while Paragraph 2 lacks proper punctuation and uses informal language like ellipses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and technical vocabulary related to business and analysis, while Paragraph 2 contains informal language with a different tone and choice of words.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has structured sentences with clear information and data presentation, whereas Paragraph 2 has fragmented and colloquial sentence structures with personal opinions.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone focused on reporting data, while Paragraph 2 expresses personal sentiments and opinions with a critical tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 does not contain spelling or typographical errors, while Paragraph 2 has several spelling errors like 'swiss' instead of 'Swiss' and lacks proper capitalization.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, tone, and spelling errors, the writing styles of the two paragraphs appear distinct, suggesting a low likelihood of being written by the same author.",
+    "score": 0.44
+  }
+}

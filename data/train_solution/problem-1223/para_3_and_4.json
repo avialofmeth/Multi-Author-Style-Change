@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, parentheses, and quotation marks in a formal and structured manner, while Paragraph 2 employs a trademark symbol and informal tone with no typical punctuation signs.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates formal lexical choices related to news content, while Paragraph 2 includes more informal and promotional language related to the Kremlin. The grammatical structures in the two texts also differ significantly.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains coherent and structured sentences suitable for news reporting, whereas Paragraph 2 has shorter, fragmented sentences with a more promotional tone. There are notable differences in sentence complexity and arrangement.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone appropriate for news sharing, while Paragraph 2 adopts a more persuasive and promotional narrative with a specific agenda. The tones are distinct and not likely to be from the same author.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 demonstrates correct spelling and no typographical errors, while Paragraph 2 introduces intentional misspellings like 'Bought' and 'Kremlin^TM'. The presence of such deliberate errors indicates a different writing style.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and intentional spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.22
+    }
+}

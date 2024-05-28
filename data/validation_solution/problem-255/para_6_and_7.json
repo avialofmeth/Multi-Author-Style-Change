@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates consistent use of commas and correctly places them within sentences for clarity. Paragraph 2 lacks consistent punctuation usage and shows a different style with less structure.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a variety of lexical choices and uses a mix of word types effectively. Paragraph 2 contains more specialized terminology but lacks the diversity of lexical choice seen in Paragraph 1.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits a mix of sentence lengths and complexity, contributing to overall cohesion. Paragraph 2 has shorter and less varied sentence structures, affecting coherence.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a consistent narrative style with a clear tone. Paragraph 2 introduces a different narrative style and tone, indicating a shift in the author's approach.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and lack typographical errors, showing a similar level of attention to detail in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the overall confidence in the likelihood of the two texts being written by the same author is moderate, as there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. However, the shared aspect of proper spelling and lack of typographical errors slightly raises the confidence level.",
+    "score": 0.56
+  }
+}

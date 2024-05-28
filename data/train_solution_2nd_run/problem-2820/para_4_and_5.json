@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Text 1 uses standard punctuation marks like commas and periods. Text 2 also utilizes punctuation marks but in a more creative and unconventional manner, such as using hyphens and quotes.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Text 1 employs a formal and courteous tone with standard vocabulary and grammar. Text 2, on the other hand, uses more informal and derogatory language, showcasing a significant difference in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 consists of coherent and structured sentences with a focus on etiquette and guidelines. Text 2, however, presents a chaotic and disjointed narrative with a dark and unsettling tone.",
+    "score": 0.1
+  },
+  "feature4": {
+    "explanation": "Text 1 maintains a professional and respectful discourse style, emphasizing civil communication. In contrast, Text 2 adopts an aggressive and disdainful tone, portraying a stark contrast in narrative styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and typographical accuracy without errors, indicating a similarity in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five linguistic features, the overall assessment suggests a low likelihood that the two texts were written by the same author due to substantial differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, and tone. The only commonality observed is in the spelling and typographical accuracy.",
+    "score": 0.38
+  }
+}

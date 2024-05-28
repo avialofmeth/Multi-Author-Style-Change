@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and hyphen in a formal, instructional manner, while Paragraph 2 uses hyphens in a more informal, conversational style. There are no other common punctuation features present.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and technical language related to subreddit guidelines. In contrast, Paragraph 2 includes informal language and colloquial expressions. The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and lack complexity in sentence structure. However, Paragraph 1 is more cohesive and structured due to its instructional nature, while Paragraph 2 appears fragmented and lacks coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone, typical of guidelines or instructions. In contrast, Paragraph 2 has a conversational and opinionated tone discussing a political scenario. There is a clear difference in narrative styles and speech events.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall likelihood that the two texts were written by the same author is low due to the significant differences in writing style.",
+    "score": 0.34
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit consistent use of punctuation marks such as commas, periods, and quotation marks. However, paragraph 1 includes specific punctuation marks like brackets and colons which are absent in paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "While both texts display a formal and academic tone, paragraph 1 delves into detailed descriptions and uses specific terminology related to political behavior, nationalism, and violence. In contrast, paragraph 2 is more conversational and direct, focusing on encouraging reading a specific author.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structurally complex with longer sentences and intricate phrasing, reflecting a more academic and analytical writing style. In comparison, paragraph 2 is simpler with shorter sentences and straightforward language, typical of persuasive discourse.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and explanatory tone, discussing a complex concept like fascism in detail. Paragraph 2, on the other hand, is more direct and informal, focusing on a recommendation to read a particular author. The narrative styles and speech events differ significantly.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in proofreading.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis reveals notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two paragraphs, suggesting a likelihood of different authors. However, the absence of spelling and typographical errors provides a commonality. The overall confidence score is moderate.",
+    "score": 0.54
+  }
+}

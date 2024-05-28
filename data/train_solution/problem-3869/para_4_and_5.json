@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display the use of hyphens and parentheses, although in different contexts. Text 1 uses hyphens in compound adjectives, while Text 2 uses hyphens in a complex list. Both texts also use parentheses for additional information.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 showcases a more formal and structured lexical and grammatical style with clear word choices and grammatical categories. In contrast, Text 2 exhibits a more informal and colloquial word choice with lexical variations.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts vary in sentence structure and length. Text 1 has longer, more complex sentences, while Text 2 contains shorter, fragmented sentences. There are differences in coherence and cohesion as well.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a narrative style with a descriptive tone, focusing on specific events and details. Text 2 presents a more conversational tone with informal expressions and a pessimistic outlook on the situation.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the identified features, the likelihood that the two texts were written by the same author is moderate, with differences in lexical and grammatical features, sentence structure, and narrative styles, but similarities in punctuation style and absence of spelling errors.",
+        "score": 0.6
+    }
+}

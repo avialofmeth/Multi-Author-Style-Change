@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and commas for additional information and clarification.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 uses specific terms related to government actions and legal issues, while Text 2 focuses more on general political sentiments. Some commonalities in word choice and sentence structures were observed.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short sentences, and they are coherent within each paragraph. However, Text 1 presents a list of actions, while Text 2 expresses a personal opinion on a broader topic.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more factual and direct tone due to listing actions, while Text 2 conveys a subjective viewpoint with emotional undertones.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, sentence structure, and lack of spelling errors, along with some differences in lexical choices and tone, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.76
+  }
+}

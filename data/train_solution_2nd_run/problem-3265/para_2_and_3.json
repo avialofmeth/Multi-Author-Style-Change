@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as commas, periods, and colons. However, the first text uses more formal punctuation in the form of parentheses and quotation marks, while the second text has a more casual style with hyphens and informal language.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. The first text is more formal and technical in its word choice, whereas the second text is more informal and emotive.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit different sentence structures and quantitative features. The first text is more structured and coherent, with longer sentences, while the second text is more fragmented and direct.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone of the two texts are distinct. The first text is more informative and instructional, while the second text is more accusatory and emotive.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and similarities in spelling and typographical errors, the overall confidence score in determining if the texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

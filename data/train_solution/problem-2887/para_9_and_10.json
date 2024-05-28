@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including commas, quotation marks, and periods. However, the use of hyphens, brackets, colons, and parentheses differ between the two texts.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and word usage between the two texts. The first text uses more informal language with terms like 'influencers', while the second text uses more formal language with terms like 'peer nations'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit a similar sentence structure with clear and concise sentences. However, the first text is more complex in terms of sentence structure compared to the second text.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ between the texts. The first text presents a more casual tone with a reference to social media 'influencers', while the second text is more formal and informational, directing readers to a specific source for further reading.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, and narrative styles between the two texts, the overall confidence in them being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

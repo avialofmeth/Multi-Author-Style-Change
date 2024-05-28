@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas for listing items, while paragraph 2 does not have a listing structure. Both paragraphs utilize quotation marks correctly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more varied vocabulary and complex sentence structures, discussing hypothetical scenarios. Paragraph 2 has a more straightforward and direct language focused on a specific event.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with multiple clauses and a narrative structure. Paragraph 2 consists of shorter, more direct sentences related to a current event.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a contemplative and reflective tone discussing hypothetical situations. Paragraph 2 has a formal and informative tone related to a specific announcement.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in the absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

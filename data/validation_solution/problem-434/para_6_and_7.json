@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and commas correctly and effectively. Paragraph 2 lacks proper punctuation and uses informal, colloquial language.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs more formal and structured language with specific terminology. Paragraph 2 contains informal language and slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of complex sentences with varied lengths, maintaining coherence. Paragraph 2 has shorter sentences with abrupt shifts in tone.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a more serious and formal tone. Paragraph 2 uses casual and direct language with strong emotions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for punctuation, while Paragraph 2 lacks these specific punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of formal and informal language with references to media outlets, suggesting a similar lexical and grammatical style.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with a clear call-to-action sentence, while Paragraph 2 presents a list format with minimal sentence structure complexity.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs maintain a factual and informative tone related to media outlets, with no distinct narrative styles or idiomatic expressions.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style and sentence structure, along with the similarities in lexical and grammatical features, text and discourse features, and spelling accuracy, the overall confidence score is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, and periods consistently for punctuation. However, Text 1 includes more advanced punctuation like colons and parentheses, while Text 2 lacks this complexity.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 exhibits a more formal and complex lexical and grammatical style, with phrases like 'Geo-politics alone will dictate' and 'heavily controlled narratives'. Text 2 uses simpler language and a more conversational tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences with varied structures. Text 2 contains shorter sentences and a more straightforward arrangement. The coherence and cohesion also differ between the two texts.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more serious and analytical tone, discussing potential future scenarios with a dystopian outlook. In contrast, Text 2 has a more casual and conversational tone, focusing on personal experiences and observations.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate good spelling and typographical accuracy without errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.56
+  }
+}

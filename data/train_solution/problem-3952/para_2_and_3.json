@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses various punctuation marks like hyphens, commas, parentheses, and colons in a structured manner. Paragraph 2 lacks such structured use of punctuation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and elaborate lexical and grammatical style with specific terms related to voting and legislation. Paragraph 2 shows a more informal and aggressive tone with simpler language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 includes longer, complex sentences discussing a specific issue and solution. Paragraph 2 comprises a shorter, direct sentence expressing a negative emotion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a persuasive and informative narrative style discussing a social issue. Paragraph 2 uses a more confrontational and critical tone towards a specific individual.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts do not contain spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the presence of some commonalities in spelling and typographical correctness, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

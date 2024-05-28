@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods appropriately, while Paragraph 2 lacks proper punctuation in some instances.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured word choice and grammar compared to the informal and colloquial language in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows a consistent and coherent sentence structure with clear organization, while Paragraph 2 features shorter and less structured sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and instructional tone, focusing on rules and guidelines. In contrast, Paragraph 2 conveys a more opinionated and judgmental tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the linguistic features, the likelihood that the two texts were written by the same author is moderate, with differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features indicating some divergence in writing style.",
+        "score": 0.56
+    }
+}

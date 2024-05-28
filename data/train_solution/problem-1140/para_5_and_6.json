@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a formal and polite punctuation style with proper use of commas and periods. Paragraph 2 lacks appropriate punctuation marks and uses a casual style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a vocabulary and grammatical structure consistent with a formal tone. Paragraph 2 contains crude language and inappropriate content, indicating a different lexical and grammatical style.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured logically and cohesively. Paragraph 2 lacks coherence and contains abrupt shifts in tone and topic, suggesting different writing styles.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a neutral and informative tone suitable for automated responses. Paragraph 2 uses offensive language and derogatory terms, reflecting a distinct tone and mood.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is devoid of spelling or typographical errors. Paragraph 2 contains explicit language and inappropriate content, potentially indicating a relaxed approach to language usage.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, as well as spelling and typographical errors, the likelihood of both texts being written by the same author is low due to significant differences in style and content.",
+        "score": 0.16
+    }
+}

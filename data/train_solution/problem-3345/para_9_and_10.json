@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of hyphens and expletives, while Paragraph 2 lacks these features.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more informal and expressive style with strong language, while Paragraph 2 is more formal and neutral as expected from a bot message.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences compared to the straightforward and concise sentences in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a confrontational and emotional tone, while Paragraph 2 is robotic and informational.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the similarity in spelling and errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

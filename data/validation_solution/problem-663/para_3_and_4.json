@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks, while Paragraph 2 lacks these specific punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a more formal and complex lexical and grammatical style with phrases like 'burning down the rainforest' compared to the simpler language in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with varied structures, while Paragraph 2 is more straightforward and concise in sentence construction.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a strong tone and clear opinions, but the specific expressions and idioms used differ between the two, impacting the overall style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, showing a consistent level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and tone, the texts exhibit significant variations in writing style, indicating a lower likelihood of being written by the same author.",
+        "score": 0.52
+    }
+}

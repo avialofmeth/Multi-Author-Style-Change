@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and periods, although the first paragraph demonstrates a more formal and structured use of punctuation compared to the second paragraph, which contains more errors and lacks proper punctuation in places.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first paragraph employs a more sophisticated lexical and grammatical style with precise terminology related to political systems. In contrast, the second paragraph contains grammatical errors and less varied word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first paragraph is characterized by longer and more complex sentences with a coherent flow of ideas. The second paragraph is shorter and lacks coherence, featuring simpler sentence structures.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first paragraph adopts a formal and informative tone typical of political discourse. In contrast, the second paragraph has a more casual and opinionated tone, with a focus on personal views rather than factual information.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "The first paragraph is free from spelling and typographical errors. However, the second paragraph contains multiple spelling and typographical mistakes, indicating a lower level of attention to detail in writing.",
+        "score": 0.3
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as spelling and typographical errors, the likelihood of the two texts being written by the same author is relatively low.",
+        "score": 0.44
+    }
+}

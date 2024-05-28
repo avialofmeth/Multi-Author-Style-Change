@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon for punctuation. Paragraph 2 lacks commas and uses a period instead for punctuation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes technical military terms and specific details. Paragraph 2 is more conversational and lacks technical terms.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, complex sentences with detailed information. Paragraph 2 is shorter and more straightforward.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 focuses on military facts and details. Paragraph 2 is more casual and opinionated.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.46
+    }
+}

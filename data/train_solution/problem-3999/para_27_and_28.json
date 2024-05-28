@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and parentheses, while Paragraph 2 does not. Both texts utilize commas and periods consistently.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit different lexical choices and word usage. Paragraph 1 focuses on historical and personal terms related to the Soviet Union, while Paragraph 2 delves into ultra-nationalistic and political vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences compared to the shorter, direct sentences in Paragraph 2. The overall structure and coherence differ significantly between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two paragraphs are distinct. Paragraph 1 discusses personal experiences and historical desires, while Paragraph 2 focuses on online ultra-nationalistic groups and their aggressive intentions.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

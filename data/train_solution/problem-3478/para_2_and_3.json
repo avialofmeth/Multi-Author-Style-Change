@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and periods appropriately. However, Text 1 includes more hyphens and Text 2 includes colons and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a certain level of lexical variation and word choice, with Text 1 using terms like 'hubris' and 'fossil fuels' while Text 2 uses phrases like 'civilized Europe\u2019s very Eastern frontier.' Grammatical categories are used correctly in both texts.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Text 1 consists of shorter, more direct sentences while Text 2 has longer, more complex sentences. Text 1 is more straightforward in structure, while Text 2 shows a higher degree of coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both texts differ slightly, with Text 1 having a more direct and opinionated tone, while Text 2 has a more reflective and explanatory tone. Common expressions and idioms are present in both texts.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are similarities in certain aspects such as punctuation usage and absence of errors, but differences in sentence complexity, tone, and coherence. The overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.66
+    }
+}

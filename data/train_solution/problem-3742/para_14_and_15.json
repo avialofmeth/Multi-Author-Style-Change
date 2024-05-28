@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas for listing items and providing additional information, but no other common punctuation styles are observed.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use formal language and discuss historical events, demonstrating similarity in lexical and grammatical features.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of complex sentences with historical references, indicating similarity in sentence structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a serious and informative tone, discussing significant events in history.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors are observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in lexical and grammatical features, sentence structure, tone, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

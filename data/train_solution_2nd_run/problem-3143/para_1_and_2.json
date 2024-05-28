@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 and Paragraph 2 both use commas for listing items and separating clauses. However, Paragraph 1 uses more complex punctuation like colons and parentheses, while Paragraph 2 does not exhibit such complexity.",
+		"score": 0.6
+	},
+	"feature2": {
+		"explanation": "In terms of lexical and grammatical features, both texts exhibit informal language and unconventional grammar. However, Paragraph 1 uses a more varied vocabulary and shows a preference for certain phrases ('get all your shots in', 'nukes be hosted'). Paragraph 2, on the other hand, shows a distinctive style with phrases like 'low-key' and 'God blesses those who love him a lot'.",
+		"score": 0.5
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 consists of longer and more complex sentences, with a mix of short and long sentences. In contrast, Paragraph 2 has a more straightforward sentence structure with shorter sentences overall. While both texts display coherence within each paragraph, the overall structure differs significantly.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "The narrative styles and tone in the two texts are notably distinct. Paragraph 1 focuses on a geopolitical issue with a serious and assertive tone, while Paragraph 2 shifts to a more personal and reflective tone discussing faith and moral judgment. The expressions and idioms used also vary significantly between the two texts.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "Both texts demonstrate good spelling and typographical accuracy, without any obvious errors in this aspect.",
+		"score": 1
+},
+	"overall": {
+		"explanation": "Considering the analysis of the individual features, the overall confidence score in the likelihood that the two texts were written by the same author is moderate. While there are some shared punctuation styles and lexical features, the significant differences in sentence structure, narrative style, and tone suggest distinct authorship.",
+		"score": 0.56
+	}
+}

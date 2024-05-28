@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks and commas for punctuation, while Paragraph 2 uses hyphens, commas, and a colon. Both texts show variation in punctuation usage.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words like 'feint,' 'moves,' 'trap,' 'memory span,' and 'goldfishes,' while Paragraph 2 uses terms like 'Kadyrov's deputy,' 'Major General,' 'Commander,' 'Chechen Akhmat special forces,' 'war criminal,' 'poisoned,' 'toxin,' 'hospitalized,' 'Moscow,' and 'entourage.' The lexical choices differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a complex sentence with a mix of clauses, while Paragraph 2 contains a more straightforward sentence structure providing factual information. The quantitative features and sentence complexity vary.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a sarcastic and dismissive tone, using phrases like 'proven wrong over and over again' and 'Russians have the memory span of goldfishes.' Paragraph 2 is more formal and reports an incident without emotional language. The narrative styles and tones are distinct.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles, it is unlikely that the two texts were written by the same author. The spelling and typographical error analysis supports this dissimilarity.",
+    "score": 0.48
+  }
+}

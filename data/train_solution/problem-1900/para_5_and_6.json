@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as periods and commas, but the first text includes a hyphen and misspells 'their' as 'thier'.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar level of lexical and grammatical features, with no significant differences in word choice or grammatical categories.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Both texts consist of short, straightforward sentences with no evident complexity or variation in structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "There are no clear narrative styles or common expressions shared between the texts, but both convey a formal tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "The first text contains a spelling error with 'thier', while the second text is free of spelling and typographical errors.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

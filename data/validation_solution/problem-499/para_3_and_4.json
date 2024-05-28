@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, slashes, and parentheses for punctuation, while Paragraph 2 does not exhibit such usage. There are differences in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs demonstrate a formal tone with a focus on environmental topics. However, Paragraph 1 contains more complex and varied lexical choices compared to the more straightforward language used in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with a clearer structure and coherence. In contrast, Paragraph 2 is more concise and straightforward, lacking the same level of complexity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts present informative content with a serious tone. However, Paragraph 1 discusses global actions and individual impact, while Paragraph 2 focuses on a specific program in Australia with a critical viewpoint. The narrative styles differ.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "After assessing the linguistic features, the texts show differences in punctuation style, lexical complexity, sentence structure, and narrative style. While spelling and typographical errors are absent in both texts, the overall analysis indicates a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.44
+  }
+}

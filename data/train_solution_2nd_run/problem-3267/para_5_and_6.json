@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas to list various entities like labor unions, planned parenthood, etc. Paragraph 2 uses commas to separate clauses and phrases within a sentence.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs contain political terminology and informal language. Paragraph 1 uses more specific terms related to donations and organizations, while Paragraph 2 discusses political labels and individuals.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with a mix of complex structures due to listing multiple organizations. Paragraph 2 has shorter sentences with simpler structures discussing opinions about individuals.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs express opinions and observations about political figures. Paragraph 1 focuses on Bernie Sanders and donation sources, while Paragraph 2 critiques the definition of 'progressive' and specific politician Hakeem Jeffries.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences in sentence complexity, word choice, and narrative focus between the two paragraphs. However, the absence of spelling errors provides some consistency. Therefore, the likelihood of the same author is moderate.",
+        "score": 0.56
+    }
+}

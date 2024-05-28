@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal language and expletives, but differ in the use of punctuation marks. Paragraph 1 contains profanity without punctuation, while Paragraph 2 uses proper punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal lexical choices and word usage, but vary in the level of complexity. Paragraph 1 is more straightforward and direct, while Paragraph 2 shows a bit more complexity in sentence structure.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and lack intricate sentence structures. However, Paragraph 1 is more fragmented and abrupt, whereas Paragraph 2 has slightly better coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey a casual and conversational tone but differ in the specific contexts of the discussions. Paragraph 1 discusses grave actions, while Paragraph 2 focuses on energy resources.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and tone, there are notable distinctions in the writing styles between the two texts, leading to moderate confidence that they were not written by the same author.",
+    "score": 0.54
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, parentheses, and commas for punctuation. However, the first text includes more punctuation marks such as colons and quotation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two texts. The first text uses more informal language and specific medical terms, while the second text discusses sensitive topics using different vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "While both texts vary in sentence lengths and complexity, the first text contains more detailed descriptions and longer sentences. The second text is more straightforward and concise in its structure.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events differ significantly between the two texts. The first text is personal and recounts experiences, while the second text discusses a broader issue in a more informative tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

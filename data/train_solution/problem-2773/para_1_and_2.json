@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a formal and legalistic style with specific punctuation like commas, semicolons, and periods. Paragraph 2 maintains a more conversational tone with simpler punctuation like commas and slashes.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical and grammatical complexity due to legal terminology and formal language. Paragraph 2 is more straightforward and uses common language to convey rules.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with legalistic structures and clauses. Paragraph 2 has shorter sentences and is more direct in its communication style.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and authoritative tone given its legal context. Paragraph 2 maintains a friendly and instructive tone. Both texts convey information but in different styles.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and no typographical errors, indicating a level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The two texts show some commonalities in spelling and punctuation but diverge significantly in terms of lexical complexity, sentence structure, and tone. The differences in writing style suggest a low likelihood of the same author.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods, but they differ in the presence of specific punctuation marks like colons and question marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and word usage between the two texts. Text 1 uses more complex and emotive language compared to the more factual tone of Text 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have varying sentence structures and lengths, with Text 1 being more complex and longer in sentence length compared to the shorter, more direct sentences in Text 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones of the two texts differ significantly. Text 1 expresses strong emotions and opinions, while Text 2 presents a more matter-of-fact account.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, there is a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.56
+  }
+}

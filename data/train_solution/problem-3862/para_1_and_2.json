@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like hyphens and commas, while Paragraph 2 lacks proper punctuation in some instances.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. Paragraph 1 focuses on a historical event using formal language, while Paragraph 2 contains informal language with a threatening tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures vary significantly between the two paragraphs. Paragraph 1 contains a complex sentence related to a specific event, while Paragraph 2 consists of shorter, disconnected sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features diverge greatly. Paragraph 1 presents a narrative about a sports event, while Paragraph 2 conveys a threatening message with a dark tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse, along with the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

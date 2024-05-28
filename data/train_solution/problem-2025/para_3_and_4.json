@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 uses ellipses and quotation marks. Different punctuation styles might indicate different authorship.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses informal language with words like 'Y'all' and 'shit', while Paragraph 2 contains more formal language like 'surmised' and 'escalation'. The lexical and grammatical features suggest different writing styles.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more fragmented sentences, while Paragraph 2 has longer, more complex sentences. The differences in sentence structure and length may point to different authors.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual, informal tone, while Paragraph 2 has a more serious and strategic tone. The text and discourse features indicate contrasting writing styles.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "No typographical errors or spelling mistakes were identified in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mixed scores across different features, it is moderately likely that the two texts were not written by the same author.",
+        "score": 0.68
+    }
+}

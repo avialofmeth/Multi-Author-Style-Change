@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation marks such as commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language related to guidelines, while Paragraph 2 includes informal language with slang like 'simping'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured more formally with clear sentences, while Paragraph 2 has shorter, more informal sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, while Paragraph 2 has a more opinionated and informal tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were evident in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the combination of features, there are notable differences in lexical and grammatical features, sentence structure, and tone, indicating potential differences in authorship.",
+    "score": 0.66
+  }
+}

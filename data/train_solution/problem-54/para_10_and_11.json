@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas appropriately and consistently. However, Text 2 contains more informal punctuation with the use of slashes and emojis, which differs from the more formal punctuation in Text 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 uses formal language and complex sentences, while Text 2 has a more informal tone and simpler sentence structures. The lexical choices and word usage also differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences compared to the shorter and simpler sentences in Text 2. The coherence and cohesion are stronger in Text 1 due to its structured argument, while Text 2 is more fragmented.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts are vastly different. Text 1 presents a critical viewpoint on a political situation, while Text 2 is a promotional message for a charity. The tone and mood are contrasting in nature.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and coherence, text and discourse features, and the similarities in spelling and typographical errors, the overall confidence level that the two texts were written by the same author is moderate.",
+        "score": 0.48
+    }
+}

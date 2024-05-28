@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation, including commas and periods. However, text 1 uses more complex punctuation such as colons and parentheses, while text 2 does not contain such punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show lexical and grammatical similarities in terms of word choice and sentence structures. However, text 1 contains more complex and varied vocabulary compared to text 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to text 2. The coherence and cohesion of ideas are present in both texts, but text 1 demonstrates a higher level of sentence complexity.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts convey opinions and express thoughts, but text 1 has a more serious and critical tone compared to the hopeful and optimistic tone of text 2.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the moderate level of strictness in scoring suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

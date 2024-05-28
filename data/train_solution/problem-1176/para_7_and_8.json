@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal punctuation with a lack of strict adherence to traditional rules, including missing commas and capitalization. Paragraph 2 shows a more formal use of punctuation with proper placement and usage.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays a more casual and colloquial lexical and grammatical style, with phrases like 'bro' and simpler sentence structures. Paragraph 2 exhibits a more formal and professional tone with complex sentence structures and specialized vocabulary related to global issues.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter and simpler sentences with straightforward coherence. Paragraph 2 includes longer and more complex sentences that contribute to a formal discourse style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a casual and friendly narrative style with familiar expressions. Paragraph 2 takes on a serious and informative tone, focusing on global concerns and strategies.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and typographical accuracy without errors or mistakes.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the overall assessment suggests a moderate likelihood that the two texts were written by the same author, given the differences in formality, tone, and complexity of language. The average score of all features is 0.66.",
+        "score": 0.66
+    }
+}

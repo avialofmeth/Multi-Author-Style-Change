@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, parentheses, and periods for punctuation. However, the first text lacks the use of colons and quotation marks present in the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit formal language with a mix of technical terms (e.g., U.S. officials) and common words. The first text is more concise and straightforward compared to the second text, which contains more specific names and details.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are clear and direct. The first text is shorter and simpler, while the second text includes more complex sentence arrangements due to the inclusion of specific event details.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts convey information formally without any narrative style or expressive language. The first text is more instructional, whereas the second text reports an event.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the evaluation of each feature, the texts show moderate similarities in punctuation style and formal tone but differ in sentence structure and level of detail. The lack of colons and quotation marks in the first text is a notable distinction. The overall confidence score is 0.72.",
+    "score": 0.72
+  }
+}

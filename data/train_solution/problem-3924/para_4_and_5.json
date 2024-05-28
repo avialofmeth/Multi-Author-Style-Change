@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas more frequently for listing and separating clauses, while Paragraph 2 lacks such structured punctuation and seems more blunt in style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and descriptive word choice compared to the informal and colloquial language in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences, showing a higher level of coherence and structure, while Paragraph 2 has shorter and more straightforward sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone regarding the World Cup, whereas Paragraph 2 adopts a more negative and dismissive tone towards FIFA, indicating differing attitudes.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit no significant spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, word choice, sentence structure, and tone, there are notable distinctions in writing style between the two texts, suggesting they are unlikely to be written by the same author.",
+        "score": 0.46
+    }
+}

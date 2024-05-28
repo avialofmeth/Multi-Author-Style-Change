@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with consistent use of commas, periods, and capitalization. However, there are differences in the use of specific punctuation marks such as hyphens, brackets, colons, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two texts. The first paragraph uses more formal language related to subreddit rules, while the second paragraph contains more informal language discussing a legal issue.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary in complexity and length. The first paragraph is more straightforward and concise, while the second paragraph contains longer and more complex sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts lack narrative styles or common expressions that could be used to identify a specific author's tone or mood. The tone in both texts is neutral and informational.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, the overall confidence score that the two texts were written by the same author is moderate, given the similarities in punctuation, coherence, and lack of spelling errors, but differences in lexical choices and sentence structures.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods, but the first text uses more hyphens and colons compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show a preference for concise and direct language, with similar lexical choices and grammatical structures. However, the second text contains more specific terminology related to geopolitical topics.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit a mix of short and medium-length sentences, with coherent organization of ideas. The second text has slightly longer sentences on average.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and informative tone, discussing geopolitical matters. However, the second text includes more specific references to current events.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the absence of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.75
+    }
+}

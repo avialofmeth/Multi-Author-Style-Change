@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a distinct punctuation style characterized by the use of hyphens, commas, and informal language, such as run-on sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts share lexical and grammatical features that include informal language, unconventional word choice, and grammatical errors.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts display similar sentence structure with long, rambling sentences lacking coherence and cohesion.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a narrative style characterized by a conversational, informal tone and use of hyperbolic statements.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "Both texts lack spelling and typographical errors, indicating a consistent level of attention to detail in terms of spelling and grammar.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, narrative style, and lack of spelling errors, the overall confidence score is moderate to high, suggesting that the two texts are likely written by the same author.",
+        "score": 0.8
+    }
+}

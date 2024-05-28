@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas while Paragraph 2 uses hyphens and commas, indicating some punctuation variation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs contain straightforward and descriptive language without much variation. The word choice and grammatical structures are simple and direct.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are short and concise. They lack complexity in sentence structure and do not display a high level of coherence and cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs are informative and lack any distinctive narrative styles or expressive elements.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, there are some commonalities in the punctuation style and simplicity of language between the two paragraphs, but they lack significant similarity in other features. The average confidence score is 0.6, suggesting a moderate likelihood that they were written by the same author.",
+        "score": 0.6
+    }
+}

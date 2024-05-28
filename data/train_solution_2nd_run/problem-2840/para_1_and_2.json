@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes hyphens, commas, and parentheses, while Paragraph 2 only uses a comma.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains technical military terminology and abbreviations, while Paragraph 2 focuses on political statements.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and straightforward sentences in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses military equipment, while Paragraph 2 talks about political events.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical content, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

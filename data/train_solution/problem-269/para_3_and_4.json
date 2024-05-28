@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks including commas, slashes, and periods. Paragraph 2 contains commas and periods but lacks the same variety.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal tone with specific language related to rules and conduct. Paragraph 2 uses more informal language and focuses on a political figure's actions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear rules and consequences. Paragraph 2 presents a reflective narrative on past events with a personal perspective.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and instructive tone. Paragraph 2 expresses a critical opinion with emotional language.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the commonality in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.44
+  }
+}

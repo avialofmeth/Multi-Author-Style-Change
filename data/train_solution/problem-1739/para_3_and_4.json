@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show informal punctuation styles with the use of commas and periods to separate ideas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features in terms of informal language and choice of words.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively similar with a conversational tone and similar sentence lengths.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The second text appears to be an automated response, differing in narrative style and tone from the first text.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all features, the texts show similarities in punctuation, lexical and grammatical features, and sentence structure. However, the difference in narrative style and tone between the texts reduces the overall confidence in them being written by the same author.",
+        "score": 0.66
+    }
+}

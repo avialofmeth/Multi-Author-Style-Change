@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of punctuation marks such as commas, quotation marks, and hyphens, although their frequency and placement differ.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and structured language related to subreddit guidelines, while Paragraph 2 employs informal and colloquial language with political references.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter and more straightforward sentences, whereas Paragraph 2 contains longer and more complex sentences with a narrative tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone related to subreddit rules, while Paragraph 2 expresses a biased and opinionated viewpoint regarding media and politics.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in language formality, sentence structure, and tone, the texts are unlikely to be written by the same author.",
+    "score": 0.48
+  }
+}

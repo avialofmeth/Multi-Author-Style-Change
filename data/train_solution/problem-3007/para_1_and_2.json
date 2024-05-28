@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "The first paragraph uses hyphens, brackets, and ellipses for informal tone and emphasis, while the second paragraph lacks these features.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of informal and formal language with varying lexical choices. The first paragraph uses colloquial expressions like 'wild shit' and 'damn Buster's', whereas the second paragraph uses more formal terms like 'predominantly' and 'War Crimes'.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The first paragraph is structurally complex with long sentences and informal phrasing. The second paragraph is more straightforward and formal in structure with shorter sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs express strong opinions on the war but differ in the level of formality and tone. The first paragraph is more conversational, while the second is more accusatory and assertive.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the varied use of punctuation, differing lexical and grammatical features, structural differences in sentence complexity, and contrasting tones and formality levels, it is unlikely that the two texts were written by the same author.",
+    "score": 0.52
+  }
+}

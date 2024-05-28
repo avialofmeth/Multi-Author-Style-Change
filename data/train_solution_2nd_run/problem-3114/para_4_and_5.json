@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks like colons, commas, and quotation marks in a similar manner to separate clauses and provide emphasis.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show differences in word choice and vocabulary. The first text uses terms related to politics and conflict, while the second text emphasizes historical context and identity.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures vary significantly between the two texts. The first text contains longer and more complex sentences, while the second text is more straightforward and concise.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ as the first text adopts a formal and objective tone related to current events, while the second text conveys a more historical and defensive perspective.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text/discourse features, the likelihood that the two texts were written by the same author is low. However, the consistent use of punctuation marks and absence of spelling errors suggest some level of shared writing style.",
+    "score": 0.6
+  }
+}

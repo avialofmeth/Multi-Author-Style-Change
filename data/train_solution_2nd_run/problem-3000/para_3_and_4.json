@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses brackets, colons, and commas for punctuation, while Paragraph 2 uses hyphens, colons, and commas. Both texts have a mix of punctuation marks, although not all are identical.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is more straightforward and informational in language, focusing on instructions. Paragraph 2 uses more complex vocabulary and structures to convey political ideas.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more direct sentences. Paragraph 2 has longer and more complex sentences with a narrative style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and formal tone, focused on providing guidance. Paragraph 2 has a more urgent and opinionated tone regarding political matters.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in vocabulary, sentence structure, and tone, the texts show some similarities in punctuation style and lack of spelling errors. The overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

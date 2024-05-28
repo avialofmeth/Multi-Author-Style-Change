@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain punctuation marks such as hyphens, brackets, and commas. However, the usage and placement of these punctuation marks differ slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show similarities in terms of vocabulary complexity and sentence structures. However, there are differences in word choice and grammatical categories.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts exhibit complexity and coherence, with varied sentence lengths. However, there are differences in the quantitative features such as word and clause length.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and somber tone, discussing violent events. However, the narrative styles and speech events differ slightly.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are notable similarities in punctuation style, sentence structure, and tone, but there are also differences in lexical features and narrative styles. The overall confidence score is moderate.",
+        "score": 0.68
+    }
+}

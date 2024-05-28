@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas more frequently compared to Paragraph 2, which lacks these punctuation marks. However, both texts demonstrate a similar informal style of punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display similar lexical and grammatical features, such as the use of informal language and lack of complex vocabulary. However, Paragraph 1 shows slightly more variation in word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit comparable sentence structures in terms of simplicity and coherence. However, Paragraph 1 is more cohesive in discussing a specific topic, while Paragraph 2 appears disjointed.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts are informal and conversational. However, Paragraph 1 focuses on a specific issue (COVID-19) while Paragraph 2 appears to be discussing a different topic (restaurants). The tone in both texts is somewhat similar.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the five features, there are notable similarities in punctuation style, lexical and grammatical features, and lack of spelling errors that suggest a moderate likelihood that the two texts were written by the same author, despite differences in specific content and coherence.",
+    "score": 0.66
+  }
+}

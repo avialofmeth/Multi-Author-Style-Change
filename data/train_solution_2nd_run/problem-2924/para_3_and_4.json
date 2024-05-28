@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs utilize standard punctuation marks such as periods, commas, apostrophes, and quotation marks. However, Paragraph 2 includes more informal or colloquial punctuation like single quotes and ellipses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style with specific terms related to media outlets and subreddit guidelines. In contrast, Paragraph 2 employs informal language, slang terms, and a more casual tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit varying sentence structures and lengths. Paragraph 1 is more concise and straightforward due to its informational nature, while Paragraph 2 contains longer and more complex sentences with informal expressions and opinions.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The discourse features in the two paragraphs differ significantly. Paragraph 1 is formal, informative, and neutral in tone, focusing on guidelines and details. In contrast, Paragraph 2 is opinionated, informal, and contains biased language and assumptions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and no typographical errors, maintaining a standard level of accuracy in written language.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, discourse features, and the absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.56
+  }
+}

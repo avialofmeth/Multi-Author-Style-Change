@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, the second text contains more diverse punctuation marks like question marks and exclamation points.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with a mix of complex and simple vocabulary. The second text has a slightly more dramatic tone compared to the first.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short and straightforward sentences. The second text has a slightly higher level of complexity due to the use of metaphors.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative style in both texts is declarative, but the second text has a more confrontational tone. Common expressions and idioms are not prominent in either text.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are noticeable similarities in writing style, particularly in punctuation, grammar, sentence structure, and lack of errors. However, the second text's slightly different tone and complexity may suggest a lower likelihood of being written by the same author.",
+        "score": 0.58
+    }
+}

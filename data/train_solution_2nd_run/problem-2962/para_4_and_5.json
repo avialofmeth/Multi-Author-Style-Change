@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks (periods, commas) in a formal manner, while Paragraph 2 contains more informal punctuation like exclamation marks and abbreviations.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and standard word choices, while Paragraph 2 includes colloquial language, abbreviations, and informal expressions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2, which has shorter, fragmented sentences with abrupt transitions.",
+    "score": 0.25
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal tone discussing a geopolitical issue, while Paragraph 2 has a more emotional and informal tone expressing strong opinions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate standard spelling and no typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts exhibit notable distinctions suggesting different authors.",
+    "score": 0.43
+  }
+}

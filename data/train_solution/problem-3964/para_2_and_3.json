@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas and periods in a standard manner. However, Paragraph 1 includes hyphens and colons, while Paragraph 2 does not. This difference may indicate a slight divergence in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both paragraphs exhibit a formal style with no significant lexical variation or word choice differences. The grammatical categories and part of speech usage are consistent in both texts.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs are relatively straightforward and concise. While Paragraph 1 includes more complex sentence structures due to the nature of the content, both texts display coherence and cohesion in their respective contexts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The discourse features in the two paragraphs differ significantly in terms of topic and tone. Paragraph 1 is more formal and informational, while Paragraph 2 has a more urgent and directive tone. This divergence may suggest different authors.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a strong level of attention to detail in writing. The absence of errors contributes to the overall coherence of the texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the overall confidence score in the likelihood of the two texts being written by the same author is moderate. While there are similarities in punctuation style, lexical and grammatical features, and absence of errors, the differences in discourse features suggest potential variance in authorship.",
+        "score": 0.72
+    }
+}

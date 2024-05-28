@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use commas and quotation marks for direct speech. No other specific punctuation similarities.",
+      "score":0.4
+   },
+   "feature2":{
+      "explanation":"Both texts display a relatively formal tone with a mix of complex and simple vocabulary. The first text is more narrative in nature, while the second text is more opinionated.",
+      "score":0.6
+   },
+   "feature3":{
+      "explanation":"The sentence structures in both texts vary in length and complexity. The first text includes a more complex sentence with a hypothetical scenario, while the second text is more straightforward.",
+      "score":0.5
+   },
+   "feature4":{
+      "explanation":"Both texts use a somewhat casual tone and express opinions or hypothetical situations. The first text presents a hypothetical scenario, while the second text expresses an opinion.",
+      "score":0.7
+   },
+   "feature5":{
+      "explanation":"No spelling or typographical errors were observed in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the analysis of all features, there are notable similarities in punctuation style, sentence structure, and discourse features, but some differences in lexical and grammatical choices. The overall confidence in the texts being written by the same author is moderate.",
+      "score":0.64
+   }
+}

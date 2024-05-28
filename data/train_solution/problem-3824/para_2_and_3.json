@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, periods, and possessive apostrophes. However, the first paragraph uses more varied punctuation like colons and quotation marks, while the second paragraph has more straightforward punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use informal language and contractions. The second paragraph shows more variation in sentence structure and word choice compared to the first paragraph.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence lengths in both texts are relatively similar, with a mix of short and medium-length sentences. Both paragraphs maintain coherence and cohesion within themselves.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey a conversational tone. The first paragraph suggests a recommendation, while the second paragraph explains a concept. There are differences in narrative styles and mood between the two paragraphs.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

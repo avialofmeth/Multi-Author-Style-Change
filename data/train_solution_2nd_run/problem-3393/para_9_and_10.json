@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as brackets, question marks, and commas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show a mix of informal and formal language with specific terms like 'Gitmo' and 'subverted democracy' in the first text, and 'media outlets' and 'approved domains list' in the second text.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentences in both texts are relatively short and direct, lacking complex structures. They exhibit coherence in conveying the intended message.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a more opinionated and critical tone, while the second text is more informative and directive. However, both show a formal style in communication.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical features, and absence of spelling errors, along with some distinctions in tone and sentence structure, the likelihood that the two texts were written by the same author is moderately high.",
+    "score": 0.72
+  }
+}

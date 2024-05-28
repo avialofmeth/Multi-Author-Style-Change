@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of hyphens, commas, and periods in a more informal and scattered manner, while Paragraph 2 uses dashes and commas in a more structured and precise way.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more casual and colloquial lexical choice, with some grammatical errors like 'Washinon' and 'planets has been screwed up'. Paragraph 2, on the other hand, is more formal and correct in terms of lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2. It also lacks coherence and cohesion, jumping between different ideas. Paragraph 2 is more structured and coherent.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and urgent tone with a narrative style focused on climate and political issues. Paragraph 2 has a lighter and more personal tone, with mentions of wine and a lovely wife.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.44
+    }
+}

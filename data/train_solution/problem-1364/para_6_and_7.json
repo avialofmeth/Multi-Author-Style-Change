@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and ellipses for punctuation. Both texts also include commas for listing items.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts use technical terms related to operating systems. Paragraph 2 shows lexical variation with the mention of specific Linux variants.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and contain straightforward sentence structures. Paragraph 2 includes a list, adding some variation in sentence structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts discuss Linux and its variants, maintaining a technical tone. Paragraph 2 introduces a list of Linux distributions, which is a common discourse feature in technical writing.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation styles, technical vocabulary, sentence structures, and discourse features, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation like colons, commas, and quotation marks, while Paragraph 2 lacks proper punctuation and uses hyphens and quotation marks in a more informal manner.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured use of language, with specific terminology related to media outlets, whereas Paragraph 2 contains informal language, slang, and aggressive tone.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, structured sentences with a clear focus on conveying information, while Paragraph 2 has shorter sentences with a more conversational tone and lacks coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative discourse style, focusing on guidelines and details, while Paragraph 2 is more opinionated, sarcastic, and confrontational in its tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing a basic level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the similar lack of spelling errors, the overall confidence score for the likelihood of the same author is moderate.",
+        "score": 0.44
+    }
+}

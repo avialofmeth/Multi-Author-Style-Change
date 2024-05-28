@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and a period correctly. Paragraph 2 lacks proper punctuation in some areas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal and complex writing style with a mix of technical and descriptive vocabulary.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more concise sentences. Paragraph 2 has longer, more complex sentences with a narrative structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses a luxury property, using a descriptive and positive tone. Paragraph 2 delves into political suspicions with a critical tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, tone, and punctuation style, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.6
+    }
+}

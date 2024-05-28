@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and numbers followed by hyphens for ranges.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Both texts are structured similarly in terms of sentence complexity and word choice.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both texts are coherent and follow a similar pattern in sentence length and structure.",
+    "score": 0.85
+  },
+  "feature4": {
+    "explanation": "Both texts have a factual and informative tone without expressive language.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the commonalities in punctuation, structure, tone, and absence of errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+    "score": 0.84
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, colons, and commas for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text has a more formal and informational tone with specific vocabulary related to media outlets, while the second text is more informal with stronger language related to politics and critique.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward in structure, with minimal complexity in sentence construction.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text is more neutral and informative, focusing on subreddit guidelines, while the second text expresses strong negative opinions on political matters.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are correctly spelled and lack typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts show some similarities in punctuation and basic structure but differ significantly in tone and content, indicating a moderate likelihood of being written by the same author.",
+        "score": 0.64
+    }
+}

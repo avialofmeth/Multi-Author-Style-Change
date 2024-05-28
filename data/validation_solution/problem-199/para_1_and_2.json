@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods only for punctuation. Paragraph 2 also uses commas and periods with an additional colon and period combination.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical and grammatical features with informal language and sentence fragments.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs are relatively simple with short sentences. Both paragraphs lack detailed coherence and cohesion.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a casual tone with a lack of formal discourse features. However, the content and topic differ significantly.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.66
+  }
+}

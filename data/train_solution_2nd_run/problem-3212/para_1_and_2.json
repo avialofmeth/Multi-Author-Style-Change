@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as ellipses, commas, hyphens, and quotation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal language with contractions and colloquial expressions, but paragraph 1 shows more informal lexical choices.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter sentences and a more conversational tone compared to the more structured and coherent sentences of paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more narrative and personal tone while paragraph 2 is more instructional and formal, indicating differences in narrative style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure, narrative style, and formality level, along with some shared punctuation and lexical features, the overall confidence level that the texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+feature1: {
+explanation: "Both texts use similar punctuation styles including colons and commas.",
+score: 0.8
+},
+feature2: {
+explanation: "There are similarities in lexical and grammatical features such as word choice and sentence structures.",
+score: 0.7
+},
+feature3: {
+explanation: "Both texts exhibit coherence and cohesion in their sentence structures.",
+score: 0.6
+},
+feature4: {
+explanation: "The narrative styles and tone show some commonalities.",
+score: 0.5
+},
+feature5: {
+explanation: "No significant spelling or typographical errors were observed.",
+score: 1.0
+},
+overall: {
+explanation: "Considering the overall analysis of the features, there is a moderate level of confidence that the texts were written by the same author.",
+score: 0.72
+}
+}

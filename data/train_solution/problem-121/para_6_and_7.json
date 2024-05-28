@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon, while Paragraph 2 uses commas and a hyphen. Both texts demonstrate a variety of punctuation marks, albeit with slight differences.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes specific lexical choices like 'madrasas,' 'discrimination,' and 'Christian' which are absent in Paragraph 2. However, both texts exhibit a formal tone in word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain relatively short sentences. Paragraph 1 is more emotionally charged with shorter sentences, while Paragraph 2 is more informational with concise sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses strong opinions using emotive language ('discrimination,' 'kick out'), while Paragraph 2 maintains a neutral and informative tone. Both exhibit differences in narrative styles and tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, showing a similar level of accuracy in written language.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence in the texts being written by the same author is moderate with variations in style and tone.",
+        "score": 0.56
+    }
+}

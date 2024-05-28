@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a formal and structured punctuation style with proper use of commas, periods, and parentheses. In contrast, Paragraph 2 contains informal and disjointed punctuation, including the use of a period after 'I doubt that' instead of a comma.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 showcases a more formal lexical choice and grammatical structure, emphasizing politeness and adherence to rules. In contrast, Paragraph 2 includes informal and colloquial language with slang ('waving his dick around') and a more casual tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays a consistent and coherent sentence structure with a focus on clarity and organization. Paragraph 2, on the other hand, lacks cohesion and features shorter, abrupt sentences with a more direct tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a neutral and respectful tone, aligning with guidelines for civil discourse. In contrast, Paragraph 2 exhibits a confrontational and provocative tone, using strong language and expressing skepticism towards established norms.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and lack typographical errors, maintaining consistency in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, the writing styles of Paragraph 1 and Paragraph 2 exhibit significant differences in punctuation, lexical choice, sentence structure, and tone, suggesting likely different authors.",
+        "score": 0.52
+    }
+}

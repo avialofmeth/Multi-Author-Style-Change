@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use common punctuation marks such as periods, commas, and apostrophes. However, the second text exhibits more varied punctuation use, including colons, hyphens, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use straightforward and direct language with minimal lexical variation. The second text includes specific names and a slightly more informal tone.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts consist of short and simple sentences. The second text contains slightly longer sentences and more complex structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is matter-of-fact and informative. The second text has a slightly more critical tone towards the subject mentioned.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the features analyzed, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks including hyphens, colons, commas, and quotation marks. Paragraph 2 has minimal punctuation usage with only commas.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and varied lexical and grammatical style with complex sentences and diverse word choices. Paragraph 2 uses simpler language and exhibits grammatical errors ('Israël').",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a clear narrative structure. Paragraph 2 is shorter and lacks coherence in comparison.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a serious tone and discuss political issues, but with different focuses. Paragraph 1 maintains a more analytical and contemplative tone, while Paragraph 2 expresses frustration and criticism.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the varying punctuation usage, lexical complexity, sentence structure, tone, and absence of spelling errors, there are notable differences between the two texts. However, some similarities in the serious tone and topic of political discussion could indicate a potential common author, though the differences in style suggest distinct authorship.",
+        "score": 0.6
+    }
+}

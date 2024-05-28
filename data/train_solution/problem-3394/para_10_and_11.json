@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows a formal and structured use of punctuation, including colons and proper sentence-ending punctuation. Paragraph 2 lacks proper punctuation and contains typographical errors.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical and grammatical correctness in terms of word choice and sentence structure. Paragraph 2 contains grammatical errors, informal language, and lacks lexical variation.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more coherent sentence structures with proper arrangement. Paragraph 2 has shorter, less coherent sentences with errors in sentence construction.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone suitable for guidelines. Paragraph 2 reflects a more informal and opinionated tone with a different narrative style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is free from spelling and typographical errors. Paragraph 2 contains spelling errors and typos.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of both texts being written by the same author is low.",
+    "score": 0.3
+  }
+}

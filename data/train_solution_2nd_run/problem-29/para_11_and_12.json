@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a casual and informal punctuation style with the use of hyphens, colons, and commas. However, the first text includes more unconventional punctuation like question marks and exclamation points.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "While both texts display a certain level of informality in word choice, the first text includes more slang and obscure terms compared to the second text. Grammatical features also differ, with the first text having more fragmented sentences.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both texts is varied, with differences in complexity and length. The first text tends to have shorter and more abrupt sentences compared to the second text, which shows a more coherent and structured sentence arrangement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text and discourse features vary significantly between the two texts. The first text has a confrontational and aggressive tone, using offensive language, while the second text adopts a more reflective and informative tone discussing societal issues.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from obvious spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the likelihood of the two texts being written by the same author is moderate. While there are some commonalities in punctuation style and absence of spelling errors, the differences in lexical and grammatical features, as well as text and discourse features, suggest some divergence in writing styles.",
+    "score": 0.52
+  }
+}

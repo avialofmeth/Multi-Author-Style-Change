@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods. However, they differ in the specific punctuation used (e.g., hyphens, brackets, colons).",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "While both texts share a formal tone and use complex vocabulary, there are differences in lexical choices and grammatical structures. Text 1 includes specific terms like 'Uyghurs' and 'Covid deaths', while Text 2 uses phrases like 'early case numbers' and 'transparent investigation'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts display a similar pattern in sentence length and complexity. However, Text 1 is more cohesive in discussing a particular issue (industrial level internment camps) compared to the broader discussion in Text 2 about the outbreak.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ between the two texts. Text 1 has a more critical and accusatory tone towards a specific situation, while Text 2 takes a more general and investigative approach to a different topic.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, there is moderate evidence to suggest that the two texts were not written by the same author.",
+        "score": 0.6
+    }
+}

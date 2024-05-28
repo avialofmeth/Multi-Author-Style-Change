@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation such as commas and quotation marks, with paragraph 1 showcasing a more formal tone while paragraph 2 uses punctuation in a more casual manner.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is a noticeable difference in lexical and grammatical features between the two texts. Paragraph 1 uses more formal language related to guidelines, while paragraph 2 contains informal expressions and abbreviations.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts vary significantly, with paragraph 1 being more structured and formal compared to the colloquial and fragmented sentences in paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more informative and directive tone related to subreddit rules, while paragraph 2 reflects a personal opinion with a conversational style and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical, sentence structure, and discourse features, there is a moderate likelihood that the two texts were written by different authors.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including hyphens, parentheses, and quotation marks. However, paragraph 1 uses more varied punctuation marks like colons and commas compared to paragraph 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and word choice between the two texts. Paragraph 1 contains more informal language and slang ('balls', 'black market') compared to the more formal tone and vocabulary in paragraph 2 ('legislation', 'psychoactive').",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence structures in terms of complexity and coherence. However, paragraph 1 is slightly more fragmented with shorter sentences compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood differ between the two texts. Paragraph 1 has a more conversational and provocative tone, while paragraph 2 maintains a more formal and detached tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choice, tone, and sentence structure, there are notable stylistic variations that suggest the texts may not be written by the same author. However, the consistent use of similar punctuation styles and absence of spelling errors provide some commonality.",
+    "score": 0.6
+  }
+}

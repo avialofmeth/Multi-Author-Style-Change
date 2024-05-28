@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of parentheses and commas for additional information and clarification.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some similarities, such as the use of informal language and contractions.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structures differ slightly, with one text having longer sentences than the other, impacting coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features vary significantly, with one text focusing on social issues and the other on welfare policies.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and colons more frequently compared to Paragraph 2. Both paragraphs include commas, but the usage differs slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There is a notable difference in lexical choices and word usage between the two paragraphs. The tone and vocabulary diverge significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary significantly between the two paragraphs in terms of complexity and arrangement. The coherence and cohesion also differ notably.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative style, speech events, tone, and mood are distinct in each paragraph, indicating a difference in authorship.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of commonalities in narrative style, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, quotation marks, and parentheses, although in different contexts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar level of lexical variation and word choice, with the use of words like 'media', 'outlets', 'criteria', 'critical thinking', and 'misinformation'.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "The sentence structures differ significantly between the two texts, with the first being more formal and structured, while the second is more informal and conversational.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are distinct in the two texts, with the first being informative and the second more opinionated and critical.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure, narrative style, and tone, as well as the similarities in punctuation and lexical choices, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation such as colons, commas, parentheses, and hyphens. However, the first text showcases more informal punctuation usage like ellipsis and lacks quotation marks as found in the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 demonstrates a more informal and conversational tone with unique word choices and sentence structures. In contrast, Text 2 is more straightforward and rule-oriented, using a more formal and direct language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 presents longer and more complex sentences with a narrative style, while Text 2 contains shorter and clearer sentences focused on rules and guidelines.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 showcases a critical and reflective tone regarding a political issue, whereas Text 2 adopts an instructive and normative tone for behavior guidelines.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate correct spelling and no typographical errors, maintaining a standard level of literacy.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the mix of informal punctuation, unique lexical choices, sentence complexity, tone, and error-free spelling, the texts show some similarities but also notable distinctions. The average confidence score suggests a moderate likelihood of the same author.",
+    "score": 0.6
+  }
+}

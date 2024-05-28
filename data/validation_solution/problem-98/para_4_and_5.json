@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as commas and quotation marks, although the first text uses more varied punctuation marks overall.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical variation and word choice differ significantly between the two texts. The first text uses more formal language and specific terms related to defending a nation, while the second text has a more casual tone and includes slang terms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text is more complex with longer sentences compared to the second text, which is shorter and more direct.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are different in the two texts. The first text conveys a patriotic and motivational tone, while the second text has a confrontational and challenging tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical choice, sentence structure, and narrative style.",
+    "score": 0.5
+  }
+}

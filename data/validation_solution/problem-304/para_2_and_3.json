@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a casual and conversational style of punctuation, using hyphens, periods, and abbreviations like 'hrs'. However, the first text includes more unconventional punctuation like 'vs' and lacks proper sentence structure.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the texts. The first text uses informal language and abbreviations, while the second text is more formal and includes specific terminology like 'secular country' and 'multinational'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have short and fragmented sentences, with the first text being more disjointed and lacking coherence. The second text is slightly more structured and coherent.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts. The first text appears to be more casual and conversational, while the second text adopts a more serious and informative tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.56
+    }
+}

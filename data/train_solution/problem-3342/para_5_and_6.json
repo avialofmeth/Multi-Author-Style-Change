@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, one text uses hyphens while the other does not, which may indicate a slight difference in writing style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two texts, such as 'appease' in one text and 'leverage' in the other. This suggests a potential variation in writing style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts show variability in sentence structure and length, with one being more complex than the other. This difference may indicate a slight divergence in writing style.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The texts differ in tone and mood, with one being more formal and geopolitical in nature while the other has a more conspiratorial and informal tone. This suggests a potential difference in authorship.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and tone, along with some similarities in punctuation and absence of spelling errors, there is moderate evidence to suggest that the two texts were not written by the same author.",
+    "score": 0.6
+  }
+}

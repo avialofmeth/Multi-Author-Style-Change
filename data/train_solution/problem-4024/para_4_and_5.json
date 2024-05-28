@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas correctly, but Paragraph 1 has a higher frequency of punctuation marks like colons and periods compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar informal tone, with Paragraph 1 showing more lexical variation and word choice compared to the more straightforward language in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts have short to medium length sentences, but Paragraph 1 shows slightly more complexity in sentence structure.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts display an informal tone, with Paragraph 1 having a more narrative style compared to the automated response in Paragraph 2.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are some similarities in writing style but also notable distinctions, resulting in moderate confidence that the texts were written by the same author.",
+        "score": 0.68
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, commas, and parentheses in a structured and consistent manner. Paragraph 2 lacks these punctuation marks or uses them in a more casual way.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and specific technical vocabulary related to energy and environmental issues. Paragraph 2 is simpler in vocabulary and lacks the technical terms seen in Paragraph 1.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with detailed explanations and statistics. Paragraph 2 consists of shorter, more straightforward sentences with a conversational tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone focused on environmental issues. Paragraph 2 has a more casual tone with the use of 'lol' and a dismissive attitude.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts show no spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes proper punctuation like colons and commas for clarity and structure, while Paragraph 2 lacks such usage and relies more on hyphens to connect ideas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical choice, using appropriate terms for the context. In contrast, Paragraph 2 features informal language with slang and colloquial expressions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of more complex and coherent sentences with organized structures. Meanwhile, Paragraph 2 exhibits shorter and less cohesive sentences with a more casual tone.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone suitable for providing guidelines. Conversely, Paragraph 2 adopts a more narrative and expressive style with a hint of humor.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choice, sentence structure, and tone, the texts exhibit notable disparities in writing style. However, the absence of spelling errors contributes to a slightly higher overall confidence score.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as colons, commas, and periods. However, Paragraph 1 contains more complex punctuation like parentheses and quotation marks, which are absent in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and word choice compared to the more straightforward and direct language used in Paragraph 2. There are distinct differences in the complexity and sophistication of vocabulary between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts display coherence and cohesion in their organization, with clear sentence structures and logical flow. However, Paragraph 1 exhibits longer and more complex sentences compared to the simpler and shorter sentences in Paragraph 2.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts differ significantly. Paragraph 1 adopts a reflective and opinionated tone, discussing societal issues, while Paragraph 2 is more instructional and directive, focusing on subreddit guidelines. This difference in tone and content suggests distinct authorial voices.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall confidence score that the two texts were written by the same author is moderate. While some linguistic elements overlap, the differences in lexical sophistication, narrative style, and tone suggest potential distinct authorial voices.",
+        "score": 0.58
+    }
+}

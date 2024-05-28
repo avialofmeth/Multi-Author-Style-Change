@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There is some consistency in lexical and grammatical features such as sentence structure and word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structure and complexity show some differences, impacting the coherence and cohesion of the texts.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text and discourse features vary significantly due to the different topics discussed.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The overall assessment indicates a moderate likelihood that the texts were written by the same author.",
+    "score": 0.66
+  }
+}

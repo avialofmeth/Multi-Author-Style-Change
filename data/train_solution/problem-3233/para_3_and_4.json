@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as parentheses and quotation marks, enhancing the overall score.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There is consistency in lexical and grammatical features like word choice and grammatical structures, contributing to a higher score.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures and lengths in both texts are somewhat similar, though there are variations in coherence and word distributions, leading to a moderate score.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The text and discourse features show differences in tone and mood, affecting the overall score.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in both texts, which contributes positively to the score.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering all the features collectively, the likelihood of the two texts being written by the same author is moderately high.",
+    "score": 0.64
+  }
+}

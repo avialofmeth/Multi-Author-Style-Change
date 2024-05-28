@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon to introduce a list of items, while Paragraph 2 uses hyphens for clarification within a sentence.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of formal and informal language with varying sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured and formal, with clear sentence boundaries. Paragraph 2 is less structured and more conversational.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more informational and directive tone, while Paragraph 2 is more conversational and opinionated.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, sentence structure, and tone, along with the similarities in lexical features and error-free text, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

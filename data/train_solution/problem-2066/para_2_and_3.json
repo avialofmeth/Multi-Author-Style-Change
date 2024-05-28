@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use colons and commas in a similar manner, though the first text has more formal punctuation due to its informational nature.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show differences in tone and content, with the second text having a more casual and opinionated style compared to the formal nature of the first text.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary significantly between the two texts, with the first text being more structured and informative, while the second text is more conversational and less formal.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ notably, with the first text being more instructional and the second text being more opinionated and critical.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text and discourse features, along with some commonalities in punctuation style and absence of spelling errors, the overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

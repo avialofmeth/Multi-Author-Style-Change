@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens and numeric values, but the distribution and frequency of punctuation marks differ slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of technical and informal language, indicating a similar style of word choice. However, the topics discussed in each text may influence the specific lexical and grammatical features used.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more detailed information and quantification, whereas Paragraph 2 is more concise and focused. This contrast in sentence structure and quantitative features suggests a slight divergence in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two texts are quite different, with Paragraph 1 discussing personal driving experiences and Paragraph 2 focusing on technical information about systems running on steam. This disparity in text and discourse features indicates a notable difference in writing style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis reveals that while there are some similarities in punctuation style and lexical choices, the differences in sentence structure, text and discourse features, and narrative styles indicate a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens and commas for punctuation. However, the first paragraph includes a colon while the second does not.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use similar lexical choices related to geographical locations and military terms. The grammatical structures also show similarities in terms of sentence complexity.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are composed of relatively short and straightforward sentences. They both provide clear information without significant variation in sentence structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ slightly due to the content focus, with the first paragraph being more focused on the current situation, while the second is more descriptive of the city's location. However, both maintain a formal tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure, and the absence of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+    "score": 0.72
+  }
+}

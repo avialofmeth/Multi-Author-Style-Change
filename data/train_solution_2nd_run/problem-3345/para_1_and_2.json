@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas, slashes, and periods for sentence endings. Paragraph 2 lacks proper punctuation in some instances and has a less consistent use of punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical and grammatical features, with distinct word choices and sentence structures. Paragraph 1 focuses on general guidelines and rules, using formal language. Paragraph 2 discusses a specific political situation with more informal language and specific terminology related to the topic.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both paragraphs vary in complexity and length. Paragraph 1 presents a more organized and coherent structure, while Paragraph 2 appears less organized and lacks cohesion in its development of ideas.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone, emphasizing the importance of respectful communication. Paragraph 2 adopts a more narrative and descriptive tone, focusing on a specific event and its consequences.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the similar attention to spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

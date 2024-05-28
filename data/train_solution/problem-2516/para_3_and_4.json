@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "The punctuation style in both texts includes the use of periods, apostrophes, and commas. However, paragraph 1 contains more technical punctuation marks like colons and hyphens compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, paragraph 1 shows a mixture of technical terms related to energy sources, while paragraph 2 is more general and straightforward. Both paragraphs exhibit proper grammar and sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts are coherent and grammatically correct. However, paragraph 1 is more complex with longer sentences and technical terms compared to the concise and straightforward sentences in paragraph 2.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts have a different discourse style - paragraph 1 is descriptive and informative about a specific topic, while paragraph 2 is more direct and transactional as a response. However, both maintain a formal tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are similarities in punctuation, lexical and grammatical features, sentence structure, and absence of errors. However, differences in discourse style slightly lower the overall confidence.",
+    "score": 0.72
+  }
+}

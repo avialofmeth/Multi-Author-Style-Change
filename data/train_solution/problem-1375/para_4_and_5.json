@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses to provide additional information, while Paragraph 2 uses a comma to insert a side comment. Both paragraphs use punctuation to separate ideas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses technical terms like 'infantry fighting vehicles (IFVs)', while Paragraph 2 uses more informal language and slang like 'brothers/sisters'. The word choice and tone differ significantly.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. Paragraph 1 has a more formal tone due to the technical content, while Paragraph 2 is more conversational.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents factual information in a serious tone, focusing on a specific event. Paragraph 2 expresses surprise and informality, suggesting a personal reaction.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in word choice, tone, and formality level, as well as the similarities in punctuation usage and lack of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.68
+    }
+}

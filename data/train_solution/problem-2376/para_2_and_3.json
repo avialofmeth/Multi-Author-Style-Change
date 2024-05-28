@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and commas for clarity and structure, while Paragraph 2 uses parentheses for emphasis and informal language.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more technical language related to media outlets and subreddit rules, whereas Paragraph 2 has a more informal tone with emotionally charged language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more structured and longer sentences related to rules and guidelines, while Paragraph 2 has shorter, emotionally charged sentences with a more casual structure.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone regarding subreddit guidelines, while Paragraph 2 expresses a strong opinion with a negative tone towards a specific group.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts show no significant spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there are notable distinctions that suggest different authors. However, the lack of spelling errors provides some commonality.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use similar punctuation marks such as commas and periods. However, the first paragraph includes specific punctuation marks like colons and hyphens, whereas the second paragraph does not. This difference may indicate some variation in the author's punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, the two paragraphs exhibit differences. The first paragraph focuses on technical terms related to fishing activities, while the second paragraph uses more general language related to invasion and looting. This disparity suggests a divergence in lexical and grammatical choices, potentially indicating different authors.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features reveal notable distinctions between the paragraphs. The first paragraph contains shorter and more concise sentences, while the second paragraph presents longer and more complex sentences. This variance in sentence structure and length implies a dissimilarity in writing style between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features like narrative styles and tone differ significantly between the paragraphs. The first paragraph adopts a formal and factual tone, focusing on allegations, whereas the second paragraph conveys a more accusatory and emotive tone. This disparity in tone and narrative style indicates a divergence in authorship.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit correct spelling and typographical accuracy, without any apparent errors. This similarity in spelling and typographical correctness does not provide substantial evidence to differentiate the authors based on this feature.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analyses of the five features, the overall confidence score in determining whether the two texts share the same author is moderate. The differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features suggest distinct writing styles. However, the commonality in spelling and typographical accuracy provides a partial counterbalance. Therefore, the average confidence score leans towards a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.46
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of periods, commas, and capitalization.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show a similarity in the use of formal language and complete sentences.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts follow a structured sentence pattern with coherent thoughts and proper word usage.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts are different, as one is a statement of belief while the other is an automated response.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the above features and their scores, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.81
+    }
+}

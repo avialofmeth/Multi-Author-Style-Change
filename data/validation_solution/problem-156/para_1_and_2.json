@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both paragraphs use hyphens and commas to provide additional information within sentences.",
+      "score": 0.8
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 has a more informal and colloquial tone with phrases like 'fucking mad,' while paragraph 2 maintains a formal tone discussing a news event.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 has longer, more complex sentences with personal narrative elements, whereas paragraph 2 consists of shorter sentences describing factual events.",
+      "score": 0.6
+   },
+   "feature4": {
+      "explanation": "Both paragraphs present a narrative style, but the topics and tones differ significantly.",
+      "score": 0.5
+   },
+   "feature5": {
+      "explanation": "Both paragraphs are well-structured without spelling or typographical errors.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in tone, sentence structure, and narrative style, the likelihood of the two texts being written by the same author is moderate.",
+      "score": 0.66
+   }
+}

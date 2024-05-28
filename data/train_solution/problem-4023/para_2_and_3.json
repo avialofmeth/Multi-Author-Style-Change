@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, periods, and informal language. However, the second text lacks proper capitalization at the beginning of sentences, which is a notable difference.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical choices and informal language. They also demonstrate a conversational tone. However, the second text shows a lack of grammatical accuracy, particularly in terms of capitalization.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are brief and direct with a conversational style. However, the first text is slightly more complex in sentence structure compared to the second text.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts express opinions and use informal language. The first text has a more aggressive tone, while the second text is more explanatory.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, the texts are likely written by the same author despite some differences in sentence structure and tone.",
+        "score": 0.76
+    }
+}

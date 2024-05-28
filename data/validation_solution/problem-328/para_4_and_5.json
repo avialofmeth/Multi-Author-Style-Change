@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas for list separation and quotations marks for direct speech, showing similarity in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similar lexical choices and word usage, such as 'GOP,' 'regulation,' and 'voting.' This indicates a level of consistency in word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentences in both paragraphs are relatively short and straightforward in structure, lacking complexity. This similarity in sentence structure suggests a commonality in writing style.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone in both texts is informal and somewhat critical, with a focus on political topics. This shared tone and subject matter indicate a potential common authorship.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, indicating a consistency in attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the alignment in punctuation style, lexical choices, sentence structure, tone, and absence of spelling errors, there is a moderate confidence that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

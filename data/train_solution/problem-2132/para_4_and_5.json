@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens in the word 'taping down' while paragraph 2 does not use any hyphens. Both texts utilize commas but in different contexts.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more informal and personal language with phrases like 'closest friends' and 'complained'. Paragraph 2 is more formal and directive with phrases like 'click to review' and 'approved domains list'. Different lexical and grammatical features are present in each text.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is longer and more complex in structure with detailed personal information. Paragraph 2 is shorter and more straightforward in its informational content. This reflects differences in sentence structure and quantitative features.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a personal experience and emotional tone, while paragraph 2 is more instructional and formal in tone. The narrative styles and speech events are distinct between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.46
+  }
+}

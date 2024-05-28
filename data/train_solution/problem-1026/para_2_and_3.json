@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and parentheses, but the punctuation style differs with the use of colons, commas, and quotation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "There are some common lexical and grammatical features in terms of terminology related to the Palestinian Authority, but the word choice and grammatical structures differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary, with differences in complexity, length, and coherence. The quantitative features also show inconsistencies.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ substantially, with one text being more descriptive and the other more opinionated and biased.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.44
+    }
+}

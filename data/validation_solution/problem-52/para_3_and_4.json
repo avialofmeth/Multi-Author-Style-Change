@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and a comma for punctuation, while Paragraph 2 uses hyphens and parentheses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal language related to subreddit rules, whereas Paragraph 2 has a more informal tone discussing political events.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure, but paragraph 2 has a more complex sentence structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and directive, while Paragraph 2 is more opinionated and critical.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in linguistic features, there are notable differences in punctuation style, lexical and grammatical features, and text and discourse features. However, the lack of spelling and typographical errors boosts the overall confidence score.",
+    "score": 0.56
+  }
+}

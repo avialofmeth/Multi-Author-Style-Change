@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a consistent punctuation style with proper use of commas, colons, and periods. Paragraph 2 lacks proper punctuation and contains run-on sentences.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 maintains a formal and courteous tone with clear word choice. Paragraph 2 uses more informal language and includes emotionally charged words like 'traitors' and 'loser'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has balanced sentence structures and lengths. Paragraph 2 has longer sentences with varying complexity.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 focuses on guidelines and rules, maintaining a neutral tone. Paragraph 2 expresses strong opinions and criticisms with a negative tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, word choice, sentence structure, and tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as quotation marks and commas. However, there are differences in the use of hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The texts share some common lexical and grammatical features, including the use of specific terms like 'immigrants' and 'Canada'. However, there are variations in word choice and sentence structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit similarities in sentence complexity and coherence. However, there are differences in sentence length and arrangement.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone in both texts differ, with one expressing a more critical view while the other provides a personal anecdote. This indicates a variation in discourse features.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and discourse features, along with some similarities in sentence structure and coherence, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of commas and hyphens in separating clauses and connecting phrases.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more formal and structured language, while Text 2 contains more informal and colloquial expressions. However, both texts show a variety in lexical choices.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences compared to the shorter and simpler sentences in Text 2. Both texts show coherence in their structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a formal narrative style, focusing on a news report, while Text 2 presents a more opinionated and critical tone. However, both texts lack common expressions or idioms.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are devoid of spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.68
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles with the presence of commas, quotation marks, and period at the end of sentences.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is some commonality in lexical and grammatical features like the use of proper nouns and specific phrases. However, the word choice and sentence structures differ significantly.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively simple and straightforward. However, the first text is more detailed and descriptive compared to the second text which is more direct and focused.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts convey a serious tone and express opinions. However, the first text discusses a situation while the second text involves direct quotes and chants.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account all the features analyzed, the writing styles of the two texts show some commonalities in punctuation style and seriousness of tone but have significant differences in lexical and grammatical features, sentence structures, and text/discourse features. The lack of spelling errors is a positive indicator. Overall, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

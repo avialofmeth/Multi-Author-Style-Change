@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts demonstrate consistent use of commas and parentheses for additional information or clauses.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "The first text uses formal language with clear instructions, while the second text has informal language and slang references.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured more formally with clear rules and guidelines, while Paragraph 2 has a more conversational tone with longer sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and instructive tone, focusing on guidelines, while Paragraph 2 expresses opinions and criticizes certain individuals.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text and discourse features, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

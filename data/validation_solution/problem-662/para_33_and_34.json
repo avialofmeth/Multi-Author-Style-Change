@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, colons, and quotation marks. Paragraph 2 also includes a dash for emphasis, which is not present in Paragraph 1.",
+        "score": 0.75
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. Paragraph 1 uses more technical language related to legal concepts, while Paragraph 2 includes more emotional and descriptive language.",
+        "score": 0.25
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts exhibit differences. Paragraph 1 has longer, more complex sentences, while Paragraph 2 contains shorter, more direct sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts. Paragraph 1 presents a more formal and analytical tone, while Paragraph 2 conveys a more personal and emotive tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either of the texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the differences in punctuation, lexical and grammatical features, sentence structure, narrative style, and the absence of spelling errors, the overall confidence score in the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.54
+    }
+}

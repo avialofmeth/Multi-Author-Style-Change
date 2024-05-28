@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use commas, quotation marks, and hyphens. However, Paragraph 2 has more informal punctuation usage like double quotes for emphasis and colloquial expressions like 'trust me bro'.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"Both texts exhibit a mix of formal and informal language. Paragraph 1 uses more formal language due to the context of tracking an individual, while Paragraph 2 contains informal expressions and slang.",
+      "score":0.5
+   },
+   "feature3":{
+      "explanation":"Paragraph 1 consists of longer and more complex sentences related to tracking activities and beliefs. In contrast, Paragraph 2 has shorter sentences with a more conversational tone and simpler structure.",
+      "score":0.4
+   },
+   "feature4":{
+      "explanation":"Both texts have a serious tone but differ in the level of formality. Paragraph 1 maintains a formal and informative tone, while Paragraph 2 adopts a more casual and critical tone.",
+      "score":0.6
+   },
+   "feature5":{
+      "explanation":"Both texts are relatively free of spelling and typographical errors, indicating a basic level of proficiency in writing. No major errors were identified in either text.",
+      "score":0.9
+   },
+   "overall":{
+      "explanation":"Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+      "score":0.6
+   }
+}

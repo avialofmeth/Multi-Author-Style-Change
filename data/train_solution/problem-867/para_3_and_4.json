@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal language with no specific punctuation style observed. Paragraph 2, on the other hand, follows standard punctuation rules and guidelines.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal and colloquial expressions with casual word choice. Paragraph 2 uses more formal and structured language with a focus on etiquette and rules.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of short and straightforward sentences. Paragraph 2 has longer sentences with specific guidelines presented in a structured manner.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and informal tone discussing corruption. Paragraph 2 maintains a formal and instructive tone focusing on etiquette and rules.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

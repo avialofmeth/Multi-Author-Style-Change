@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains colons and commas for list separation, while Paragraph 2 uses commas for additional details and a question mark for emphasis.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and complex language compared to Paragraph 2. Both paragraphs show a preference for longer words and varied vocabulary.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have a similar sentence structure with moderately complex sentences. However, Paragraph 2 tends to have shorter sentences on average.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and reflective tone, focusing on societal issues, while Paragraph 2 conveys a more confrontational and critical tone towards a specific topic.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are some similarities in writing style but also notable differences. Considering all features together, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

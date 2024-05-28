@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a mix of punctuation marks like periods, commas, ellipses, and question marks. Paragraph 2 also utilizes punctuation marks such as periods, commas, and apostrophes.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts display a varied choice of vocabulary and word structures. Paragraph 1 uses formal language and specific terminology related to politics and military, while Paragraph 2 uses more casual language and references to pop culture.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences with a focus on providing explanations and reasoning. Paragraph 2 contains shorter, simpler sentences that convey a more conversational tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a serious and analytical tone focusing on geopolitical issues and power dynamics. In contrast, Paragraph 2 has a lighter, narrative tone with references to fictional characters.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling errors and typographical mistakes.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood of the two texts being written by the same author is moderate. While there are notable differences in tone, vocabulary, and sentence structure, the shared element of correct punctuation and absence of spelling errors suggest some consistency in writing style.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation such as commas, periods, and apostrophes. However, the presence of hyphens in the second text could be a distinguishing factor.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical choice and sentence structure in terms of complexity. However, the second text shows a more specific focus on political figures, which may impact the assessment.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts display coherent sentence structures and similar lengths. However, the second text contains more detailed content and a slightly different tone.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "In terms of discourse features, both texts exhibit a formal tone. However, the second text contains more specific references that could be considered distinctive.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the five features, there are similarities in punctuation, sentence structure, and absence of errors. However, the specific focus and tone in the second text could point to a different author, leading to a moderate level of confidence in them being written by the same author.",
+    "score": 0.62
+  }
+}

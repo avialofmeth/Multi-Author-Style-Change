@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal language with profanity and similar punctuation styles including commas and hyphens.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual tone with unique word choices and sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The texts differ in sentence complexity and length, with one being more concise and the other more elaborate.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts have a casual tone and use idiomatic expressions, but one text is more formal due to being an automated response.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure and complexity, as well as formality due to one text being automated, the overall likelihood of the same author is moderate.",
+    "score": 0.7
+  }
+}

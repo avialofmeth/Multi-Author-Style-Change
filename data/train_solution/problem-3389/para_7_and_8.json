@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks in a structured manner, while Paragraph 2 lacks these punctuations and uses a more informal style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and varied lexical choice with complex sentence structures. In contrast, Paragraph 2 uses simpler language and more direct expressions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with a focus on historical context, while Paragraph 2 has shorter and more straightforward sentences with a contemporary political reference.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and reflective tone discussing historical conflicts, while Paragraph 2 adopts a casual and colloquial tone regarding current political events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the writing styles of the two paragraphs show notable distinctions, suggesting they are less likely to be written by the same author.",
+    "score": 0.44
+  }
+}

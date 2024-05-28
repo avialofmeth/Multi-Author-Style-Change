@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 displays a more informal and casual punctuation style with the use of profanity and lack of proper punctuation, while Paragraph 2 maintains a more formal punctuation style with correct usage of commas and other punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and profanity, while Paragraph 2 uses more formal and structured language. This difference in lexical and grammatical features indicates a distinct writing style between the two texts.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter and more fragmented sentences compared to the longer and more complex sentences in Paragraph 2. The sentence structures and lengths differ significantly, suggesting different writing styles.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a confrontational and questioning tone with the use of profanity, while Paragraph 2 maintains a more informative and explanatory tone. The narrative styles and tone are notably different.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low, as there are significant differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone.",
+        "score": 0.36
+    }
+}

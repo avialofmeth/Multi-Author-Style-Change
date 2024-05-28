@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation like commas and periods, while Paragraph 2 uses informal language like 'bro' and lacks formal punctuation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more formal tone with specific terms related to the virus and scientific concerns, while Paragraph 2 is informal with colloquial language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences discussing scientific concerns, while Paragraph 2 has shorter, simpler sentences focused on reassurance.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and factual tone discussing potential risks, while Paragraph 2 has a casual, reassuring tone with phrases like 'Don't worry'.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality, tone, and sentence complexity, the texts show significant divergence in writing style, indicating a low likelihood of being written by the same author.",
+        "score": 0.52
+    }
+}

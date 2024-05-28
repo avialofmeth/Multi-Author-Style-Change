@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of informal punctuation like hyphens and lack of proper punctuation in some instances. Paragraph 2, being a bot response, has a more formal and standard punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language and abbreviations like 'Bro' and 'LLC'. Both paragraphs lack lexical variation and use straightforward language. Paragraph 2, as a bot response, uses more formal and standardized language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively simple sentence structures with clear coherence. Paragraph 1 has longer sentences compared to the bot response in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational tone with expressions like 'kicking myself' and 'big corps'. Paragraph 2 is a formal bot response with no tone or specific expressions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation usage including commas and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two paragraphs.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs show coherence and similar sentence structures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "There are differences in narrative styles and tones in the two paragraphs.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combined assessment of all features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

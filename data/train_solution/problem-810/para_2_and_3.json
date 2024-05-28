@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens more frequently in compound adjectives like 'long-range' and 'civil-power', while Paragraph 2 does not demonstrate this pattern.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on military conflict and uses specific terminology related to warfare, while Paragraph 2 discusses a collaborative initiative without such specialized vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer, more complex sentences with varied structures, likely reflecting the seriousness of the topic, whereas Paragraph 2 features shorter and more straightforward sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and tense tone due to discussing military actions, while Paragraph 2 maintains a neutral and informative tone regarding a collaborative effort.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

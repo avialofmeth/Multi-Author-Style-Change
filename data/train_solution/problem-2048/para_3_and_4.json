@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "The first text uses informal language with profanity and lacks proper punctuation, while the second text is more formal and well-structured with correct punctuation.",
+      "score": 0.2
+   },
+   "feature2": {
+      "explanation": "The first text has a casual tone with slang ('fucked practice'), while the second text is more formal and technical ('legally entitled, past their release dates'). Different lexical and grammatical choices are observed.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "The first text is shorter and less structured, while the second text is longer and more detailed, with complex sentence structures. Differences in sentence length, complexity, and coherence are evident.",
+      "score": 0.3
+   },
+   "feature4": {
+      "explanation": "The first text has an informal and conversational style, using colloquial language and slang, whereas the second text is more formal and factual. The narrative styles and tone are distinct.",
+      "score": 0.4
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were identified in either text.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are significant variations indicating different authors.",
+      "score": 0.46
+   }
+}

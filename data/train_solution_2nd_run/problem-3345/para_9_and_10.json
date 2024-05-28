@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains explicit, informal language with the use of profanity, while Paragraph 2 is formal and polite. Punctuation marks like hyphens, colons, and commas are used in both texts but in different contexts.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a distinct lexical choice and word usage compared to the straightforward and technical language in Paragraph 2. Grammatical structures differ as well, with more complex sentences in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the concise and straightforward sentences in Paragraph 2. The coherence and cohesion also differ due to the content and tone.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 exhibits a personal narrative style with emotional expression and a clear tone. In contrast, Paragraph 2 is robotic and lacks emotional cues or idiomatic expressions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a consistent level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in profanity, lexical choice, sentence complexity, narrative style, and similarities in punctuation and error-free writing, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

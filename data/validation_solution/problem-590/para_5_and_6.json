@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas and periods. However, only the first text includes a hyphen.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts are concise and use straightforward language. The second text reveals a more formal tone due to phrases like 'this action was performed automatically.'",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are short and contain simple sentence structures. The first text has a slightly more complex sentence structure due to the use of phrases like 'more willing to say the quiet part out loud than in the past.'",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts are formal in nature and lack any distinctive narrative style or expressive elements.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, the texts share similarities in punctuation, formality, and lack of errors. However, differences in sentence complexity and tone suggest a moderate likelihood of the same author.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and parentheses, while Paragraph 2 uses quotation marks and apostrophes. There is some variation in punctuation style between the two texts.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts use informal language and slang ('old people,' 'absolutely gross,' 'f'ing people'). However, there are differences in the vocabulary and tone used in each text.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains a longer and more complex sentence, while Paragraph 2 consists of shorter, more direct sentences. The sentence structures are notably different.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses a lifestyle choice, while Paragraph 2 expresses a negative experience. The narrative styles and tones differ significantly between the texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary, sentence structure, narrative style, and tone, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

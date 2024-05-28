@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation. However, the first text uses more complex punctuation such as colons and parentheses, while the second text does not. This discrepancy suggests a difference in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show similarities in terms of vocabulary and sentence structure. Both texts use formal language and express complex ideas. However, there are subtle differences in word choice and grammatical structures that indicate a slight divergence in style.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively similar sentence structures in terms of complexity and coherence. However, the first text is slightly more concise and direct in its expression, while the second text is more elaborate. This difference in sentence structure could suggest a variation in writing style.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts exhibit a serious and contemplative tone. However, the first text discusses ideological conflicts, while the second text mentions a specific individual (DT) and references a furnace metaphor. These differences in narrative styles and expressions could indicate distinct authorial voices.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are well-spelled without typographical errors, indicating a similar level of attention to detail in writing. This commonality suggests a potential similarity in authorship.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are noticeable similarities in lexical and grammatical features, sentence structures, and spelling accuracy between the two texts. However, differences in punctuation style, text and discourse features, and some lexical choices suggest a potential variance in writing style. Therefore, the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

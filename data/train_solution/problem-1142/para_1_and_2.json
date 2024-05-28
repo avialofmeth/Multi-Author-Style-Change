@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses and commas for additional information, while Paragraph 2 uses commas for listing and separating clauses.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a tendency towards informal language and lack of complex vocabulary. However, Paragraph 1 shows more diversity in word choice compared to the repetition in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with varied structures, while Paragraph 2 has shorter, more direct sentences with less variation.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a similar tone of informal discussion, but Paragraph 2 is more direct in conveying information compared to the slightly meandering style in Paragraph 1.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The linguistic features show some similarities in punctuation style, text and discourse features, and lack of spelling errors that suggest a possibility of the same author, but differences in lexical and grammatical features and sentence structure reduce the likelihood.",
+        "score": 0.52
+    }
+}

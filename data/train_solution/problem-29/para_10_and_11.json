@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation marks in a standard and formal manner, while Paragraph 2 contains unconventional and erratic use of punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates coherent word choice and grammatical structure typical of formal writing. In contrast, Paragraph 2 includes bizarre and non-standard word choices and grammatical constructions.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows clear sentence structures and a formal arrangement of ideas. Paragraph 2 lacks coherence and exhibits erratic sentence structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and neutral tone suitable for automated messages. Paragraph 2 includes offensive language and nonsensical expressions, indicating a different tone and style.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is free of spelling and typographical errors, while Paragraph 2 contains multiple misspelled words and typographical errors.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.22
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and colons for listing and separating clauses, while Paragraph 2 uses a colon for introducing a statement. Both paragraphs exhibit consistent punctuation usage, although different in specific applications.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 utilizes formal language with specific terms like 'death sentence' and 'Amnesty International'. Paragraph 2 employs more colloquial language with phrases like 'life savings' and 'dinghy'. There is a noticeable difference in lexical and grammatical features, indicating a variance in writing style.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with detailed information. Paragraph 2 consists of shorter, straightforward sentences. The sentence structures and lengths differ significantly, suggesting a divergence in writing styles.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a serious tone discussing death sentences and torture, while Paragraph 2 has a more casual tone addressing ferry routes and cost. The narrative styles and mood are distinct between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either paragraph, indicating a similar level of attention to detail in proofreading.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the assessments of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences in writing style between the two paragraphs. While punctuation and spelling show some similarities, the overall writing characteristics suggest different authors.",
+        "score": 0.44
+    }
+}

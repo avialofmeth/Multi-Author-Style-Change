@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes the use of commas and the colon to separate ideas within sentences. Paragraph 2 lacks these punctuation marks but uses commas for listing items.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and specific terms related to the UN Climate Change Conference. Paragraph 2 uses informal language and abbreviations like 'ur' instead of 'your'.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences compared to paragraph 2, which contains shorter sentences. Both paragraphs exhibit coherence and cohesion in presenting information.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal tone related to a global issue, while paragraph 2 has a more casual tone discussing energy sources. Both paragraphs lack common idioms or expressions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, and tone, as well as similarities in coherence, sentence structure, and lack of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

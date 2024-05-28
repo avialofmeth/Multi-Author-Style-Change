@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "In terms of punctuation style, both texts use colons, commas, and periods appropriately. However, the second text lacks the use of quotation marks, which is a notable difference.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Regarding lexical and grammatical features, both texts exhibit a formal tone and complex sentence structures. However, the second text contains more straightforward language and lacks the complexity seen in the first text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In sentence structure and quantitative features, both texts display varied sentence lengths. The first text has a more cohesive narrative flow compared to the second text, which appears more disjointed.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Considering text and discourse features, both texts have a serious and critical tone. However, the first text discusses delusions and denial, while the second text focuses on physical actions, indicating a difference in narrative style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "In terms of spelling and typographical errors, both texts are free of mistakes, showing consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is moderate. While there are similarities in some linguistic aspects, such as punctuation and absence of spelling errors, there are notable differences in lexical complexity, narrative style, and coherence.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display the use of punctuation marks like commas and periods to separate clauses and phrases.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 is formal and straightforward, using common vocabulary. Text 2 contains informal language with unusual word choices and expressions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 has coherent and structured sentences. Text 2 lacks coherence, with disjointed and fragmented sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text 1 adopts a professional and neutral tone. Text 2 uses a confrontational and aggressive tone with non-standard expressions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Text 1 has proper spelling and no typographical errors. Text 2 contains typographical errors and misspellings.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is low due to significant differences in writing style, tone, and coherence.",
+    "score": 0.36
+  }
+}

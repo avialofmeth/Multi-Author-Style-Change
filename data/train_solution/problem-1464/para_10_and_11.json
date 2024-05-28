@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a significant amount of punctuation marks like hyphens, commas, and exclamation points to convey emotion and intensity. Paragraph 2 also utilizes punctuation marks like commas and hyphens, but to a lesser extent and for different purposes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, Paragraph 1 contains more informal and emotionally charged language with strong opinions. Paragraph 2, on the other hand, uses more formal and reflective language with a different tone and word choice.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two paragraphs differ significantly. Paragraph 1 consists of shorter and more fragmented sentences, reflecting a more aggressive and confrontational style. In contrast, Paragraph 2 has longer and more elaborate sentences, conveying a more contemplative tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The discourse features in the two paragraphs also vary. Paragraph 1 exhibits a strong emotional outburst and uses explicit language to convey a specific message. Paragraph 2, however, adopts a more reserved and reflective narrative style without the same level of intensity.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, given the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features. However, the similarity in the attention to spelling and typographical errors increases the possibility of a shared authorship.",
+    "score": 0.5
+  }
+}

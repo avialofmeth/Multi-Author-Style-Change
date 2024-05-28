@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use quotation marks and hyphens, although in different contexts.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features such as word choice and sentence structure.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence complexity and coherence.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ significantly between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the linguistic features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.54
+  }
+}

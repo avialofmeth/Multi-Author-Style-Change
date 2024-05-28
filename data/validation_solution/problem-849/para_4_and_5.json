@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses more standard punctuation marks like commas, periods, and quotation marks, while Paragraph 2 has a lack of traditional punctuation and uses more unconventional symbols like parentheses and hyphens.",
+		"score": 0.2
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 demonstrates a more formal and structured use of language with clear grammatical categories and part of speech usage. Paragraph 2 contains informal language, slang terms, and potentially offensive language.",
+		"score": 0.1
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 has coherent and structured sentences with a clear narrative. Paragraph 2 lacks coherence and cohesion, with disjointed phrases and a lack of clear structure.",
+		"score": 0.3
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 has a neutral, descriptive tone related to a specific event. Paragraph 2 contains offensive language and a negative tone, discussing unrelated topics in a more aggressive manner.",
+		"score": 0.1
+	},
+	"feature5": {
+		"explanation": "Both texts are free of spelling and typographical errors.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the significant differences in punctuation style, lexical features, sentence structure, and tone between the two texts, it is unlikely that they were written by the same author. However, the absence of spelling and typographical errors provides a slight commonality. Therefore, the overall confidence score is low.",
+		"score": 0.34
+	}
+}

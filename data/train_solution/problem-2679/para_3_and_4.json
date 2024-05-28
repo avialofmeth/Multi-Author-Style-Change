@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, hyphens, and quotation marks. Paragraph 2 also includes punctuation marks like commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of formal and informal lexical choices. Paragraph 1 contains more technical terms related to aviation, while Paragraph 2 includes colloquial language and abbreviations like 'Idk'.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a structured and coherent sentence with technical instructions. In contrast, Paragraph 2 appears less organized and contains fragmented information.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and instructive tone, focusing on guidance and advice. Paragraph 2, on the other hand, seems more conversational and anecdotal, discussing a legal case.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.66
+  }
+}

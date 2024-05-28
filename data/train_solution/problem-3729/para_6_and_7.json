@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "There are differences in punctuation style between the two texts. Paragraph 1 uses proper punctuation with periods and commas, while paragraph 2 lacks proper punctuation and includes informal expressions like quotation marks around 'revolution' and 'looks like face sloppily drawn on a thumb'.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts. Paragraph 1 uses formal language typical of automated responses, while paragraph 2 includes informal language, slang terms, and insults.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features also show a contrast. Paragraph 1 consists of short and straightforward sentences, typical of automated responses. In contrast, paragraph 2 has longer and more complex sentences with informal language.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features highlight a divergence in narrative styles and tone. Paragraph 1 maintains a neutral and helpful tone, while paragraph 2 expresses strong opinions with derogatory language.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, the overall confidence in the two texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

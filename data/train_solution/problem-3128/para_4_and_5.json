@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of hyphens, parentheses, and brackets for punctuation, maintaining a similar style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show a similar level of lexical variation and word choice, with no significant differences in grammatical categories and part of speech usage.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are straightforward and similar in complexity, coherence, and length.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "There is a difference in the narrative styles and speech events between the two texts, as one focuses on corporate matters while the other addresses media outlets. This difference affects the common expressions, idioms, tone, and mood.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of all features, the writing styles in the two texts are moderately similar, except for the narrative styles and speech events which vary significantly, leading to a moderate confidence level in the likelihood of the same author.",
+        "score": 0.71
+    }
+}

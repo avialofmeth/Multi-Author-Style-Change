@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, apostrophes, and hyphens. Paragraph 2 lacks such diverse punctuation usage.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a specific vocabulary related to military vehicles and their capabilities. Paragraph 2 lacks this specialized word choice.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences discussing specific features of a vehicle. Paragraph 2 is short and straightforward, lacking complexity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal tone discussing technical details. Paragraph 2 is an automated response indicating a different narrative style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts have no spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, and narrative style, it is unlikely that the two texts were written by the same author.",
+    "score": 0.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use hyphens, colons, and ellipses for punctuation. However, the first text includes more varied punctuation marks such as parentheses and double periods, while the second text focuses more on periods and commas.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"The first text includes specific terms related to geopolitics (e.g., 'SCS,' 'Taiwan,' 'Russia') and expresses opinions with phrases like 'unlikely but' and 'I don't put anything past.' The second text contains technical terms related to bots and Reddit functionality. Both texts exhibit some unique lexical and grammatical features.",
+      "score":0.7
+   },
+   "feature3":{
+      "explanation":"The first text has longer sentences with complex structures and a mix of sentence types (questions and statements). The second text is more straightforward with shorter sentences and a focus on providing information. There are differences in sentence complexity and length between the two texts.",
+      "score":0.4
+   },
+   "feature4":{
+      "explanation":"Both texts display a somewhat informal tone, using conversational language and expressing opinions. However, the first text discusses geopolitical scenarios while the second text focuses on bot functionality and Reddit. The narrative styles and speech events differ between the texts.",
+      "score":0.5
+   },
+   "feature5":{
+      "explanation":"There are no apparent spelling or typographical errors in either text.",
+      "score":1.0
+   },
+   "overall":{
+      "explanation":"Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the texts show some similarities in certain aspects like punctuation and vocabulary but also demonstrate notable differences in sentence structure, content focus, and narrative style. The overall confidence score is moderate, indicating that the texts may have been written by the same author but with some reservations due to the distinct features observed.",
+      "score":0.64
+   }
+}

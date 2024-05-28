@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features; the first text focuses more on general guidelines while the second text involves specific events and groups.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary significantly between the texts; the first text is more structured and formal, while the second text is less coherent and more fragmented.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two texts differ greatly; the first text is instructive and formal, while the second text seems to express a narrative or opinion.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and tone, the texts are less likely to be written by the same author.",
+    "score": 0.54
+  }
+}

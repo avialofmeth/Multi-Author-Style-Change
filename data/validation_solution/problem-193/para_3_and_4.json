@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates consistent and appropriate use of punctuation marks including commas, periods, and quotation marks. Paragraph 2 lacks proper punctuation and shows inconsistent usage.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and proper grammar, while Paragraph 2 contains numerous lexical errors and lacks coherence.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has well-structured sentences with clear coherence. In contrast, Paragraph 2 exhibits fragmented and incoherent sentence structures.",
+    "score": 0.1
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone. Paragraph 2 lacks clarity and coherence, presenting a more informal and unclear style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 shows proper spelling and typographical accuracy. Paragraph 2 contains multiple spelling errors and typographical issues.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation, lexical and grammatical features, sentence structure, text and discourse features, as well as spelling and typographical errors between the two texts, the likelihood of them being written by the same author is low.",
+    "score": 0.14
+  }
+}

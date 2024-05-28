@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks like commas and periods. However, Paragraph 2 has a misspelling ('should of' instead of 'should have'), which could indicate a different writing style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal language and specific terminology related to global health issues, while Paragraph 2 has a more casual tone and informal language with a spelling mistake. This difference in lexical choice suggests a potential difference in authorship.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward. However, Paragraph 1 has a more coherent and structured argument, while Paragraph 2 seems less organized with a fragmented sentence. This disparity in sentence structure may indicate different authors.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and concerned tone regarding global health funding, whereas Paragraph 2 adopts a more critical and questioning tone. The difference in tone and mood suggests a potential variation in authorship.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 does not contain any spelling or typographical errors, while Paragraph 2 has a notable spelling mistake ('should of' instead of 'should have'). This discrepancy in spelling accuracy hints at a different writing style.",
+    "score": 0.7
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

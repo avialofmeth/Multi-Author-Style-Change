@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, parentheses, and periods in a similar manner. However, there are slight differences in the use of hyphens and colons.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There is a variation in lexical choices and word usage between the two texts. Different experiences are described using different vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are relatively simple and coherent. However, the length and arrangement differ slightly.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and mood of the texts differ significantly. One text expresses skepticism while the other conveys a more positive experience.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, tone, and mood, along with some variations in punctuation and sentence structure, the likelihood that the two texts were written by the same author is relatively low.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas in a specific way to create a sense of urgency and connection between ideas. Paragraph 2 lacks these punctuation features.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more complex and formal language related to historical events and social issues. Paragraph 2, as a bot message, is simpler and more straightforward.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences to convey a serious tone. Paragraph 2 has shorter and direct sentences typical of bot responses.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and concerned tone related to historical events. Paragraph 2 has a neutral and informative tone typical of automated responses.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and text tone, as well as the similarity in lack of spelling errors, the overall likelihood of the texts being written by the same author is low.",
+    "score": 0.36
+  }
+}

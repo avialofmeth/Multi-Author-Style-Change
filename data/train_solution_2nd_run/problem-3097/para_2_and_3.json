@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as colons and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, as well as varied word choices.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentence structures differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone are distinct in each text.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Overall, while there are some commonalities in punctuation and word choice, the differences in sentence structure and narrative style indicate a low likelihood of the same author.",
+    "score": 0.56
+  }
+}

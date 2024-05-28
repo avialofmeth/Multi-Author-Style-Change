@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains a variety of punctuation marks such as commas, periods, and apostrophes, while Paragraph 2 lacks such variety and uses fewer punctuation marks overall.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 uses more formal language related to politics and legal matters, while Paragraph 2 contains informal language referring to a disturbing video. The word choice and tone vary significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, Paragraph 1 consists of longer, more complex sentences with a focus on conveying factual information. In contrast, Paragraph 2 has shorter sentences that describe a disturbing event, lacking the complexity and coherence observed in Paragraph 1.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and discourse features differ greatly between the two paragraphs. Paragraph 1 discusses political and legal events in a neutral tone, while Paragraph 2 describes a graphic scene with emotional impact. The overall tone and mood are distinct in each text.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either paragraph, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author. The presence of spelling and typographical errors does not significantly impact this conclusion.",
+    "score": 0.4
+  }
+}

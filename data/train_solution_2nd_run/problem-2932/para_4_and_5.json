@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates the use of various punctuation marks such as commas, periods, and exclamation points to create a varied and dynamic sentence structure. In contrast, Paragraph 2 lacks diverse punctuation usage and relies more on simple sentence structures.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 utilizes a wide range of vocabulary and employs a more elevated tone, showcasing a deliberate choice of words. In contrast, Paragraph 2 includes simpler language and a more conversational tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences that contribute to a more elaborate writing style. On the other hand, Paragraph 2 consists of shorter and simpler sentences, affecting the overall coherence and cohesion of the text.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative style in Paragraph 1 is more philosophical and reflective, focusing on themes of rebellion and tyranny. In comparison, Paragraph 2 adopts a more personal and emotional tone, discussing real-world events and reactions.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs display proper spelling and punctuation, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the linguistic features, there are notable differences in punctuation style, lexical and grammatical features, and sentence structure between the two texts, suggesting they may not have been written by the same author. While spelling and typographical errors were consistent, the variations in other features lead to a moderate confidence score regarding the likelihood of the same authorship.",
+    "score": 0.62
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas in a consistent manner, while Paragraph 2 lacks hyphens and has more abrupt comma usage.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language with some technical terms. Paragraph 1 shows more variation in word choice compared to the more straightforward language in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and more direct sentences in Paragraph 2. The coherence and cohesion are weaker in Paragraph 2 due to abrupt transitions.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both texts convey information in a factual tone without much emotional expression. However, Paragraph 2 showcases a more assertive and opinionated stance compared to the slightly more neutral tone in Paragraph 1.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in the absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.46
+  }
+}

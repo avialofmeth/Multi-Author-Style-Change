@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, commas, and periods. However, it lacks the use of parentheses, brackets, colons, and quotation marks. Paragraph 2 contains only commas and periods.",
+		"score": 0.4
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 exhibits a mix of informal and colloquial language, with some instances of non-standard grammar. Paragraph 2, being a bot-generated message, is more formal and structured.",
+		"score": 0.2
+	},
+	"feature3": {
+		"explanation": "Both paragraphs have relatively short and straightforward sentences. Paragraph 1 shows a slightly more varied sentence structure with the use of complex sentences. Paragraph 2 consists of simpler sentences.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 expresses a strong opinion and critical tone towards a political topic. Paragraph 2 is neutral and informative in nature as it provides automated assistance.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "Both texts are free of spelling and typographical errors.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, there is a moderate likelihood that the two texts were not written by the same author.",
+		"score": 0.5
+	}
+}

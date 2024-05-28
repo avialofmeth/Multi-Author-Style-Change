@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display a consistent use of punctuation such as commas and periods. However, the first text includes more complex punctuation like question marks and exclamation points, while the second text is more straightforward with its punctuation usage.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text shows a more emotional and opinionated tone with words like 'forget,' 'responsible,' 'died,' and 'pro mask.' The second text is more formal and instructional in nature, using words like 'outlets,' 'subreddit,' and 'criteria.' There is a clear distinction in word choice and tone between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences compared to the second text, which is more concise and direct in its sentence structure. Additionally, the coherence and cohesion in the first text are focused on a specific argument, while the second text is more about providing guidelines.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two texts differ significantly. The first text adopts a critical and accusatory tone towards a specific individual (Trump), while the second text maintains a neutral and informative tone focused on subreddit guidelines. The common expressions, idioms, and mood are distinct between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and typographical accuracy without errors. There are no discrepancies in this aspect between the two texts.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts. While there is consistency in spelling and typographical accuracy, the overall writing styles of the texts suggest different authors.",
+    "score": 0.5
+  }
+}

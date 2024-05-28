@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a casual and informal punctuation style, including the use of ellipses, dashes, and expletives. Paragraph 2, being a bot message, maintains a more formal and standard punctuation style with correct usage.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses informal language and slang, while Paragraph 2 is formal and devoid of any expressive language. This indicates a contrast in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a mix of sentence lengths and complexity, including informal and conversational structures. Paragraph 2, as a bot message, is concise and straightforward with a consistent structure.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a confrontational and expressive tone with strong language. Paragraph 2 is neutral and informative in tone. These differences in narrative style and tone suggest distinct authorship.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text, indicating a consistent level of accuracy in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative style, along with the absence of spelling errors, the texts are likely written by different authors.",
+    "score": 0.38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain informal punctuation usage with hyphens, ellipses, and question marks. However, the first text uses more varied punctuation marks such as colons, parentheses, and quotation marks, while the second text relies mainly on commas and quotes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text shows a more varied lexical choice and uses complex grammatical structures. The second text is more straightforward with simpler lexical choices and grammatical patterns.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts exhibit differences. The first text has longer and more complex sentences, while the second text is more concise with shorter sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a similar tone of informal and confrontational language. However, the first text focuses on a specific narrative related to a leader and xenophobia, whereas the second text involves a personal insult and denial of association with the Middle East.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five linguistic features, there are notable differences in punctuation style, lexical and grammatical features, and sentence structure between the two texts, while similarities exist in text and discourse features. The overall confidence score leans towards low to moderate that the two texts were written by the same author.",
+    "score": 0.52
+  }
+}

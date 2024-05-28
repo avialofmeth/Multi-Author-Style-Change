@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and quotation marks, while Paragraph 2 uses hyphens, brackets, and quotation marks. Both texts employ different punctuation styles, but there is some commonality in the use of hyphens and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language and a more conversational tone with simpler grammar, whereas Paragraph 2 includes more formal language and complex grammatical structures. The lexical and grammatical features differ significantly in word choice and complexity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a straightforward structure, while Paragraph 2 has longer sentences with more complexity and narrative elements. The sentence structure and quantitative features contrast in terms of complexity and length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a casual narrative style related to a game, while Paragraph 2 adopts a formal and informative discourse style regarding a news event. The text and discourse features are distinct in terms of narrative tone and purpose.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and no typographical errors, maintaining a standard level of accuracy. There are no spelling or typographical errors to suggest a difference in writing styles.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "When considering the various linguistic features analyzed, it is evident that the two texts differ significantly in punctuation style, lexical and grammatical features, sentence structure, and text discourse features. While they share commonality in spelling and typographical accuracy, the overall writing styles diverge in multiple aspects, indicating a low likelihood of being written by the same author.",
+    "score": 0.46
+  }
+}

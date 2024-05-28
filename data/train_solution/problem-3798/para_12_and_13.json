@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas more frequently while Paragraph 2 contains more hyphens and periods.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use a mix of technical and descriptive language, but Paragraph 2 includes more specific terms related to military equipment.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with simpler structure. Paragraph 2 has longer sentences with more complex structure due to the technical details provided.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey information with a factual tone, but Paragraph 2 includes more detailed descriptions and a sense of urgency.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

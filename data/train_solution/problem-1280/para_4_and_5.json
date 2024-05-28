@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses for additional information and ellipses for expressing a sigh, showing some consistency in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text emphasizes formal language and rules, while the second text contains informal language and slang ('dumb things'). There is a notable difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text is structured as a general guideline with clear sentences, while the second text is more conversational and has a different sentence structure with expressions like 'Noooo'. There are distinct differences in sentence structure and quantitative features.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text is instructional and serious in tone, focusing on rules and consequences. In contrast, the second text is more casual and includes a sigh, which changes the overall tone. The narrative styles and speech events differ significantly.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, maintaining consistency in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, the linguistic features across the two texts show notable differences in lexical and grammatical features, sentence structure, and narrative styles, indicating a low likelihood that they were written by the same author. However, the consistent use of parentheses and absence of spelling errors provide some commonality. Taking all features into account, the texts are likely from different authors.",
+        "score": 0.6
+    }
+}

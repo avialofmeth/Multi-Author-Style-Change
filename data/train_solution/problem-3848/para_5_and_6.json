@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons, commas, and periods to convey information and structure sentences. Paragraph 2 also uses punctuation marks like hyphens, underscores, and periods, though in a different context.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on formal language related to permit requirements and firearm safety. Paragraph 2 contains legal terms and phrases specific to a court case.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of medium-length sentences with coherent structure. Paragraph 1 emphasizes the process of obtaining a permit, while Paragraph 2 discusses a court ruling.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone regarding gun laws and permit procedures. Paragraph 2 expresses a legal opinion with a critical tone towards certain decisions.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the moderate confidence level suggests the texts may not have the same author. Further analysis is recommended.",
+        "score": 0.56
+    }
+}

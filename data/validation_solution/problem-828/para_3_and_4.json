@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display similar punctuation styles with the use of commas, periods, and parentheses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the texts differ significantly in terms of content and tone, making it challenging to determine if they were written by the same author.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "There are notable differences in sentence structure and quantitative features between the two texts, indicating a potential lack of consistency in writing style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features diverge greatly, with one text discussing political ideologies and the other indicating an automated response. This suggests different writing contexts and intentions.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering all the features analyzed, the overall confidence in the texts being written by the same author is low due to significant differences in lexical, sentence structure, and discourse features.",
+        "score": 0.54
+    }
+}

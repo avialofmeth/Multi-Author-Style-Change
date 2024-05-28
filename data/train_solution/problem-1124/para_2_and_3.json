@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation like colons and parentheses, while Paragraph 2 uses exclamation marks and quotation marks for emphasis.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more formal and structured language with technical terms, while Paragraph 2 has a more casual and sensational tone with informal language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with a focus on providing information, whereas Paragraph 2 has shorter and more dramatic sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, while Paragraph 2 adopts a more expressive and sensational style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence score is moderate, suggesting that the two texts are less likely to be written by the same author.",
+        "score": 0.46
+    }
+}

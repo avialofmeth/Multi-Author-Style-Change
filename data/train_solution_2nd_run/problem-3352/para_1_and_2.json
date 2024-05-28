@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both use commas and periods correctly, but Paragraph 2 also includes hyphens and colons which are absent in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical choices and word usage, with no significant differences in grammatical features.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "While both paragraphs are coherent and display a similar level of sentence complexity, they differ in terms of quantitative features like sentence length and arrangement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts convey a serious tone and discuss political/economic issues, but Paragraph 1 focuses on US trade policies while Paragraph 2 discusses EU tariffs.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, text and discourse features, and absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.72
+  }
+}

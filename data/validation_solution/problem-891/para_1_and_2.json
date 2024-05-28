@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a formal and structured punctuation style with proper use of commas, periods, and dollar signs. It includes specific financial data presented in a clear manner. In contrast, Paragraph 2 lacks the same level of formality and precision in punctuation usage.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical and grammatical complexity with technical financial terms and precise language. In contrast, Paragraph 2 uses more informal and colloquial language with simpler vocabulary and sentence structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences focusing on economic analysis. In contrast, Paragraph 2 contains shorter, more straightforward sentences expressing opinions on government decisions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and analytical tone when discussing tax issues and corporate profits. In contrast, Paragraph 2 conveys a more informal, opinionated tone regarding government policies and energy concerns.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and grammar without typographical errors, maintaining a standard level of writing correctness.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical complexity, sentence structure, and tone between the two texts, there are notable discrepancies in writing style that suggest different authors. However, the absence of spelling and typographical errors provides some common ground. Therefore, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

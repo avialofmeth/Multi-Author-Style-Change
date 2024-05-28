@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a comma after 'Please' while Paragraph 2 uses parentheses to enclose additional information.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses simpler and more direct language compared to Paragraph 2, which contains more complex sentence structures and vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have similar sentence length and coherence in their structures.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone, while Paragraph 2 expresses a more narrative and reflective tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The overall confidence score is moderate, with some similarities in punctuation and sentence structure, but differences in lexical choice and tone.",
+    "score": 0.66
+  }
+}

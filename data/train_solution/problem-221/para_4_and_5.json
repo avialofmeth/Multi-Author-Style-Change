@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts demonstrate similar punctuation usage with the presence of commas and periods. However, Paragraph 1 uses more formal punctuation like colons and parentheses, while Paragraph 2 lacks these elements.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the two texts. Paragraph 1 contains language related to political processes and legislation, whereas Paragraph 2 discusses economic impacts and trade relations. The word choice and sentence structures vary significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, Paragraph 1 is more complex with longer sentences compared to the shorter, more straightforward sentences in Paragraph 2. The coherence and cohesion also differ due to the distinct topics.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts exhibit different text and discourse features. Paragraph 1 has a formal, informative tone related to political events, while Paragraph 2 adopts a more casual tone discussing economic effects. The narrative styles and speech events are not consistent.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text, indicating a similarity in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts are less likely to be written by the same author. The presence of spelling and typographical errors is the only commonality. Therefore, the overall confidence score is moderate.",
+        "score": 0.5
+    }
+}

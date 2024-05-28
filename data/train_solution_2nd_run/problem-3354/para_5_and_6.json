@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit different punctuation styles. Paragraph 1 includes hyphens and ellipses, while Paragraph 2 does not. However, both texts use commas and periods consistently.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. Paragraph 1 uses technical vocabulary related to environmental issues, while Paragraph 2 contains informal language and abbreviations. This indicates a notable distinction in word choice and grammatical structures.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features also vary between the texts. Paragraph 1 consists of longer, more complex sentences with specific details, while Paragraph 2 is more conversational with shorter sentences and less detailed information.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show a clear difference in narrative styles and speech events. Paragraph 1 focuses on a serious environmental issue, using a more formal tone, whereas Paragraph 2 discusses a different topic with a more casual tone and colloquial expressions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of written accuracy.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall likelihood that the two texts were written by the same author is low. The differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features outweigh the similarity in spelling and typographical errors.",
+    "score": 0.42
+  }
+}

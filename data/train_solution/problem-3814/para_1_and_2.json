@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, colons, and periods in a coherent manner. Paragraph 2 also includes punctuation marks like quotation marks and hyphens.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of formal and informal lexical choices, with varying sentence structures and vocabulary.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of formal and structured sentences with clear coherence and cohesion. Paragraph 2 includes more direct speech and a mix of sentence lengths.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and instructional tone, focusing on guidelines and rules. Paragraph 2 contains a direct quote with a confrontational tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

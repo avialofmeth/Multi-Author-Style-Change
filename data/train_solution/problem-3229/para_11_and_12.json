@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, quotation marks, and colons to convey information, but only the first text contains parentheses, which is a distinct punctuation feature.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text focuses more on the balance between hard and soft skills, while the second text emphasizes charisma in political figures. There is variation in lexical choices between the texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have a similar sentence structure in terms of complexity and coherence. However, the first text contains longer sentences compared to the second text.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text adopts a more informative and analytical tone, while the second text has a more directive and persuasive tone. They differ in narrative style and expression.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

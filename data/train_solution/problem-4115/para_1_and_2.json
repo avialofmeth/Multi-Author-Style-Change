@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for listing and separating information, while Paragraph 2 lacks such punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes technical terms like 'MMRCA 2.0' and 'Rafale F4s,' indicating a specific lexical choice. Paragraph 2 uses simpler language with terms like 'MiG-29K' and 'F/A-18E.' There is a notable difference in lexical variation.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences with detailed information. In contrast, Paragraph 2 has shorter and more direct sentences with less complexity.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a factual tone discussing procurement details. Paragraph 2 expresses opinions and preferences ('loathe it'). There is a difference in tone and narrative style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, showing consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, there are notable distinctions in writing styles between the two paragraphs. However, the absence of spelling and typographical errors provides some common ground. The overall confidence score is moderate, suggesting a likelihood of different authors.",
+        "score": 0.46
+    }
+}

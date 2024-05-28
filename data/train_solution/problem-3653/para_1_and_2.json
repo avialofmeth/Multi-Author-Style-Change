@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and ellipses for pauses and emphasis. Paragraph 1 uses parentheses and slashes for additional information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit informal language with some slang terms. Paragraph 1 has a more casual tone with phrases like 'My GOD' and 'people are dumb'.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains shorter sentences with more abrupt structure, while Paragraph 2 has longer, more structured sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey personal opinions and emotions. Paragraph 1 expresses frustration and disbelief, while Paragraph 2 focuses on setting rules and guidelines.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are devoid of spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style and lack of spelling errors, along with some commonalities in lexical and discourse features, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

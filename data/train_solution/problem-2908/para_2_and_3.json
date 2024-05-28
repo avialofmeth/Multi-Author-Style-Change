@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation marks like exclamation points and abbreviations. Text 1 uses hyphens, parentheses, and a mix of punctuation marks, while Text 2 lacks these features.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts contain informal and colloquial language with phrases like 'sketch af' in Text 1 and 'worthless' in Text 2. However, the lexical and grammatical features differ slightly in terms of vocabulary choice and sentence structures.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Text 1 has shorter sentences with abrupt transitions, while Text 2 has longer, more cohesive sentences. Both texts show differences in sentence complexity and coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts express negative sentiments towards the topic discussed, although the tones differ slightly. Text 1 is more informal and conversational, while Text 2 exhibits a more critical and serious tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "The texts exhibit some commonalities in informal punctuation and tone, but also notable differences in lexical choice, sentence structure, and coherence. Taking all features into account, the likelihood of the same authorship is moderate.",
+    "score": 0.62
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as periods and commas. However, there are differences in the use of hyphens (e.g., D'Esposito) and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first paragraph uses more formal language typical of automated responses, while the second paragraph contains informal language and specific references.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structure in the first paragraph is straightforward and typical of automated responses. In contrast, the second paragraph has more complex sentence structures due to the inclusion of additional information.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first paragraph has a neutral and informative tone, characteristic of automated responses. The second paragraph has a more accusatory and informal tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The analysis indicates that while there are some commonalities in punctuation style and absence of spelling errors, the differences in lexical choices, sentence structures, and tone suggest that the texts were likely not written by the same author.",
+        "score": 0.6
+    }
+}

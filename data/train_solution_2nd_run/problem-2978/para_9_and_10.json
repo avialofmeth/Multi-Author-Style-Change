@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts demonstrate the use of commas and periods correctly. However, the first text contains more complex punctuation with the use of hyphens and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language. The first text includes specific medical terminology, while the second text is more conversational.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences with medical jargon, while Text 2 is simpler and more straightforward in structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts share a descriptive tone, but the first text is more technical due to medical context, whereas the second text is more speculative.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Overall, considering the differences in punctuation, lexical complexity, sentence structure, and tone, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

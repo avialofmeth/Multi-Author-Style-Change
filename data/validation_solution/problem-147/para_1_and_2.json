@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use a similar punctuation style with the use of commas, quotation marks, and periods. However, Paragraph 1 contains more complex punctuation such as colons and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal tone and specific vocabulary related to the topics discussed. However, Paragraph 1 uses more varied vocabulary and shows a slightly more complex sentence structure compared to Paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is longer and more complex in sentence structure compared to Paragraph 2. It contains more elaborative details and shows a higher level of coherence and cohesion.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey a serious and informative tone. However, Paragraph 1 expresses personal opinions and beliefs, while Paragraph 2 reports factual events. There are differences in narrative styles and speech events.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are similarities in punctuation style, vocabulary, and absence of spelling errors, but differences in sentence structure, narrative styles, and speech events. The overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.72
+  }
+}

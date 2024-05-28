@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks like commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar level of word choice and grammatical structure, with no significant variation.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Both texts have coherent sentence structure and seem to be composed by a proficient writer.",
+    "score": 0.85
+  },
+  "feature4": {
+    "explanation": "The two texts differ significantly in terms of narrative style and tone, as one is a statement of skepticism while the other is an automated response.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, and sentence structure, the texts exhibit a fairly similar writing style. However, the distinct narrative styles in feature 4 reduce the overall confidence slightly.",
+    "score": 0.77
+  }
+}

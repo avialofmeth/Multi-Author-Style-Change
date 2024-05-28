@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas and periods. However, Paragraph 1 uses more diverse punctuation marks like colons and periods, while Paragraph 2 includes hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of lexical and grammatical features with variations in word choice and sentence structures. Paragraph 1 focuses more on specific economic terms like 'oil' and 'prices' while Paragraph 2 includes references to technology ('Windows,' 'Apple') and global issues ('genocide').",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more direct sentences compared to Paragraph 2, which contains longer sentences with more complex structures. While both maintain coherence within their respective contexts, the sentence lengths and arrangements differ.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts use a critical tone and address societal issues, albeit in different contexts. Paragraph 1 focuses on economic dependency and resource acquisition, while Paragraph 2 critiques global consumer habits and international events. The overall tone and mood are similar in their critical nature.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text. Both demonstrate a standard level of language proficiency in terms of spelling and typographical accuracy.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

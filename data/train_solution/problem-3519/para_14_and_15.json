@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation usage with standard punctuation marks such as commas, periods, and quotation marks. However, the first text uses more hyphens and ellipses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and sentence structures between the two texts. The first text contains more formal language and specific terminology related to geopolitical situations, while the second text has a more conversational tone and simpler vocabulary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary in complexity and length between the two texts. The first text has longer and more complex sentences, while the second text consists of shorter, more straightforward sentences. Both texts exhibit coherence and cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts. The first text presents a factual and informative tone, whereas the second text is more opinionated and conversational. Common expressions and idioms are used differently in each text.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing a similar level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall confidence score that the two texts were written by the same author is moderately low.",
+        "score": 0.56
+    }
+}

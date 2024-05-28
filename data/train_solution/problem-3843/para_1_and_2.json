@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks extensively, while Paragraph 2 includes colons and brackets. There is some variation in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a more casual and direct lexical and grammatical style with phrases like 'little vlad' and 'he's upset.' In contrast, Paragraph 2 uses formal language like 'information about the organizations.' There is a notable difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 comprises shorter, more straightforward sentences while Paragraph 2 contains longer sentences with complex structures. The sentence structures are distinct.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a tone of critique and directness, focusing on issues like incompetence. Paragraph 2 presents information in a more factual and neutral manner. The narrative styles and tone differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and lack typographical errors. There are no issues with spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.5
+    }
+}

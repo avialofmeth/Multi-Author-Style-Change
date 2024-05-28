@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and ellipses, but only the first text includes a colon.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Lexical and grammatical features show differences in word choice and complexity between the texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary significantly in complexity and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ in narrative style, idiomatic expressions, and tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts show correct spelling and no typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.5
+    }
+}

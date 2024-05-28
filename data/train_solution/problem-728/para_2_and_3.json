@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods consistently. Paragraph 2 lacks hyphens and colons but uses commas and periods similarly.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a mix of formal and informal language with words like 'kinda' and 'enviable.' Paragraph 2 maintains a more informal tone throughout.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs vary in sentence length and complexity, with a mix of short and long sentences. They both exhibit coherence and cohesion in their structure.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses political leadership and reactions to events, while Paragraph 2 focuses on societal conditioning and propaganda. The tone and mood differ significantly between the two.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in narrative style, tone, and lexical choice, the likelihood of the two texts being written by the same author is low to moderate.",
+        "score": 0.62
+    }
+}

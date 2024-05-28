@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use simple punctuation marks such as commas and periods. There are no unique punctuation features that stand out as distinctive to a particular author.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical and grammatical complexity. They use standard vocabulary and sentence structures without any unique stylistic elements.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are straightforward and lack complexity. They are coherent and follow a logical progression. There are no significant differences in quantitative features.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts have a serious and matter-of-fact tone. They lack distinct narrative styles or unique expressions that would differentiate the authors.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors. There are no noticeable mistakes in terms of spelling or grammar.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. The overall confidence score is 0.62.",
+        "score": 0.62
+    }
+}

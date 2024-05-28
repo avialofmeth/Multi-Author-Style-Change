@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain similar use of punctuation marks such as commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit variation in word choice and use similar grammatical structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively simple and direct with similar coherence and cohesion.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood in both texts differ significantly, indicating a potential difference in authorship.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the features, there are some commonalities in writing style, but the differing tone and mood suggest possible different authors. The average confidence score is 0.68.",
+    "score": 0.68
+  }
+}

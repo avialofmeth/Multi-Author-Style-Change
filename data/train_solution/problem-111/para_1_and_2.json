@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and parentheses for punctuation, while Paragraph 2 mainly employs commas and parentheses. There are differences in the use of punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show differences in lexical choices and word usage. Paragraph 1 discusses drug experiences, while Paragraph 2 focuses on general rules of conduct. The lexicon and grammatical structures are distinct.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more descriptive and detailed, with varying sentence lengths and structures. In contrast, Paragraph 2 contains concise and straightforward sentences. There is a notable difference in sentence complexity and arrangement.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys personal experiences and emotions related to drug use, while Paragraph 2 provides guidelines and rules for behavior. The narrative styles and speech events are dissimilar.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and lack typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of both texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

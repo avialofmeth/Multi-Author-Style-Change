@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks around direct speech, while Paragraph 2 uses angle brackets for indirect speech. This difference in punctuation style indicates a distinction between the texts.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes a more formal and diplomatic tone, using language like 'replaces diplomacy' and 'Putin and the Kremlin'. Paragraph 2, on the other hand, includes more informal and direct language like 'Russian priest' and 'mothers'. This difference in lexical and grammatical features suggests a contrast in writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a longer, complex sentence with multiple clauses. In contrast, Paragraph 2 is shorter and more straightforward. This variance in sentence structure and quantitative features points towards a divergence in the writing styles.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more formal and analytical narrative style discussing geopolitical events, while Paragraph 2 reports a specific incident with a direct and factual tone. These distinct text and discourse features suggest dissimilarity in writing styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit proper spelling and typographical accuracy, showing no errors in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, it is likely that the two texts were not written by the same author.",
+    "score": 0.44
+  }
+}

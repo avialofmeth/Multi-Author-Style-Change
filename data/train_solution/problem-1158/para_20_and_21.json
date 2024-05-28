@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 has a mix of punctuation marks like hyphens, quotation marks, and parentheses, while Paragraph 2 uses commas and period mostly.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical complexity without significant variations. They both use technical terms and specific language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are somewhat complex with varying lengths and arrangements. Both paragraphs maintain coherence and cohesion in their content.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a serious, informative tone with a focus on conveying factual information. They lack expressive narrative styles or varied speech events.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are noticeable similarities in lexical complexity, sentence structures, and the absence of spelling errors, but differences in punctuation style and tone. The overall likelihood that the texts were written by the same author scores moderately high.",
+        "score": 0.66
+    }
+}

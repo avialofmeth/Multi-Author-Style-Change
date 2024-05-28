@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks and parentheses, while Paragraph 2 uses hyphens and quotation marks. However, both texts employ various punctuation marks in a somewhat similar manner, indicating a potential commonality.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language, with unique word choices. There are differences in lexical variation and word choice between the two paragraphs, suggesting a potential difference in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences compared to Paragraph 2. The sentence structure and quantitative features differ significantly between the two texts, indicating a likely difference in authorship.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two paragraphs are distinct, with varying tones and moods. There are no evident common expressions or idioms shared between the texts, pointing towards a difference in authorship.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is likely that the two texts were written by different authors. The presence of spelling and typographical errors suggests a moderate level of similarity in writing style.",
+        "score": 0.4
+    }
+}

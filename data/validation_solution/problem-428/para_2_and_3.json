@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas for sentence structure and clarity, but only Text 1 employs colons and parentheses for additional information.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 shows a formal and informational tone with structured sentences, while Text 2 is more informal with slang and conversational language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to the shorter and less structured sentences in Text 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text 1 conveys a professional and informative tone, while Text 2 expresses a more casual and opinionated tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in tone, formality, sentence structure, and content, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

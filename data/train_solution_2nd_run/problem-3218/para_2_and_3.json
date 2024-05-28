@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas and periods. However, the first text showcases more formal punctuation like colons and parentheses, while the second text lacks these formal punctuation elements.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "The first text displays a more formal and structured lexicon, consistent with a professional setting. The second text contains informal language and lacks depth in vocabulary.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure, the first text is more complex and coherent, reflecting a formal communication style. The second text is simpler and lacks cohesion, indicating a more casual tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text maintains a professional and informative tone, typical of official announcements. The second text is more opinionated and conversational, suggesting a different discourse style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a basic level of writing proficiency.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.46
+  }
+}

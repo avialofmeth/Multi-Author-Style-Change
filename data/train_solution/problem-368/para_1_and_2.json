@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation such as commas and periods. However, there are differences in the use of hyphens, brackets, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in lexical choices and word usage. They also display differences in tone and word choice, indicating potential stylistic distinctions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The texts vary in sentence structures and lengths. Paragraph 1 has longer sentences compared to Paragraph 2, which tends to be more fragmented. There are differences in coherence and cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey strong opinions and express emotions, albeit in different contexts. They both exhibit a direct tone, but the topics and expressions differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts share some commonalities in punctuation and absence of spelling errors, but exhibit noticeable differences in lexical choices, sentence structures, and tone. The overall confidence score is moderate.",
+        "score": 0.56
+    }
+}

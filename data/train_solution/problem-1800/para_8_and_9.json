@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation like ellipses and slang ('shit'), while Paragraph 2 has more formal punctuation and structure.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes informal language and slang, while Paragraph 2 is more formal and direct in word choice.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, fragmented sentences with informal language, while Paragraph 2 presents longer, more structured sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a casual, conversational tone with slang, while Paragraph 2 is more formal and direct in expression.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse features, as well as the similarity in the absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of informal punctuation such as hyphens, colons, and parentheses. However, the first text includes more casual punctuation like 'WTF' which may impact the similarity score.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show a casual and conversational lexical style with informal word choices. The grammatical categories and part of speech usage are also similar in terms of informal tone.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short and straightforward sentence structures. They lack complexity and exhibit a casual tone, leading to similarity in coherence and cohesion.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts are conversational and somewhat informal. They share a similar tone and mood of casual discussion, although the topics differ.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text, indicating a level of proficiency in writing. This similarity contributes positively to the authorship assessment.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking into account the commonalities in punctuation, lexical style, sentence structure, narrative tone, and absence of spelling errors, the likelihood of the two texts being written by the same author is moderate to high.",
+        "score": 0.76
+    }
+}

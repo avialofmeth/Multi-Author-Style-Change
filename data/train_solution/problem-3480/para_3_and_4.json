@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation usage with the presence of commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in word choice and grammatical structures between the two paragraphs.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts have distinct sentence structures and lengths, indicating potential differences in authorship.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone, mood, and narrative styles differ significantly between the two paragraphs.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all the features collectively, there are notable differences in writing style that suggest different authors.",
+        "score": 0.54
+    }
+}

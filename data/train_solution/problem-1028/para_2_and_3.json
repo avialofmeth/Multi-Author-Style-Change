@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with consistent use of commas, periods, and other basic punctuation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "While both texts maintain a formal tone, they differ in lexical and word choice. Paragraph 1 uses more specific terms related to behavior, while Paragraph 2 focuses on media outlets.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts display a similar structure in terms of sentence complexity and coherence. However, Paragraph 1 is more directive, while Paragraph 2 is more informative.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ in the two texts. Paragraph 1 is more instructive and rule-based, while Paragraph 2 is more explanatory and reference-based.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the overall confidence score for both texts being written by the same author is moderate.",
+        "score": 0.68
+    }
+}

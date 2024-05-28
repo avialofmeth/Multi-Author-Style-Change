@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation such as lol and parentheses. They also show variation in the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical choices and word usage differ significantly between the two texts. The vocabulary and grammatical structures are distinct.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 has shorter sentences with more casual language. Text 2 displays longer and more complex sentences with formal vocabulary.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are dissimilar. Text 1 has a more casual and conversational tone, while Text 2 is more formal and analytical.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, and narrative styles, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.52
+  }
+}

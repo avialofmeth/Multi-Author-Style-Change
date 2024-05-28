@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks such as commas and periods without any unconventional or excessive use. Paragraph 2, on the other hand, includes a mix of hyphens, colons, and excessive punctuation like exclamation points and ellipses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a relatively straightforward lexical and grammatical style with common word choices and grammatical structures. Paragraph 2, however, includes highly sensational and conspiratorial language with unusual word choices and grammatical constructions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of coherent and concise sentences with a clear narrative structure. In contrast, Paragraph 2 is characterized by erratic sentence structures, excessive length, and lacks coherence in its content.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a casual and conversational tone in recounting a personal experience. Paragraph 2, in contrast, uses extreme and exaggerated language to convey a conspiratorial narrative, indicating a significant difference in tone and mood.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts appear to be free of spelling and typographical errors, maintaining a standard level of accuracy in written language.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the similarity in spelling and typographical accuracy, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like hyphens, colons, and parentheses, while Paragraph 2 lacks such diversity in punctuation usage.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both texts demonstrate a distinct choice of words and express strong opinions, but the lexical and grammatical features show differences in style and vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts vary in complexity and length, with differences in coherence and cohesion evident.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones differ significantly between the two texts, indicating contrasting writing styles and moods.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, narrative tones, and the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Text 1 uses proper punctuation throughout the paragraph with colons, commas, and periods, while text 2 has fewer punctuation marks and lacks proper punctuation in some instances.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 demonstrates a formal lexical and grammatical style with clear word choices and proper sentence structure. Text 2, on the other hand, contains informal language and grammatical errors like 'Its is' which is incorrect.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 shows consistent sentence structures and coherence in presenting ideas. Text 2 has shorter and less coherent sentences, lacking the complexity and organization seen in text 1.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 maintains a neutral tone and focuses on a general guideline, while text 2 introduces a specific scenario with a different tone and style, making it less likely to be written by the same author as text 1.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors, indicating a similar level of attention to detail in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts, indicating a lower likelihood of being written by the same author. The overall confidence score reflects this disparity.",
+    "score": 0.54
+  }
+}

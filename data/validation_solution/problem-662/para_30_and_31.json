@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Different use of punctuation marks and styles in each paragraph",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Distinct lexical choices and word usage in the two texts",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Varied sentence structures and lengths between the paragraphs",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Divergent narrative styles and tones in the texts",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors identified in the provided texts",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the linguistic features, the likelihood of the texts being written by the same author is low",
+        "score": 0.34
+    }
+}

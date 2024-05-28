@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas, periods, and quotation marks, but the first text demonstrates a more formal and structured use of punctuation compared to the second text, which contains run-on sentences and lacks proper punctuation at times.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text shows a more consistent and formal use of vocabulary and grammar, while the second text includes more informal language, slang, and historical references that are not present in the first text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is structured with clear sentences and maintains coherence, while the second text is less structured with longer, rambling sentences that lack cohesion and organization.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text presents a straightforward narrative style focusing on a specific event, while the second text diverges into a broader, historical context with a more critical and opinionated tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and typographical accuracy, without any noticeable errors in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is likely that the two texts were not written by the same author.",
+        "score": 0.56
+    }
+}

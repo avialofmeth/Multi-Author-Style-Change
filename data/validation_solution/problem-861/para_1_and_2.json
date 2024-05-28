@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses commas, colons, and periods with no other significant punctuation marks. Paragraph 2 emphasizes the use of slashes and commas for list items. There is a difference in punctuation style.",
+      "score": 0.2
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 contains complex sentences with technical language related to legal processes. Paragraph 2 uses simpler language with a focus on etiquette. There is a difference in lexical and grammatical features.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 has longer sentences with detailed explanations and a narrative structure. Paragraph 2 is concise and straightforward with a list format. There is a difference in sentence structure and quantitative features.",
+      "score": 0.3
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 has a pessimistic and casual tone discussing legal matters. Paragraph 2 adopts a formal and instructive tone regarding behavior. There is a difference in text and discourse features.",
+      "score": 0.4
+   },
+   "feature5": {
+      "explanation": "There are no spelling or typographical errors present in either paragraph.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+      "score": 0.44
+   }
+}

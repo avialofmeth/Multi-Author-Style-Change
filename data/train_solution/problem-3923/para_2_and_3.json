@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Texts both use colons, commas, and parentheses for punctuation. However, the first text also includes hyphens and lacks quotation marks, while the second text does not use hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a similar level of lexical variation and word choice; however, the first text uses more specific terms like 'outright annexation' and 'juicy targets,' while the second text focuses on 'Putin' and 'Lukashenko.'",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit coherence and cohesion in their content and structure. The first text has shorter, more direct sentences, while the second text includes longer sentences with more detailed explanations. ",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone differ slightly between the texts. The first text has a more assertive and strategic tone, discussing potential actions, while the second text is more explanatory and factual.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.72
+    }
+}

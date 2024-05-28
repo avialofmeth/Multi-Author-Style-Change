@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, periods, and commas in a formal and structured manner. Paragraph 2 contains hyphens and quotation marks, but lacks the same formal punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal tone with specific terminology. Paragraph 2 includes slang terms and a more casual style of expression.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is concise and straightforward with clear organization. Paragraph 2 includes longer, more complex sentences with a less structured arrangement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral tone focused on providing information. Paragraph 2 has a more opinionated and informal tone with a touch of humor.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and tone, the texts show notable distinctions in writing style. However, the absence of spelling errors increases the likelihood of a shared author to some extent.",
+    "score": 0.52
+  }
+}

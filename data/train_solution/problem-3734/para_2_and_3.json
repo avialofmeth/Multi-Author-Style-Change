@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with commas used appropriately for separating clauses and items in a list. However, Paragraph 2 lacks this consistency and uses hyphens and parentheses, which could indicate a slight difference in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal and professional tone with similar lexical choices and grammar structures. The use of technical terms and specific instructions in both texts suggests a possible similarity in the author's lexical and grammatical features.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both Paragraph 1 and 2 present information concisely and clearly with a similar sentence structure. The sentences are relatively short and straightforward, maintaining coherence and cohesion throughout. This consistency in sentence structure indicates a potential similarity in writing style.",
+        "score": 0.9
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and informative discourse style, focusing on providing guidelines or instructions. Although the topics differ, the tone and mood of the writing remain consistent in terms of being informative and direct. This similarity in narrative styles suggests a possible shared authorship.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either Paragraph 1 or 2, indicating a high level of attention to detail in both texts. The absence of errors supports the idea that the same author may have written both paragraphs.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as spelling and typographical errors, the overall assessment suggests a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.83
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles including commas, question marks, and quotation marks. However, paragraph 1 uses hyphens and parentheses while paragraph 2 does not. This difference may suggest some variation in punctuation preferences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both paragraphs exhibit a relatively similar level of formality and vocabulary complexity. However, paragraph 1 contains more colloquial language and contractions compared to paragraph 2. This slight difference indicates a potential variation in writing style.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both paragraphs are varied, with a mix of complex and simple sentences. Paragraph 1 includes longer sentences with more clauses, while paragraph 2 generally has shorter sentences. This difference in sentence length and complexity may suggest a slight divergence in writing style.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Both paragraphs exhibit a similar tone of critique and questioning, with an underlying sense of skepticism. However, the specific topics discussed differ, leading to a variation in narrative styles. Paragraph 1 focuses on income limits, while paragraph 2 centers on student debt and social perceptions.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No significant spelling or typographical errors were detected in either paragraph, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the slight differences in punctuation, lexical variations, sentence structures, and narrative focus, there are indications of potential divergence in writing style. However, the absence of spelling errors suggests a consistent level of language proficiency. The overall confidence score in the likelihood of the same authorship is moderate.",
+    "score": 0.67
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens and commas for punctuation. However, Paragraph 1 includes more complex punctuation such as colons and parentheses compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal and descriptive lexical style. However, Paragraph 1 includes more technical terms related to military operations, while Paragraph 2 uses aristocratic titles. The lexical variation differs due to the subject matter.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are structured with descriptive and informative sentences, but Paragraph 1 contains longer and more detailed sentences compared to the shorter sentences in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both paragraphs differ significantly - Paragraph 1 focuses on police investigation details, while Paragraph 2 discusses aristocratic involvement. The tone and mood vary due to the subject matter.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are well-written without spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the consistency in lack of spelling errors, the overall likelihood that these texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas, while Paragraph 2 only uses commas. Both texts lack brackets, colons, parentheses, and quotation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words like 'neocon' and 'neolib', showing specific lexical choices. Paragraph 2 is more formal and straightforward in its word choice. Grammatically, both texts are coherent and follow standard structures.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with complex structures, while Paragraph 2 consists of shorter, simpler sentences. Both texts are coherent but differ in sentence complexity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a confrontational tone, using strong language to make a point. Paragraph 2 maintains a neutral and informative tone. Both texts exhibit different narrative styles and tones.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, narrative styles, and tones, there is moderate evidence to suggest that the two texts may not have been written by the same author.",
+    "score": 0.52
+  }
+}

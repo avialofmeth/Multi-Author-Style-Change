@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use hyphens and parentheses for clarification and asides, but only the first text uses quotation marks for direct quotes.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "Both texts display a mix of complex and simple vocabulary, but the first text is more descriptive and technical in nature compared to the second text.",
+      "score": 0.5
+   },
+   "feature3": {
+      "explanation": "The first text contains longer, more complex sentences with historical context, while the second text is shorter and more straightforward.",
+      "score": 0.4
+   },
+   "feature4": {
+      "explanation": "The first text has a narrative style with a historical tone, whereas the second text presents a hypothetical scenario.",
+      "score": 0.7
+   },
+   "feature5": {
+      "explanation": "Both texts are free of spelling and typographical errors.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering all features, there are similarities in punctuation style and absence of spelling errors, but differences in lexical features, sentence structure, and narrative style, indicating a moderate likelihood that the two texts were written by the same author.",
+      "score": 0.64
+   }
+}

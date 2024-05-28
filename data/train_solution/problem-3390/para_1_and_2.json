@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 uses commas and periods as well. Both texts exhibit a similar style in terms of punctuation usage.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains words and phrases like 'evil tyrants' and 'ruling class' that suggest a certain tone and vocabulary choice. Paragraph 2, on the other hand, uses phrases like 'poorly educated people' and 'support it'. The lexical and grammatical features differ in terms of vocabulary choice and tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively similar sentence structures in terms of length and complexity. They are both coherent and focused on conveying a specific message.",
+    "score": 0.9
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more aggressive and emotive tone, while Paragraph 2 presents a more factual and descriptive tone. The narrative styles and mood differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, as well as narrative styles and tone, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.68
+  }
+}

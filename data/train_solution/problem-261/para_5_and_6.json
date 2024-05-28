@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for enumeration and include parentheses for additional information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses specific country names like England, Wales, Germany, and Denmark while Text 2 refers to regions and countries like Middle Eastern nations, African countries, and Poland. Different lexical choices are observed.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer sentences with more complex structures compared to Text 2 which has shorter, more straightforward sentences. Sentence length and complexity vary significantly.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more formal tone discussing fines and FIFA's actions while Text 2 uses a more informal tone with phrases like 'Hugely intolerant places.' Different narrative styles and tones are present.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the features, there are differences in lexical choices, sentence structure, and tone between the two texts, indicating a lower likelihood of being written by the same author.",
+        "score": 0.6
+    }
+}

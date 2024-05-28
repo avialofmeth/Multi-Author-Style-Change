@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, slashes, parentheses, and commas. Paragraph 2 also uses punctuation marks like periods, commas, and parentheses, albeit in a different context.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with words like 'courteous', 'violations', and 'permanent ban'. Paragraph 2, on the other hand, uses more informal and emotional language with words like 'BAWLED', 'CRYING', and 'meltdown'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer, more structured sentences focusing on rules and guidelines. In contrast, Paragraph 2 consists of shorter, fragmented sentences depicting a specific event and emotional outburst.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone with a focus on rules and consequences. In contrast, Paragraph 2 presents a dramatic and emotional narrative of a specific incident.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts exhibit distinct writing styles. However, the absence of spelling and typographical errors increases the likelihood that the same author wrote both texts.",
+    "score": 0.5
+  }
+}

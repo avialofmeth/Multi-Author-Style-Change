@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and ellipses for punctuation, while Paragraph 2 lacks these and instead uses commas and periods.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more varied vocabulary and complex sentences, while Paragraph 2 uses simpler language and shorter sentences.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have coherent structures but differ in sentence complexity and length.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more neutral tone and informative style, while Paragraph 2 is more accusatory and demanding.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs show no significant spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, tone, and similarities in lack of errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.48
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods appropriately, while Paragraph 2 uses exclamation points and question marks. This indicates a difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more formal and structured language with specific terms related to drug overdose, while Paragraph 2 uses informal language and slang. This suggests a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively short sentences with clear ideas. However, Paragraph 1 is more focused on a specific event, while Paragraph 2 discusses a broader topic. This slight difference affects coherence and cohesion.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more somber tone discussing a personal tragedy, while Paragraph 2 has a more passionate and critical tone towards the judicial system. The difference in tone and mood is evident.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors. There are no significant differences in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, slight variations in sentence structure and discourse features, as well as the difference in tone, the overall confidence score of the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

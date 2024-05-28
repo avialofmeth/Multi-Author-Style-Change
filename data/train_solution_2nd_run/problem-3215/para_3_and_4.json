@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, commas, and parentheses, while Paragraph 2 lacks the same level of punctuation variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a notable difference in lexical and grammatical features between the two paragraphs. Paragraph 1 demonstrates a more formal and structured word choice and grammar, while Paragraph 2 appears more informal and contains potential errors like 'wekl-managed.'",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, Paragraph 1 is clearer, more coherent, and follows a structured pattern. In contrast, Paragraph 2 seems less organized and has shorter, less complex sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ significantly. Paragraph 1 maintains a professional tone related to media outlets, while Paragraph 2 is informal and lacks clarity, making it hard to align them in terms of narrative style or speech events.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are spelling errors in Paragraph 2 ('wekl-managed'), while Paragraph 1 is error-free. This distinction in spelling and typographical errors suggests a divergence in writing styles.",
+        "score": 0.4
+    },
+    "overall": {
+        "explanation": "Overall, the likelihood that the two texts were written by the same author is low based on the significant differences observed in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors.",
+        "score": 0.4
+    }
+}

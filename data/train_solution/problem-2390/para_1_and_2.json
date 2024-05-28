@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and periods, while Paragraph 2 uses slashes, commas, and periods. Both paragraphs demonstrate a similar level of punctuation usage, with some differences in specific symbols.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words like 'experienced,' 'shrewd,' and 'impeachments,' indicating a more formal tone. Paragraph 2 contains terms like 'courteous,' 'insults,' 'violations,' suggesting a more instructional tone. Despite differences in vocabulary, both paragraphs maintain a certain level of formality.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with complex structures, discussing a specific topic in detail. In contrast, Paragraph 2 has shorter, more straightforward sentences, focused on providing guidelines. The sentence complexity and coherence differ but are within acceptable bounds for the same author.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a narrative style, offering an opinion on a specific individual's actions. Paragraph 2 presents rules and instructions in a direct manner. While the tones vary, both texts maintain a clear and coherent communication style.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either paragraph, indicating a consistent level of attention to language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, and the absence of spelling errors, alongside the distinctions in sentence structure and text/discourse features, there is moderate confidence that the two texts could have been written by the same author.",
+    "score": 0.72
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, quotation marks, and parentheses for punctuation. However, the first text uses more informal punctuation like single quotes and expletives.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Lexical and grammatical features show differences in word choice and tone. The first text is more informal and uses slang, while the second text is more formal with specific terms like Minister of Defense.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Sentence structure in the two texts varies in complexity and coherence. The first text has shorter, choppier sentences compared to the second text, which is more structured and detailed.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ in narrative style and tone. The first text has a more casual, opinionated tone, while the second text is more informative and factual.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and discourse features, there are notable disparities that suggest a lower likelihood of the same author. However, the absence of spelling errors provides some consistency.",
+    "score": 0.68
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show a lack of proper punctuation use, including missing commas and periods.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is a similarity in the informal word choices and grammatical structures used in both texts.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit a similar sentence structure with short, direct sentences lacking in complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone in both texts is informal and conversational, with a hint of criticism or sarcasm.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in the texts.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, and tone, as well as the absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.76
+  }
+}

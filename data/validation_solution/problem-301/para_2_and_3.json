@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use a variety of punctuation marks such as commas, quotation marks, and periods. However, the first text includes a colon while the second text does not. The punctuation styles differ slightly.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "The lexical choices in both texts are somewhat different, with the first text using terms related to physical actions ('steamrolled') and the second text using financial terms ('buy your house'). Grammatical categories and part of speech usage also vary slightly.",
+      "score": 0.5
+   },
+   "feature3": {
+      "explanation": "Sentence structure in both texts shows differences in complexity and length. The first text has shorter sentences while the second text has longer sentences with more clauses. This impacts coherence and cohesion.",
+      "score": 0.4
+   },
+   "feature4": {
+      "explanation": "The narrative styles and speech events in the two texts differ significantly. The first text describes a physical action, while the second text presents a financial scenario. The tone and mood also vary between the texts.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "There are no spelling or typographical errors in either text.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+      "score": 0.56
+   }
+}

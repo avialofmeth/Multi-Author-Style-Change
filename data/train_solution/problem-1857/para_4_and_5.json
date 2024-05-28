@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and commas in a formal and structured manner. Paragraph 2 lacks proper punctuation and shows a more informal style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical choice and grammar. Paragraph 2 contains more informal language and grammatical errors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a clearer sentence structure and coherence. Paragraph 2 is less organized with longer sentences and a less cohesive flow.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more informative and instructive tone. Paragraph 2 is more conversational and argumentative.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs show no spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and tone, the writing style of the two paragraphs diverges significantly, suggesting they were likely written by different authors.",
+    "score": 0.52
+  }
+}

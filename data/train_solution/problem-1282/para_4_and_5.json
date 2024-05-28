@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs display a casual punctuation style with the use of commas, colons, and parentheses. However, the first paragraph uses fewer punctuation marks compared to the second paragraph.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of informal and descriptive language. The first paragraph uses more colloquial language and contractions, while the second paragraph includes more technical terms like 'McHenry' and 'McCarthy'.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both paragraphs is relatively simple and straightforward. There are no significant differences in sentence length or complexity.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both paragraphs involve narrative descriptions and events. The tone in the first paragraph is more casual and humorous, while the second paragraph has a more observational tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, as there are similarities in punctuation style, sentence structure, text and discourse features, and absence of spelling errors. However, differences in lexical and grammatical features slightly lower the confidence level.",
+        "score": 0.72
+    }
+}

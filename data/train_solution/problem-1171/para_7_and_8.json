@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of hyphens, parentheses, and quotation marks, while Paragraph 2 lacks these punctuation styles.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses a more formal and diverse vocabulary compared to the simpler language used in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence complexity and structure, with a mix of short and long sentences for variation.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more serious and intense tone compared to the casual and personal tone of Paragraph 2.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in sentence structure and absence of spelling errors, but noticing differences in punctuation style, vocabulary choice, and tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

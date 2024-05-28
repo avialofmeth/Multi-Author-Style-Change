@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain the use of punctuation such as hyphens, commas, and colons. However, the second paragraph lacks the use of parentheses and quotation marks seen in the first paragraph.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical variation and word choice between the two texts. The first paragraph uses more formal language related to subreddit guidelines, while the second paragraph contains more informal language discussing media ownership.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary with the first paragraph being more direct and informative, while the second paragraph is more descriptive and opinionated. The first paragraph is also more concise in sentence length.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts. The first paragraph adopts a formal and neutral tone, whereas the second paragraph is more critical and opinionated in nature.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Overall, considering the differences in lexical choice, sentence structure, and narrative style, as well as the presence of shared punctuation features and absence of spelling errors, the likelihood of the two texts being written by the same author is moderately low.",
+    "score": 0.6
+  }
+}

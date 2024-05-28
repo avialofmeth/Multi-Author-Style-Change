@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and parentheses, but only the second text includes brackets and ellipses. The first text also includes a colon, while the second text does not. Overall, punctuation style shows some similarities but also notable differences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text uses more formal language related to sports and medals. The second text is more focused on military terminology. There are differences in lexical choices and word usage between the two texts, indicating potential different authors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly between the two texts. The first text is more descriptive and includes a complex sentence, while the second text is more straightforward and to the point. This suggests a divergence in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features in the two texts also show differences. The first text has a narrative tone related to personal achievement, while the second text conveys information in a factual manner. These differences in tone and narrative style suggest different authors.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in proofreading. This feature does not help in distinguishing the authors.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, and text and discourse features, along with the similarity in spelling and typographical accuracy, the overall likelihood of the two texts being written by the same author is low to moderate.",
+    "score": 0.44
+  }
+}

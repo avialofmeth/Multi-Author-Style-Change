@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain hyphens and use commas for listing elements. However, the first text uses hyphens for compound words while the second text uses them for separating clauses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of formal and informal language. The first text uses more formal phrases like 'relationship with its Allies', while the second text is more casual with phrases like 'When the West was arming'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short sentences with clear structures. However, the first text includes a complex sentence structure with a conditional clause, while the second text has simpler sentence constructions.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a somewhat formal tone in discussing geopolitical issues. However, the first text seems more analytical and detached, while the second text includes a bit of historical context to emphasize a point.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

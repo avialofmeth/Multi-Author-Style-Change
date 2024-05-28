@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit informal and emotionally charged language, with the use of expletives and offensive terms, but the punctuation styles differ significantly.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "There are variations in lexical choice and word usage between the two texts, indicating potential differences in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures and coherence differ substantially between the two texts, suggesting distinct writing styles.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit strong emotional tone and negative sentiment, but the narrative styles and expressions are markedly different, pointing to potential different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.38
+    }
+}

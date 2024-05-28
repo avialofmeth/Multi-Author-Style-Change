@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a more formal and structured punctuation style with colons, commas, and periods. Paragraph 2 contains informal punctuation like abbreviations (Tbh), contractions (hadn't), and a lack of colons or semicolons.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal lexical and grammatical style with complete sentences and professional vocabulary. Paragraph 2 uses more informal language, contractions, and slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with a formal structure. Paragraph 2 has shorter sentences and a more conversational style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone. Paragraph 2 has a more casual and opinionated tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, while also noting the absence of spelling errors, there is moderate confidence that the two texts were not written by the same author.",
+    "score": 0.52
+  }
+}

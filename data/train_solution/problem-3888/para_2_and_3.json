@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods correctly, but Text 2 shows a lack of formal punctuation such as colons and parentheses seen in Text 1.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Text 1 exhibits a more formal tone with specific vocabulary related to subreddit guidelines, while Text 2 uses informal language and slang, indicating a difference in lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more structured sentences related to providing information. Text 2 has longer, more complex sentences expressing personal opinions and future predictions, suggesting a variance in sentence structure and quantitative features.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a formal, informative discourse style, while Text 2 conveys a more casual, opinionated tone. The narrative styles and speech events differ significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, showing a similarity in this aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse style, along with the shared lack of spelling errors, the overall confidence score is moderate.",
+        "score": 0.38
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of consistent punctuation usage, with informal style and errors present in both, such as missing commas or periods.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the texts. Paragraph 1 contains more informal and emotive language, with a mix of slang, while Paragraph 2 is more neutral and straightforward.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary significantly between the texts. Paragraph 1 is long and complex, with convoluted sentence structures, whereas Paragraph 2 is shorter and more straightforward.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ notably. Paragraph 1 is more argumentative and focused on a specific issue, while Paragraph 2 is conversational and mentions personal experiences.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.52
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of colons and hyphens in a similar manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly, with varying word choices and structures.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures are distinct, with different levels of complexity and coherence.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The texts contain different narrative styles and tones, indicating potential differences in authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were noted in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in lexical, grammatical features, sentence structures, and narrative styles, the likelihood of the same author for both texts is low.",
+        "score": 0.5
+    }
+}

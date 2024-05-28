@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and quotation marks to indicate quotations and list items. However, there are differences in the use of hyphens and colons between the two texts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text contains more informal language and specific cultural references, while the second text is more formal and focused on inclusivity.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly. The first text is more descriptive and has longer sentences, while the second text is more straightforward and concise.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone of the two texts are quite distinct. The first text is descriptive and focused on a specific cultural representation, while the second text is more inclusive and welcoming in its tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles between the two texts, it is unlikely that they were written by the same author. However, the consistent use of punctuation and absence of spelling errors increase the overall confidence score slightly.",
+        "score": 0.6
+    }
+}

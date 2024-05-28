@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show similar use of punctuation marks such as hyphens, colons, and emojis.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and tone between the two texts. The first text is more formal and neutral, while the second text is informal and emotive.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are different. The first text is more coherent and structured, while the second text is fragmented and informal.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are distinct in the two texts. The first text discusses political issues objectively, while the second text is emotionally charged and critical.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.54
+  }
+}

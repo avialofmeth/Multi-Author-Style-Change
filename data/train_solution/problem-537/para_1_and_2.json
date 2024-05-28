@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods. However, the second text includes a question mark which is absent in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use relatively straightforward language without complex vocabulary. However, the second text has a more informal tone compared to the formal tone of the first text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a single complex sentence with a list of rules, while Paragraph 2 is a simple sentence that uses a metaphor. The sentence structures and lengths differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious tone, but the first text is more instructional and rule-based, while the second text uses a metaphor to make a point. The narrative styles and speech events are distinct.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and text discourse between the two texts, the likelihood of them being written by the same author is low.",
+        "score": 0.54
+    }
+}

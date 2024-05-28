@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of various punctuation marks like colons, commas, quotation marks, and emojis. However, the first text has a more casual and erratic use of punctuation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text contains informal language, slang, and references, while the second text is more formal and focused on setting guidelines. This indicates a difference in lexical and grammatical choices between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text shows long, complex, and meandering sentences with multiple tangents and references, while the second text is concise, straightforward, and to the point. The sentence structures and arrangement differ significantly.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the first text adopts a more narrative and conversational style with references to specific events and individuals, while the second text is more instructional and rule-oriented. The tones and moods are distinct.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either text, indicating a similar level of accuracy in writing mechanics.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the absence of spelling errors, the overall confidence score for the likelihood of the same authorship is moderate.",
+    "score": 0.64
+  }
+}

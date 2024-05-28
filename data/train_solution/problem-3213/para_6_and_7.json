@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens, commas, and other punctuation marks regularly to separate ideas and provide clarity. However, the second paragraph seems to use fewer punctuation marks compared to the first paragraph.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical and grammatical features. The first paragraph contains more technical and descriptive language related to food safety issues, while the second paragraph is more focused on conveying disappointment. However, both paragraphs show a level of formality in their language use.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs vary. The first paragraph contains longer and more complex sentences due to the detailed descriptions of food safety issues. The second paragraph uses shorter and more straightforward sentences to convey emotions. The quantitative features differ significantly between the two paragraphs.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a different narrative style and mood. The first paragraph adopts a more informative and alarming tone related to food safety violations, while the second paragraph expresses disappointment. The discourse features and idiomatic expressions vary between the two texts.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the lack of spelling errors, the overall confidence score is moderate, indicating a likelihood that the two texts were not written by the same author.",
+    "score": 0.64
+  }
+}

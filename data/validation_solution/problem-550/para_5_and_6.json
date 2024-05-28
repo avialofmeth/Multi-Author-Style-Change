@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 also includes commas and periods, although it lacks proper punctuation in the second sentence.",
+		"score": 0.7
+	},
+	"feature2": {
+		"explanation": "Both paragraphs exhibit differences in word choice and tone. Paragraph 1 is formal and polite, while Paragraph 2 is more informal and opinionated. There are lexical variations between the two texts.",
+		"score": 0.4
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 consists of short, concise sentences. Paragraph 2 has longer sentences with more complex structures. Both paragraphs are coherent within themselves.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 has a neutral and informative tone, typical of automated responses. Paragraph 2 has a more informal and opinionated tone, suggesting a different narrative style.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either paragraph.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "The texts exhibit differences in lexical and grammatical features, sentence structure, and text and discourse features, suggesting they are unlikely to be written by the same author.",
+		"score": 0.6
+	}
+}

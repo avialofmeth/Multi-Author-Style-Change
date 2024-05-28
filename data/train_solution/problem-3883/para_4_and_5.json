@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens and informal language, such as 'bullshit', which indicates a similarity in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show informal lexical choices like 'drown out' and 'dog whistle' and similar grammatical structures, suggesting a common author.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have a conversational tone with relatively similar sentence lengths and structure, pointing to a consistent writing style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The use of informal expressions and a critical tone is present in both texts, aligning with a shared authorship.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either paragraph, maintaining consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the alignment in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as the absence of spelling errors, the overall likelihood of the two texts being written by the same author is moderately high.",
+        "score": 0.78
+    }
+}

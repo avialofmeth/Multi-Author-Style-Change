@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, ellipses, and double quotation marks, while Paragraph 2 lacks such punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and contractions ('won\u2019t'), while Paragraph 2 uses formal language without contractions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter sentences with some ellipses for emphasis, whereas Paragraph 2 is a single sentence with a formal tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a personal experience with a slightly informal tone, while Paragraph 2 is a generic automated message without personal touch.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Neither of the paragraphs contains spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.48
+    }
+}

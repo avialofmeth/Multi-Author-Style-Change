@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more punctuation marks such as commas and periods compared to Paragraph 2 which has fewer punctuation marks. Both texts exhibit a lack of consistent punctuation usage.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show a similarity in lexical features with informal language and non-standard grammar. Some common words and phrases like 'FBI', 'social media', and 'lol' are present in both texts.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both paragraphs is somewhat similar with short, fragmented sentences and informal language. Both texts lack coherence and have abrupt transitions.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts have a similar tone of informality and use of internet slang ('lol'). The narrative style is casual and lacks formal structure in both paragraphs.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are spelling errors in both paragraphs ('non' instead of 'none', 'disinformation' instead of 'disingenuous'). Both texts display typographical errors and lack attention to detail in spelling.",
+    "score": 0.6
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the writing style similarities between the two texts suggest a moderate likelihood that they were written by the same author.",
+    "score": 0.56
+  }
+}

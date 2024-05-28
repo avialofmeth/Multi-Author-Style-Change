@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts use hyphens, colons, and parentheses. Text 1 uses hyphens and parentheses, while Text 2 uses colons. Both texts also contain commas for listing items.",
+		"score": 0.7
+	},
+	"feature2": {
+		"explanation": "Both texts exhibit a formal and somewhat technical vocabulary. Text 1 discusses 'drone war,' 'remote/automated technologies,' and geopolitical conflicts. Text 2 mentions 'CSIS,' 'foreign actors,' and 'government.' Grammatical structures are generally well-formed in both texts.",
+		"score": 0.8
+	},
+	"feature3": {
+		"explanation": "Text 1 has longer sentences with more complex structures, including the use of conditional clauses. Text 2 has shorter sentences with a more direct style. Both texts maintain coherence and cohesion within their respective structures.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "Text 1 adopts a more speculative and contemplative tone, discussing potential future scenarios. Text 2 presents a more urgent and assertive tone, calling for action. Both texts convey a sense of concern or warning.",
+		"score": 0.7
+	},
+	"feature5": {
+		"explanation": "Both texts are free from spelling and typographical errors.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the commonalities in punctuation style, vocabulary, tone, and absence of errors, along with some distinctions in sentence structure, the likelihood that the two texts were written by the same author is moderate.",
+		"score": 0.76
+	}
+}

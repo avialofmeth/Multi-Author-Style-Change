@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including colons, commas, and periods. However, Paragraph 1 includes more varied punctuation marks such as slashes and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit relatively formal language and clear grammar. However, Paragraph 1 contains more specific terms related to rules and violations, while Paragraph 2 focuses on media and outlet criteria.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts are straightforward and direct. Paragraph 1 is slightly longer with more complex sentences due to rule descriptions, whereas Paragraph 2 is concise and focused on instructions.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts are informative and instructional. Paragraph 1 has a more serious tone due to rule enforcement, while Paragraph 2 maintains a neutral and informative tone regarding media outlets.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, sentence structure, and lack of errors, along with some distinctions in vocabulary and tone, there is moderate confidence that the texts were written by the same author.",
+    "score": 0.72
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a more informal and colloquial style with the use of informal language and lack of traditional punctuation marks. In contrast, Paragraph 2 is more structured and uses standard punctuation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more casual and informal word choice and sentence structure. In comparison, Paragraph 2 is straightforward and formal, typical of automated responses.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a narrative tone. In contrast, Paragraph 2 consists of shorter and more direct sentences due to its automated nature.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a conspiratorial and critical tone with informal expressions, while Paragraph 2 is neutral and polite, as expected from an automated bot response.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse features, alongside the shared absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

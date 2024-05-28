@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon to introduce a list, while Paragraph 2 uses commas for listing items. Both paragraphs use appropriate punctuation marks, although with slight variations.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes specific lexical choices related to weaponry and location, while Paragraph 2 focuses on the legal and geopolitical scenario. The word choices and topics differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more fragmented sentences with informal language, while Paragraph 2 has longer, more complex sentences with a formal tone. The sentence structures and lengths vary greatly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual, conversational tone with a touch of humor, while Paragraph 2 adopts a serious, analytical tone discussing potential consequences. The narrative styles and tones are distinct.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the overall likelihood of the two texts being written by the same author is low.",
+        "score": 0.52
+    }
+}

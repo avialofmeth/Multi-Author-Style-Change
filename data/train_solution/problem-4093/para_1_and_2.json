@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and parentheses. However, the first text contains more complex punctuation like colons and semicolons, while the second text lacks such complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text uses more varied and complex vocabulary compared to the second text. The first text also demonstrates a higher level of grammatical complexity.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text has longer and more complex sentences, indicating a higher level of coherence and cohesion. The second text is shorter and less complex in structure.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The first text has a more narrative style, uses idiomatic expressions, and conveys a specific tone related to war and strategy. The second text lacks these elements.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score indicates a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.7
+    }
+}

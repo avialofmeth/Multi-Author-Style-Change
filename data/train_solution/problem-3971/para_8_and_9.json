@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons, commas, and periods in a straightforward manner for punctuation. Paragraph 2 lacks colons and uses more question marks and exclamation points.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and informative tone with clear word choice. Paragraph 2 has a more conversational and confrontational tone with informal language.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with clear sentences and provides statistical data. Paragraph 2 has shorter sentences and a more emotional appeal.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a persuasive and informative style. Paragraph 2 takes a defensive and argumentative approach.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, tone, and sentence structure, there are notable distinctions in writing style between the two texts, indicating a lower likelihood of being written by the same author.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and commas for additional information and clarification.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 focuses on formal language related to rules and guidelines, while Text 2 uses more informal language with colloquial expressions related to a specific topic.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has more structured and formal sentence arrangements with clear directives, while Text 2 has more complex and varied sentence structures with a narrative tone.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal tone, but Text 1 is more instructional and informative, while Text 2 has a critical and opinionated tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score indicates a moderate likelihood that the texts were written by the same author.",
+    "score": 0.6
+  }
+}

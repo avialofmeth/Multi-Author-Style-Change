@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation style with the use of colons, commas, and informal language features like 'Lmao'. However, the presence of hyphens in the first text and the absence of other punctuation elements in the second text suggest some distinction.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text contains technical terms like 'NATO' and 'nuclear fallout', while the second text expresses concerns and references specific events related to a plant and Russian forces. This indicates a variation in word choice and topic-specific vocabulary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts display coherence and cohesion in conveying their respective messages. However, the first text is shorter and more direct in its sentence structure, while the second text is more descriptive and elaborate. This difference in sentence complexity and length affects the overall quantitative features.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in the texts differ significantly. The first text adopts a casual and informal tone with expressions like 'Lmao', while the second text conveys a more formal and concerned tone regarding specific events. These distinct narrative styles indicate a difference in speech events and mood.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a consistent level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mixture of similarities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate but not definitive.",
+        "score": 0.56
+    }
+}

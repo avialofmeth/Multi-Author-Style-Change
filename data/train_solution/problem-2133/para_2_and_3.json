@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with commas, periods, and quotation marks. However, there are differences in the use of hyphens, colons, and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar level of lexical and grammatical features with a mix of complex and simple sentences. However, there are variations in specific word choices and sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The texts differ in terms of sentence structure and quantitative features. One text focuses on a comparison between countries while the other lists specific positive attributes. Sentence length and complexity vary between the texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative style and discourse features differ significantly between the two texts. One text is more focused on personal experiences and opinions while the other presents factual information.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

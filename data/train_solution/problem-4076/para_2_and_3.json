@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Hyphens, brackets, colons, commas, parentheses, quotation marks",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Lexical variation, word choice, grammatical categories, part of speech usage",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence complexity, length, coherence, word frequency",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Narrative style, tone, idioms",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Spelling and typographical errors",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts show similarities in punctuation style, word choice, and grammatical structure, but differ in narrative style and tone.",
+        "score": 0.72
+    }
+}

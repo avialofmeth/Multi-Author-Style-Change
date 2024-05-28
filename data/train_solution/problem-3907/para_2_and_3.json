@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with periods and commas, while paragraph 2 lacks proper punctuation with missing periods and incorrect use of commas.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs formal language and correct grammar, whereas paragraph 2 includes informal language and grammatical errors such as 'similar-gened'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of coherent and structured sentences related to aging and mitochondrial rejuvenation. In contrast, paragraph 2 presents disjointed ideas in a conversational tone about dystopian plots and mitochondria harvesting.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone discussing aging and mitochondrial function, while paragraph 2 adopts a casual and speculative tone regarding a dystopian scenario. The narrative styles and speech events differ significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors, contributing equally to this feature.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and coherence, narrative styles, and tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.3
+    }
+}

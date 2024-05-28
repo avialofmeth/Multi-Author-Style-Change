@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and commas for additional information and clarifications.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and technical vocabulary with specific terms related to the topics discussed.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts contain sentences of moderate length and complexity with a focus on conveying information clearly.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts differ significantly in terms of narrative style and speech events, with one focusing on technical details and the other on subreddit rules.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical features, and sentence structure, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.66
+    }
+}

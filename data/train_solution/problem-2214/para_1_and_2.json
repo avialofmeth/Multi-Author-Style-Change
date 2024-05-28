@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, commas, and parentheses, while Paragraph 2 also incorporates punctuation marks like commas and apostrophes. Both texts display a moderate level of similarity in punctuation style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, Paragraph 1 employs formal language related to media outlets and subreddit rules, while Paragraph 2 uses more creative and informal language with references to vampires and humorous scenarios. The lexical and grammatical differences are significant, indicating a low similarity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features in Paragraph 1 are more straightforward and informational, whereas Paragraph 2 exhibits a more creative and imaginative narrative style with varying sentence lengths and structures. The contrast in sentence complexity and coherence suggests a low similarity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ greatly between the two paragraphs. Paragraph 1 presents an official tone related to subreddit regulations, while Paragraph 2 adopts a more playful and whimsical tone discussing vampire novels. The disparity in narrative styles and speech events indicates a low similarity.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and typographical accuracy without any errors. The absence of spelling and typographical mistakes contributes to a high similarity in this feature.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts exhibit differences in lexical and grammatical features, sentence structure, and text and discourse features, while showing similarities in punctuation style and absence of spelling errors. The overall confidence score leans towards low similarity between the two texts, primarily due to substantial differences in linguistic features.",
+    "score": 0.52
+  }
+}

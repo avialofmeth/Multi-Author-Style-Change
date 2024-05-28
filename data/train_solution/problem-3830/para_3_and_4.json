@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs contain similar punctuation styles, including colons and commas. However, the use of hyphens and parentheses in the first paragraph is not present in the second. Overall, there are notable similarities in punctuation style.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show similarities in terms of word choice and sentence structure. There is a consistent level of complexity and coherence in the writing style. However, the second paragraph lacks the specific vocabulary and rhetorical strategies seen in the first paragraph. ",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence lengths and coherence. There is a common use of concise and direct language in both texts. However, the first paragraph shows more variety in sentence structures and includes specific rhetorical strategies, which are not present in the second paragraph.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both paragraphs display a formal tone and direct communication style. However, the first paragraph is more focused on a specific rhetorical analysis, while the second paragraph is a generic automated response. This difference impacts the overall similarity in narrative styles.",
+        "score": 0.55
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph. Both texts demonstrate a consistent level of accuracy in terms of spelling and grammar.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all five features, there are notable similarities in punctuation, lexical and grammatical features, sentence structure, and spelling accuracy. However, the distinct differences in text and discourse features lower the overall confidence in the texts being written by the same author.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, comma, and parentheses, while Paragraph 2 uses commas and periods. Both paragraphs lack extensive use of punctuation marks like colons, quotation marks, and brackets.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words like 'career progress,' 'reducing work hours,' 'child rearing,' 'sustainable,' which are specific and have a formal tone. In contrast, Paragraph 2 has phrases like 'population demographic crisis,' 'kidnapping and deporting,' 'tons of people,' and 'against immigration,' which are more casual and direct.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with longer and more complex sentences compared to Paragraph 2, which has shorter and more direct sentences. This difference in sentence complexity affects the overall coherence and cohesion of the texts.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses ideas related to gender equality and work-life balance, using a more informative and persuasive tone. In contrast, Paragraph 2 discusses geopolitical issues in a matter-of-fact manner, focusing on the situation between Russia and Ukraine. The tone and narrative styles differ significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas, while Paragraph 2 uses hyphens and periods. Both paragraphs employ punctuation marks for clarity and structure.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar word choice and grammatical structures, using technical terms and concise language.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter sentences with more frequent use of conjunctions, while Paragraph 2 has longer sentences with more complex structures. However, both maintain coherence and clarity.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey factual information in a neutral tone, focusing on informative content rather than expressive language.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of multiple linguistic features, the likelihood that the two texts were written by the same author is moderately high.",
+    "score": 0.72
+  }
+}

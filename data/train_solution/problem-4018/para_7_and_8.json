@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas appropriately within sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a varied vocabulary and show proficiency in grammar.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have a similar sentence structure in terms of complexity and length.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and mood differ significantly between the texts, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone and mood in feature4, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.68
+    }
+}

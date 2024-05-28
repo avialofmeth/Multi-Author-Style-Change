@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of commas, semicolons, and colons to separate clauses and list items. However, text 1 includes more punctuation marks like parentheses and ellipses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts share a level of lexical complexity, with a mix of technical and descriptive language. Text 2 focuses more on technical terms related to engines, while text 1 uses more general descriptive language.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively complex and coherent. Text 1 includes longer sentences with more elaborate clauses, while text 2 contains shorter, more concise sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts maintain a formal and informative tone, utilizing technical terms and descriptive language. However, text 1 employs a slightly more descriptive and narrative style compared to the more technical focus of text 2.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation style, lexical features, sentence structure, text features, and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.68
+  }
+}

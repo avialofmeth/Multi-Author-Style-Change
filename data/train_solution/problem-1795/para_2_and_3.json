@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use proper punctuation marks such as commas and quotation marks. However, Paragraph 1 uses a colon while Paragraph 2 does not. Overall, punctuation style is somewhat consistent but not identical.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical and grammatical features, with no significant variations in word choice or grammatical categories. The writing style appears somewhat consistent in this aspect.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs are relatively simple and straightforward. There are no significant differences in sentence complexity or length. However, there is a slight variation in the narrative styles and coherence. ",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and accusatory tone, while Paragraph 2 adopts a more neutral and informative tone. The discourse features and narrative styles differ, indicating potential inconsistency.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, showing a similar level of accuracy in writing. There are no notable differences in this aspect.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are noticeable similarities in punctuation style, lexical and grammatical features, sentence structure, and absence of spelling errors. However, differences in discourse features and narrative styles suggest potential inconsistency. The overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.63
+    }
+}

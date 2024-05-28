@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods predominantly for punctuation, while paragraph 2 includes hyphens and ellipses in addition to commas and periods.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show a preference for concise and direct language, but paragraph 2 exhibits slightly more varied lexical choices and a higher level of formality compared to paragraph 1.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The overall sentence structures in both paragraphs are straightforward, but paragraph 2 has slightly longer and more complex sentences than paragraph 1.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more formal and direct tone, while paragraph 2 has a more conversational and expressive tone with an element of speculation.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, there are notable distinctions between the two texts which lower the likelihood of them being written by the same author.",
+    "score": 0.54
+  }
+}

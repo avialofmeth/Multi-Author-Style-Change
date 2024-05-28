@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and parentheses, while Paragraph 2 mainly uses commas and periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more technical vocabulary related to media outlets and subreddit guidelines, whereas Paragraph 2 discusses religious topics with specific terms like 'LDS church' and 'Mormonism'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit medium sentence complexity with a mix of short and long sentences. However, Paragraph 1 is more structured due to its guidelines nature, while Paragraph 2 is more descriptive and narrative.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, focusing on guidelines and instructions. In contrast, Paragraph 2 has a more opinionated and narrative tone, discussing beliefs and historical characterizations.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical content, sentence structure, and tone, as well as the absence of spelling errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

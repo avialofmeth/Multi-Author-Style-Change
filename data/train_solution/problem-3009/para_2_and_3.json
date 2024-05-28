@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a more informal and conversational punctuation style with the use of ellipses and a lack of proper punctuation in some instances. Paragraph 2, on the other hand, maintains a more formal punctuation style with proper use of commas and periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a higher degree of lexical variation and uses more informal language compared to the more precise and scientific lexical choices in Paragraph 2. Grammatical categories also vary with different sentence structures and part of speech usage.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is characterized by longer and more complex sentences with a more narrative and expressive style. In contrast, Paragraph 2 consists of shorter, more straightforward sentences focused on conveying information succinctly.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone and mood in Paragraph 1 are more emotive and critical, while Paragraph 2 maintains a neutral and factual tone. This difference in narrative styles and speech events indicates a distinction in authorial voice.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of emotive vs. neutral tone, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

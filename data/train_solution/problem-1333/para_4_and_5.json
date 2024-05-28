@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas in a specific manner. Paragraph 2 does not exhibit the same consistent punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical choice compared to the casual and informal language used in paragraph 2.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences compared to the shorter and simpler sentences found in paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and informative tone discussing federal legalization, while paragraph 2 has a more encouraging and inviting tone regarding moderator applications.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without any spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.36
+    }
+}

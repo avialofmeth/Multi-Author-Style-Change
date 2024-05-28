@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for structuring and separating elements, while Paragraph 2 uses hyphens for connecting words and creating compound phrases. The punctuation style differs significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal and technical language related to subreddit guidelines, whereas Paragraph 2 uses informal language and a sarcastic tone related to political commentary. The lexical and grammatical features are distinct.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single complex sentence with a specific purpose, while Paragraph 2 is a shorter, direct sentence with a satirical tone. The structural elements and coherence differ notably.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has an informative and procedural discourse style, while Paragraph 2 adopts a critical and mocking tone towards a political group. The narrative styles and speech events are contrasting.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.34
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a consistent punctuation style with proper use of commas, hyphens, and periods. There are no brackets, colons, or quotation marks present. Paragraph 2 contains hyphens, but lacks proper punctuation in places, such as the omission of a comma before 'but'.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits formal and courteous language with a focus on rule adherence. Paragraph 2 contains more informal and potentially confrontational language with phrases like 'go down' and 'spoil the shit out of'. There is a difference in lexical choice and tone between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a clear and structured argument with a set of rules outlined. The sentences are well-structured and coherent. In contrast, Paragraph 2 is more conversational and contains shorter, less structured sentences, reflecting a different writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and instructional tone, focusing on guidelines and consequences. Paragraph 2 presents a more emotive and speculative narrative, discussing potential future events in a less formal manner.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a consistent level of attention to detail in terms of text accuracy.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts, suggesting a lower likelihood of being written by the same author.",
+    "score": 0.54
+  }
+}

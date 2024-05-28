@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of commas and periods, but differ in the use of punctuation like hyphens, brackets, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 focuses more on formal language related to arrests and human rights, while text 2 uses informal language discussing cultural aspects. Different lexical and grammatical features are observed.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to text 2. There are differences in sentence structure and length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text 1 has a serious and factual tone discussing arrests, while text 2 has a more casual and conversational tone discussing cultural perceptions. The narrative styles and tones are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.48
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of hyphens, colons, and quotation marks. However, the presence of parentheses in Text 2 and the lack of semicolons in Text 1 differentiate the punctuation styles to some extent.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts display a similar level of lexical variation and word choice. The grammatical categories and part of speech usage are also comparable.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts show coherence and cohesion. While Text 1 has shorter sentences on average, Text 2 presents more complex sentence structures. However, the overall distribution and frequency of words are consistent.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in both texts are somewhat aligned, focusing on discussion and analysis. Common expressions and idiomatic usage are present in both. However, Text 1 leans more towards a philosophical reflection on cruelty and war, while Text 2 delves into the legality and rules of engagement in war.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit good spelling and typographical accuracy without errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation styles, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.77
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, quotation marks, and a comma. Paragraph 2 contains a hyphen, quotation marks, and a period. Both paragraphs show some similarity in punctuation usage.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes informal language and words like 'fuck' and 'brainwashed peasants.' Paragraph 2 uses more formal language and phrases like 'unified application' and 'hand-in-hand speech.' There is a significant difference in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more direct sentences. Paragraph 2 has longer and more complex sentences. The sentence structures and lengths differ substantially.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a strong tone and informal style. Paragraph 2 conveys a more formal and diplomatic tone. The narrative styles and tone are quite distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the varying degrees of differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and tone, the overall confidence in the two texts being written by the same author is low.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs display similar punctuation styles, including the use of colons and commas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "While there are differences in content, there are some common lexical and grammatical features such as sentence structures and word choices.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The texts differ significantly in sentence complexity and length, with one being more informational and the other more opinionated.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones are distinct between the two paragraphs, indicating potential different authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence complexity, narrative styles, and tones, along with some shared punctuation and lexical features, the likelihood of the same author is moderate.",
+    "score": 0.58
+  }
+}

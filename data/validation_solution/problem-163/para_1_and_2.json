@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts consist of clear and concise sentences with proper punctuation, including commas, colons, and periods. However, paragraph 1 contains more complex punctuation elements like slashes and ampersands compared to paragraph 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit formal language and a professional tone. They use similar lexical choices and grammatical structures. However, paragraph 1 is more directive in its language compared to paragraph 2, which is more informative.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both texts are well-structured with coherent sentences. Paragraph 1 has slightly longer sentences with more rules stated in a single sentence, while paragraph 2 is more straightforward and concise with shorter sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts maintain a formal and informative tone. Paragraph 1 focuses on setting rules and consequences, while paragraph 2 addresses a specific query. The overall style and mood are consistent in both texts.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph, indicating a good level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+    "score": 0.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas for listing items, while Paragraph 2 uses commas for appositives and parenthetical elements.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal language and longer sentences, while Paragraph 2 is more informal with shorter sentences.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more complex structures, while Paragraph 2 consists of shorter and more straightforward sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and formal tone, while Paragraph 2 is more casual and informative.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, and tone, along with the similarity in spelling and typographical errors, the overall assessment suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.56
+  }
+}

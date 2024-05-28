@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon, while Paragraph 2 uses plus sign (+) and periods.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal and structured language with terms like 'media outlets' and 'approved domains list', while Paragraph 2 includes more informal language with phrases like 'raising money' and 'accumulating insider support'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the simpler and shorter sentences in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informative tone, while Paragraph 2 seems to convey a more urgent and directive tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical correctness, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

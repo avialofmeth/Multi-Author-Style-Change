@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation with hyphens, commas, and periods. However, the first paragraph includes colons and parentheses, which are absent in the second paragraph.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a relatively formal and structured use of language. The second paragraph contains more informal language compared to the first paragraph.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are straightforward and direct. However, the second paragraph has slightly longer sentences compared to the first paragraph.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first paragraph is more formal and instructional in tone, while the second paragraph is more descriptive and opinionated.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features. However, the absence of spelling and typographical errors contributes to a moderate likelihood that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

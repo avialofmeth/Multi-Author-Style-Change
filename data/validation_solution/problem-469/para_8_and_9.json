@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses formal punctuation marks like commas and periods typically found in automated messages, while Paragraph 2 contains more informal and aggressive language with expletives and lacks standard punctuation marks.",
+		"score": 0.2
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 has a formal and neutral tone with standard vocabulary, while Paragraph 2 is informal, emotional, and includes strong language not present in Paragraph 1.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 consists of short and concise sentences commonly seen in automated responses, whereas Paragraph 2 has longer and more complex sentences with emotional outbursts.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 maintains a professional and detached style, typical of automated messages, while Paragraph 2 expresses personal opinions and emotions with a more casual tone.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "Both texts are free from spelling and typographical errors.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the distinctive differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+		"score": 0.44
+	}
+}

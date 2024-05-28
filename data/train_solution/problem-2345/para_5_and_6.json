@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features, such as vocabulary choice and tone, indicating potential variation in authorship.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity and length, which may suggest different writing styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts differ in narrative styles and mood, with one focusing on historical events and the other on political actions, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the linguistic features, there is moderate evidence to suggest that the two texts were not written by the same author.",
+        "score": 0.6
+    }
+}

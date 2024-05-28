@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, periods, and quotation marks for direct speech. However, the first text uses a colon and parentheses, which are not present in the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 focuses on general guidelines and uses formal language, while Text 2 is emotionally charged and contains specific political references. The lexical and grammatical features differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 is structured with clear rules and guidelines in longer sentences, while Text 2 contains emotionally charged shorter sentences focused on a specific issue. Sentence structure and length are notably different.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text 1 maintains a neutral and instructional tone, while Text 2 is accusatory and emotionally charged. The narrative styles and tone are dissimilar.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all features, the likelihood of the two texts being written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone.",
+    "score": 0.46
+  }
+}

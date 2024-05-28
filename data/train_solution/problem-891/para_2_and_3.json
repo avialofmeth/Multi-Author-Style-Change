@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and periods. However, the first text includes colons and quotation marks, while the second text has hyphens and parentheses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more informal language and contractions, while Text 2 appears more formal with a focus on specific details. Different word choices and structures are observed.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter and more casual sentences, while Text 2 has longer and more complex sentences with detailed explanations.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a narrative style with a playful tone, while Text 2 presents a more analytical argumentative tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there are notable distinctions between the two texts. However, the absence of spelling and typographical errors contributes to a slightly higher likelihood of the same author.",
+        "score": 0.5
+    }
+}

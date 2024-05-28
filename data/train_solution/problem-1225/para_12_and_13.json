@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes hyphens, parentheses, and commas for listing and adding information, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more technical terms related to politics and conflict (e.g., Assad, Russia, power vacuum), while Paragraph 2 is more focused on personal interactions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with explanations of historical events, whereas Paragraph 2 is shorter and more direct.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more formal and informative tone discussing political events, while Paragraph 2 has a confrontational and defensive tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.48
+    }
+}

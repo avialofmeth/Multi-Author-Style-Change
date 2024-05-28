@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with colons and commas for clarity and structure. Paragraph 2 lacks proper punctuation and seems more informal.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical language related to media outlets and subreddit guidelines. Paragraph 2 has a more casual tone with phrases like 'major douche' and 'narcissist spectrum'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured in a formal, informative manner with clear sentences. Paragraph 2 has a more conversational tone with shorter sentences and informal language.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone suitable for guidelines. Paragraph 2 has a more personal and expressive tone discussing personal experiences.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and text features, the texts show notable distinctions. However, the lack of spelling and typographical errors boosts the overall confidence slightly.",
+    "score": 0.48
+  }
+}

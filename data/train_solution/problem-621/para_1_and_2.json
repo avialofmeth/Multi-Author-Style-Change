@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation, including hyphens, commas, and periods. However, there are differences in the specific punctuation marks used, such as colons in Text 1 and parentheses in Text 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "While both texts contain strong opinions and specific references, the lexical choices and word usage differ significantly between the two. Text 1 focuses more on political figures and events, while Text 2 delves into historical contexts and geopolitical relationships.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity and length, with Text 1 having shorter, more direct sentences compared to the longer, more elaborative sentences in Text 2. Additionally, Text 2 demonstrates a higher level of coherence and cohesion in presenting historical events.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a critical tone towards political actions and international relations. However, the narrative styles differ, with Text 1 focusing on current events and accusations, while Text 2 provides a historical perspective and geopolitical analysis.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no notable spelling or typographical errors in either text, indicating a similar level of care in proofreading and editing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative style, the texts are less likely to be written by the same author despite some commonalities in punctuation and absence of spelling errors.",
+        "score": 0.56
+    }
+}

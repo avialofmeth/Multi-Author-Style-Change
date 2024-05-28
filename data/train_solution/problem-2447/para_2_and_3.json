@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks, while Paragraph 2 does not. Both paragraphs use commas and periods consistently.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical variation and word choice, with a mix of formal and informal language.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "The sentences in both paragraphs are of moderate length and complexity. They maintain coherence and cohesion within each paragraph.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both paragraphs present a reflective tone, though the specific topics differ. They both engage the reader in a thoughtful manner.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

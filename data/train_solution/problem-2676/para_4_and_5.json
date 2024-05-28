@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and quotation marks in a conversational style, while Paragraph 2 lacks these punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a mix of informal and descriptive language, with a focus on conveying a personal experience. Paragraph 2, being automated text, lacks this variation.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, complex sentences with varying structures, reflecting a more narrative style. Paragraph 2 consists of short, straightforward sentences typical of automated responses.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational, informal tone with expressive language. Paragraph 2 is formal and neutral, typical of automated messages.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical accuracy, the texts are likely written by different authors.",
+    "score": 0.4
+  }
+}

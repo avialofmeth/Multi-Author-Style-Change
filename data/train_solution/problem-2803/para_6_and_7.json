@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas similarly, but only Paragraph 1 includes multiple hyphens and lacks other punctuation marks like colons and parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows more variation in word choice and uses informal language ('rascally Dems,' 'incompetent'). Paragraph 2, being automated bot text, is more formal and concise.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward. Paragraph 1 has slightly longer sentences with informal language, while Paragraph 2 is more direct and informational.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational and opinionated tone with informal expressions, while Paragraph 2 is formal and neutral. There is a distinct difference in narrative styles and speech events.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, along with the presence of punctuation and the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

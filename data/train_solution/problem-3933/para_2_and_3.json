@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts have a similar usage of punctuation marks such as commas and periods. However, the presence of specific punctuation like hyphens, colons, and parentheses differs between the texts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choice and word usage between the texts. The vocabulary and grammatical structures employed vary noticeably.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ significantly between the texts. Paragraph 1 contains more varied sentence lengths and complexities compared to the more straightforward nature of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and discourse features diverge in the two texts. Paragraph 1 presents a scenario while Paragraph 2 discusses a historical perspective with a critical tone, showcasing a difference in speech events and mood.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no discernible spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, there is moderate evidence to suggest that the two texts were not written by the same author.",
+        "score": 0.54
+    }
+}

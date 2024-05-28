@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation styles with the use of commas and periods being the most common. However, paragraph 1 includes hyphens and paragraph 2 includes colons and periods more frequently.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two paragraphs. Paragraph 1 uses more informal language and contractions, while paragraph 2 demonstrates a more formal tone with complex sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs vary in length and complexity, but paragraph 2 tends to have longer sentences and a higher level of coherence. Paragraph 1 has shorter sentences and simpler structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two paragraphs. Paragraph 1 has a more casual and direct tone, while paragraph 2 presents a reflective and contemplative tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, narrative styles, and tone, the likelihood of the two texts being written by the same author is relatively low.",
+        "score": 0.5
+    }
+}

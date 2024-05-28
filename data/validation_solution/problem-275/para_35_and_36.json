@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar punctuation style, including consistent use of commas and full stops. However, the first text contains more formal punctuation such as colons and parentheses, while the second text uses ellipsis for informal effect.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a notable difference in the lexical and grammatical features between the two texts. The first text contains more technical terms and formal language related to law enforcement, while the second text is informal and includes slang ('copium').",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are relatively concise with straightforward sentence construction. However, the first text is more detailed and descriptive compared to the second text which is more casual and conversational.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the texts differ significantly. The first text is more objective and serious in tone, focusing on a news report, while the second text is more opinionated and informal, expressing disbelief.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering all features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical, grammatical features, sentence structure, and narrative style. However, the consistent punctuation style and absence of spelling errors provide some indication of a shared writing style.",
+        "score": 0.44
+    }
+}

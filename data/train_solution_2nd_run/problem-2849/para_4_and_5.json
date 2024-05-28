@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts display similarities in lexical choices and grammatical structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are somewhat different, one being a statement and the other a question, affecting coherence.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The tone and mood of the texts differ significantly, with one being informative and the other more opinionated.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, there are similarities in punctuation and lexical choices but differences in sentence structure and tone, leading to a moderate confidence level in the texts being written by the same author.",
+    "score": 0.68
+  }
+}

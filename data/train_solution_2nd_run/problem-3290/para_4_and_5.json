@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas and periods, while Paragraph 2 has a lack of appropriate punctuation and includes run-on sentences. The punctuation style differs significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and courteous word choice with a focus on the rules and guidelines. In contrast, Paragraph 2 contains informal language, slang, and politically charged terms targeting specific individuals. The lexical and grammatical features differ substantially.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of clear and concise sentences with a straightforward message. Paragraph 2, on the other hand, includes long and convoluted sentences with a mix of ideas and lacks coherence. The sentence structure and quantitative features vary significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 follows a neutral and respectful tone, focusing on guidelines and consequences. Paragraph 2 adopts a more aggressive and politically charged tone, targeting specific individuals. The text and discourse features differ markedly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is devoid of spelling or typographical errors. Paragraph 2 contains spelling errors like 'Yiannopolis' instead of 'Yiannopoulos' and 'accelerationists' instead of 'accelerationists'. There are noticeable spelling errors in Paragraph 2.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors between the two texts, the overall confidence in them being written by the same author is low.",
+    "score": 0.18
+  }
+}

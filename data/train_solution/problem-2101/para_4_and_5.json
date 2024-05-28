@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas, quotation marks, and hyphens. However, the first paragraph includes more formal punctuation such as colons and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. The first paragraph is more formal and legalistic in language, while the second paragraph is more casual and conversational.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first paragraph is longer and more complex with formal language, while the second paragraph is shorter and more straightforward.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts differ in narrative styles and tone. The first paragraph presents a formal accusation, while the second paragraph has a more casual and conversational tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

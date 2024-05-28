@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas, colons, and parentheses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Similar lexical and grammatical features are observed with the use of technical/legal language and some complex sentence structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit a moderate level of sentence complexity and coherence, although the topics differ.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Narrative style and tone show slight differences due to the different topics discussed.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no obvious spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

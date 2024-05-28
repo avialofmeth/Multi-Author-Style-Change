@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts exhibit a similar use of punctuation including hyphens, commas, and colons. However, the first text includes more parentheses and brackets compared to the second text.",
+		"score": 0.7
+	},
+	"feature2": {
+		"explanation": "Both texts show a tendency towards complex vocabulary and sentence structures. The first text uses terms like 'infrastructural' and 'crooked' which are not present in the second text.",
+		"score": 0.6
+	},
+	"feature3": {
+		"explanation": "The first text contains longer sentences with more elaborate structures compared to the second text. The second text is more concise and straightforward in its sentence construction.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Both texts convey a serious tone and discuss societal issues. However, the first text is more critical and confrontational in its approach, while the second text is more informative and objective.",
+		"score": 0.6
+	},
+	"feature5": {
+		"explanation": "Both texts do not exhibit any spelling or typographical errors.",
+		"score": 1.0
+	},
+	"overall": {
+		"explanation": "Considering the similarities in punctuation style, lexical features, and the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+		"score": 0.66
+	}
+}

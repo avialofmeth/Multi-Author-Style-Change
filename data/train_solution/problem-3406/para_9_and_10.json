@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and colons more frequently than Paragraph 2. However, both texts show similar usage of commas.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs display a mix of informal and formal word choices, indicating a similar style. However, the second paragraph seems slightly more formal compared to the first.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter sentences with more abrupt transitions, while Paragraph 2 has longer sentences with a more coherent structure. However, both paragraphs exhibit a similar frequency of sentence length variation.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts maintain a casual tone and lack of formality. However, the second paragraph expresses a more hopeful and positive tone compared to the first paragraph.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood of the two texts being written by the same author is moderate, as there are both commonalities and distinctions in writing style.",
+    "score": 0.6
+  }
+}

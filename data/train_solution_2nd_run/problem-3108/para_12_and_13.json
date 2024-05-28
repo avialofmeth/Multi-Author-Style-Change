@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods to separate ideas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text shows a more formal and structured use of language compared to the second text, which appears more informal and conversational.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts have coherent sentence structures and average sentence lengths.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text expresses a serious tone discussing urban planning and waste management, while the second text appears more casual and colloquial.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality and tone, the texts are less likely to be written by the same author, but punctuation and sentence structure similarities suggest some level of consistency.",
+        "score": 0.68
+    }
+}

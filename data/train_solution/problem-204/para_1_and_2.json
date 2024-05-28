@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, periods, and parentheses. Paragraph 2 includes hyphens and periods. Both texts demonstrate a decent range of punctuation usage.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes technical military terms and formal language. Paragraph 2 uses more colloquial and straightforward language. The word choice and style differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with multiple clauses. Paragraph 2 consists of shorter and simpler sentences. There is a notable difference in sentence structure and complexity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal tone and conveys information. Paragraph 2 presents a more direct and imperative style. The narrative styles and tones are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and text discourse, it is unlikely that the two texts were written by the same author.",
+    "score": 0.48
+  }
+}

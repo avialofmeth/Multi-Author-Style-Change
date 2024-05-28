@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods consistently. The second text also includes the use of caret symbol (^) which is a less common punctuation mark.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use technical language related to military topics. The second text includes more informal language with phrases like 'Ok this might not be true,' showing a slight difference in tone.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts contain short and concise sentences. The first text has a more complex sentence structure with a list of technologies, while the second text is a shorter statement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts discuss military-related topics. The first text is more informative and factual, while the second text introduces a hint of doubt with the phrase 'Ok this might not be true,' which slightly changes the tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are similarities in punctuation style, lexical and grammatical features, and text/discourse features. However, there are slight differences in tone and sentence structure. The overall confidence score is moderate, indicating a reasonable likelihood that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

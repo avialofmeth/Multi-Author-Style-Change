@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and periods in a consistent manner. Paragraph 2 uses hyphens and quotes similarly, suggesting a common punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal language with some colloquial expressions. While the topics differ, the lexical and grammatical choices in both paragraphs demonstrate a casual tone and word choice.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains shorter, more direct sentences. In contrast, Paragraph 2 has longer, complex sentences with a positive and reflective tone. However, both show coherence within their respective styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 displays a more emotional and confrontational narrative style, while Paragraph 2 adopts a reflective and encouraging tone. Despite the differing mood, the shared conversational approach indicates a potential author similarity.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical mistakes, indicating a consistent level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, informal language use, and overall narrative styles, alongside the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.74
+    }
+}

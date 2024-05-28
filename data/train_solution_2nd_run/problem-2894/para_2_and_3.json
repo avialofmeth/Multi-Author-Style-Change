@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit a similar lack of consistent punctuation usage, with sporadic use of commas and lack of proper hyphenation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of informal language and word choices, though the specific vocabulary varies slightly between the two paragraphs.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both paragraphs is somewhat fragmented and lacks cohesion, with abrupt shifts in topic or idea.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "There is a shared casual tone and lack of formal discourse features in both texts, indicating a potential similarity in authorship.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors present in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.72
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles with the presence of emojis and hyphens.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features with varied word choices and structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The texts exhibit differences in sentence structure and coherence, affecting the overall style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Although both texts convey strong opinions, the tone and expressions differ significantly.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account all features, the overall confidence score that the texts were written by the same author is moderately low.",
+    "score": 0.6
+  }
+}

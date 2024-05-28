@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as hyphens, colons, and commas. However, the first text uses emojis (\ud83c\uddf7\ud83c\uddfa) and brackets, which are not present in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text discusses economic issues with specific technical terms related to the context (e.g., devaluation, hard currency). The second text uses informal language with a more philosophical tone and lacks technical vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text consists of longer and more complex sentences, discussing multiple economic factors. The second text has shorter sentences with a more reflective and philosophical tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text is factual and descriptive, focusing on economic challenges. The second text is more abstract and opinionated, discussing beliefs and perceptions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.52
+    }
+}

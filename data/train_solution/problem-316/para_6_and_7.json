@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 uses hyphens and colons. Both texts show some similarity in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and slang ('laugh my ass off', 'trash talking'), while Paragraph 2 has a more formal tone ('Trumpty Dumpty cover page'). Different lexical and grammatical features are observed.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in sentence structure. No significant differences in sentence complexity or coherence were noted.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more conversational tone with personal expressions ('I'm going to laugh my ass off'), while Paragraph 2 discusses a news event ('Today's NY Post'). Different narrative styles and speech events are evident.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, narrative styles, and tone, the texts exhibit notable distinctions in writing style. However, similarities in punctuation style, sentence structure, and absence of spelling errors suggest a moderate level of consistency. The average score indicates a moderate likelihood that the texts were written by the same author.",
+        "score": 0.62
+    }
+}

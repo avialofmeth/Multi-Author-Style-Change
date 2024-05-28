@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent punctuation usage with the presence of commas, colons, and parentheses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show similar lexical choices and grammatical structures, with a formal tone and specific domain-related vocabulary.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "There is coherence and cohesion in both texts, with clear sentence structures and moderate complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts differ in terms of narrative styles and speech events, as one focuses on courtesy and debate while the other addresses media outlets.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical features, coherence, and error-free text, with some distinction in narrative style, the overall confidence in the texts being written by the same author is moderately high.",
+        "score": 0.68
+    }
+}

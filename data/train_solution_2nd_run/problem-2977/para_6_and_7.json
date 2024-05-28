@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 and Paragraph 2 both exhibit a similar use of punctuation marks such as commas and periods. However, Paragraph 2 includes more complex punctuation like hyphens and parentheses, which could indicate a slight difference in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, there are notable differences between the two paragraphs. Paragraph 1 is more straightforward and uses simpler language compared to the more complex and informal language seen in Paragraph 2. This suggests a difference in lexical variation and word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs differ significantly. Paragraph 1 consists of shorter and more concise sentences, while Paragraph 2 contains longer and more convoluted sentences with a mix of clauses. This difference in sentence complexity and length indicates a variance in writing style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Regarding text and discourse features, Paragraph 1 adopts a formal and instructional tone, typical of automated responses, while Paragraph 2 presents a more informal and conversational tone with references to specific political events. This disparity in narrative styles and tone suggests distinct authorship.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either paragraph, indicating a consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood of the two texts being written by the same author is low due to notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features. The absence of spelling errors is the only commonality observed.",
+        "score": 0.5
+    }
+}

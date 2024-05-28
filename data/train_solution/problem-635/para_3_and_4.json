@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of commas for separating clauses and phrases within sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts, indicating potential differences in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured and formal in its sentence construction compared to the conversational tone and structure of Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts, suggesting different authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts do not contain any spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structure, and narrative styles, the overall confidence score that the two texts were written by the same author is low.",
+        "score": 0.58
+    }
+}

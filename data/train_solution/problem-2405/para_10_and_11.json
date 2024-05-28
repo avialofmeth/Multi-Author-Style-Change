@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and parentheses, but only the first text includes colons, which may indicate some differences in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features are quite different between the two texts. The first text includes specific references and technical terms, while the second text is more conversational and apologetic in tone.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly. The first text has longer and more complex sentences compared to the second text, which is shorter and more straightforward.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles are distinct between the texts. The first text presents a series of events or claims, while the second text is a direct apology. Tone and mood also vary significantly.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering all the features, the likelihood that the two texts were written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structures, and narrative styles.",
+    "score": 0.48
+  }
+}

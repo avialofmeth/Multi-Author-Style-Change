@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit casual and informal punctuation style with the use of hyphens, colons, and expletives. However, Text 1 uses more explicit language with profanity compared to Text 2.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts show a similar level of lexical and grammatical features, including informal language and contractions. However, Text 1 has more aggressive language compared to the more neutral tone in Text 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is conversational and lacks formal structure. Both texts contain short, direct sentences. However, Text 1 is more fragmented and disjointed compared to the slightly more cohesive structure in Text 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar informal and conversational tone. However, Text 1 displays a more confrontational and aggressive tone, while Text 2 maintains a more explanatory and reflective tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the linguistic features of the two texts, there is moderate confidence that they were written by the same author, with some differences in tone and language intensity.",
+        "score": 0.54
+    }
+}

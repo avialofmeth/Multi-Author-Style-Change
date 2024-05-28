@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and commas in a structured manner, while Paragraph 2 lacks proper punctuation and uses informal language like 'Haha'.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a more formal and varied lexical choice compared to the informal and colloquial language seen in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays more complex sentence structures and coherence, whereas Paragraph 2 has shorter and less structured sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious tone discussing global challenges, while Paragraph 2 has a casual and carefree tone talking about personal experiences.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the identified features, the likelihood that the two texts were written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features.",
+        "score": 0.44
+    }
+}

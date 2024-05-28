@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and ellipses. However, paragraph 2 lacks the use of hyphens and colons seen in paragraph 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in word choice and lexical variation between the two texts. Paragraph 1 uses formal language while paragraph 2 contains informal language and slang.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has more complex sentence structures and a formal tone compared to the simpler sentences and informal tone in paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts discuss language and cultural issues, but the narrative styles differ significantly. Paragraph 1 is more formal and informative, while paragraph 2 is more casual and opinionated.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

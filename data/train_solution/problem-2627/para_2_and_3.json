@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both use colons and parentheses, but the usage of hyphens, brackets, commas, and quotation marks differs significantly.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choices and word usage, indicating potential variation in writing style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two paragraphs differ significantly in terms of complexity, length, and coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The narrative styles, speech events, and tone in the two texts are distinct, suggesting different authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The overall confidence score is calculated as the average of individual feature scores, indicating a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.42
+  }
+}

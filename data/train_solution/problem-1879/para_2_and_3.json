@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation marks such as periods and commas, while Paragraph 2 lacks proper punctuation in some areas, using informal language like lower case 'i'.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit informal language and lack of formal structure, such as run-on sentences and lack of varied vocabulary.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have shorter sentences with simple structures, lacking complexity in sentence arrangement and coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs express emotions and empathy, with a tone of helplessness and sympathy towards the situation described.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

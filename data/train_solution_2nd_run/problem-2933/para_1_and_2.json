@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods but lacks other punctuation like colons, parentheses, and quotation marks. Paragraph 2 includes commas and slashes for listing rule violations.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates informal language with contractions and slang ('whine', 'gullible') while Paragraph 2 uses formal language ('courteous', 'violations'). Different lexical choices and word usage.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with informal tone. Paragraph 2 focuses on clear, direct sentences for rule explanations. Different sentence structures and lengths.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and mocking tone towards a specific person. Paragraph 2 adopts a neutral and instructive tone for a general audience. Different narrative styles and tone.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structures, and tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.4
+    }
+}

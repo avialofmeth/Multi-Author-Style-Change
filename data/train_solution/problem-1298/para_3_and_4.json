@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, commas, and quotation marks in a similar style, enhancing the likelihood of a shared author.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are noticeable differences in lexical choices and grammatical structures between the two texts, suggesting a lower probability of the same author.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "While both texts display somewhat complex sentence structures, there are variations in length and coherence, indicating a moderate similarity in writing style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and mood in the two texts differ significantly, with one focused on military actions and the other on existential reflections, reducing the likelihood of a shared author.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There is a lack of spelling and typographical errors in both texts, suggesting a common attention to detail, slightly supporting the possibility of the same author.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Taking into account all five features, the overall assessment leans towards the texts not being written by the same author due to notable differences in lexical choices, tone, and coherence, despite some similarities in punctuation and attention to detail.",
+        "score": 0.48
+    }
+}

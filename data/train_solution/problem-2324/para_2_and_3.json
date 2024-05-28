@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as colons, commas, and periods in a consistent manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses formal language with specific terminology related to media outlets, while text 2 has more informal language with terms related to politics and strategy.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 is structured in a formal, informative style with clear sentences, while text 2 is more fragmented and lacks coherence.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text 1 maintains a professional tone, focusing on guidelines, while text 2 has a more conspiratorial and strategic tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical, grammatical, and discourse features, the overall confidence that the texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

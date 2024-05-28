@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit non-standard punctuation with the use of ellipses, capitalization for emphasis, and informal language. However, Text 1 shows more varied punctuation marks compared to Text 2.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts display informal language with slang terms and unconventional expressions. Text 1 contains more explicit profanity and colloquial language compared to Text 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have a similar structure with fragmented sentences and lack of formal coherence. Text 1 has longer sentences on average compared to Text 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey strong opinions on geopolitical issues, albeit with different focuses. Text 1 expresses frustration and calls for action, while Text 2 speculates on potential scenarios.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Neither text contains significant spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood that the two texts were written by the same author is moderate, with some differences in language use and style.",
+        "score": 0.64
+    }
+}

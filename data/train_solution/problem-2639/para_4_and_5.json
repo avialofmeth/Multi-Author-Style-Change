@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods properly, while Paragraph 2 includes hyphens and commas in a different manner.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 is more straightforward and uses simpler language compared to the slightly more complex language and vocabulary in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively similar sentence lengths and structures, with no significant differences in coherence or cohesion.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone, while Paragraph 2 seems to discuss a specific topic with some technical terms, indicating different discourse styles.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, considering the differences in punctuation style, lexical and grammatical features, and discourse features, the likelihood of the same authorship is moderate.",
+    "score": 0.56
+  }
+}

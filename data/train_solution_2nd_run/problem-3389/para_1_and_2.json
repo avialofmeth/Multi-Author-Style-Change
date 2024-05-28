@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation styles, including commas and periods. However, Paragraph 1 uses more parentheses and quotation marks than Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and word usage between the two paragraphs. Paragraph 1 focuses more on contemporary global issues, while Paragraph 2 delves into historical events using specific terms related to ethnic conflicts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both paragraphs vary in complexity, with Paragraph 1 having longer sentences and Paragraph 2 containing shorter, more direct sentences. There are differences in coherence and word distribution.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two paragraphs differ significantly. Paragraph 1 discusses current world events in a more factual tone, while Paragraph 2 presents historical events with a more descriptive and reflective tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and narrative style, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas to connect ideas within sentences, while Paragraph 2 lacks these punctuations in a similar manner.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal tone with technical terms and proper grammar, although the vocabulary and specific terms used differ.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 presents clear, concise sentences with a focus on conveying information efficiently. Paragraph 2, on the other hand, includes longer, more complex sentences with personal reflections and opinions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses economic and political matters with a factual tone, while Paragraph 2 shifts to personal experiences and opinions about a specific region.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the different writing styles in terms of sentence structure, tone, and content focus, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

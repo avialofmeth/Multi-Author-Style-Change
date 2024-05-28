@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of parentheses, commas, and quotation marks.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts, such as the choice of vocabulary and sentence structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts show differences in complexity and coherence, impacting the overall writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the texts differ, with one text focusing on legal matters and the other expressing frustration with the legal system.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical features, sentence structures, and narrative styles, along with the similarities in punctuation style and absence of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

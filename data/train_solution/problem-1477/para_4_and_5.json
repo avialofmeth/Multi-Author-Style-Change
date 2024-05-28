@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks for punctuation, while Paragraph 2 only uses a comma and a period.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more varied vocabulary and complex sentence structures compared to the simpler language and structure in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with specific details and transitions, while Paragraph 2 is brief and straightforward.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a tone of prediction and opinion, using specific names and scenarios, while Paragraph 2 is a generic automated response.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, there is a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.52
+  }
+}

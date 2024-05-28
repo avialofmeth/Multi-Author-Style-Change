@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both paragraphs use quotation marks to indicate direct speech, commas for separating elements in a list, and periods for sentence endings.",
+      "score": 0.8
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 uses more formal language with words like 'reference' and 'support,' while Paragraph 2 includes more informal language with terms like 'outright' and 'insurgency.' This difference in lexical choice suggests a slight variation.",
+      "score": 0.6
+   },
+   "feature3": {
+      "explanation": "Both paragraphs contain relatively short sentences with straightforward structures. However, Paragraph 1 includes longer sentences due to the inclusion of additional information. Both paragraphs exhibit coherence and cohesion within themselves.",
+      "score": 0.7
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 has a more neutral tone focusing on an individual's opinion, while Paragraph 2 has a slightly more aggressive tone with terms like 'insurgency caucus' and 'extremist legislation.' This difference in tone suggests a distinction between the texts.",
+      "score": 0.5
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were noted in either text.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the analysis of all features, there are noticeable differences in lexical choice, tone, and formality level between the two paragraphs, indicating a lower likelihood of being written by the same author.",
+      "score": 0.7
+   }
+}

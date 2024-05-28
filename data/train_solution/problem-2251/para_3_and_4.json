@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of various punctuation marks like commas and quotation marks to structure the text. In contrast, Paragraph 2 lacks a similar variety in punctuation usage.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language with a focus on conveying a supportive message. Paragraph 2, on the other hand, includes informal language and a more negative tone.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with a formal structure, while Paragraph 2 has shorter sentences and a more conversational style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses congratulatory sentiments in a positive tone, whereas Paragraph 2 conveys a sense of frustration and negativity.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating similar attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "The overall assessment suggests that while there are some similarities in punctuation and spelling between the two texts, differences in lexical features, sentence structure, and tone indicate a lower likelihood of the same author.",
+    "score": 0.46
+  }
+}

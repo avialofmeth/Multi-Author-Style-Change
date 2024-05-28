@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with colons, commas, and periods. Paragraph 2 lacks proper punctuation and uses informal language.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and courteous tone with specific language related to rules and consequences. Paragraph 2 uses informal language with slang terms.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has coherent sentence structure and clarity in expressing rules. Paragraph 2 has shorter, less structured sentences with informal expressions.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal tone and provides instructions. Paragraph 2 has a more casual and critical tone towards the subject.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 has proper spelling and no typographical errors. Paragraph 2 contains informal language but doesn't have spelling or typographical errors.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Overall, the texts have significant differences in punctuation, tone, sentence structure, and formality, indicating a low likelihood of being written by the same author.",
+    "score": 0.26
+  }
+}

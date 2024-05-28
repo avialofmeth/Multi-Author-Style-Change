@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, hyphens, and quotation marks. However, there are differences in the use of colons and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two texts. The first text uses more technical terms like 'resales' and 'EV purchases', whereas the second text discusses 'fuel efficiency' and 'mpg'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary, with the first text containing longer, more complex sentences compared to the second text. The first text also demonstrates a higher level of coherence and cohesion.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts. The first text is more analytical and critical, while the second text is more informative and historical in nature.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, as well as narrative styles, it is unlikely that the two texts were written by the same author. However, the presence of common punctuation styles and minimal spelling errors suggests a moderate level of similarity.",
+    "score": 0.58
+  }
+}

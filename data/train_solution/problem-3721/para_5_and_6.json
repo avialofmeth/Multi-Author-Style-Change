@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal language with profanity and casual tone, while Paragraph 2 maintains a more formal and professional tone. Punctuation style also differs with Paragraph 1 using more informal punctuation marks like expletives and Paragraph 2 being more formal and structured.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal lexicon and profane language, reflecting a more casual style. In contrast, Paragraph 2 uses more formal and technical vocabulary. Grammatical structures also differ, with Paragraph 1 being more colloquial and Paragraph 2 more structured.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a casual flow, while Paragraph 2 consists of shorter, more concise sentences. The coherence and cohesion in Paragraph 1 are more informal, whereas Paragraph 2 is more straightforward and direct.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a critical and cynical tone towards politics, using strong language and expressing frustration. In contrast, Paragraph 2 maintains a neutral and informative tone regarding government regulations. Narrative style and speech events differ significantly between the two paragraphs.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit correct spelling and punctuation without typographical errors. There are no notable differences in spelling or typographical errors between the two texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts display significant divergence in writing style. However, the absence of spelling and typographical errors suggests a consistent level of proficiency in language mechanics. The overall confidence score indicates a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.42
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, quotation marks, and parentheses. However, the first text uses more semicolons and colons compared to the second text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of formal and informal language with distinct lexical choices. The first text contains more informal expressions compared to the second text, which is more formal in tone.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The first text consists of longer and more complex sentences compared to the second text, which is more straightforward and concise. There are differences in sentence structure complexity and length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey a critical tone and express opinions forcefully. However, the second text focuses more on specific actions and behaviors, whereas the first text discusses broader future implications.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts exhibit similarities in punctuation style and a critical tone, but differ in sentence structure complexity, lexical choices, and focus. Considering all features, the likelihood of the same author is moderate.",
+    "score": 0.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for list items and sentence structures. Paragraph 2 includes hyphens and informal punctuation like ellipsis and exclamation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with technical terms related to media outlets and subreddit rules. Paragraph 2 has informal language, including slang like 'fuck 'em.'",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with clear sentences and coherence. Paragraph 2 has shorter, fragmented sentences and a more casual tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is formal and informative. Paragraph 2 has a more conversational and informal tone, with an emotional outburst.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the lack of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.48
+    }
+}

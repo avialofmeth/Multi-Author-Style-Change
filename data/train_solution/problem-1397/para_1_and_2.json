@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize commas and periods appropriately for sentence structure. However, Text 1 contains more complex punctuation like colons and parentheses, while Text 2 lacks such complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 exhibits a wider range of vocabulary and more varied sentence structures compared to Text 2, which is more straightforward in lexical and grammatical choices.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 shows greater sentence complexity and variety in length, while Text 2 is more uniform in sentence structure and length.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts have a formal tone and discuss geopolitical matters, but Text 1 focuses more on historical events and comparisons, while Text 2 is more forward-looking and speculative.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text structure, there is moderate evidence to suggest that the two texts were not likely written by the same author.",
+        "score": 0.64
+    }
+}

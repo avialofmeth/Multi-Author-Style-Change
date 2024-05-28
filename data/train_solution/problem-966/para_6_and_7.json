@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for list-like structures and sentence flow, while Paragraph 2 lacks this specific punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and the use of technical terms related to finance and real estate, indicating similarity in lexical and grammatical features.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains a series of short, straightforward sentences, whereas Paragraph 2 has longer and more complex sentences with clauses, showing a difference in sentence structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts discuss financial concepts and real estate, but the narrative style and tone differ; Paragraph 1 is more instructional, while Paragraph 2 is analytical and reflective.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.58
+    }
+}

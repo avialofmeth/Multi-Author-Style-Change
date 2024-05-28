@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as commas, ellipses, and quotation marks. However, there are differences in the specific punctuation usage like the presence of hyphens in text 1 and the use of ellipses in text 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choice and word usage between the two texts. Text 1 uses more formal language related to farming and market economics, while text 2 has a more casual tone and includes colloquial expressions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have varying sentence structures and lengths. Text 1 contains longer and more complex sentences compared to the shorter, more fragmented sentences in text 2. The coherence and cohesion are also different, with text 1 presenting a more organized narrative.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones differ significantly between the two texts. Text 1 has a reflective and descriptive tone, while text 2 adopts a more conversational and opinionated style. Common expressions and idioms are also distinct in each text.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is moderate. While there are some shared punctuation styles and absence of spelling errors, the differences in lexical choices, sentence structures, narrative styles, and tones suggest potential different authors.",
+        "score": 0.6
+    }
+}

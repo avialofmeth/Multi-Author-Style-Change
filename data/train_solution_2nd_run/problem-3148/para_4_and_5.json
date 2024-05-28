@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use similar punctuation styles including periods and ellipses. However, one uses more ellipses while the other uses more periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit similarities in lexical choices and word structures, such as the use of specific terms like 'swiss' and 'settlement'. However, there are differences in word choice and sentence structures.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts show similarities in sentence length and complexity. However, one paragraph is slightly longer than the other, and there are variations in word frequencies.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both paragraphs display a similar tone and mood, with a formal and informative style. However, one paragraph contains more legalistic expressions compared to the other.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

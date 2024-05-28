@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like hyphens, commas, and periods. It also includes parentheses and quotation marks for additional information.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 focuses on expressing strong opinions and accusations using vivid language, while Paragraph 2 is more matter-of-fact and descriptive. The word choice and tone differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures in Paragraph 1 are more complex and emotionally charged, using longer sentences to convey detailed information and opinions. In contrast, Paragraph 2 has simpler sentence structures with a focus on relaying facts and events clearly.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both paragraphs differ in narrative style and tone. Paragraph 1 adopts a critical and accusatory tone towards Russia and its actions, while Paragraph 2 presents information in a more neutral manner, focusing on specific events without strong emotional language.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, sentence structure, and text features, as well as the stark contrast in lexical and grammatical choices and tone, the likelihood of these texts being written by the same author is low.",
+    "score": 0.58
+  }
+}

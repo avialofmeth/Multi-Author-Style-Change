@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, colons, and apostrophes appropriately. However, the first text has more complex punctuation with the use of quotation marks and parentheses, while the second text has a simpler punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text includes more specific terms related to military actions like 'troops', 'missiles', and 'casualties', while the second text focuses on political figures with names like 'Petr Pavel' and 'Volodymyr Zelenskyy'. The grammatical structures are varied in both texts.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary in length and complexity. The first text contains shorter, more fragmented sentences, while the second text has longer and more coherent sentences. Both texts exhibit good coherence and cohesion.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "The first text adopts a more serious and factual tone, focusing on reporting events, while the second text has a more diplomatic and formal tone in discussing political interactions between leaders.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, the overall likelihood that the two texts were written by the same author is moderate, as there are some commonalities in punctuation, coherence, and lack of errors, but noticeable distinctions in terms of lexical choices, sentence structures, and tone.",
+    "score": 0.76
+  }
+}

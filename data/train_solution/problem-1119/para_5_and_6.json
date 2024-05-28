@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods, while Paragraph 2 contains explicit profanity which may affect punctuation usage.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a level of informality in word choice and structure, though the tone in Paragraph 2 is significantly more aggressive.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays longer, more complex sentences compared to the shorter, more emotionally charged sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a narrative about family relationships, while Paragraph 2 expresses intense anger and resentment towards a group of people.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, narrative style, and tone, along with the shared informality and absence of spelling errors, there is moderate confidence that the texts were not written by the same author.",
+        "score": 0.6
+    }
+}

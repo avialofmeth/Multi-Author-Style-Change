@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and no colons, while Paragraph 2 includes colons but no hyphens. Both texts have commas, which is a common punctuation mark.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on the consequences of not paying child support, using specific terms related to poverty and incarceration. In contrast, Paragraph 2 discusses government debt and political negotiations, incorporating terms like Treasury Department and debt ceiling. The lexical and grammatical features differ significantly.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 comprises longer sentences with a more narrative tone, reflecting a cohesive argument. Paragraph 2 contains shorter, factual sentences related to government actions and political stances. The sentence structure and quantitative features are distinct.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more emotive and critical tone towards the issue of child support and incarceration. In contrast, Paragraph 2 maintains a formal and informational tone about government finance and debt negotiations. The text and discourse features are dissimilar.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, it is unlikely that the two texts were written by the same author.",
+        "score": 0.36
+    }
+}

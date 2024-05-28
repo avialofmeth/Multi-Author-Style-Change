@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit unconventional punctuation usage, including the use of commas and colons in unexpected ways.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choice and word usage between the two texts, with one text containing more casual and unconventional language compared to the other.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly, with one being more complex and containing longer sentences compared to the other.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a casual tone and unconventional expressions, although the topics and moods differ.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either of the texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.6
+    }
+}

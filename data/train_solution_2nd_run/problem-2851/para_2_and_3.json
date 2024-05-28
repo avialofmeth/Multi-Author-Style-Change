@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, colons, and parentheses more frequently for syntactic clarity and organization. Paragraph 2 uses hyphens and quotation marks for direct speech.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with consistent word choice. Paragraph 2 shows a more informal and erratic word choice.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a clearer sentence structure with coherent progression. Paragraph 2 features fragmented and incoherent sentence structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone. Paragraph 2 exhibits a more informal, boastful, and erratic tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the distinct differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, as well as the commonality in spelling accuracy, the likelihood of the same authorship is low.",
+    "score": 0.5
+  }
+}

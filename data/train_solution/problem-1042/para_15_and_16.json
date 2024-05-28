@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and quotation marks for additional information and emphasis. Punctuation style is consistent.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts, with varying word choices and topics.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures and quantitative features differ significantly due to the nature of the content and purpose of the texts.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features are distinct, reflecting different narrative styles and tones in the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text discourse features, the likelihood of the same authorship is low despite some punctuation similarities.",
+        "score": 0.52
+    }
+}

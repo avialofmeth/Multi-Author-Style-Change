@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas and periods. However, Paragraph 1 includes more formal punctuation like colons and parentheses, while Paragraph 2 uses more informal punctuation like hyphens and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show variation in word choice and sentence structure. Paragraph 1 has a more formal tone with technical language related to subreddit guidelines, while Paragraph 2 has a more informal tone with political language and slang.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2, which has shorter and more straightforward sentences. Paragraph 1 also demonstrates better coherence and cohesion in its structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, typical for guidelines or instructions. In contrast, Paragraph 2 shows a more opinionated and critical tone, common in political commentary. Both texts have distinct narrative styles and speech events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

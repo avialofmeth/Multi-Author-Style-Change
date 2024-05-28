@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods, while paragraph 2 includes non-standard punctuation like question marks and ampersands.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical choices and word usage, indicating a variation in writing style.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly: paragraph 1 is more formal and structured, while paragraph 2 is fragmented and informal.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses technical concepts with a serious tone, while paragraph 2 has a more informal and possibly sarcastic tone, showing a contrast in narrative style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.4
+  }
+}

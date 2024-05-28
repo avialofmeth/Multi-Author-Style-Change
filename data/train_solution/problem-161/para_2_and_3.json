@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with colons and commas for clarity and organization. Paragraph 2 lacks these formal punctuation marks and has a more informal style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs standard lexical and grammatical features suitable for official communication. Paragraph 2 contains more complex vocabulary and grammatical structures indicative of a more critical or opinionated tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and more structured sentences, while Paragraph 2 has longer, more complex sentences with a different rhythm.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, typical of official announcements. Paragraph 2 has a more critical and accusatory tone, suggesting a different discourse style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the similarity in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.46
+  }
+}

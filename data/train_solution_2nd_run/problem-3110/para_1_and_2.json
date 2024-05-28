@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 displays the use of commas, full stops, and quotation marks, while Paragraph 2 also uses commas and full stops. However, the punctuation style in Paragraph 1 seems more varied and includes colons and parentheses, which are absent in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choices and word usage. Paragraph 1 contains more informal language and specific cultural references, while Paragraph 2 is more concise and formal in its expression.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is longer and more complex in sentence structure, with multiple clauses and tangents. In contrast, Paragraph 2 is straightforward and to the point, with shorter sentences.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more narrative and expressive style with personal opinions and historical references. Paragraph 2, on the other hand, presents a more factual and objective tone without personal anecdotes.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and narrative tone, along with the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.46
+  }
+}

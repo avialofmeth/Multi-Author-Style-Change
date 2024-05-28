@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas, quotation marks, and periods correctly. However, there are differences in the usage of other punctuation marks such as hyphens, brackets, and colons.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains a mix of formal language and direct quotes. It also includes specific terms related to politics. Paragraph 2 is more straightforward and lacks the complexity of language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs vary, but Paragraph 1 has longer, more complex sentences compared to the simpler sentences in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a serious tone, but Paragraph 1 includes a direct quote and expresses a controversial opinion, while Paragraph 2 is neutral and informational.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The linguistic features show some similarities in punctuation style and absence of spelling errors, but differences in lexical complexity, sentence structure, and tone. The overall confidence score is moderate.",
+    "score": 0.64
+  }
+}

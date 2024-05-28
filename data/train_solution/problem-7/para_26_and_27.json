@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs show consistent use of punctuation marks such as commas and periods. However, the second paragraph uses a hyphen and a comma, while the first paragraph does not. The overall punctuation style is somewhat similar but not identical.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use informal language and contractions. However, the vocabulary and word choice differ significantly between the two paragraphs. The first paragraph uses more modern and democratic terms, while the second paragraph includes words related to conservatism and extremism. The lexical and grammatical features are notably distinct.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first paragraph is composed of short, direct sentences, while the second paragraph contains longer, more complex sentences. The sentence structures and lengths vary significantly between the two paragraphs. There is a clear difference in coherence and cohesion as well.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood in the first paragraph are positive and optimistic, focusing on modernity and democracy. In contrast, the second paragraph has a more negative and critical tone, discussing conservatism and extremism. The narrative styles and speech events are different.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph. Both texts are well-written in terms of spelling and accuracy.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is moderate. The overall confidence score is 0.52.",
+        "score": 0.52
+    }
+}

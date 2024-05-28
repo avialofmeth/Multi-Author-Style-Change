@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens, commas, and periods in a similar manner. However, Paragraph 1 lacks proper punctuation in some instances, whereas Paragraph 2 demonstrates a more consistent use of punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit variations in word choice and sentence structures. However, Paragraph 1 contains more grammatical errors and awkward phrasing compared to Paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both paragraphs show differences in sentence complexity and coherence. Paragraph 2 has more coherent and structured sentences, while Paragraph 1 lacks clarity and organization.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "In terms of narrative style and tone, both paragraphs have a conversational tone. However, Paragraph 1 seems more disjointed and lacks a clear narrative flow compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively free from spelling and typographical errors. However, Paragraph 1 has more instances of incomplete sentences and missing punctuation marks.",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "After considering all the features, there are notable similarities in punctuation usage and lack of spelling errors between the two paragraphs. However, the differences in grammatical structure, coherence, and narrative flow suggest a lower likelihood of the same author. The overall confidence score is moderate.",
+        "score": 0.56
+    }
+}

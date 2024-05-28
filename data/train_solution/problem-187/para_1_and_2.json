@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both display consistent use of punctuation marks such as commas and quotation marks. However, Paragraph 2 includes more informal punctuation like ellipses and slashes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, Paragraph 1 shows a more formal and technical vocabulary related to public health assessment, while Paragraph 2 uses informal language and abbreviations like 'iirc'. This indicates a difference in word choice and formality.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in Paragraph 1 are more complex and formal, with a focus on conveying specific information. Paragraph 2 has shorter, more casual sentences with a different focus on narrative style and opinion. This shows a distinction in sentence complexity and coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and professional tone related to public health assessment, while Paragraph 2 has a more casual and opinionated tone regarding lockdown measures. The narrative styles differ significantly, indicating a divergence in tone and mood.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, showing consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two paragraphs. However, the absence of spelling and typographical errors provides a commonality. The average confidence score for the likelihood of the texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

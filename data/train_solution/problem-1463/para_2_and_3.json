@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas, periods, and question marks appropriately. However, Paragraph 1 includes a wide range of punctuation marks like slashes, colons, and parentheses, while Paragraph 2 mainly uses commas and periods.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more diverse vocabulary with terms like 'shill,' 'troll,' and 'hate speech,' indicating a more formal tone. Paragraph 2 is straightforward and uses simpler language for instructions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with multiple clauses, while Paragraph 2 consists of shorter, more direct sentences. Both paragraphs maintain coherence and cohesion within their respective structures.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 sets a tone of authority and firmness with terms like 'permanent ban' and 'rule violations.' Paragraph 2 adopts a neutral and informative tone for providing instructions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling or typographical errors, indicating a level of care in the writing process.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the texts show moderate similarities in punctuation, sentence structure, and lack of errors. However, differences in vocabulary choice, tone, and complexity suggest a lower likelihood of being written by the same author.",
+    "score": 0.56
+  }
+}

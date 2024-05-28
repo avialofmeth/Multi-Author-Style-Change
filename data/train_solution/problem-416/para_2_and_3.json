@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation such as commas, colons, and periods. However, the first text has more diverse punctuation usage with parentheses, slashes, and quotation marks, while the second text mainly relies on commas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use formal language and have a similar level of lexical variation. However, the first text includes terms related to rule violations and consequences, while the second text focuses on media outlets and subreddit guidelines.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are clear and concise. The first text contains longer sentences with multiple clauses, while the second text consists of shorter and more direct sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts maintain a formal and informative tone. However, the first text includes directives and warnings, while the second text is more instructional in nature.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical focus, sentence structure, and tone, it is likely that the two texts were written by different authors. However, the absence of spelling and typographical errors provides some commonality.",
+        "score": 0.68
+    }
+}

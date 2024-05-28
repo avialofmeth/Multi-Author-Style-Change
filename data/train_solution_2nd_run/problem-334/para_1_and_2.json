@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including colons, commas, and parentheses. Hyphens are used in both texts for compound words. However, the first text uses quotation marks, which are not present in the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similarities in lexical and grammatical features, such as the use of informal language ('TL;DR', 'circle jerk'), and specific terms ('Russian oil', 'UK bad'). However, the second text includes more detailed information and explanations, suggesting a slightly different approach to word choice.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are concise and to the point. They present information with clarity and directness. The first text is shorter and more direct in its presentation, while the second text elaborates on the topic with additional details and explanations.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar narrative style focused on presenting information in a straightforward manner. They both adopt a casual tone and use informal expressions ('there you go', 'bit clearer'). However, the second text delves deeper into the topic and provides more context, indicating a slight difference in narrative depth.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text, indicating a consistent level of language proficiency in both cases.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking into account the commonalities and distinctions in the linguistic features analyzed, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.68
+    }
+}

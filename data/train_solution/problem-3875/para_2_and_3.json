@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks for direct speech while Paragraph 2 does not include any direct speech, resulting in different punctuation styles.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes specific terms related to sports and doping like 'medals', 'Olympics', 'doping', 'cheating scandal', while Paragraph 2 focuses on cultural and political issues with terms like 'Apartheid regime'. The lexical and grammatical features differ significantly.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer sentences with complex ideas and compound structures. Paragraph 2 has simpler sentence structures and shorter sentences. The sentence structure and length are notably different.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and accusatory tone with phrases like 'It's a joke' and 'Ban them all'. Paragraph 2, on the other hand, has a more explanatory and persuasive tone. The narrative styles and speech events differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, along with the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.36
+    }
+}

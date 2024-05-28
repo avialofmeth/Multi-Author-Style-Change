@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use hyphens, parentheses, and commas for punctuation. However, text 2 has more exaggerated punctuation like exclamation marks.",
+      "score": 0.7
+   },
+   "feature2": {
+      "explanation": "Both texts exhibit a similar choice of words and show common grammatical patterns like subject-verb agreement. However, text 2 contains more emotionally charged language and stronger expressions.",
+      "score": 0.6
+   },
+   "feature3": {
+      "explanation": "The sentence structures in both texts are relatively similar in terms of length and complexity. However, text 2 has more emotional outbursts and abrupt shifts in topic.",
+      "score": 0.65
+   },
+   "feature4": {
+      "explanation": "Both texts convey a critical tone and express disappointment. Text 2, however, is more accusatory and confrontational in nature.",
+      "score": 0.75
+   },
+   "feature5": {
+      "explanation": "Both texts do not contain spelling or typographical errors.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure, and tone, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+      "score": 0.73
+   }
+}

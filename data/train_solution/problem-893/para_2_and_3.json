@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and apostrophes. However, the first text includes more formal punctuation like colons and parentheses, which are absent in the second text.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts display a mix of complex and simple sentence structures. The first text is more formal and uses technical language related to media outlets, while the second text is more conversational and focuses on societal issues like poverty and crime.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text is concise and to the point, with shorter sentences and clear coherence. In contrast, the second text is longer, contains more complex ideas, and lacks the same level of cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey information but in different styles. The first text is more informational and directive, focusing on subreddit guidelines. The second text is persuasive and argumentative, discussing societal problems and proposing solutions.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

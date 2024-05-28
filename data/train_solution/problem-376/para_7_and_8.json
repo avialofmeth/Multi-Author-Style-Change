@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as hyphens, commas, and quotation marks, although their distribution and usage differ slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show differences in word choice and grammatical constructions, with one text focused on technical discussions and the other on a more action-oriented narrative.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "While both texts have clear sentence structures, one is more complex and informative in nature (Paragraph 1), whereas the other is more concise and direct (Paragraph 2). This affects coherence and word length.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary significantly between the two texts, with one being more formal and informational (Paragraph 1) and the other more dramatic and narrative-driven (Paragraph 2). Tone and mood differ as well.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the similarity in spelling and typographical errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.48
+    }
+}

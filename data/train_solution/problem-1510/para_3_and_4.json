@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use standard punctuation marks like commas, quotation marks, and periods. However, the first paragraph includes a colon, which is not present in the second paragraph.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both paragraphs exhibit a formal tone with precise language. The first paragraph shows a higher level of specificity related to medical terms and technology compared to the second paragraph.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs are clear and well-organized. The first paragraph has longer sentences due to the detailed explanation of a condition, while the second paragraph is more concise and straightforward.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "In terms of discourse features, both paragraphs convey information in a formal manner. The first paragraph involves a conditional statement related to a specific scenario, while the second paragraph is a generic message from an automated bot.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

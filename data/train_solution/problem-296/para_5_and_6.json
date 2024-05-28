@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains proper punctuation with commas, periods, and question marks. Paragraph 2 lacks punctuation and uses a crude expression ('fuck em').",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language typical of bot responses. Paragraph 2 includes informal language with curse words and political reference.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single sentence, while Paragraph 2 is a standalone sentence. Both are short and lack complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and professional tone. Paragraph 2 has a more casual and opinionated tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are correctly spelled and free from typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the texts being written by the same author is low.",
+    "score": 0.54
+  }
+}

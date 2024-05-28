@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize commas to separate clauses and provide additional information within sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts contain military-related terminology and use a formal tone, indicating a similarity in word choice and style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences compared to the relatively shorter sentences in Paragraph 2. However, both paragraphs maintain coherence and readability.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ slightly, with Paragraph 1 providing a more factual account while Paragraph 2 presents a more action-oriented perspective.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, demonstrating a similar level of attention to detail.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "After considering the commonalities and distinctions in the identified features, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.72
+    }
+}

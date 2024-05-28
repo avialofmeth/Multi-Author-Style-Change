@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use proper punctuation marks such as commas and periods. However, the first paragraph uses more complex punctuation like colons and parentheses compared to the second paragraph.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice. There are no significant differences in the vocabulary used.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are straightforward and coherent. There is no significant difference in sentence complexity or length.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a neutral and informative tone. While the topics differ, the general style and mood are consistent.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.83
+    }
+}

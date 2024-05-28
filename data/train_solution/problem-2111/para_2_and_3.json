@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as hyphens, parentheses, and quotation marks. However, there are differences in comma usage and sentence structures.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. Text 1 uses more varied vocabulary compared to Text 2, which has a more straightforward language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "While both texts exhibit some similarities in sentence complexity and coherence, there are notable differences in sentence structures and lengths.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Texts have differing narrative styles and tones. Text 1 maintains a neutral stance, while Text 2 adopts a more opinionated and critical tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

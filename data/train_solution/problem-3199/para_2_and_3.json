@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses and a period for punctuation, while Paragraph 2 includes hyphens and semicolons.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains technical terms related to population demographics, while Paragraph 2 uses informal language and slang.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a single complex sentence, while Paragraph 2 is composed of two simpler sentences with a casual tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a more formal and informative tone, while Paragraph 2 is more conversational and anecdotal.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks including parentheses, hyphens, and commas, while Paragraph 2 uses colons and commas. Both texts exhibit a mix of punctuation styles.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains phrases like 'high time' and 'irredeemable hellhole' which have a certain tone and word choice. Paragraph 2, on the other hand, uses terms like 'median household income' and 'Vietnamese Americans'. There is a difference in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more direct sentences with a strong opinionated tone, whereas Paragraph 2 includes longer, informative sentences discussing statistical data. The sentence structures and lengths differ significantly.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses a strong, negative opinion about a particular situation, while Paragraph 2 focuses on providing examples and data to support a different viewpoint. The narrative style and tone diverge.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and no typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative style, along with the commonalities in punctuation and absence of spelling errors, the overall confidence score is moderate.",
+    "score": 0.5
+  }
+}

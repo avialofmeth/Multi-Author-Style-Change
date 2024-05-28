@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses, commas, and hyphens for punctuation. However, only the second text includes brackets and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual and conversational tone with some unique word choices. However, the second text shows a greater level of informality and specific vocabulary related to politics.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text is structured more formally with clear sentences and coherence. The second text has longer sentences with more complex structures and occasional lack of coherence.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts share a casual and conversational tone, but the second text contains more specific references and a slightly more opinionated style.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and sentence structure, there are notable distinctions that suggest different authors. However, the commonalities in text and discourse features along with the absence of spelling errors provide some level of similarity.",
+    "score": 0.64
+  }
+}

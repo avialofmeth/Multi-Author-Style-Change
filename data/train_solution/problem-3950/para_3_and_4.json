@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of hyphens, colons, and commas for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Similar lexical and grammatical features are present, such as technical language related to aircraft and consistent use of specific terms like 'flight hours' and 'jets'.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have a similar structure with technical details presented in a coherent manner. Sentence length and complexity are comparable.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is informative and technical, focused on aircraft details and costs.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.77
+    }
+}

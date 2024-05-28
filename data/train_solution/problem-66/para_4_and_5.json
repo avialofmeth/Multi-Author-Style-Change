@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes colons, commas, and quotation marks, while Paragraph 2 only has commas. Both texts exhibit different punctuation styles.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more complex and emotive language compared to the straightforward and neutral language in Paragraph 2. The word choice and style differ significantly.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a longer and more complex sentence structure with a strong emotional tone. Paragraph 2 is short and direct without elaborate sentence structures.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Both texts have distinct narrative styles and speech events. Paragraph 1 is expressive and opinionated, while Paragraph 2 is robotic and informative. The tone and mood are contrasting.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.34
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The first text shows informal language and slang, while the second text is more formal and straightforward.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and direct. Sentence structures differ slightly due to content.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a strong emotional tone, while the second text is neutral and informational.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The linguistic features show some commonalities but also notable distinctions, especially in lexical and grammatical features and tone. Therefore, the overall confidence score is moderate.",
+    "score": 0.66
+  }
+}

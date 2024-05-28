@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and parentheses, while Paragraph 2 includes quotation marks and parentheses. Some commonalities in punctuation usage.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit varied lexical choices and a mix of grammatical categories, showing some similarities in writing style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences compared to the simpler structure in Paragraph 2. Differences in sentence complexity and length.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a somewhat formal tone, but the narrative styles and tone differ slightly, with one being more opinionated than the other.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors are evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across the features, there are some commonalities but also notable differences in writing style, especially in sentence structure and narrative tone.",
+        "score": 0.64
+    }
+}

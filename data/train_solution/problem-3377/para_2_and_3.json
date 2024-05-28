@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a mix of colons, commas, and apostrophes, while Paragraph 2 lacks these punctuation marks and relies more on quotation marks and commas.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical choices and informal word usage, indicating a possible common author.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both paragraphs are relatively simple and straightforward with a mix of short and medium-length sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts share a critical and somewhat informal tone, expressing opinions and addressing societal issues.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

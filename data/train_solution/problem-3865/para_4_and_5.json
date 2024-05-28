@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas to separate items in a list and to provide additional information within a sentence.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of informal and formal language, with a focus on describing environmental issues.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with a more structured flow, while Paragraph 2 has shorter and more fragmented sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious tone and urgency about the need for environmental protection.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, there are significant similarities in writing style between the two paragraphs, suggesting a moderate likelihood that they were written by the same author.",
+        "score": 0.76
+    }
+}

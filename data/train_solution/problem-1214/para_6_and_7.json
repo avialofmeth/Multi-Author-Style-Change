@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation like commas, periods, and quotation marks in a structured manner. Paragraph 2 has a more casual use of punctuation with informal language and a mix of hyphens and full stops.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical lexical choice with terms related to legislation and government. Paragraph 2 has a more casual and colloquial lexical style with terms like 'no joke' and 'zip drives'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a focus on legislative reform. Paragraph 2 has shorter, conversational sentences with personal opinions on funding sources.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious tone discussing government guidelines and legislative reform. Paragraph 2 has a more casual and personal tone discussing DARPA funding and military sources.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts seem to be well-spelled without typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choice, sentence structure, and tone, the texts exhibit notable distinctions in writing style. However, the absence of typographical errors aligns with a consistent writing quality. Therefore, the overall likelihood of the same author is moderate.",
+        "score": 0.5
+    }
+}

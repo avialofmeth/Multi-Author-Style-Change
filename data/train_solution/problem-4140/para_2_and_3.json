@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks for direct speech.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more informal language and direct speech, while Text 2 is more formal and rule-oriented.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more direct sentences compared to the longer, more structured sentences in Text 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 conveys a critical and confrontational tone, whereas Text 2 is instructive and formal.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mix of informal vs. formal language, sentence structure, and tone differences, the overall confidence that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

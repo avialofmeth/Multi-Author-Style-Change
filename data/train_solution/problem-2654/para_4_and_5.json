@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains a variety of punctuation marks such as hyphens, parentheses, and commas. Paragraph 2 lacks this diversity and only includes parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and structured lexical and grammatical style with complex sentences and specific word choices. Paragraph 2, being a bot response, is more simplistic and direct.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a higher level of sentence complexity and coherence, with varying sentence lengths. Paragraph 2 is brief and lacks the same level of coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and investigative narrative style, while Paragraph 2 is a straightforward bot response with no narrative elements.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, maintaining a standard level of correctness in written language.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate. While there are some similarities in punctuation and lack of spelling errors, the differences in lexical, grammatical features, sentence structure, and discourse style suggest potential different authors.",
+    "score": 0.5
+  }
+}

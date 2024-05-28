@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display similar punctuation styles with the use of commas and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features, such as word choice and sentence structure, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 shows more varied sentence structures with a mix of direct quotes and transitions, while Text 2 is more straightforward in its sentence complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more informal and conversational tone with unexpected transitions, while Text 2 appears more formal and focused on military culture.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts contain typographical errors, which could be a minor factor in considering the same authorship.",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and differences in writing style, the overall confidence score for the likelihood of the same authorship is moderate.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for list items, while Paragraph 2 uses hyphens and commas for sentence structure.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with a mix of formal and informal language.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured with clear sentence arrangements, while Paragraph 2 shows some complexity with transitions.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal tone and convey information clearly, but the narrative styles differ due to the different topics discussed.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the features, there are similarities in lexical choice and formality, but differences in punctuation style and sentence structure. The texts are moderately likely to have been written by the same author, but some variations suggest a lower confidence level.",
+    "score": 0.7
+  }
+}

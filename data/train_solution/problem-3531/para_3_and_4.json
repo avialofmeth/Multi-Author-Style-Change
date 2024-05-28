@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes hyphens and colons, while Paragraph 2 does not. However, both paragraphs use commas appropriately in the sentences.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display variation in word choice and lexical features. They exhibit different levels of formality in language use.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter and more straightforward sentences. In contrast, Paragraph 2 has longer sentences with a more descriptive tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey opinions but differ in the tone and mood. Paragraph 1 has a more informal and aggressive tone, while Paragraph 2 has a more neutral and positive tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the mix of similarities and differences in writing style, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

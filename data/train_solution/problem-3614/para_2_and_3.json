@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas, while Paragraph 2 uses commas and quotation marks. Both texts exhibit some punctuation variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal language with terms like 'postwar aid' and 'negative economic effects'. Paragraph 2 is slightly more informal with phrases like 'you can bet on that.' There is some difference in lexical choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. They both present points clearly without excessive complexity. The sentence lengths are similar as well.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more analytical tone discussing the likelihood of aid, while Paragraph 2 has a more speculative tone with phrases like 'I am sure' and 'you can bet on that'. The narrative styles differ slightly.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in lexical choice and slight variations in punctuation and narrative style, the texts are somewhat likely to have been written by the same author.",
+        "score": 0.66
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, and commas appropriately for clarity and structure within sentences. Paragraph 2 lacks proper punctuation and uses ellipses and ellipsis for dramatic effect, showing a different style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays a more formal and structured word choice and grammar, while Paragraph 2 has a more informal and emotive tone with less formal language and grammar.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a balanced sentence structure with clear coherence and cohesion. Paragraph 2 shows more varied sentence lengths and structures with less coherence.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone. Paragraph 2 has a more emotional and accusatory tone with strong opinions and expressions.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and similarities in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.52
+    }
+}

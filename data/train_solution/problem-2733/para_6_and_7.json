@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods, while Paragraph 2 includes quotation marks. Both texts exhibit standard punctuation usage.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal tone using specific language related to automation, while Paragraph 2 has a more informal and colloquial tone with a reference to AI and political scandals. Different lexical and grammatical features are present.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. Paragraph 1 is more direct and to the point, while Paragraph 2 includes a more complex, sarcastic tone. Sentence length and structure differ slightly.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is formal and informative, providing a clear statement. In contrast, Paragraph 2 has a sarcastic and critical undertone, using a more casual expression. Narrative style and tone vary significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of the two texts being written by the same author is low due to significant differences in tone, style, and content.",
+        "score": 0.52
+    }
+}

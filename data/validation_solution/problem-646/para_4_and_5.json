@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and colons while Paragraph 2 uses hyphens. Both paragraphs use punctuation marks, but with some differences.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical choices and word usage. Paragraph 1 focuses on tax-related terms, while Paragraph 2 contains more expressive language related to politics and activism.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured in terms of tax-related policy points, while Paragraph 2 is more expressive and less structured, reflecting a different tone and style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone related to policy proposals, while Paragraph 2 has a more informal and supportive tone towards a political figure.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all features, the likelihood that the two texts were written by the same author is moderate, with differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, but similarity in spelling and typographical errors.",
+    "score": 0.6
+  }
+}

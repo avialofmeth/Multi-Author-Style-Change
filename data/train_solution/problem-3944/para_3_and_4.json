@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and quotation marks, albeit in different contexts. There are no brackets, commas, or parentheses used in either text.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit informal language with contractions ('did not' -> 'didnt', 'cannot' -> 'wont'). They also show a mix of standard and non-standard lexical and grammatical features.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively simple with short to medium length sentences. Paragraph 1 has more fragmented sentences compared to the more coherent structure in paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey a conversational tone with informal expressions ('idk', 'theres'). Paragraph 1 discusses a political topic while paragraph 2 references a TV show, showing different narrative styles.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

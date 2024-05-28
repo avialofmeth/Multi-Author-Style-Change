@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods predominantly, while Paragraph 2 includes more varied punctuation such as colons and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show differences in word choice and sentence structures between the two paragraphs.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "There are distinctions in sentence complexity and coherence between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones differ significantly in the two paragraphs.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors detected in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structures, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

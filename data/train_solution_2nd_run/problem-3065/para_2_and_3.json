@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for introducing information, while Paragraph 2 does not. Both texts lack hyphens, brackets, commas, parentheses, quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical and grammatical features with a neutral tone. The word choice and sentence structures are quite different, indicating a potential difference in authorship.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2. The coherence and cohesion also differ significantly in terms of sentence length and structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs lack distinctive narrative styles or idiomatic expressions, making it challenging to determine a consistent authorial tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, there is moderate evidence to suggest that the texts were not written by the same author.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "The first paragraph uses hyphens and quotation marks, while the second paragraph uses hyphens and apostrophes. Both paragraphs exhibit consistent punctuation styles.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "The first paragraph contains technical language related to politics and specific geographical references, while the second paragraph includes informal language and references to popular culture. The lexical and grammatical features are distinct in each text.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The first paragraph consists of longer, complex sentences, conveying detailed information. The second paragraph is shorter and more conversational in structure. There are notable differences in sentence complexity and length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first paragraph presents serious political opinions, while the second paragraph uses exaggerated language in a humorous context. The narrative styles and tone are contrasting.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the texts are unlikely to be written by the same author.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 and Paragraph 2 both exhibit consistent use of punctuation marks such as periods, commas, and apostrophes. However, Paragraph 2 includes more informal and erratic punctuation usage compared to Paragraph 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, Paragraph 1 is more straightforward and formal in language use. Paragraph 2 shows a more informal and colloquial tone with specific vocabulary and slang. There are differences in lexical variation and word choice between the two paragraphs.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structurally simple with clear and concise sentences. In contrast, Paragraph 2 has longer and more complex sentences with a mix of different sentence types. There are notable differences in sentence structure and quantitative features between the two paragraphs.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs exhibit a different narrative style and speech event. Paragraph 1 is formal and informative, typical of automated responses. Paragraph 2 adopts a more conversational and informal tone, expressing frustration and disbelief. The tone and mood vary significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing. Both texts demonstrate accuracy in spelling and typographical aspects.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, the overall confidence score for the likelihood that the two texts were written by the same author is moderately low. While there are some commonalities in punctuation and spelling, the differences in lexical, structural, and narrative elements suggest distinct writing styles.",
+        "score": 0.48
+    }
+}

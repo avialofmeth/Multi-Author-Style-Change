@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of commas for listing items, but the punctuation styles differ with the presence of hyphens in Text 1 and lack of them in Text 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Text 1 includes more complex sentence structures and a higher level of vocabulary diversity compared to Text 2. Pronoun usage and sentence complexity differ between the texts.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer sentences with more cohesive elements and transitions, while Text 2 consists of shorter sentences and lacks the same level of coherence and cohesion.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more informal and conversational tone with expressions like 'I mean' and 'imo', whereas Text 2 adopts a more direct and challenging tone. The narrative styles differ significantly.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate good spelling and typographical accuracy with no evident errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, vocabulary complexity, sentence structure, tone, and coherence, while noting the similarities in spelling and typographical accuracy, the overall confidence score of the two texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

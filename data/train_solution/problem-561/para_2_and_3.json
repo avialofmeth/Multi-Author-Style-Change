@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and colons for listing items, whereas Paragraph 2 primarily uses parentheses and hyphens for additional information and clarification.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone with words like 'brinksmanship,' 'unchecked aggression,' and 'stand up forces,' but they differ in the specific vocabulary used.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences compared to the longer, more complex sentences in Paragraph 2. Additionally, the sentence structures vary in terms of complexity.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a serious and urgent tone, although the specific context and themes differ. They both express a sense of determination and a call to action.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there are notable distinctions between the two texts. However, the similar serious and urgent tone in both paragraphs contributes to a moderate likelihood that they were written by the same author.",
+        "score": 0.6
+    }
+}

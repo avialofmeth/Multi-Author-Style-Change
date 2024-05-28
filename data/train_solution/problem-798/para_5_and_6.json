@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas appropriately in a formal and structured manner. Paragraph 2 lacks commas and has a more casual punctuation style with a mix of periods, commas, and no punctuation in the second sentence.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal and straightforward lexical and grammatical style with clear word choice. Paragraph 2 exhibits a more informal tone with colloquial language and slang.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains shorter and more concise sentences with a clear structure. Paragraph 2 has longer sentences and a more conversational flow.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and informative tone as seen in automated responses. Paragraph 2 displays a more opinionated and expressive tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, the texts are likely written by different authors.",
+        "score": 0.44
+    }
+}

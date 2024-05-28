@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit unconventional punctuation usage with missing commas and inconsistent hyphenation. However, paragraph 2 uses more punctuation marks like em dashes and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display unique word choices and sentence structures. Paragraph 2 uses more complex and elaborate language compared to paragraph 1.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more straightforward sentences, while paragraph 2 contains longer and more convoluted sentences with varied structures.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts have a different tone and mood. Paragraph 1 is more factual and neutral, whereas paragraph 2 is more accusatory and emotional.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling errors or typographical mistakes in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all the features, the texts exhibit some similarities in punctuation style and lexical features but differ in sentence structure, tone, and mood. The overall confidence score that these texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

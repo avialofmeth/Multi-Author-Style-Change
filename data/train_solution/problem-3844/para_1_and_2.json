@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like hyphens, commas, and parentheses in a formal and structured manner. Paragraph 2 includes a colon and an exclamation mark in a less formal and more conversational tone.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs scientific and descriptive vocabulary related to climate change and glacier research. Paragraph 2 uses informal language and slang terms like 'Boomers' and 'sneakily.' The word choice and lexical variation differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, complex sentences with technical details and data presented in a structured manner. In contrast, Paragraph 2 has shorter, simpler sentences with a more casual tone. The sentence structures and lengths vary greatly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 follows a formal and informative narrative style discussing scientific findings. Paragraph 2 presents a sarcastic and dismissive tone towards the topic of sea level rise and climate change. The tone and discourse features are distinct.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the contrasting tones and vocabulary choices, it is unlikely that these texts were written by the same author.",
+        "score": 0.44
+    }
+}

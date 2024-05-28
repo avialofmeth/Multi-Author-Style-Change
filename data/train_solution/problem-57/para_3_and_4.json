@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods appropriately. However, Paragraph 1 includes more complex punctuation like colons and apostrophes.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and technical tone, with specific terminology and structured sentences. However, Paragraph 1 demonstrates a slightly higher level of lexical variation.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are structured with clear sentences and coherent ideas. Paragraph 1 shows a slightly higher level of sentence complexity and length variation.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Both texts convey information in a straightforward manner without much expressive language. Paragraph 1 delves into a specific topic, while the other text is more general.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in writing style such as formal tone, clear structure, and lack of errors, along with minor distinctions in punctuation and lexical variation, there is moderate confidence that the texts could have been written by the same author.",
+        "score": 0.69
+    }
+}

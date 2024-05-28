@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains commas, colons, parentheses, and apostrophes, but lacks hyphens, brackets, and quotation marks. Paragraph 2 uses a few commas and a hyphen. There is inconsistency in punctuation style between the two texts.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal writing style with a mix of complex and simple sentences. The word choice and sentence structures show some similarities in the formality of expression.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs display coherence and cohesion in their narrative styles. They have varied sentence lengths and use of clauses. While there are some differences in sentence complexity, the overall structure is somewhat similar.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a serious and informative tone with a focus on conveying information. They lack expressive narrative styles or distinct idiomatic expressions.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, indicating attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, there are both similarities and differences between the texts. However, the overall writing style does not exhibit a high level of consistency, leading to a moderate confidence score in the likelihood of the same authorship.",
+    "score": 0.66
+  }
+}

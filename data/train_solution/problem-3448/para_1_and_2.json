@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks like hyphens, commas, and periods. However, Text 1 uses a wider variety of punctuation marks such as colons and parentheses compared to Text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show similarities in word choice and usage of grammatical categories. However, there are significant differences in the content and tone of the texts, which may affect the lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 displays longer and more complex sentences compared to Text 2. The coherence and cohesion in Text 1 are maintained through the repetition of 'again' to emphasize a point, while Text 2 lacks such structural elements.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a serious and assertive tone, although the content of Text 2 is more extreme and controversial. Text 1 focuses on military actions and diplomacy, while Text 2 contains inflammatory and provocative statements.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, coherence, and lack of spelling errors, along with differences in sentence complexity, tone, and content, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

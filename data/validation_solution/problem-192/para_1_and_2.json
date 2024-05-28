@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of parentheses, commas, and hyphens.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are variations in lexical and grammatical features between the texts, as seen in the different topic-specific vocabulary and sentence structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The texts differ in sentence structure and quantitative features. Paragraph 1 is more descriptive and lists specific Twitter communities, while Paragraph 2 is more figurative and metaphorical in its language.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The texts have different discourse features - Paragraph 1 is more informative and descriptive, whereas Paragraph 2 is more critical and expressive.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Overall, based on the analysis of the five features, there are notable differences in lexical and grammatical features, sentence structure, and discourse features between the texts, indicating a lower likelihood of being written by the same author.",
+    "score": 0.58
+  }
+}

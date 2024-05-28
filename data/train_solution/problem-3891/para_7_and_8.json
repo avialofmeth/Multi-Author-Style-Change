@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Text 1 has inconsistent use of capitalization and punctuation, such as 'Usa' instead of 'USA' and missing periods at the end of sentences. Text 2 appears to have a more consistent punctuation style with proper capitalization and punctuation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Text 1 shows informal language with contractions like 'dont' and unconventional word choices like 'rational not to blow up'. Text 2 uses more formal language with standard word choices and grammar.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer, more complex sentences with informal phrasing. Text 2 has shorter, more straightforward sentences with a more formal structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 has a conversational tone with informal expressions like 'To be honest'. Text 2 has a more factual and informative tone without conversational elements.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, displaying a similar level of care in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "After considering the linguistic features, the overall confidence score that the two texts were written by the same author is moderate due to differences in punctuation style, lexical and grammatical features, sentence structure, and tone.",
+        "score": 0.42
+    }
+}

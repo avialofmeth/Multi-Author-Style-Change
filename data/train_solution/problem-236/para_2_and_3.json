@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as colons, commas, and quotation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some similarities in word choice and part of speech usage.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit coherence and cohesion in the way sentences are structured and arranged.",
+    "score": 0.9
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ due to the difference in topics, but some common expressions can be identified.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The overall confidence score is calculated as the average of individual feature scores.",
+    "score": 0.8
+  }
+}

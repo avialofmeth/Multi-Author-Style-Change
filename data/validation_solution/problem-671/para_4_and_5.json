@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks consistently and effectively, including commas and periods. However, Text 1 uses a question mark and exclamation points more frequently than Text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similar lexical and grammatical features, with a mix of informal language and some grammatical errors (e.g., missing commas). Text 1 uses informal language, while Text 2 contains some punctuation errors.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively simple sentence structures with a conversational tone. However, Text 1 has shorter sentences and more direct language compared to Text 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts convey a negative sentiment and informal tone. Text 1 expresses strong emotions using expletives, while Text 2 maintains a slightly more neutral tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.72
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, periods, and apostrophes. Paragraph 2 also includes punctuation marks like commas and quotation marks, but lacks the diversity seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a wider range of vocabulary and more complex sentence structures compared to Paragraph 2. Paragraph 2 contains simpler language and less varied sentence structures.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with more descriptive details and cohesive elements. In contrast, Paragraph 2 has shorter sentences and lacks the same level of coherence and complexity.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more narrative style with a reflective and empathetic tone towards the Afghan refugees. Paragraph 2, on the other hand, presents a more straightforward and opinionated tone without the same narrative elements.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate good spelling and typographical accuracy without any evident errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the likelihood that the two texts were written by the same author is moderate, leaning towards a higher confidence level due to the similarities in punctuation, narrative style, and lack of spelling errors.",
+    "score": 0.78
+  }
+}

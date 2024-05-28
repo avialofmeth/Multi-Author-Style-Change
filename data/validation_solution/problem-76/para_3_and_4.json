@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for separating clauses and phrases, as well as parentheses for additional information. However, one text uses hyphens while the other does not.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical choice and word usage between the two texts, with one focusing on historical references and the other on geopolitical issues.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and length differ between the texts, with one having longer sentences and more complex arrangements. There is also a contrast in coherence and cohesion due to the distinct topics discussed.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events vary significantly between the texts, reflecting different tones and moods based on the subject matter.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

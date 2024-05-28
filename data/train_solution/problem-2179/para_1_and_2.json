@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both exhibit the use of a variety of punctuation marks such as hyphens, brackets, colons, commas, parentheses, and quotation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show lexical variation and word choice, using informal language and specific terms related to the respective topics.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structure; Paragraph 1 contains longer, more complex sentences while Paragraph 2 has shorter, more direct sentences. This impacts coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a narrative style with a personal anecdote and direct speech events, whereas Paragraph 2 presents a more informative tone discussing a different topic.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts contain some typographical errors and informal spelling, which suggests a similar level of casual writing style.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the different writing styles, topics, and levels of formality in the two texts, the overall confidence in them being written by the same author is moderate.",
+    "score": 0.68
+  }
+}

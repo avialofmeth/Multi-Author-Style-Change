@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas, colons, and mention specific punctuation marks like parentheses and quotation marks. However, the use of hyphens and brackets is not consistent across the texts.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is lexical variation and word choice in both paragraphs, with distinct vocabulary used in each. The grammatical categories and part of speech usage show differences in the texts.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary between the two paragraphs in terms of complexity and length. The coherence and cohesion differ significantly, affecting the overall flow of the texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the paragraphs exhibit differences. While one paragraph focuses on a specific statement, the other delves into a broader context with a different tone and mood.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual linguistic features, the likelihood of the two texts being written by the same author is moderate, with notable differences in lexical and grammatical features, sentence structure, and discourse styles.",
+        "score": 0.6
+    }
+}

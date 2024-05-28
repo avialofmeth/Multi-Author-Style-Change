@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks including commas and periods. However, Paragraph 2 includes hyphens and colons which are absent in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses simple and straightforward language typical of automated responses. Paragraph 2 contains more complex language and specific vocabulary related to political views and actions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts consist of short sentences. Paragraph 1 is concise and fragmented due to its nature as an automated response. Paragraph 2 also contains shorter sentences but with more complex structures due to the content it addresses.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a neutral and informative tone as expected from a bot response. In contrast, Paragraph 2 has a critical and accusatory tone, expressing strong opinions on a political issue.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and tone, it is unlikely that the two texts were written by the same author. The overall confidence score reflects this divergence.",
+    "score": 0.52
+  }
+}

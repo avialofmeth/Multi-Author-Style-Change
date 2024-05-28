@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and a comma for punctuation, while Paragraph 2 uses commas and hyphens. Both texts demonstrate the use of punctuation marks, albeit with some differences.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with technical terms related to media outlets, while Paragraph 2 uses more informal language related to a specific situation involving Disney and DeSantis. There is a noticeable difference in lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively short and straightforward sentences. Paragraph 1 is more informational, whereas Paragraph 2 expresses a strong opinion. The sentence structure and quantitative features differ slightly.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informational tone, focusing on subreddit rules. In contrast, Paragraph 2 has a more opinionated and urgent tone regarding a specific issue. The narrative styles and speech events are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, as well as narrative styles and speech events, the texts are likely written by different authors despite some similarities in punctuation and sentence structure. The overall confidence score is moderate.",
+        "score": 0.52
+    }
+}

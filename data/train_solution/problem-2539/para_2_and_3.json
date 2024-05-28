@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, quotation marks, and commas, but paragraph 1 also includes colons and parentheses while paragraph 2 does not. Different usage of punctuation marks may suggest a difference in writing style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes formal language related to media outlets and subreddit guidelines, while paragraph 2 uses more informal language and political commentary. The lexical and grammatical features differ significantly, indicating varying writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure, but paragraph 2 has a more informal and conversational tone compared to the more formal tone of paragraph 1. The sentence structures and overall coherence differ, suggesting different author styles.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and directive, focusing on subreddit rules, while paragraph 2 expresses a strong opinion and critique. The narrative styles and tone are distinct, indicating different authorial voices.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing. However, this feature alone may not strongly indicate a common author.",
+    "score": 0.6
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tones between the two texts, the overall confidence in them being written by the same author is low.",
+    "score": 0.38
+  }
+}

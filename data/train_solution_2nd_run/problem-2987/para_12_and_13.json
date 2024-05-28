@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation usage with commas, parentheses, and periods being used in a structured manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. The first text uses more technical terms related to energy and technology, while the second text has a more general tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are fairly straightforward and concise. Both texts express ideas clearly and logically.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts differ. The first text presents a specific observation, while the second text discusses future projections.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and discourse features, as well as the similarity in punctuation usage and absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

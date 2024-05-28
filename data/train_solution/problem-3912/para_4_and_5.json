@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods. However, the first text has more unconventional punctuation usage, like capitalizing random words and lack of proper punctuation in some instances.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a mix of formal and informal language. While the first text contains more informal language and abrupt statements, the second text is more structured and uses technical terms.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and straightforward. However, the first text lacks coherence and contains abrupt transitions, whereas the second text maintains better cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a confrontational tone and express strong opinions. However, the first text includes more aggressive and accusatory language, while the second text is more focused on rebutting specific points.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation usage and confrontational tone, along with the differences in lexical choices and coherence, there is moderate confidence that the two texts were not written by the same author.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas effectively within sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of formality in word choice and grammar.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences compared to the shorter, simpler sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious, critical tone, while Paragraph 2 has a neutral, informative tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combination of features, there are some similarities but also notable differences in writing style. The overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.7
+    }
+}

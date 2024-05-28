@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with colons and commas for clarity and structure. Paragraph 2 uses informal punctuation with contractions and lacks the same level of structure.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal lexical and grammatical style with technical terms like 'approved domains list' and formal sentence structure. Paragraph 2 contains informal language with contractions and slang ('f’d up').",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences, indicating a formal writing style. Paragraph 2 has shorter and simpler sentences with conversational tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a professional and informative tone regarding subreddit guidelines. Paragraph 2 conveys a more informal and personal tone with slang and colloquial expressions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts show no spelling or typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, the texts exhibit distinct writing styles. However, the absence of spelling errors suggests a common attention to detail. Therefore, the likelihood of the same authorship is moderately low.",
+    "score": 0.32
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and numbers in a similar style. However, the first text contains more informal punctuation like ellipses, while the second text is more structured with numerical ranges.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text shows more informal language and colloquial expressions, while the second text is more technical with specific numerical data. This difference in lexical and grammatical features suggests a variation in writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts present quantitative information, but the first text is more narrative and opinionated with varying sentence lengths. In contrast, the second text is more focused on presenting facts and calculations with consistent sentence structures.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The tone and mood differ between the two texts. The first text is more casual and conversational, while the second text is more analytical and factual. This disparity in narrative styles indicates a divergence in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a basic level of writing proficiency.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and distinctions in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate, leaning towards different authors due to notable differences in lexical, grammatical, and narrative styles.",
+        "score": 0.56
+    }
+}

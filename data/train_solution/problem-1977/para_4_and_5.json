@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as question marks, parentheses, and commas. However, only the first text uses a colon, which is a distinctive punctuation feature.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the texts show some differences. The first text uses more technical terms related to military operations, while the second text is more casual with simpler vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text is more complex with longer sentences and technical details, whereas the second text is shorter and more conversational.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a more formal and informative tone related to military operations, while the second text is more informal and conversational, discussing personal opinions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account all the features analyzed, the likelihood that the two texts were written by the same author is moderate, with differences primarily in the lexical and grammatical features, sentence structure, and tone.",
+    "score": 0.6
+  }
+}

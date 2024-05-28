@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods more prominently, while Paragraph 2 includes hyphens and parentheses. Both texts demonstrate a mix of punctuation marks, indicating some level of similarity.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual writing style with informal word choices and sentence structures. Paragraph 1 mentions 'donation boxes,' 'clergy,' and 'rappers,' while Paragraph 2 refers to 'witches,' 'hanged,' and 'blood.' The lexical and grammatical features show some alignment.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a straightforward narrative, whereas Paragraph 2 contains longer sentences with historical references. The sentence structures vary significantly, indicating a lower level of similarity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ between the two paragraphs, with Paragraph 1 focusing on church-related business practices and clergy, while Paragraph 2 discusses historical events related to witch hunts. The tone and mood also contrast, suggesting a divergence in writing styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and no typographical errors, indicating a similarity in this aspect.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate. While there are some commonalities in punctuation and lexicon, the differences in sentence structure and narrative style suggest potential distinct authorship.",
+    "score": 0.56
+  }
+}

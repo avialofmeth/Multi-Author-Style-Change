@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as commas, periods, and slashes, but differ in the specific usage of hyphens, brackets, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical variation and word choice between the two texts. The first paragraph uses more formal language related to debate rules, while the second paragraph is more specific to media outlets.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit a similar sentence structure with clear and concise sentences. However, the first paragraph has more complex sentence arrangements compared to the second paragraph.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the two texts vary significantly due to the different topics addressed. The first text has a more formal and instructive tone, while the second text is more informational.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in word choice, narrative style, and tone, along with some variations in punctuation usage, it is less likely that the two texts were written by the same author.",
+    "score": 0.6
+  }
+}

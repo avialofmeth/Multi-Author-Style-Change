@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal punctuation such as commas, parentheses, and hyphens. However, text 1 includes more informal language like 'Bro what?'",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of casual and formal language, with varying word choices and grammatical structures. Text 2 shows slightly more formal language with terms like 'internationalization' and 'territorial disputes.'",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively similar, with a mix of short and long sentences. Text 2 has slightly longer sentences on average.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a conversational tone and discuss geopolitical issues. Text 1 is more informal and direct, while text 2 includes more geopolitical context and analysis.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there is moderate confidence that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

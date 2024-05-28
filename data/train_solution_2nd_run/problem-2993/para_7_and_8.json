@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as periods and apostrophes. However, there is a notable difference in the use of commas and sentence structures.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Texts show differences in lexical choices and grammatical structures. The first text uses more formal language and complex sentences compared to the second text that has a more informal and straightforward style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences with a focus on network-related topics. In contrast, the second text is shorter and more direct in discussing the issue.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles of the texts differ significantly. The first text adopts a more serious and technical tone, while the second text is more casual and dismissive.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, narrative styles, and the absence of spelling errors, the overall likelihood of the same authorship is moderate.",
+    "score": 0.5
+  }
+}

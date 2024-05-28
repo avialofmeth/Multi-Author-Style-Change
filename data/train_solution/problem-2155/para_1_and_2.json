@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks including hyphens, brackets, colons, commas, and parentheses. Paragraph 2 lacks these diverse punctuation marks and mainly consists of repeated letters for emphasis.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal style with specific word choices related to geopolitical discussions. In contrast, Paragraph 2 uses informal language with repeated letters for dramatic effect.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 exhibits longer and more complex sentences discussing geopolitical events and historical perspectives. Paragraph 2 consists of a short, repetitive sentence showing a different style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a serious and analytical tone related to global politics and power dynamics. Paragraph 2 conveys an emotional and personal expression through its text.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, maintaining consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the different styles in punctuation, lexical choices, sentence structures, and tones between the two texts, the likelihood of them being written by the same author is low.",
+        "score": 0.36
+    }
+}

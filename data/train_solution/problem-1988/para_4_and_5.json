@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and brackets for additional information or examples.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Similarities in word choice and grammar, e.g., 'cost effective', 'fraction of the cost'.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit relatively simple sentence structures and coherent ideas with similar sentence length.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts share a formal and somewhat technical tone in discussing cost efficiency and international relations.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in the provided texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, word choice, coherence, tone, and absence of spelling errors, there is moderate confidence that the texts were written by the same author.",
+        "score": 0.76
+    }
+}

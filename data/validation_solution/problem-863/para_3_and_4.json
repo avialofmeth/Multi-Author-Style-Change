@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use hyphens, quotation marks, and parentheses for punctuation, but only the first text includes colons. There is inconsistency in the usage of punctuation marks.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"The first text contains more formal language and political terminology compared to the second text. The lexical choices and word usage differ significantly between the two texts.",
+      "score":0.3
+   },
+   "feature3":{
+      "explanation":"Both texts exhibit similar sentence structures with clear points being made in a straightforward manner. However, the second text is more concise with shorter sentences.",
+      "score":0.7
+   },
+   "feature4":{
+      "explanation":"The first text expresses a critical viewpoint using specific examples and reasoning, while the second text describes a financial situation. The tone and mood differ significantly between the two texts.",
+      "score":0.4
+   },
+   "feature5":{
+      "explanation":"There are no spelling or typographical errors in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical and grammatical features, sentence structure, and text and discourse features.",
+      "score":0.6
+   }
+}

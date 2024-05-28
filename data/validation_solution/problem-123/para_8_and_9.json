@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, and a colon for list enumeration, while Paragraph 2 uses hyphens, brackets, and parentheses for emphasis and clarification.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a formal tone with clear word choice, while Paragraph 2 contains abbreviations and a more informal style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single complex sentence, whereas Paragraph 2 is a fragmented sentence with abbreviations.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a professional tone and instructive style, while Paragraph 2 appears more conversational and focused on specific details.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas and periods correctly, but only paragraph 2 includes hyphens for compound words and ellipses for emphasis.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice. However, paragraph 2 shows a slightly higher level of complexity in sentence structure and grammar.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 2 has longer sentences on average and a more cohesive structure compared to paragraph 1. Both paragraphs maintain coherence and appropriate word distributions.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a somewhat formal tone and express opinions. However, paragraph 2 includes specific observations and analysis, indicating a slightly different narrative style.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are similarities in punctuation style, lexical features, and overall coherence. However, differences in sentence structure and narrative style suggest a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.74
+    }
+}

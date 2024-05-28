@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and periods more conventionally, while Paragraph 2 has a mix of unconventional punctuation, such as multiple ellipses and informal ellipses. Both paragraphs use commas, but in different ways.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit lexical variation and word choice, with unique phrases and informal language. The grammatical categories and part of speech usage differ slightly, with Paragraph 2 using more informal language and slang.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Sentence structure in both paragraphs varies with complex and simple sentences. However, Paragraph 2 has longer and more convoluted sentences compared to Paragraph 1. Both paragraphs lack cohesion in terms of topic continuity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have informal narrative styles and speech events. Paragraph 2 includes idiomatic expressions and a more conversational tone. The tone and mood differ slightly, with Paragraph 2 being more casual.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

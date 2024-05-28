@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas and periods. However, paragraph 1 uses a colon, while paragraph 2 lacks this feature.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone and grammatical structure. The vocabulary and word choice in both are consistent with an informative or procedural style. However, paragraph 2 lacks the complexity of sentence structure seen in paragraph 1.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more elaborate in sentence structure and length, whereas paragraph 2 is concise and straightforward. This difference in sentence complexity sets them apart.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a formal and informative tone, but paragraph 2 is more direct and lacks the narrative elements present in paragraph 1.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, text and discourse features, and absence of spelling errors, the texts may have some stylistic similarities. However, the differences in sentence structure and narrative elements lower the overall confidence in them being written by the same author.",
+        "score": 0.64
+    }
+}

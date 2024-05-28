@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 utilizes correct punctuation marks such as hyphens, commas, and slashes in a structured manner. Paragraph 2 lacks proper punctuation, with run-on sentences and missing punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical variety and grammatical accuracy compared to Paragraph 2, which contains informal language and grammatical errors.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows structured and coherent sentence construction with clear quantitative details. In contrast, Paragraph 2 exhibits fragmented and less organized sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone with coherent narrative style. Paragraph 2 has a more conversational and casual tone with personal expressions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts lack significant spelling or typographical errors, maintaining basic writing conventions in this aspect.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall confidence score indicates a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.52
+  }
+}

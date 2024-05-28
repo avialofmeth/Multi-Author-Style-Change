@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation marks such as commas, colons, and exclamation points, while Paragraph 2 contains hyphens and commas to separate clauses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words related to moderating online communities like 'moderator' and 'applications', while Paragraph 2 focuses on aviation and travel terms like 'airlines', 'crews', and 'travel seasons'. Different lexical and grammatical choices.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a direct call to action, while Paragraph 2 has longer sentences describing a situation and its resolution. Sentence structures and lengths are distinct.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral tone with a call for action, while Paragraph 2 presents a positive outcome. Different narrative styles and moods.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and narrative tones, it is unlikely that the two texts were written by the same author. However, the absence of spelling errors increases the possibility of a slight connection.",
+    "score": 0.46
+  }
+}

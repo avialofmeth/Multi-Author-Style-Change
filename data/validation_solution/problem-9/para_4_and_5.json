@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation with commas used to separate clauses and information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are some similarities in lexical choice and word usage, such as 'spent' and 'amount', but also notable differences like 'trafficked' in the second text which is less common.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts contain relatively short and straightforward sentences with clear information presentation.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is informative and factual, with a focus on presenting numbers and facts rather than emotional language.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of each feature, the overall likelihood that the two texts were written by the same author is moderate to high.",
+        "score": 0.78
+    }
+}

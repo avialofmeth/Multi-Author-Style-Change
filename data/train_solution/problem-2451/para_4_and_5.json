@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain informal language and profanity, indicating a similar tone.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual and colloquial word choice, although with different topics.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and direct, with straightforward sentence structures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts express negative sentiments and frustration towards a situation or group.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in informal language, similar tones, and negative expressions, along with the absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

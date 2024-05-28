@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation with proper commas and periods, while Paragraph 2 lacks proper punctuation and uses a more informal style with expletives and incomplete sentences.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and neutral lexicon and grammar typical of automated responses, while Paragraph 2 includes informal and emotionally charged language with slang.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of short and straightforward sentences with a clear structure, while Paragraph 2 has longer and more complex sentences with a less organized structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, typical of automated responses, while Paragraph 2 expresses strong emotions and opinions with a confrontational tone.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, as well as the similarities in spelling and typographical errors, the overall confidence in the texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

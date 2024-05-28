@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses brackets, colons, and commas, while Paragraph 2 uses quotation marks and commas. Both paragraphs exhibit a similar level of punctuation usage.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and structured language related to subreddit guidelines, while Paragraph 2 contains more informal language and references conspiracy theories and legal history. There are differences in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively short and straightforward sentences. Paragraph 1 is more informational and direct, while Paragraph 2 includes more descriptive details about a person. Sentence structure differs slightly but both exhibit coherence and cohesion.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, focusing on guidelines. Paragraph 2 adopts a critical tone towards the person mentioned. There are differences in narrative styles and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in lexical and grammatical features, sentence structure, and narrative style between the two paragraphs. However, punctuation usage and the absence of spelling errors show some similarities. The overall assessment suggests a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.6
+  }
+}

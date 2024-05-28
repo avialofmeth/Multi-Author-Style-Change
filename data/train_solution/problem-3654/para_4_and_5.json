@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "The punctuation style in both texts includes the use of hyphens, parentheses, and slashes. However, only one text contains colons, commas, and quotation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit some lexical variation and word choice, such as 'nationalism/authoritarianism' and 'neo-liberal conservatism.' However, the second text appears to have simpler language and fewer specialized terms.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts varies in terms of length and complexity. While the first text has longer, more complex sentences, the second text is more straightforward and concise.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts convey a serious tone and discuss societal issues. However, the first text seems more politically charged and analytical, while the second text is more observational.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five linguistic features, the likelihood that the two texts were written by the same author is moderate. While there are some similarities in punctuation style and text/discourse features, differences in lexical choice, sentence structure, and tone suggest some variation in writing style.",
+        "score": 0.62
+    }
+}

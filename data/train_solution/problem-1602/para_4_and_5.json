@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and a comma, while Paragraph 2 uses colons, hyphens, apostrophes, and commas in a more complex manner.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choice and word usage, with Paragraph 2 showing more variation and complexity.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is a simple, concise statement with short sentences, while Paragraph 2 has longer sentences and more complex structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey information directly without much narrative style or idiomatic expressions.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.62
+  }
+}

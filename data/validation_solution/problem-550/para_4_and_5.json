@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and quotation marks, while paragraph 2 does not contain any punctuation marks listed in this feature.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choices and word usage, with paragraph 1 discussing political events and paragraph 2 being more generic.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a more complex sentence structure with varying lengths, while paragraph 2 is concise and straightforward.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a critical and accusatory tone, while paragraph 2 is neutral and informative.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, combined with the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.54
+  }
+}

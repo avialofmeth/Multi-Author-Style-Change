@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit unconventional punctuation usage with missing spaces after commas, inconsistent use of capitals, and lack of proper punctuation marks.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts show lexical and grammatical features that include non-standard word choices, informal language, and grammatical errors such as missing articles and prepositions.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts display a mix of short and long sentences, lack of coherence, and informal language use.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The texts share a similar tone of frustration or anger towards governmental policies, but the narrative styles and speech events differ due to the different topics discussed in each text.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts contain spelling and typographical errors, suggesting a lack of attention to detail in writing.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Taking into account the assessment of all five features, there are notable similarities in punctuation style, lexical and grammatical features, sentence structure, and spelling errors. However, the differences in narrative content and tone slightly lower the overall confidence in the texts being written by the same author.",
+    "score": 0.6
+  }
+}

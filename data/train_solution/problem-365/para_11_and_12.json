@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes hyphens and colons, while Paragraph 2 uses parentheses and slashes. The punctuation styles differ significantly.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses phrases like 'wealth of nations' which are more formal, while Paragraph 2 uses casual language like 'imo'. The lexical and grammatical features show some differences.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with more complex structures, while Paragraph 2 has shorter, more straightforward sentences. The sentence structures and quantitative features vary notably.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical tone towards wealth accumulation, while Paragraph 2 discusses tax enforcement in a more neutral manner. The text and discourse features demonstrate contrasting styles.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

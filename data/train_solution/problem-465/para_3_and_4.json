@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain commas and hyphens as part of their punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate a similar level of lexical variation and word choice, with no significant differences in grammar.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are fairly comparable in complexity and length.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a serious and factual tone, lacking in expressive and emotional language.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, there is a high likelihood that the two texts were written by the same author.",
+        "score": 0.86
+    }
+}

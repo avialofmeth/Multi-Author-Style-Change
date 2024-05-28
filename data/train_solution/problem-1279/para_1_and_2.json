@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks such as periods, commas, and apostrophes in a conventional manner. It does not exhibit any unusual or distinctive punctuation styles.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a consistent use of vocabulary appropriate for informal commentary on a TV show. It does not contain extreme or aggressive language like the second paragraph.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of relatively simple sentences with clear structures, suitable for expressing opinions. It lacks the intense and lengthy sentences found in the second paragraph.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a casual tone discussing humor in a TV show. There is no sign of the threatening and confrontational tone present in the second paragraph.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 does not contain any spelling or typographical errors, indicating a basic level of writing proficiency.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the distinct differences in language, tone, and content between the two paragraphs, the likelihood of them being written by the same author is low.",
+        "score": 0.48
+    }
+}

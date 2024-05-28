@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain hyphens, colons, and quotation marks, although used differently. Text 1 uses hyphens and colons more for dramatic effect, while Text 2 includes quotation marks for reported speech.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Text 1 exhibits a more casual and conversational tone with phrases like 'baby stealing genocidal rapist torturing convicts,' whereas Text 2 contains more formal language and references to political events.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts show a mix of short and long sentences with varying complexity. Text 1 has more playful sentence structures, and Text 2 is more information-heavy with complex clauses.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 adopts a humorous and exaggerated tone, suggesting a creative narrative style. In contrast, Text 2 takes on a serious and factual tone related to political events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in tone, language formality, and narrative style, while noting similarities in punctuation and absence of errors, there is moderate confidence that the texts were written by the same author.",
+    "score": 0.6
+  }
+}

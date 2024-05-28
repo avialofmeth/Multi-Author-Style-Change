@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain punctuation marks such as commas and periods, but the first text includes hyphens and parentheses, while the second text does not. The use of punctuation marks differs between the two texts.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The first text exhibits a more informal and colloquial tone with phrases like 'get off' and 'too dumb', while the second text is more formal as it states 'I am a bot' and 'action was performed automatically'. There is a difference in lexical choices and word usage between the two texts.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and direct, but the first text has longer and more complex sentences compared to the second text which is more straightforward. The sentence structure and complexity vary between the two texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a more aggressive and critical tone, using phrases like 'definition of psychopaths' and 'propaganda', while the second text is neutral and informative. There is a difference in the overall tone and narrative style between the two texts.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors. There are no significant differences in spelling and typographical accuracy between the two texts.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the similarity in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.62
+    }
+}

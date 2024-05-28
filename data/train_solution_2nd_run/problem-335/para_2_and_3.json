@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 displays the use of commas for listing examples and separating clauses, while Paragraph 2 uses commas for separating clauses and listing items. Both paragraphs use commas appropriately.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes terms related to politics and policies like 'farm laws,' 'education standards,' 'land reform,' and 'CAA.' Paragraph 2 focuses on investment and energy-related terms like 'invest,' 'money,' 'profit,' 'oil,' and 'energetically.' The lexical choices are distinct and context-specific.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains moderately complex sentences with multiple clauses while addressing different examples. Paragraph 2 is simpler with shorter sentences and a more direct investment suggestion. The sentence structures vary significantly.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a critical tone towards the government's decisions, evident from phrases like 'dislike this government' and 'bending over to populists.' Paragraph 2 adopts a more neutral tone, focusing on investment strategies. The narrative styles and tones are noticeably different.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative tones, the writing styles of the two paragraphs are distinct, suggesting they were likely written by different authors.",
+    "score": 0.52
+  }
+}

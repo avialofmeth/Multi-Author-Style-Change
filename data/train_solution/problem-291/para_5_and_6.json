@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of punctuation marks such as commas and periods, but differ in the frequency and style of their usage. Text 1 uses more varied punctuation like hyphens and parentheses, while text 2 lacks this diversity.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 shows a more assertive and direct style with phrases like 'walk their happy asses out of Ukraine', whereas text 2 is more conversational with phrases like 'I like to look at things from all perspectives'. The lexical choices and grammatical features indicate some differences in writing style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have a mix of short and longer sentences, but text 1 exhibits a more structured and coherent style in presenting arguments, while text 2 appears more casual and fragmented. This indicates a difference in sentence structure and coherence.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 displays a more passionate and assertive tone, using strong language like 'Russians are the criminals here' compared to the more neutral and reflective tone in text 2. This difference in narrative style and tone suggests distinct authorial voices.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical errors, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

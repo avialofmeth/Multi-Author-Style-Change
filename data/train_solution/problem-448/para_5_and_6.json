@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and periods, while Paragraph 2 lacks proper punctuation and uses more informal language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal and structured language with clear word choice. Paragraph 2 contains informal language and slang.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a clear and concise sentence structure. Paragraph 2 has fragmented and less coherent sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and formal tone. Paragraph 2 has a more informal and critical tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts show significant differences in punctuation, language formality, sentence structure, and tone, indicating a low likelihood of being written by the same author.",
+        "score": 0.44
+    }
+}

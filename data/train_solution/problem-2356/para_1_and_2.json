@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks like hyphens, commas, quotation marks, and parentheses, but the second text includes more informal punctuation like exclamation points and lacks colons and semicolons.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show differences in word choice and formality. The first text uses more formal language and structured sentences, while the second text contains informal language with emotional expressions and informal vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text has longer, more complex sentences with a formal tone. The second text is shorter, more direct, and emotional, lacking the same level of complexity.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ significantly. The first text maintains a formal and informative tone, while the second text is informal and emotional, expressing personal opinion and criticism.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, showing a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the texts are not likely written by the same author. The similarity in spelling and typographical errors does not outweigh the differences in other features.",
+    "score": 0.56
+  }
+}

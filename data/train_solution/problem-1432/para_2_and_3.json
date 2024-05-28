@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation throughout the text, including colons and commas. Paragraph 2 lacks proper punctuation in the form of commas and periods, with more casual and informal language.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs a more formal and structured lexical and grammatical style. In contrast, Paragraph 2 uses informal language and slang, with a different lexical and grammatical approach.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured in a more formal and coherent manner with clear sentence lengths and complexity. Paragraph 2, however, has shorter, less structured sentences with informal language.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informational tone regarding media outlets. In contrast, Paragraph 2 expresses a more casual and opinionated tone with a sarcastic undertone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence score is moderate, indicating differences in writing style between the two texts.",
+        "score": 0.42
+    }
+}

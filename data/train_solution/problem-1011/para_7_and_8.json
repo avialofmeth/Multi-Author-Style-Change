@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation such as commas and periods, but the second text has more informal punctuation like lack of capitalization and abbreviations.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in word choice and formality level, with the first text being more formal as it is an automated response, while the second text is informal with abbreviations like 'hjs' instead of 'his'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is a complete sentence with proper capitalization and punctuation, while the second text is a fragment lacking proper sentence structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts differ in tone and style, with the first text being neutral and formal due to its automated nature, while the second text has a more casual and opinionated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, the texts exhibit differences in punctuation style, formality, sentence structure, and tone, indicating they are likely written by different authors.",
+        "score": 0.54
+    }
+}

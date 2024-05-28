@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use standard punctuation marks such as commas and periods, but do not exhibit any unique or specific punctuation styles that would indicate a common author.",
+      "score": 0.5
+   },
+   "feature2": {
+      "explanation": "The lexical and grammatical features in both texts are straightforward and lack distinctive word choices or grammatical structures that would suggest a shared writing style.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "Both paragraphs are relatively short and simple in structure. They lack complexity and variety in sentence construction, which may point to a common author, but the limited textual data makes it hard to draw a definitive conclusion.",
+      "score": 0.6
+   },
+   "feature4": {
+      "explanation": "There is a lack of narrative style or distinct tone in either text. Both paragraphs convey straightforward information without any unique expressions or idioms that could indicate a common author.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "There are no spelling or typographical errors in either text, indicating a basic level of writing proficiency that is consistent across both paragraphs.",
+      "score": 0.7
+   },
+   "overall": {
+      "explanation": "Based on the analysis of the individual features, there is a moderate level of commonality in punctuation, sentence structure, and lack of errors, but the absence of unique stylistic elements or distinctive vocabulary lowers the overall confidence in the texts being written by the same author.",
+      "score": 0.5
+   }
+}

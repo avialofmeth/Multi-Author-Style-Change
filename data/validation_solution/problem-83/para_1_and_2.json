@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, brackets, colons, commas, and parentheses for punctuation.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Text 1 shows a specific tone and word choice related to consent and sexual interactions, while Text 2 focuses on general courtesy and rule violations. There are differences in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer sentences with more complex structures, while Text 2 has simpler and more direct sentences. There are differences in sentence structure and quantitative features.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more informal and conversational tone, using slang and abbreviations like 'inb4' and 'IOW', while Text 2 is more formal and direct. There are differences in text and discourse features.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text discourse features, there are notable distinctions in writing style that suggest different authors. However, the consistent use of punctuation and error-free writing contribute to a moderate level of confidence that the texts may have been written by the same author.",
+    "score": 0.64
+  }
+}

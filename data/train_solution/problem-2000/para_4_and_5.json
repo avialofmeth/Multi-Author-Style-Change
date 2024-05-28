@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of colons and commas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some similarity, such as the use of informal language and contractions.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentence structures differ significantly; one has a declarative sentence while the other is an imperative sentence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features indicate a clear distinction between the two texts in terms of style and tone.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure and text discourse features, the overall confidence score is moderate.",
+    "score": 0.54
+  }
+}

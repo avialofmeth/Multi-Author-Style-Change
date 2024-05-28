@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of commas for listing and parenthetical information. However, the first text includes more formal punctuation like colons and quotation marks, while the second text has a more informal style with exclamation points.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text demonstrates a formal and structured lexical and grammatical style with complex sentence structures and formal word choices related to political news. In contrast, the second text has a more casual and conversational tone with simpler vocabulary and grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The first text contains longer, more coherent sentences with a focus on conveying detailed information. On the other hand, the second text has shorter, less structured sentences that express personal opinion and reaction.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text adopts a formal narrative style typical of news reporting, using factual information and quotes. In contrast, the second text has a more informal tone, expressing surprise and personal thoughts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling and typographical errors, indicating a similar level of attention to detail in terms of composition.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in formality, tone, and narrative style between the two texts, the likelihood of them being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

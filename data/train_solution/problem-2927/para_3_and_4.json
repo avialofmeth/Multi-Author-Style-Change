@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods appropriately. However, text 1 uses more hyphens and fewer quotation marks compared to text 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 includes more informal language and colloquial expressions, while text 2 has a more formal tone. However, both texts exhibit similar levels of lexical variety and word choice.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts have varied sentence structures with a mix of short and long sentences. Text 2 demonstrates slightly more complexity in sentence structure compared to text 1.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 expresses a competitive or casual tone, whereas text 2 conveys a more confrontational and aggressive mood. Both texts use idiomatic expressions but in different contexts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, there are both similarities and differences in the writing styles of the two texts. The overall assessment indicates a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

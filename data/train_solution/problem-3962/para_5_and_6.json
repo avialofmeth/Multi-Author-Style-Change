@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as colons, commas, and periods, but the first text includes specific punctuation like parentheses and quotation marks while the second text does not.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "The first text contains formal and structured language related to subreddit rules, while the second text is more informal and opinionated with specific references to political figures. The lexical and grammatical features differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and structured with clear sentence lengths, while Paragraph 2 has longer sentences and a more narrative tone. Sentence complexity and coherence vary between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text maintains a neutral and informative tone related to subreddit guidelines, while the second text adopts a critical and accusatory tone towards political figures. The narrative styles and speech events differ significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling errors and typographical mistakes, demonstrating a level of attention to detail in written communication.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author. The spelling and typographical errors feature is the only commonality between them.",
+        "score": 0.44
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 and Paragraph 2 both contain punctuation marks such as commas and periods, but the overall style and usage of punctuation differ significantly. Paragraph 1 has a more formal and standardized punctuation style, whereas Paragraph 2 uses more informal and emotive punctuation like expletives.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, Paragraph 1 exhibits a more neutral and straightforward word choice and grammatical structure typical of automated responses. In contrast, Paragraph 2 shows more informal language and emotional expressions, reflecting a different style.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Sentence structures in Paragraph 1 are concise and direct, reflecting a robotic or automated style. In contrast, Paragraph 2 contains longer and more complex sentences with emotional intensity, showcasing a distinct narrative style.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Text and discourse features reveal a clear difference in tone and mood between the two paragraphs. Paragraph 1 maintains a neutral and formal tone, typical of automated responses, while Paragraph 2 conveys a strong emotional tone and opinionated stance.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of accuracy in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, as well as the similarity in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.28
+    }
+}

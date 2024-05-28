@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with colons and commas, while Paragraph 2 includes hyphens, brackets, and quotation marks, showing some variation in punctuation style.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a formal and informational tone with specific terms related to approved domains and outlet criteria. Paragraph 2 uses more informal language with slang like 'played himself' and 'one of the good ones'. There is a distinction in lexical choice and variation.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a straightforward and informative sentence structure with a directive tone. Paragraph 2 has longer sentences with a more narrative and expressive structure. There is a difference in sentence complexity and arrangement.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and neutral tone, focusing on guidelines. Paragraph 2 expresses personal opinions and emotions with a critical tone towards specific individuals, showing a contrast in narrative style and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit proper spelling and lack typographical errors, indicating consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author. The spelling and typographical error consistency is the only shared aspect.",
+    "score": 0.52
+  }
+}

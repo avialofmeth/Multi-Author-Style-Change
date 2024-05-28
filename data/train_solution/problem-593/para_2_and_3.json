@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas, periods, and parentheses. However, only paragraph 1 uses hyphens in compound words like 'rule violations'.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and technical tone with specific terminology related to rules and guidelines. However, paragraph 1 shows more variation in word choice compared to the more restricted language in paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are structured in a clear and concise manner with no excessive complexity. Paragraph 1 has longer sentences due to the detailed rules outlined, whereas paragraph 2 is more straightforward and direct.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and instructional tone, focusing on providing guidelines and information. However, paragraph 1 includes a list of prohibited actions, whereas paragraph 2 addresses a specific query.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in proofreading.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display informal language with the use of hyphens and colloquial expressions.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a more casual and aggressive tone with slang and informal vocabulary, while Text 2 is more informative and historical in nature. This difference in lexical and grammatical features may suggest different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more fragmented sentences with informal language, while Text 2 has longer, more structured sentences focusing on historical information. The sentence structure and quantitative features differ significantly.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text 1 has a confrontational and mocking tone, using profanity and insults, while Text 2 is neutral and informative. The narrative styles and tone are contrasting.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts lack significant spelling or typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, it is likely that the two texts were written by different authors.",
+        "score": 0.46
+    }
+}

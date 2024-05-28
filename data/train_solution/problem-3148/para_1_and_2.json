@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with the use of hyphens, commas, and periods for clarity and coherence. Paragraph 2 lacks consistent punctuation and shows a more casual and colloquial style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs technical and formal language related to pharmaceutical sales and analysis, with specific terms like 'foreign trade data' and 'Swiss customs office'. Paragraph 2 uses more informal language with expressions like 'shitting on the US' and 'fairly xenophobic'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more structured sentences to convey detailed information about the sales data and analysis. Paragraph 2 contains shorter and less formal sentences with a more conversational tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and objective tone focused on reporting factual information about pharmaceutical sales. Paragraph 2 expresses personal opinions and a critical viewpoint on the perception of Switzerland, revealing a different narrative style and mood.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate accurate spelling and punctuation, indicating a basic level of attention to detail in written communication.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts, the overall likelihood that they were written by the same author is low.",
+    "score": 0.4
+  }
+}

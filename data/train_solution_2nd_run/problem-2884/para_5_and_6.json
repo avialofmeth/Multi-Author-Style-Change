@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation, but no other common punctuation marks are present.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts display a mix of technical and descriptive language, indicating a moderate level of lexical variation.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is a straightforward statement, while Paragraph 2 lists items in a more detailed manner. Sentence structure and length vary slightly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey factual information with a neutral tone, lacking distinct narrative styles or idiomatic expressions.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence score is moderate.",
+        "score": 0.64
+    }
+}

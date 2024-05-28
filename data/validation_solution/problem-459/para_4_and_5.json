@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas, but Paragraph 1 uses more varied punctuation marks (e.g., colons, parentheses) compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more varied lexical and grammatical range with specific examples and informal language, while Paragraph 2 is concise and formal in its wording as expected from automated responses.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences, while Paragraph 2 consists of shorter, more straightforward sentences typically seen in automated responses.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a personal opinion with a specific tone, whereas Paragraph 2 is neutral and lacks emotional expression due to its automated nature.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate correct spelling and grammar without typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of typographical errors, the texts are unlikely written by the same author.",
+        "score": 0.5
+    }
+}

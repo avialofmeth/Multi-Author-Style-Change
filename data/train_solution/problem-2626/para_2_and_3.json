@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show similar usage of punctuation marks such as commas and periods. However, there are differences in the specific punctuation used (e.g., colons in Text 2, absence of hyphens in Text 1). Overall, there is a moderate level of consistency in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts exhibit variations in terms of vocabulary choices and sentence structures. While both texts discuss geopolitical topics, there are differences in word choice and grammatical structures. This suggests a moderate level of inconsistency in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts differ significantly, with Text 1 being more concise and direct compared to the more complex and question-based sentences in Text 2. This indicates a notable disparity in sentence structure and quantitative features.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text 1 adopts a more serious and somber tone, focusing on a tragic event, while Text 2 reflects a conversational style with questions and informal language. The narrative styles and tone are distinct, suggesting a lack of consistency in text and discourse features.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate correct spelling and typographical accuracy without errors. There is consistency in this aspect across the texts.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account the individual assessments of each feature, the overall confidence score for the likelihood of the two texts being written by the same author is moderate, reflecting the varying degrees of similarity and dissimilarity in writing style.",
+    "score": 0.5
+  }
+}

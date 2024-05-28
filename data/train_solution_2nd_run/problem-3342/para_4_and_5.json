@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and parentheses for additional information, while Paragraph 2 uses ampersand (&) instead of 'and'. Both paragraphs use commas appropriately.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both paragraphs have a formal tone and utilize varied vocabulary. However, Paragraph 2 seems to have a slightly different word choice compared to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences compared to Paragraph 2. Paragraph 2 is more straightforward in sentence structure.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both paragraphs express opinions, but the topics are different. The overall tone in Paragraph 1 is more reflective, while Paragraph 2 seems more assertive.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, coherence, and lack of spelling errors, along with some differences in word choice and sentence structure, there is moderate evidence that the two texts may have been written by the same author.",
+    "score": 0.68
+  }
+}

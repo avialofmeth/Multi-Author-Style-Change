@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods, with no significant differences in the punctuation style.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in lexical choices and grammatical structures, such as complex sentences and varied vocabulary.",
+        "score": 0.85
+    },
+    "feature3": {
+        "explanation": "There are differences in the sentence structures and quantitative features of the texts, with one being more descriptive and the other more explanatory.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts have differing narrative styles and tones, one being more political while the other focuses on governmental decisions.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and no typographical errors, showing consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, there are some commonalities in punctuation, lexical and grammatical features, and spelling, but notable distinctions in sentence structure, text and discourse features, and tone. Thus, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.75
+    }
+}

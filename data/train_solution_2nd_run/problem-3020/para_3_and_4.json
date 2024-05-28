@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and professional punctuation style with appropriate use of colons, commas, and periods. Paragraph 2 lacks the same level of punctuation accuracy and structure.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and technical lexical and grammatical choice compared to the more informal and colloquial language used in Paragraph 2. The differences in word choice and sentence structures are evident.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits a structured and coherent sentence arrangement with a focus on clarity and information delivery. In contrast, Paragraph 2 displays a more conversational and less organized sentence structure.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone appropriate for a formal communication. On the other hand, Paragraph 2 conveys a more opinionated and casual tone with a touch of sarcasm and critique.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of written accuracy.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the texts show notable differences in punctuation style, lexical and grammatical features, sentence structure, and tone, suggesting a lower likelihood of being written by the same author. However, the absence of spelling and typographical errors contributes to a somewhat higher confidence level.",
+    "score": 0.54
+  }
+}

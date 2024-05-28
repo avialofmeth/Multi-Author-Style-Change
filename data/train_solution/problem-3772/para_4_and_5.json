@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for list separation and for setting off non-essential information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language, with varying word choices and sentence structures.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary in complexity and length without much similarity between the texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The tone and mood differ significantly between the texts, with one being more personal and casual and the other more descriptive.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, tone, and mood, as well as the mix of formal and informal language, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.58
+    }
+}

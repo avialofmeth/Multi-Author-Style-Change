@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas while Paragraph 2 lacks these features.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal language and lack lexical variation. Both use direct language and slang terms.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences, while Paragraph 2 is more straightforward and uses shorter sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a critical tone and express strong opinions. They both convey a sense of frustration or dissatisfaction.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "Both paragraphs have minor typographical errors ('nucelar' in Paragraph 2).",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are notable similarities in informal language, tone, and minor errors, but differences in punctuation and sentence complexity. The likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

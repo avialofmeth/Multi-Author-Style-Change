@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts have a similar punctuation style, with the use of hyphens, commas, and lack of quotation marks. However, there are no brackets or colons present in either text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is some consistency in the lexical and grammatical features, with both texts using casual language and simple sentence structures. However, the word choice differs slightly in terms of formality.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are short and simple in structure, lacking complexity. They exhibit coherence in conveying opinions but differ in sentence length and arrangement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone are somewhat similar, reflecting informal opinions. However, the expressions and idioms used vary slightly between the two texts.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities and slight differences in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

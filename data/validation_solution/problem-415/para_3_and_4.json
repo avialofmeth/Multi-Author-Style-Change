@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 lacks proper punctuation and uses offensive language.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal tone with structured sentences. Paragraph 2 is informal and contains offensive language, showing a stark contrast in lexical and grammatical features.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences that flow logically. Paragraph 2 has shorter, fragmented sentences with a negative tone, indicating a difference in sentence structure and quantitative features.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a narrative style to discuss a topic respectfully. Paragraph 2 uses crude language and a confrontational tone, diverging in text and discourse features.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 contains standard spelling with no errors. Paragraph 2 includes profanity, which can be considered a typographical error in formal writing.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation, lexical choices, sentence structures, discourse features, and spelling errors, it is unlikely that the two texts were written by the same author.",
+    "score": 0.18
+  }
+}

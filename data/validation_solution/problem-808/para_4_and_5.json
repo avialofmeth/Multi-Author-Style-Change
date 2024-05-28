@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, colons, and periods. However, the use of hyphens, parentheses, and quotation marks may differ.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical and grammatical features, such as the use of formal language and specific terminology related to law enforcement. However, variations in word choice and sentence structures may be present.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively complex sentences with specific details and chronological sequencing. However, the quantitative features like sentence length and arrangement may vary.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts focus on factual reporting and describing events. While common expressions related to law enforcement are present, the tone and mood may differ based on the context of the incidents described.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.74
+  }
+}

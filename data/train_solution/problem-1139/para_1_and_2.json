@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like colons and commas, while paragraph 2 also includes colons and commas but with a more legalistic tone.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit formal lexical choices and use specialized vocabulary, with paragraph 2 showing a more legalistic tone.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured as an instructional guide with clear sentences, while paragraph 2 is more complex due to legal terms and sentence structure.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack narrative styles and are more informative, with paragraph 2 having a more authoritative tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in formal lexical choices and punctuation use, despite differences in tone and complexity, there is moderate confidence that the same author wrote both texts.",
+        "score": 0.7
+    }
+}

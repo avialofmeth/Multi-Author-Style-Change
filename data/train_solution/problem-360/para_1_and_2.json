@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts demonstrate similar punctuation usage with the presence of colons, commas, parentheses, and quotation marks. However, Paragraph 1 includes more hyphens compared to Paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices between the two texts. Paragraph 1 contains more technical terms and specific references (e.g., 'Asperger's syndrome,' 'Tony Attwood'), while Paragraph 2 uses more general language focused on rules and behavior.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit similar sentence structures with a mix of complex and straightforward sentences. However, Paragraph 1 includes more parenthetical remarks, making the structure slightly more complex than Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 focuses on discussing a specific topic related to self-perception and references a particular book, while Paragraph 2 is more general, providing rules of conduct. The tone and mood differ between the two texts due to their distinct purposes.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be well-proofread without noticeable spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the variations in lexical and grammatical features, as well as differences in the narrative style and tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a lack of consistent punctuation usage, such as hyphens and commas, which may indicate a similarity in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show a tendency towards complex and technical language, using terms related to implants and technical processes, suggesting a similarity in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain long and convoluted sentences with a mix of clauses, indicating a similarity in sentence structure and complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a serious and technical tone, with a focus on professional topics, suggesting a similarity in the discourse features.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors present in either text, indicating a similarity in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Overall, considering the commonalities in punctuation, lexical and grammatical features, discourse style, and lack of spelling errors, the texts show a moderate level of similarity in writing style, suggesting a likelihood of being written by the same author.",
+    "score": 0.76
+  }
+}

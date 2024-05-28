@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 includes commas and periods as well. The punctuation styles are consistent in both texts.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes words like 'arrested', 'collaborated', and 'spreading', while Paragraph 2 includes words like 'vacation', 'afraid', 'Colorado', 'mountains', 'beautiful', and 'Boulder'. There is a notable difference in lexical choices between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more direct sentences, while Paragraph 2 contains longer, descriptive sentences. The sentence structures differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and urgent tone, focusing on a call to action, while Paragraph 2 has a more relaxed and descriptive tone, inviting the reader to consider a serene location. The narrative styles and tones are distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative tones, along with the consistent punctuation styles and absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.56
+    }
+}

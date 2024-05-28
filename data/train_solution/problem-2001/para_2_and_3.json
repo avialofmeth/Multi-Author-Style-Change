@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and parentheses, while Paragraph 2 includes more standard punctuation like commas and quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more technical language related to subreddit rules, while Paragraph 2 includes descriptions of political events.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is shorter and more direct, focusing on providing information. Paragraph 2 has longer sentences with more descriptive elements.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is instructional in tone, directing readers to certain actions. Paragraph 2 is narrative, detailing events and actions of individuals.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.44
+  }
+}

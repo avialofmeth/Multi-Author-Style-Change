@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with colons and commas to separate clauses and list items. Paragraph 2 also includes commas to separate clauses but lacks colons and parentheses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of formal and informal language, with varying word choices and sentence structures. Paragraph 1 is more formal due to the topic, while Paragraph 2 is more informal and conversational.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of more structured and coherent sentences with a focus on providing information. Paragraph 2 has shorter, more fragmented sentences with a conversational tone.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone related to media outlets. Paragraph 2 adopts a more casual and speculative tone regarding a political situation.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, sentence structure, and tone between the two paragraphs, the overall confidence score of the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.56
+  }
+}

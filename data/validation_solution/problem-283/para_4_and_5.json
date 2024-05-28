@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains commas for listing items and separating clauses, while Paragraph 2 lacks similar punctuation. Both paragraphs lack hyphens, brackets, colons, parentheses, and quotation marks, making this feature inconclusive.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language with specific terms like 'House Ways and Means Committee,' while Paragraph 2 uses simple, straightforward language. This difference in lexical choice and complexity suggests different authors.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a longer sentence with multiple clauses, indicating a more complex structure. Paragraph 2 is short and direct, lacking the complexity seen in Paragraph 1. The difference in sentence structure suggests different authors.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal tone related to political discussions, while Paragraph 2 has an automated, technical tone. These different narrative styles and speech events indicate different authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, showing a similar level of accuracy in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are significant differences in lexical choice, sentence structure, and narrative style between the two paragraphs, suggesting different authors. However, the absence of spelling and typographical errors provides a minor commonality. The overall confidence score is moderate.",
+    "score": 0.44
+  }
+}

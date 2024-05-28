@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks like commas and periods. While there are differences in the use of specific punctuation marks (e.g., hyphens in one text but not the other), the overall punctuation style is consistent in terms of general usage.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts, such as vocabulary choice (e.g., 'NATO militaries' vs. 'generation of Russians'). Additionally, grammatical structures differ in complexity and form. These differences suggest a lower likelihood of the same author.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features vary significantly between the texts. One text discusses military bases and amenities while the other focuses on historical and emotional aspects. The coherence and cohesion differ, indicating a lower likelihood of the same author.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features show distinct narrative styles and speech events in the two texts. The tone, mood, and expressions used are dissimilar, suggesting different authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text, indicating a shared level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text and discourse features, as well as the shared attention to punctuation style and absence of spelling errors, the overall likelihood of the same author is low.",
+        "score": 0.48
+    }
+}

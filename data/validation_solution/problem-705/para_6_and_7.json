@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and ellipses for punctuation. However, there are differences in the usage of quotation marks and commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. One text is in Arabic and the other in English, leading to a high dissimilarity in word choice and grammatical categories.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Sentence structures, length, and coherence are vastly different in the two texts due to the language variance and content disparity.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The narrative styles, tone, and mood are starkly contrasting in the texts, reflecting different cultural contexts and perspectives.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Spelling and typographical errors cannot be assessed due to the nature of the texts provided.",
+    "score": 0.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in lexical, grammatical, and narrative aspects, along with the evident disparities in sentence structure and punctuation usage, it is highly unlikely that the two texts were written by the same author.",
+    "score": 0.2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal language with profanity and colloquial expressions, while Paragraph 2 maintains a more formal and neutral tone.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more slang and informal word choice compared to the more formal and structured language in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with a more informal structure, while Paragraph 2 has shorter and more straightforward sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a critical and cynical tone with a focus on political commentary, whereas Paragraph 2 discusses political outcomes more objectively and neutrally.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexicon, sentence structure, and discourse features, there is moderate evidence to suggest that the two texts were not written by the same author.",
+    "score": 0.44
+  }
+}

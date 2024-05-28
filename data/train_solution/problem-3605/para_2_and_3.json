@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including hyphens, quotation marks, and usernames indicated with slashes.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of casual language and formal terms, with some grammatical inconsistencies such as 'Though it\u2019s an old jet fighter, but still very powerful.'",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively simple. They are direct in their expression and lack significant complexity.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts involve a conversational tone, engaging with specific individuals or entities. However, the second text appears slightly more formal in addressing an official title.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combination of features analyzed, there are notable similarities in punctuation style and tone, but differences in grammatical structure and formality. The absence of spelling errors is a positive indicator. Based on the overall analysis, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas extensively for listing examples and providing additional information within sentences. Paragraph 2 lacks this style of punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more technical and descriptive lexical choice compared to the simpler and more emotional language in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with a focus on detailing various scenarios, while Paragraph 2 is shorter and more direct.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and informative tone discussing food safety issues, while Paragraph 2 conveys disappointment in a personal context.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of both texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

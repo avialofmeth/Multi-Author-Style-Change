@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, quotation marks, and commas. However, the second text includes more informal punctuation like ellipses and an informal interjection ('da fuck').",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show differences in word choice and formality. The second text includes more informal language and slang, whereas the first text uses more formal language and specific terms.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts vary in complexity and length. The first text includes longer and more elaborative sentences, while the second text is more concise with shorter sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Regarding text and discourse features, the first text exhibits a more formal narrative style with direct quotes and attributions. In contrast, the second text is informal, with a different tone and mood.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the evaluation of all features, the likelihood that the two texts were written by the same author is moderate, as they share some commonalities in punctuation and lack spelling errors but exhibit significant differences in lexical, grammatical, and discourse features.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for listing and providing information, while paragraph 2 uses quotation marks for direct speech. Both texts contain punctuation marks commonly used in written communication.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and technical language related to subreddit guidelines, while paragraph 2 includes informal language with negative sentiment. Both texts exhibit variation in word choice and grammatical structures.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a longer and more structured sentence, focusing on providing information. In contrast, paragraph 2 is a single, direct statement lacking complexity. Different sentence structures and lengths are observed.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone related to subreddit rules, while paragraph 2 conveys a negative and critical tone towards a political figure and current situation. The narrative styles and tones are markedly different.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors, suggesting attention to detail in writing. There are no discrepancies in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall confidence score is moderate, indicating some similarities but notable differences in writing style.",
+    "score": 0.6
+  }
+}

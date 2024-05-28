@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses correct punctuation marks (commas, periods) in a standard manner, while Paragraph 2 lacks proper punctuation and includes informal language.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits formal word choice and grammatical structure typical of automated responses. Paragraph 2 contains informal language, slang, and grammatical errors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is concise and structured with a clear purpose. Paragraph 2 is fragmented, lacks coherence, and includes abrupt transitions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and formal tone suitable for automated messages. Paragraph 2 uses informal and aggressive language, reflecting a different tone and mood.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and lack typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation, language style, coherence, and tone between the two texts, the likelihood of them being written by the same author is low.",
+    "score": 0.44
+  }
+}

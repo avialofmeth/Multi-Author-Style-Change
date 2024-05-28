@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a mix of punctuation marks such as commas, quotation marks, and parentheses. However, the first text uses hyphens and colons more prominently compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar formal tone and word choice, with a focus on geopolitical topics. The first text uses more specialized terms related to Russian propaganda, while the second text includes terms related to military activities.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text is longer and more complex in sentence structure, with explanations and arguments presented in a thread-like format. The second text is shorter and more direct in conveying information about a specific event.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts share a serious and informative tone, discussing political and military events. The first text focuses on debunking propaganda, while the second text reports a specific incident.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

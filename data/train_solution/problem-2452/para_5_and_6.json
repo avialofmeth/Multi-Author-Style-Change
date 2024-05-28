@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a consistent and formal use of punctuation marks such as hyphens, commas, and periods throughout the text. In contrast, Paragraph 2 lacks proper punctuation and includes informal language.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal and professional language consistent with the topic discussed. In contrast, Paragraph 2 includes informal language and derogatory terms, indicating a stark difference in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured cohesively with clear sentence organization and moderate complexity. In contrast, Paragraph 2 lacks coherent sentence structure, with abrupt transitions and lack of clarity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal narrative style suitable for discussing political campaigns. In contrast, Paragraph 2 adopts a sarcastic and disrespectful tone, deviating significantly in discourse features.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is devoid of spelling and typographical errors, showcasing attention to detail. Conversely, Paragraph 2 contains informal language and potentially offensive terms that may be considered as errors in a formal context.",
+    "score": 0.6
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate, as there are notable discrepancies in punctuation style, lexical and grammatical features, sentence structure, discourse features, and spelling errors.",
+    "score": 0.68
+  }
+}

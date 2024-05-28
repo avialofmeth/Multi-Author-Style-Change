@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, parentheses, brackets, and quotation marks, while Paragraph 2 lacks these punctuation styles.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 showcases a more formal and technical lexicon related to military and vaccination, while Paragraph 2 is concise and straightforward.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with specific details, whereas Paragraph 2 is brief and automated in structure.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The tone in Paragraph 1 is serious and informative, discussing a specific issue, while Paragraph 2 is neutral and automated.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexicon, sentence structure, and tone, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates consistent use of commas and periods for punctuation. Paragraph 2, on the other hand, lacks proper punctuation and includes a typo ('lenh').",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and structured lexical and grammatical style with varied word choice and cohesive sentences. Paragraph 2 contains informal language and a typo ('lenh').",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more complex sentences with a focus on coherence and cohesion. Paragraph 2 is shorter and lacks complexity, also containing a typo ('lenh').",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone discussing climate change. Paragraph 2 includes a more casual and abrupt tone with the added comment 'but they really don’t give a fuck' which is quite different.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 has no spelling or typographical errors. Paragraph 2 contains a typographical error ('lenh' instead of 'length').",
+    "score": 0.3
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical style, sentence structure, tone, and the presence of a typo in Paragraph 2, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.32
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of punctuation marks such as commas, periods, and apostrophes. However, they differ in the use of hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The texts exhibit similarities in lexical choices and grammatical structures, with a focus on military and historical themes. However, there are differences in the specific vocabulary and tone used.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs display moderate sentence complexity and coherence. However, they vary in terms of sentence length and arrangement.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts share a serious and informative tone, discussing geopolitical matters. However, one text focuses on historical comparisons while the other on current events.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of individual features, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

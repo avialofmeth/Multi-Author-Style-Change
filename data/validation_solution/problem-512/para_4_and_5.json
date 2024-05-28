@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts utilize similar punctuation marks such as colons, quotation marks, and hyphens. However, the first text uses more brackets and parentheses compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar use of formal language and specific terminology. However, the second text contains more emotionally charged language compared to the first text.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts display a mix of sentence lengths and structures. The first text contains longer sentences with complex ideas, while the second text uses shorter, more direct sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts convey a serious and informative tone. The first text criticizes a political stance, while the second text advocates for a specific viewpoint. The overall tone is consistent in both texts.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are notable similarities in punctuation style, lexical and grammatical features, and text and discourse features. However, the differences in sentence structure and emotional tone slightly lower the overall confidence in the texts being written by the same author.",
+    "score": 0.72
+  }
+}

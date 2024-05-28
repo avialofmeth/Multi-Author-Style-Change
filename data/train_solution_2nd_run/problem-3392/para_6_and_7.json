@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use similar punctuation marks such as hyphens, brackets, colons, and parentheses. However, the first paragraph uses fewer punctuation marks overall compared to the second.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"In terms of lexical and grammatical features, both texts exhibit some similarity in word choice and sentence structures. However, there are differences in the choice of words and the complexity of sentences.",
+      "score":0.5
+   },
+   "feature3":{
+      "explanation":"The sentence structures in both texts show some similarities in terms of coherence and cohesion. However, there are differences in sentence length and complexity.",
+      "score":0.4
+   },
+   "feature4":{
+      "explanation":"Both texts have a similar serious tone and mood, focusing on diplomatic relations and historical events. However, the second paragraph introduces more specific geopolitical references.",
+      "score":0.7
+   },
+   "feature5":{
+      "explanation":"There are no spelling or typographical errors in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the commonalities and distinctions in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate.",
+      "score":0.64
+   }
+}

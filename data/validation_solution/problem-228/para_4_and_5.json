@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit casual punctuation style with the use of hyphens and parentheses. However, the first paragraph demonstrates a more formal punctuation style with the use of colons and quotation marks, while the second paragraph lacks these formal punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first paragraph uses more formal and structured language typical of formal writing, while the second paragraph uses informal language with contractions and slang terms.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first paragraph is longer and more complex in sentence structure, with a focus on narrative coherence. In contrast, the second paragraph is shorter and lacks complexity in sentence structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit different narrative styles and speech events. The first paragraph is informative and factual, while the second paragraph is more anecdotal and conversational.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, language formality, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.6
+    }
+}

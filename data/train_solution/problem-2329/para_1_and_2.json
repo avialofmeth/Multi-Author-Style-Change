@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as commas, periods, and parentheses. However, the presence of specific punctuation styles like hyphens, brackets, and colons may differ between the two texts.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some commonalities in terms of word choice and grammatical structures. However, differences in technical vocabulary and sentence complexity may indicate separate authorship.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts vary in complexity and length, with differences in coherence and cohesion. The quantitative features like word length and frequency also show variations.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features, including narrative styles and tone, differ significantly between the two texts. One text focuses on etiquette and rules, while the other discusses technical aspects of blockchain, indicating potential different authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text, suggesting a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the combined analysis of all features, the likelihood of the two texts being written by the same author is moderate due to some shared punctuation and lexical features but notable differences in text and discourse features.",
+    "score": 0.54
+  }
+}

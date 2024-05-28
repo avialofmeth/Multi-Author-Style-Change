@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a mix of punctuation marks such as commas, periods, and quotation marks. However, the first text includes more specialized punctuation like colons and parentheses, while the second text contains hyphens and ellipses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show differences in word choice and sentence structures. The first text uses technical terms related to classified document security, while the second text has a more informal tone with colloquial language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts vary in complexity and length. The first text has longer sentences with detailed information, while the second text consists of shorter, more fragmented sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The text and discourse features differ significantly between the two texts. The first text maintains a formal tone related to security matters, while the second text discusses a political issue with a more opinionated and casual tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a good level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The analysis reveals notable differences in punctuation style, lexical and grammatical features, sentence structure, and text tone between the two texts, suggesting they were likely written by different authors.",
+        "score": 0.56
+    }
+}

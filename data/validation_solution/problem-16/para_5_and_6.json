@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both use standard punctuation marks such as commas and periods, but Paragraph 2 includes hyphens and lacks quotation marks, which differs from Paragraph 1.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit variations in word choice and employ grammatical structures with a mix of sentence types. However, the lexical choices and sentence structures differ significantly between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear sentences and coherent ideas, while Paragraph 2 contains shorter, more fragmented sentences that lack cohesion. The quantitative features of sentence length and arrangement vary notably.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and instructional tone, focusing on guidelines and rules. In contrast, Paragraph 2 adopts a more informal, sarcastic tone with a cynical perspective, showcasing distinct narrative styles and moods.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, demonstrating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five linguistic features, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.4
+  }
+}

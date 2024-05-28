@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain informal language and use of hyphens and expletives.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 shows more variation and informal word choice compared to the more formal and structured language in Text 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more fragmented sentences with casual language, while Text 2 is more structured and coherent.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a casual and informal tone with explicit language, while Text 2 is more formal and automated.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Overall, the texts show some commonalities in punctuation style and lack of spelling errors, but differ significantly in lexical, grammatical, and text discourse features, resulting in a moderate likelihood that they were written by the same author.",
+        "score": 0.68
+    }
+}

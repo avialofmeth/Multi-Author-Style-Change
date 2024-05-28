@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of punctuation marks such as commas and periods, but the first text follows proper punctuation rules more consistently compared to the second text, which contains informal and emotive punctuation like exclamation points and ellipses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text maintains a formal and respectful tone with a focus on clear communication, while the second text uses more informal and emotionally charged language with strong expressions and profanity.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text is structured with clear and cohesive sentences that follow standard conventions, whereas the second text contains fragmented and emotionally-driven sentences with a less coherent structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text adopts a neutral and informative tone suitable for a guideline, while the second text conveys a personal opinion with strong emotional language and negative expressions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, the texts show notable disparities in writing style, indicating a low likelihood of being authored by the same person.",
+    "score": 0.56
+  }
+}

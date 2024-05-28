@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas and periods. However, Paragraph 1 includes a colon, which is absent in Paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There is a difference in the lexical and grammatical features between the two texts. Paragraph 1 contains more complex vocabulary related to politics, while Paragraph 2 is more straightforward and technical as it's an automated message.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features are quite different in the two texts. Paragraph 1 has longer and more complex sentences, while Paragraph 2 is shorter and more direct.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features vary significantly. Paragraph 1 has a serious and opinionated tone related to politics, while Paragraph 2 is neutral and informative as it's an automated response.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either of the texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the overall likelihood that the two texts were written by the same author is moderate due to differences in lexical and grammatical features, sentence structure, and text/discourse features.",
+        "score": 0.52
+    }
+}

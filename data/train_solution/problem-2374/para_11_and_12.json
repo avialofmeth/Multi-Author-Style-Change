@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show consistent use of punctuation marks such as commas and periods. However, only the first text includes a hyphen and a percentage symbol, while the second text does not use any special punctuation.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts use formal language and correct grammar. The first text includes more technical terms like 'demographic change' and 'population per year', while the second text is more informal with phrases like 'can't move' and 'home office'.",
+    "score": 0.75
+  },
+  "feature3": {
+    "explanation": "The first text consists of longer sentences with complex structures, including the use of acronyms like 'iirc'. In contrast, the second text is simpler and more direct, with shorter sentences and less varied structures.",
+    "score": 0.25
+  },
+  "feature4": {
+    "explanation": "Both texts convey information in a factual manner without expressive or emotive language. However, the first text discusses a demographic trend, while the second text focuses on economic factors.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the writing styles of the two texts exhibit notable differences in sentence structure, lexical complexity, and content focus. While there are some similarities in punctuation and formality, the overall assessment indicates a moderate likelihood that the texts were written by the same author.",
+    "score": 0.6
+  }
+}

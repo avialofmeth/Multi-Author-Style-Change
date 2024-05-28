@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, apostrophes, and commas in a similar style as Paragraph 2.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, indicating a potential common author.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths in both paragraphs are relatively comparable, suggesting a consistent writing style.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "While discussing different topics, both texts maintain a formal tone and mood, indicating a possible shared authorship.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical features, sentence structures, and tone, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.77
+    }
+}

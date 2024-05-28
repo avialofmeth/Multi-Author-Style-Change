@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, hyphens, and parentheses for punctuation. Paragraph 2 uses commas and periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal and descriptive tone with phrases like 'phenomenal gifted teacher'. Paragraph 2 has a more critical and direct tone with phrases like 'trying to burn it to the ground'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences. Paragraph 2 has shorter, more straightforward sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more narrative and personal in style discussing a specific individual's situation. Paragraph 2 is more accusatory and generalized.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, tone, sentence structure, and narrative style, the texts are likely written by different authors.",
+    "score": 0.48
+  }
+}

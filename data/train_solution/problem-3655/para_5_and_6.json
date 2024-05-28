@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and quotation marks, but the first text employs commas and parentheses while the second text uses brackets.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "The first text is more formal and uses standard grammar, while the second text is more casual and includes slang ('Dude's', 'boring old man').",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text is a single clear sentence, while the second text is longer and includes multiple clauses and sentence fragments.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text is formal and polite, while the second text is informal and critical in tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there are notable distinctions in the writing style of the two texts. However, the absence of spelling and typographical errors contributes to a slightly higher likelihood of the same author.",
+        "score": 0.48
+    }
+}

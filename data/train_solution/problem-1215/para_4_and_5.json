@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon for emphasis and to introduce information, while Paragraph 2 uses hyphens for attribution and parenthetical information.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on election-related vocabulary, while Paragraph 2 includes words related to legal matters and drug-related terminology.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a single complex sentence, whereas Paragraph 2 contains a more complex sentence with additional information.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral informative tone, while Paragraph 2 has a more sensational and negative tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, and tone, there are notable stylistic distinctions between the two texts, indicating a lower likelihood of being written by the same author.",
+        "score": 0.52
+    }
+}

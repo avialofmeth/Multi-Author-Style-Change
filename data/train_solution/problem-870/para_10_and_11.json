@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Text 1 predominantly uses correct punctuation including commas and periods, while Text 2 contains more errors with missing commas and inappropriate use of colons and hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and sentence structure, with Text 2 displaying more informal language and grammatical errors compared to Text 1.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 has more coherent and structured sentences with a formal tone, while Text 2 lacks coherence and contains shorter, less complex sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 maintains a serious and analytical tone, whereas Text 2 is more informal and uses exaggerated expressions like 'hard on for world war 3'.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Text 1 shows proper spelling and typographical accuracy, while Text 2 contains numerous spelling errors and informal language.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, formality, coherence, tone, and spelling, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and commas, but only paragraph 2 includes parentheses and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and use of different grammatical categories, indicating some similarity in style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more structured sentences compared to the more informal and shorter sentences in paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit different narrative styles and tones, with paragraph 1 being more formal and informative, while paragraph 2 is more casual and opinionated.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different features, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.66
+    }
+}

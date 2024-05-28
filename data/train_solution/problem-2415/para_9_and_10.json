@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of commas, periods, and question marks. However, the first text uses more hyphens and the second text includes more parentheses and colons.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text includes phrases like 'mfg' and 'pretty cheap', while the second text uses terms like 'spares' and 'loose parts'.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, the first text contains shorter, more fragmented sentences, while the second text has longer, more complex sentences with clauses and subordination.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both texts are somewhat informal and conversational. However, the first text seems more direct and to the point, while the second text includes hypothetical scenarios and personal reflections.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the texts show some similarities in punctuation use and informal tone but differ in lexical choices and sentence structure. The overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.7
+    }
+}

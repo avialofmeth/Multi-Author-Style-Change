@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, periods, question marks, and exclamation points. Paragraph 2 lacks punctuation marks and contains a casual, informal style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and structured use of language with complex sentences and specific vocabulary related to political events. Paragraph 2 is more casual and uses simpler language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with a mix of sentence structures. Paragraph 2 consists of shorter sentences with simpler structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and critical tone towards political events, using strong language and expressing opinions. Paragraph 2 is more neutral and distant in tone, reflecting a lack of engagement with the topic.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.48
+  }
+}

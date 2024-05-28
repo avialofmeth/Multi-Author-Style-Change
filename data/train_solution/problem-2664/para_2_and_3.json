@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods primarily for punctuation. Paragraph 2 uses commas and periods as well, but also includes colons and brackets.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal style with a mix of complex and simple sentence structures. Paragraph 1 uses more complex sentences compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are coherent and well-structured, with clear transitions between ideas. Paragraph 1 has longer sentences on average than Paragraph 2.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more opinionated and reflective tone, while Paragraph 2 has an informative and directive tone. Both paragraphs lack specific idioms or expressions.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts show some similarities in punctuation style and lack of errors, but differ in sentence structure and tone. Overall, the writing styles are moderately consistent but not identical, suggesting a moderate likelihood of being written by the same author.",
+    "score": 0.64
+  }
+}

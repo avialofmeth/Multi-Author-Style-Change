@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for list items and to separate clauses. Paragraph 2 also utilizes commas for list items and separating clauses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes formal language with terms like 'approved domains list' while paragraph 2 has a more informal tone with phrases like 'I get that they are on a 'both sides' mission.' Different lexical choices and word usage observed.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured as an informative statement. In contrast, paragraph 2 expresses an opinion with a clear stance on the topic. Sentence lengths and complexity vary between the two texts.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone. Paragraph 2 is more opinionated and critical in nature. The narrative style and speech events differ significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts exhibit differences in lexical and grammatical features, sentence structure, and text discourse features, indicating potential different authors. However, they share similarities in punctuation style, and no spelling errors were found. The overall confidence score leans towards a moderate likelihood of different authors.",
+    "score": 0.62
+  }
+}

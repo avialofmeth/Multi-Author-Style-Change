@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation, but only paragraph 1 includes colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a higher level of lexical variation and more complex sentence structures compared to the straightforward and concise language of paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 exhibits longer and more varied sentence structures with cohesive elements, while paragraph 2 is shorter and lacks complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a different style and tone; paragraph 1 is more narrative and introspective, while paragraph 2 is direct and informative.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical complexity, sentence structures, narrative style, and the absence of errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

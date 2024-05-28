@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, parentheses, and periods in a similar manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language with varying sentence structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured and directive in nature, while paragraph 2 is more conversational and informal.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is more formal in tone compared to the casual tone of paragraph 2.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style and lexical features, but differences in sentence structure and tone, there is moderate confidence that the texts may have been written by the same author.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks around specific terms",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Similar lexical choices and use of specific terms like 'Republican establishment' and 'morals'",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward in sentence structure",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Different narrative styles and speech events (political critique vs. automated response)",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors detected in either text",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the punctuation style, lexical and grammatical features, and absence of spelling errors, there is moderate confidence that the texts share a similar writing style despite differences in narrative styles.",
+    "score": 0.68
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, colons, and periods for sentence structure.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There is consistency in lexical and grammatical features with a focus on scientific and technical terminology.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Both texts display a similar sentence structure with moderate complexity and coherence in conveying technical information.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Texts differ in narrative style and tone, with one being speculative ('Bond villain') and the other factual ('significant advance in lightning protection technology').",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, and the absence of spelling errors, there is a moderate level of confidence that the texts were written by the same author.",
+    "score": 0.76
+  }
+}

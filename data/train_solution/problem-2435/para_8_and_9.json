@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation usage with the presence of commas, periods, question marks, and apostrophes.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts display a mixture of formal and informal language with varying word choices. The first text is more formal due to its nature as an automated response, while the second text uses informal language and slang.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are straightforward and primarily consist of simple sentences. There is a lack of complexity or varied sentence lengths.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a neutral and informative tone typical of automated responses, while the second text adopts a more conversational and informal tone with a hint of criticism.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, considering the commonalities in punctuation style and absence of spelling errors, along with some similarities in sentence structure, the texts may be written by the same author, despite differences in formality and tone.",
+    "score": 0.66
+  }
+}

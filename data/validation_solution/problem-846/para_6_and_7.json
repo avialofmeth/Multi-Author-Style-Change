@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens in 'lit-up' and 'bit-of-a-comparison', while Paragraph 2 does not use hyphens. Both texts use commas appropriately in their sentences.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses informal language and contractions ('Lets', '2', 'get'), while Paragraph 2 is more formal and structured. This shows a difference in lexical and grammatical features.",
+    "score": 0
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of short and straightforward sentences. However, Paragraph 1 has a slightly more casual tone compared to the more formal tone of Paragraph 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational and informal tone with phrases like 'Lets draw a bit of a comparison here', while Paragraph 2 uses a more formal and directive tone addressing the readers. This indicates a difference in narrative styles and speech events.",
+    "score": 0
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles between the two paragraphs, the overall confidence score that they were written by the same author is low.",
+    "score": 0.4
+  }
+}

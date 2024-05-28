@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts use similar punctuation marks such as question marks, periods, commas, and hyphens. However, text 1 uses more question marks and periods compared to text 2.",
+		"score": 0.7
+	},
+	"feature2": {
+		"explanation": "Both texts exhibit a similar level of formality in word choice and sentence structure. However, text 2 shows a slightly more complex sentence structure with longer sentences compared to text 1.",
+		"score": 0.6
+	},
+	"feature3": {
+		"explanation": "Text 1 is more straightforward and concise in its sentence structure and coherence, while text 2 displays a slightly more narrative style with a hint of emotional tone.",
+		"score": 0.5
+	},
+	"feature4": {
+		"explanation": "Both texts express concerns about legislative processes and decisions. However, text 2 has a more critical and emotional tone compared to the more neutral tone of text 1.",
+		"score": 0.6
+	},
+	"feature5": {
+		"explanation": "Both texts appear to be free of spelling and typographical errors.",
+		"score": 1.0
+	},
+	"overall": {
+		"explanation": "The linguistic features show some commonalities in punctuation style and word choice, but also exhibit differences in sentence structure, tone, and coherence. The overall likelihood that the two texts were written by the same author is moderate.",
+		"score": 0.68
+	}
+}

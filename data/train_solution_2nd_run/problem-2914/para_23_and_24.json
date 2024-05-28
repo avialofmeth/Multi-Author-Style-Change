@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon to introduce a detailed explanation, while paragraph 2 uses quotation marks for direct speech.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more technical and descriptive language related to an investigation, while paragraph 2 contains more direct quotes and personal pronouns.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences due to detailed reconstruction, while paragraph 2 has shorter sentences with direct statements.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and informative tone related to investigative reporting, while paragraph 2 expresses disappointment and legal terms.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs seem to have correct spelling and punctuation, with no obvious errors noted.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and text discourse between the two paragraphs, the writing styles do not align consistently.",
+    "score": 0.44
+  }
+}

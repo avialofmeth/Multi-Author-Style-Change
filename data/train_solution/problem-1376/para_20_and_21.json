@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as question marks, commas, and periods. However, it lacks more complex punctuation like colons or semicolons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical and grammatical features, with a mix of formal and informal language. They both use common vocabulary and basic sentence structures.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The sentences in both texts are of moderate length and complexity. They show coherence and cohesion within each paragraph. Word and sentence length distributions are relatively consistent.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While the tone and mood differ between the two paragraphs, the narrative styles show similarities in terms of expressing opinions and viewpoints.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.72
+    }
+}

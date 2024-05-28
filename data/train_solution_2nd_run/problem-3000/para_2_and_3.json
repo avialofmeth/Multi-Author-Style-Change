@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks and hyphens, while paragraph 2 does not show any usage of these punctuation marks. This difference indicates a disparity in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays a more informal and emotive lexical choice compared to the more formal and technical language used in paragraph 2. This contrast in word choice suggests a difference in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, complex sentences with a more narrative structure, whereas paragraph 2 is concise and straightforward in its sentence structure. The disparity in sentence complexity and coherence reflects a divergence in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a strong opinion and emotional tone, while paragraph 2 maintains a neutral and informative tone. This discrepancy in tone and style indicates a dissimilarity in writing approach.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, showing a similar level of accuracy in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is likely that the two texts were not written by the same author. The presence of spelling and typographical errors does not significantly influence the overall assessment.",
+        "score": 0.44
+    }
+}

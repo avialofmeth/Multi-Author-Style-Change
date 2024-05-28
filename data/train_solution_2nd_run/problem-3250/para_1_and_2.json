@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts use similar punctuation styles including commas, slashes, and periods. However, paragraph 1 includes more diverse punctuation marks like colons and parentheses compared to paragraph 2.",
+		"score": 0.6
+	},
+	"feature2": {
+		"explanation": "Both texts exhibit a formal and instructional tone with a focus on rules and guidelines. They share a similarity in word choice and sentence structures. However, paragraph 1 is more explicit in its instructions compared to the slightly more vague wording in paragraph 2.",
+		"score": 0.7
+	},
+	"feature3": {
+		"explanation": "The texts in both paragraphs are structured with clear and concise sentences. They both maintain coherence and cohesion in presenting information. Paragraph 1 has slightly longer sentences compared to the more straightforward sentences in paragraph 2.",
+		"score": 0.65
+	},
+	"feature4": {
+		"explanation": "Both paragraphs convey a formal and instructive tone. They share common expressions related to rules and guidelines. While paragraph 1 focuses on behavior and consequences, paragraph 2 addresses questions and guidelines for media outlets.",
+		"score": 0.7
+	},
+	"feature5": {
+		"explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and lack of spelling errors, the texts demonstrate a moderate level of similarity in writing style. However, differences in punctuation diversity and explicitness in instructions slightly lower the overall confidence in them being written by the same author.",
+		"score": 0.73
+	}
+}

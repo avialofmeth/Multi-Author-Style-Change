@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, colons, and commas appropriately for punctuation.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similar lexical choices and grammatical structures, such as the use of 'I'm' and 'this action was performed automatically.'",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Sentence structures and length are relatively consistent in both texts, with a similar level of complexity.",
+    "score": 0.85
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts, with one expressing worry about legal proceedings and the other being an automated response.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the punctuation style, lexical and grammatical features, sentence structure, and spelling, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.79
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as commas, quotation marks, and hyphens. However, Paragraph 2 uses more parentheses compared to Paragraph 1.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features. They use comparable word choices and grammatical structures.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both paragraphs show coherence and similar sentence lengths. They maintain a consistent level of complexity.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts share a common narrative style and tone, focusing on political events and implications. The tone in both texts is critical and analytical.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the alignment in punctuation style, lexical and grammatical features, coherence in sentence structure, narrative style, and absence of spelling errors, there is a high likelihood that the two texts were written by the same author.",
+        "score": 0.82
+    }
+}

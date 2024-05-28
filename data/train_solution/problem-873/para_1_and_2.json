@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of punctuation marks such as commas, question marks, and periods. However, the first text includes a specific reference to a TV show 'Dragon Ball Z' using a colon, which is absent in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The vocabulary and word choice in the two texts differ significantly. The first text focuses on military and logistic terminology, while the second text contains more informal and confrontational language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both texts have varied sentence lengths and structures. The first text poses questions and sets up a narrative continuation, while the second text presents a direct opinion. Sentence complexity and coherence differ between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones are distinct in the two texts. The first text adopts a more dramatic and speculative tone, referencing a TV show, while the second text expresses a strong opinion with intense language.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in vocabulary, sentence structure, and narrative style, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

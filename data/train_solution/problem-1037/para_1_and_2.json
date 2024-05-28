@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and quotation marks. However, there are differences in the specific punctuation used, such as the absence of commas after introductory phrases in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts contain a mix of complex and simple sentence structures. The vocabulary used in each text differs significantly, with the first text focusing on military-related terms while the second text discusses invasion and defense.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence lengths and structures between the two texts. The first text contains shorter, more fragmented sentences related to specific details, while the second text poses a rhetorical question and forms a longer, more cohesive argument.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts differ greatly. The first text is descriptive and factual, detailing specific items and actions, while the second text is more speculative and questioning in nature.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, the linguistic features suggest that the texts were likely not written by the same author due to significant differences in punctuation style, vocabulary, sentence structure, and narrative style.",
+        "score": 0.54
+    }
+}

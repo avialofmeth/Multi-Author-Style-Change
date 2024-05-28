@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas, periods, and quotation marks, but differ in the presence of hyphens, colons, and parentheses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical choices and grammatical structures, with varying levels of formality and vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The texts differ in terms of sentence structure, complexity, and coherence, with one being more conversational and the other more informative.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts differ significantly in narrative style, tone, and mood, indicating different speech events and expressive purposes.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, narrative style, and tone, the likelihood of the same authorship is low.",
+        "score": 0.48
+    }
+}

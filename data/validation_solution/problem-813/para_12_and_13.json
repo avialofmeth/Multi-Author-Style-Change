@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 utilizes hyphens, commas, and apostrophes, while Paragraph 2 uses a colon and a question mark. Both texts demonstrate varied punctuation styles, indicating a potential similarity in the author's approach to punctuation.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a mix of formal and informal language with technical terms like 'all-at-once style attack', while Paragraph 2 uses colloquial language like 'Wut?' and 'word-salad'. The lexical and grammatical features differ significantly, suggesting a potential difference in writing style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a relatively complex sentence structure with a strategic plan outlined. In contrast, Paragraph 2 is shorter and more conversational, lacking the same level of sentence complexity. The sentence structure and coherence differ significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious tone related to military strategy, while Paragraph 2 adopts a dismissive and informal tone in response to a comment. The narrative styles and tone vary greatly between the two texts, indicating potential differences in authorship.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, demonstrating a shared level of attention to detail in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the texts exhibit significant differences in lexical and grammatical features, sentence structure, and narrative style. While punctuation and spelling are more aligned, the overall writing styles diverge, leading to a lower likelihood of being written by the same author.",
+    "score": 0.52
+  }
+}

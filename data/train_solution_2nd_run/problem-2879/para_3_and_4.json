@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts demonstrate consistent use of commas and periods for sentence structure.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 is more formal with specific terminology related to media outlets, while Text 2 is informal with slang and strong language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 is structured with clear sentences and informational content. Text 2 is more conversational with shorter sentences and emotional expressions.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 is informative and directive in tone, focusing on guidelines. Text 2 is opinionated and critical, expressing personal views.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts show no significant spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality, tone, and style, the texts are likely to be written by different authors.",
+        "score": 0.62
+    }
+}

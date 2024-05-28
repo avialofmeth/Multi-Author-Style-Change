@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as quotation marks, brackets, and hyphens.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. The first text is formal and directive, while the second text is more informal and personalized.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures are quite different. The first text is structured with formal language and clear directives, while the second text is more conversational and contains a message about post removal.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two texts are distinct. The first text is a formal directive memo, while the second is a removal message from a forum moderator.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the writing styles of the two texts are quite distinct overall, with only slight similarities in punctuation usage. Therefore, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.48
+  }
+}

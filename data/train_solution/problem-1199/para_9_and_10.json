@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and periods in a similar manner. However, paragraph 1 includes more varied punctuation marks such as brackets and quotation marks, while paragraph 2 lacks these additional punctuation styles.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two paragraphs. Paragraph 1 uses more technical terms and specific jargon related to business and competition, while paragraph 2 has a more casual tone and simpler vocabulary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit relatively similar sentence structures in terms of complexity and length. However, paragraph 1 contains longer sentences with more clauses, while paragraph 2 consists of shorter, more straightforward sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles of the two paragraphs differ significantly. Paragraph 1 discusses a broader economic concept, while paragraph 2 focuses on a specific incident involving Starbucks workers. The tone and mood also vary, with paragraph 1 being more analytical and paragraph 2 more anecdotal.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and narrative styles, as well as punctuation usage, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.6
+    }
+}

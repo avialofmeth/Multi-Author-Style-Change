@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a mix of punctuation marks such as hyphens, commas, and periods, while Paragraph 2 mainly relies on commas and periods. The use and frequency of punctuation marks differ between the two texts.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes informal language and slang ('kinda fucked'), while Paragraph 2 maintains a formal and courteous tone. There is a significant difference in lexical choice and formality between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter and more fragmented sentences, lacking coherence and cohesion. In contrast, Paragraph 2 presents longer and more structured sentences with clear organization. The sentence structures vary widely between the two texts.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal and critical tone, discussing failures and drastic measures, whereas Paragraph 2 adopts a formal and instructive tone, outlining rules and consequences. There is a noticeable contrast in the narrative style and mood of the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate correct spelling and typographical accuracy without errors. There are no spelling or typographical discrepancies to consider.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author. The formal vs. informal tone, varying sentence lengths, and lexical choices indicate distinct writing styles.",
+    "score": 0.52
+  }
+}

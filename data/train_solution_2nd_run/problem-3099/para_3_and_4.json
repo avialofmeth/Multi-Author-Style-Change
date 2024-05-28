@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, the first text includes more complex punctuation such as colons and quotation marks, while the second text lacks these features.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and word usage between the two texts. The first text uses more formal language and economic terminology, while the second text discusses geopolitical events using simpler language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary in complexity, but the first text appears to have longer and more coherent sentences compared to the second text, which contains shorter, somewhat disjointed sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts. The first text is more analytical and focused on economic discussions, while the second text is more descriptive and anecdotal about a specific event.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choice, sentence structure, and narrative style, along with the lack of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and parentheses, whereas Paragraph 2 uses question marks and ellipses. There is a difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more technical and clinical language related to personality disorders, while Paragraph 2 uses more informal and direct language referencing political events. There is a notable difference in lexical and grammatical features.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively short and straightforward sentences. However, Paragraph 1 is more descriptive and Paragraph 2 is more direct in its questioning style. There are differences in sentence structure and quantitative features.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more narrative style with a specific example, while Paragraph 2 adopts a more confrontational and questioning tone. The narrative styles and speech events differ between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles, as well as the absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.36
+    }
+}

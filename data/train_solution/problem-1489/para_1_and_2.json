@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation with dashes and lack of formal punctuation like semicolons or em dashes.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual tone with simple vocabulary and grammar, as well as informal language.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are similar in sentence structure, demonstrating conversational styles and short to moderate sentence lengths.",
+    "score": 0.75
+  },
+  "feature4": {
+    "explanation": "Both texts convey a critical or questioning tone towards a shared topic, showing a similar mood.",
+    "score": 0.85
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were present in either text, indicating a consistent level of care in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the alignment in punctuation style, lexical features, sentence structure, discourse features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.8
+  }
+}

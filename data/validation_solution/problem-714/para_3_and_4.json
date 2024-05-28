@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas for punctuation, while Paragraph 2 uses commas and exclamation marks. The use of punctuation differs between the two texts.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains a mix of political and informal language with terms like 'Tea Party' and 'Wokeness,' while Paragraph 2 uses more neutral and formal language related to moderator applications. The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more direct sentences, while Paragraph 2 has slightly longer sentences with a call to action at the end. Sentence structure and quantitative features are somewhat different.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a critical tone towards Republicans, using phrases like 'big on labeling' and 'to rebrand those things,' while Paragraph 2 has a neutral and encouraging tone regarding moderator applications. The text and discourse features are quite distinct.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall confidence score for the likelihood of the two texts being written by the same author is low.",
+    "score": 0.38
+  }
+}

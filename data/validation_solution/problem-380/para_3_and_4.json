@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas and conjunctions similarly, contributing to a moderate level of similarity in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two paragraphs, indicating a lower level of similarity in this feature.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "While both paragraphs have varied sentence structures, the first paragraph appears slightly more complex in terms of sentence length and arrangement compared to the second paragraph.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ between the two paragraphs, with the first paragraph being more informal and opinionated while the second paragraph is more analytical in nature.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, showing consistency in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, there is moderate evidence to suggest that the two texts were not written by the same author, with some similarities in punctuation and absence of spelling errors, but notable differences in lexical choices, sentence complexity, narrative styles, and tone.",
+        "score": 0.56
+    }
+}

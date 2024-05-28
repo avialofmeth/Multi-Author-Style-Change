@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and quotation marks for direct speech, indicating a similarity in punctuation style.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Text 1 uses more formal language and structured sentences, while Text 2 is more casual with informal language and slang. There is a difference in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. There is a notable difference in sentence structure and quantitative features.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses a serious topic in a formal tone, whereas Paragraph 2 expresses a personal complaint in a more informal and emotional tone. There is a difference in narrative style and tone.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the texts show notable differences in lexical and grammatical features, sentence structure, and narrative style, but share similarities in punctuation style and lack of spelling errors. The overall confidence score is moderate due to the mix of commonalities and distinctions.",
+    "score": 0.64
+  }
+}

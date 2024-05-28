@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a mix of hyphens and no hyphens, while Paragraph 2 does not use any hyphens. Both paragraphs use commas, but the usage varies slightly.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of formal and informal language, but the lexical choice differs significantly. Paragraph 1 includes military terms, whereas Paragraph 2 discusses civilian events using slang terms.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more fragmented sentences, while Paragraph 2 contains longer, descriptive sentences. The sentence structures and lengths are notably different.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more formal, military narrative style, while Paragraph 2 adopts a casual, conversational tone. The narrative styles and mood are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

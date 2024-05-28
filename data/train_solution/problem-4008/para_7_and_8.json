@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks to indicate direct speech or citations. However, the first text uses more varied punctuation such as colons and parentheses in addition to quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text demonstrates a formal and legal tone with specific terminology related to international relations. The second text, on the other hand, is more informal and contains technical terms related to military actions. There is a significant difference in lexical and grammatical choices.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text consists of longer and more complex sentences, typical of formal writing, while the second text is more concise with shorter sentences and direct statements. The sentence structures and lengths differ substantially.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text presents a formal and authoritative narrative style, typical of official statements. In contrast, the second text is more descriptive and reports an event without the formal tone present in the first text. There is a clear distinction in narrative styles.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Upon considering all features, the likelihood that the two texts were written by the same author is low, as the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features outweigh the similarities in spelling and typographical accuracy.",
+        "score": 0.5
+    }
+}

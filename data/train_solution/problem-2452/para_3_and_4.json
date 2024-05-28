@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, brackets, and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show a similar level of lexical variation and word choice, using technical terms and straightforward language.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts have a similar sentence structure in terms of length and complexity, with clear and concise expression.",
+    "score": 0.75
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts are different, with one being informative and the other being automated, which may indicate different authors.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate, with some differences in narrative style.",
+    "score": 0.73
+  }
+}

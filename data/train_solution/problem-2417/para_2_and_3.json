@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens and commas for punctuation, but there are differences in the use of quotation marks and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is similarity in lexical variation and word choice, such as 'Russia' and 'Ukraine' being repeated in both texts, but differences in the overall vocabulary and grammatical structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "While both texts vary in sentence length and complexity, they differ significantly in coherence and cohesion. The first text seems more cohesive and structured compared to the second.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts discuss military-related topics, but the tone and mood differ. The first text has a more serious and analytical tone, while the second text is more historical and explanatory.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, coherence and tone, the texts are less likely to be written by the same author.",
+        "score": 0.52
+    }
+}

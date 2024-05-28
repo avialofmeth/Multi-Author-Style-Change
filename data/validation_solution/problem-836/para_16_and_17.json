@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods correctly and consistently. However, Paragraph 2 uses more varied punctuation marks such as hyphens and parentheses compared to Paragraph 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical choice and word usage between the two texts. Paragraph 1 focuses on academic language while Paragraph 2 uses more politically charged terms.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit different sentence structures with varying lengths and complexities. Paragraph 1 is more straightforward and concise, while Paragraph 2 is more complex and elaborate.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood of both texts differ significantly. Paragraph 1 is instructional and motivational, while Paragraph 2 is critical and accusatory.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five linguistic features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical choice, sentence structure, and tone.",
+        "score": 0.48
+    }
+}

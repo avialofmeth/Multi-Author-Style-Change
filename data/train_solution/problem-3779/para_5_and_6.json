@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks and exclamation marks in a similar way.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a certain level of informality in word choice and style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths are different in the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more opinionated and informal tone compared to the more neutral tone of Paragraph 2.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structures and slightly varied tones, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

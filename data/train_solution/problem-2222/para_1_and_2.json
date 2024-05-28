@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and parentheses, which indicates a consistent punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show similarities in terms of formal language use and sentence structure.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure and quantitative features are somewhat different in terms of complexity and length, impacting the overall coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features suggest a similarity in tone and mood, though there are differences in specific expressions and idioms used.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the commonalities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, the texts are moderately likely to be written by the same author.",
+        "score": 0.7
+    }
+}

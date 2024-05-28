@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles with hyphens, parentheses, and commas. The presence of brackets in one text and colons in the other does not significantly impact the overall punctuation similarity.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The texts exhibit a consistent level of lexical and grammatical features. Both use formal language and display a similar level of word choice and grammatical structure.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts maintain a comparable level of complexity, coherence, and cohesion. The sentence lengths and distributions are consistent across the texts.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a serious and analytical tone, focusing on discussing geopolitical issues. While the specific topics differ, the overall narrative styles and mood are aligned.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text, indicating a high level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, there is a high level of consistency between the two texts in terms of writing style. The similarities in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors suggest a high likelihood that the texts were written by the same author.",
+        "score": 0.88
+    }
+}

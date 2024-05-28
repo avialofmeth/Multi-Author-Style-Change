@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation such as commas and quotation marks. However, Paragraph 2 lacks the use of quotation marks around the statement attributed to Zelenskyy, unlike Paragraph 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a mix of complex and simple lexical and grammatical structures in both texts. Paragraph 2 uses more formal and technical language compared to Paragraph 1, which is more conversational.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and concise. Sentence structures are straightforward in both cases. Paragraph 1 has a direct speech event, while Paragraph 2 presents a plan of action.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and determined tone. Paragraph 1 focuses on a call to action, while Paragraph 2 emphasizes consequences for Russia's actions.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choices, and narrative focus, there are notable distinctions between the two texts that may suggest different authors. However, the lack of spelling errors and shared serious tone provide some common ground.",
+        "score": 0.72
+    }
+}

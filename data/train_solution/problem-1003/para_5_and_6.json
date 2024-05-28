@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas, while Paragraph 2 uses colons and parentheses. Both texts have a mixture of punctuation marks, but the specific types differ.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and contractions ('What do' instead of 'What does'). Paragraph 2 is more formal and structured with a greeting ('Hi SleepyKee'). Different lexical choices and grammatical structures are observed.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain short sentences. Paragraph 1 has fragmented sentences, while Paragraph 2 is more coherent and complete. Sentence structure and complexity vary between the two texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual, conversational tone with slang ('getting spanked'). Paragraph 2 is more formal and moderator-like in its approach ('Thank you for participating'). The narrative styles and tone are distinct.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors are present in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling/typographical errors, the texts exhibit notable differences in writing style, suggesting they are likely not written by the same author.",
+        "score": 0.64
+    }
+}

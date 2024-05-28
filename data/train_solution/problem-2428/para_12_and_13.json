@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as commas, colons, and quotation marks. However, there are differences in the specific usage of punctuation like hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical choice and word usage between the two texts, such as the use of specific terms like 'Russia' and 'Viktor Bout'. However, differences in word choice and grammatical structures are also present.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit similar sentence structures in terms of complexity and coherence. However, there are noticeable differences in sentence length and arrangement.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ between the two texts. One text focuses on military supplies while the other discusses suspicions around negotiating with a criminal. This indicates a difference in discourse features.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, with some commonalities in punctuation, sentence structures, and lexical choices but notable distinctions in narrative styles and tone.",
+        "score": 0.64
+    }
+}

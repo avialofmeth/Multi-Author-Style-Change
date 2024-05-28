@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with colons and commas in a structured manner, while Paragraph 2 lacks consistent punctuation and includes ellipses instead of proper punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates more formal lexical choices and grammatical accuracy, whereas Paragraph 2 shows informal and potentially less grammatically correct language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has coherent and structured sentences, while Paragraph 2 contains fragmented and less organized sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 uses a formal and informative tone, in contrast to the informal and potentially confusing tone of Paragraph 2.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, tone, and formality, the texts show notable disparities, indicating a low likelihood of being written by the same author.",
+        "score": 0.44
+    }
+}

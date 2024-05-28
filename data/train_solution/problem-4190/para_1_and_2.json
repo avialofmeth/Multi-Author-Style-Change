@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation consistently with commas, periods, and capitalization. Paragraph 2 lacks proper punctuation in terms of commas and has typographical errors (e.g., 'ahain' instead of 'again').",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and uses more formal language compared to the informal language and errors present in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has well-structured sentences with clear coherence and cohesion. Paragraph 2 has shorter, less complex sentences with typographical errors that impact readability.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal tone and follows a structured discourse style. Paragraph 2 lacks narrative structure and contains informal language.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 has no spelling or typographical errors. Paragraph 2 contains typographical errors (e.g., 'wete' instead of 'were', 'thrpugh' instead of 'through').",
+        "score": 0.6
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical usage, sentence structure, text features, and spelling errors, the writing styles of the two paragraphs show significant disparities, indicating a low likelihood of being written by the same author.",
+        "score": 0.5
+    }
+}

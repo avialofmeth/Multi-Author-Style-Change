@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize a similar punctuation style with the consistent use of commas and periods. However, Paragraph 1 includes a wider variety of punctuation marks like slashes, colons, and parentheses, while Paragraph 2 lacks this variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. Paragraph 1 uses more specific terms related to behavior and rules, while Paragraph 2 focuses on media outlets and subreddit guidelines. The word choice and grammatical structures vary significantly.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence structures in terms of clarity and coherence. The sentences are concise and straightforward, with a focus on conveying information efficiently. However, Paragraph 1 contains longer sentences compared to Paragraph 2.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The texts differ in their discourse features. Paragraph 1 adopts a more formal and instructive tone, emphasizing rules and guidelines. In contrast, Paragraph 2 adopts a more informative and directive tone, providing specific instructions for users. The narrative styles and speech events vary significantly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The overall assessment suggests that while there are some shared features in terms of punctuation style and absence of spelling errors, the texts exhibit significant differences in lexical, grammatical, and discourse features. This leads to a moderate level of confidence that the texts were not written by the same author.",
+        "score": 0.58
+    }
+}

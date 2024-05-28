@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 primarily uses parentheses and commas for additional information, while Paragraph 2 uses brackets and hyphens for side comments and digressions.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal tone with words like 'automatically' and 'concerns', while Paragraph 2 has a more informal, colloquial tone with words like 'idiots' and 'morons'. Different lexical choices observed.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a more straightforward structure, while Paragraph 2 has longer, more complex sentences with rhetorical questions and informal phrasing.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a neutral and informative style, typical of automated responses, while Paragraph 2 exhibits a critical and judgmental tone with sarcastic comments. Divergence in narrative styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors detected in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, discourse features, and the lack of spelling errors, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.42
+  }
+}

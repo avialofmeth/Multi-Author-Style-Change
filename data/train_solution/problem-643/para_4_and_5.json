@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of punctuation marks such as commas and full stops. However, there are differences in the specific punctuation used, with one text having more varied punctuation marks than the other.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical choice and word usage between the two texts, with a focus on technical terminology and descriptive language. However, there are also some distinctions in the vocabulary used, indicating potential differences in authorship.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit similar sentence structures with varying lengths and complexity. They also maintain coherence and cohesion within paragraphs. However, there are minor differences in sentence arrangement and word distributions that suggest a potential variance in authorship.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts are informative and explanatory, maintaining a serious and factual tone. While there are some common expressions and idioms used, there are also subtle differences in tone and mood that may indicate different authors.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit accurate spelling and typographical errors are minimal. This suggests a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are both commonalities and distinctions between the texts that suggest a moderate likelihood of being written by the same author. The average confidence score is 0.62.",
+        "score": 0.62
+    }
+}

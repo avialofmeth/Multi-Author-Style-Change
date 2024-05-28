@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of hyphens, while Paragraph 2 does not. Both paragraphs lack other common punctuation marks such as brackets, colons, and parentheses.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more informal and simplistic language compared to Paragraph 2, which contains more complex and formal language. This difference in lexical and grammatical features suggests a divergence in writing style.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence structures with short, direct sentences. However, Paragraph 2 shows a higher level of coherence and cohesion in comparison to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs display a somewhat similar tone of urgency or assertiveness. However, the use of idiomatic expressions differs between the two texts, indicating a potential difference in authorship.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are spelling errors in both paragraphs ('asaultrifles' in Paragraph 1 and 'ZuZpiciouZly' in Paragraph 2), suggesting a lack of attention to detail in writing.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the five features, there are notable differences in punctuation style, lexical and grammatical features, and spelling errors between the two paragraphs, indicating a lower likelihood of being written by the same author.",
+    "score": 0.4
+  }
+}

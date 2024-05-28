@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and it is consistently applied in the right context.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There is a difference in word choice and grammatical structures between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone, mood, and narrative style differ greatly between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in word choice, sentence structures, and narrative styles, it is unlikely that the two texts were written by the same author.",
+    "score": 0.56
+  }
+}

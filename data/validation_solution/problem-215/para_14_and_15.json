@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as commas and periods. However, Paragraph 1 includes more varied punctuation like hyphens and parentheses, while Paragraph 2 is more straightforward.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows more lexical variation and specific word choices related to a political situation, while Paragraph 2 is more generic as it is a bot response.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit differences in sentence complexity and length. Paragraph 1 has longer, more elaborate sentences, whereas Paragraph 2 is concise and to the point.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a conversational tone with specific references, while Paragraph 2 is a standard automated response lacking personal touch or unique expressions.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation styles, lexical choices, sentence structures, and tone, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

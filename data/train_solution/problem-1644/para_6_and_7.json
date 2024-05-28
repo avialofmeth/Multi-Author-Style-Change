@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of periods, commas, and apostrophes. However, the first text contains more punctuation errors like the double 'the' and missing apostrophes in 'Media' and 'its'.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show similarities in lexical and grammatical features such as informal language use and sentence structures. However, the second text has more grammatical errors like the lack of capitalization and incomplete sentences.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The texts share similarities in sentence structure and coherence. Both texts are concise and to the point. However, the second text is slightly less coherent due to the incomplete sentences.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts convey a similar tone of frustration and disagreement with a formal tone. However, the second text is more direct in expressing their opinion compared to the first text.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable similarities in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. However, differences in punctuation errors, grammatical mistakes, and coherence slightly lower the confidence in the texts being written by the same author.",
+    "score": 0.68
+  }
+}

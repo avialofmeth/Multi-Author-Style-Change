@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as hyphens, colons, and commas, albeit in different contexts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit some lexical and grammatical similarities in terms of word choice and sentence structure.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure and coherence between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly in the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different features, the overall confidence score is moderate.",
+        "score": 0.56
+    }
+}

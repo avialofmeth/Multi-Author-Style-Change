@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit inconsistent use of punctuation, including missing commas and periods.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show a lack of lexical sophistication and contain informal language and slang.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both paragraphs is relatively simple, with some grammatical errors and lack of cohesion.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey strong opinions and informal tone, but the topics and expressions used differ significantly.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are typographical errors in both texts, such as misspelled words and inconsistent capitalization.",
+    "score": 0.6
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in informal language, punctuation inconsistencies, and similar typographical errors, there is moderate confidence that the texts may be written by the same author despite differing topics and expressions.",
+    "score": 0.56
+  }
+}

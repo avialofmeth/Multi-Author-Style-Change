@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks consistently to enclose direct speech or citations.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts, with one focusing on autoimmune disorders and sensitivity, while the other emphasizes muscle stiffness.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary, with one text having longer sentences discussing symptoms and impacts, while the other is more concise and direct in describing the main symptom.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ in terms of narrative styles and focus, with one text providing a general overview and the other focusing on specific symptoms.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in lexical, grammatical, sentence structure, and discourse features between the two texts, the overall confidence in them being written by the same author is low.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, parentheses, and colons for punctuation. However, the first text seems to have more complex punctuation with multiple commas and clauses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similar lexical choices and word usage, such as 'healthcare suppliers' and 'life saving healthcare supplies.' However, the first text shows a slightly different word choice with terms like 'state within 25 years.'",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The first text has shorter sentences compared to the second text, which contains longer and more complex sentences. Both texts maintain coherence and cohesion in their arguments.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "While both texts express opinions and arguments, the tone in the first text is more speculative and global in nature, discussing the future of Russia as a state. The second text focuses on specific actions regarding healthcare suppliers in Russia.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation, lexical and grammatical features, and absence of spelling errors, along with some differences in sentence structure and discourse features, there is moderate confidence that the texts were written by the same author.",
+    "score": 0.64
+  }
+}

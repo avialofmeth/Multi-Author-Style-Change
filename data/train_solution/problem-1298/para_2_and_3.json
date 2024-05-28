@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and periods correctly, while Paragraph 2 has issues with incorrect use of apostrophes and missing commas.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit lexical variation and word choice, with unique phrases and vocabulary. Both also show grammatical errors such as subject-verb agreement issues and awkward phrasing.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences with better coherence and cohesion. Paragraph 2 has shorter, disjointed sentences with less flow and coherence.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a similar serious tone and mood, with a focus on military actions. However, the expressions and idioms used differ slightly.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the varying levels of similarity in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.72
+    }
+}

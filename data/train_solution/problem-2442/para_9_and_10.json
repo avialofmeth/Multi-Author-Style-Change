@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens to connect words, commas to separate clauses, and parentheses for additional information. However, the second text includes more complex punctuation like colons and quotation marks, which differ from the first text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There is some similarity in lexical and grammatical features between the texts, such as the use of specific terms like 'GOP/MAGA' and 'McCarthyites'. However, the second text exhibits a slightly higher level of lexical variation and word choice.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts are structured in coherent sentences with varying lengths. The second text displays slightly more complexity in sentence structure compared to the first text.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both texts convey a serious tone and discuss political matters. However, the second text introduces specific events and individuals, adding a layer of specificity not present in the first text.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the texts show some similarities in punctuation style, lexical and grammatical features, and coherence. However, the slightly higher complexity in sentence structure, word choice, and specificity in the second text indicate a moderate likelihood that they were written by the same author.",
+    "score": 0.68
+  }
+}

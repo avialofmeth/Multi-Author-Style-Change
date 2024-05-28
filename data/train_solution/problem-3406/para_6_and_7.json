@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a hyphen in 'stupid-expensive' while Paragraph 2 does not have any hyphens. Both paragraphs use commas appropriately in their sentences.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more informal language with phrases like 'just stupid expensive' compared to the more formal tone in Paragraph 2. Both paragraphs have varying lexical choices and grammatical structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have similar sentence lengths and structures, with coherent and cohesive expressions. They exhibit different quantitative features in terms of content focus but maintain consistency in sentence complexity.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses a negative tone towards nuclear energy, while Paragraph 2 presents a more positive outlook. However, both paragraphs exhibit clear narrative styles and speech events.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, sentence structure, and lack of spelling errors, along with the distinctions in tone and lexical choices, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.72
+  }
+}

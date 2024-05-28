@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation like colons and commas to structure the sentence. Paragraph 2 uses a more casual style with a hyphen and informal language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more technical language related to media outlets. Paragraph 2 uses provocative and informal language. Different lexical choices and word categories are observed.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with a formal tone and clear coherence. Paragraph 2 is more informal and fragmented, with shorter sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a professional, informative tone. Paragraph 2 has a more sensational and opinionated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the texts were written by the same author.",
+        "score": 0.4
+    }
+}

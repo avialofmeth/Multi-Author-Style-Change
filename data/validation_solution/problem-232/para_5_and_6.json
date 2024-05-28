@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation such as colons and commas in a structured manner. Paragraph 2 lacks such formal punctuation and seems more conversational.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and informative lexical and grammatical style related to statistical information. Paragraph 2 uses more colloquial language and shows a different lexical choice.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences due to the nature of statistical reporting. Paragraph 2 contains shorter and simpler sentences typical of conversational writing.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone. Paragraph 2 is more informal and conversational in nature.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.44
+  }
+}

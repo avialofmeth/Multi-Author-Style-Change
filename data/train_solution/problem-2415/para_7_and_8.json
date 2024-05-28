@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas in a similar style to Paragraph 2.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structure and coherence show a moderate level of similarity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "While the tone and mood differ, there are common expressions and idiomatic use that show some similarity.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the combination of features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

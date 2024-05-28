@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses and periods for punctuation, while Paragraph 2 uses commas and parentheses. There is some variation in punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal tone with consistent grammar and word choice. Paragraph 2, on the other hand, shows a more informal tone with regional dialect and specific vocabulary related to the Ojibwe language.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence lengths and coherence. However, Paragraph 2 includes more specific details about a personal experience, while Paragraph 1 focuses on a more general concept. The quantitative features are somewhat aligned.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two paragraphs. Paragraph 1 presents a more structured argument, while Paragraph 2 shares a personal anecdote. The tone and mood also vary, with Paragraph 1 being more formal and Paragraph 2 being more descriptive and personal.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.52
+  }
+}

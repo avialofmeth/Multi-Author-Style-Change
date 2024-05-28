@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks to indicate direct speech, indicating a similarity in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, suggesting a similarity in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short and straightforward sentences, contributing to a similarity in sentence structure and quantitative features.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text discusses military operations with a serious tone, while the second employs a more light-hearted tone with a cultural reference. Despite the difference in topics, both texts maintain a clear narrative style, indicating a moderate similarity in text and discourse features.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, suggesting a similarity in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, absence of spelling errors, and some level of coherence in text and discourse features, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

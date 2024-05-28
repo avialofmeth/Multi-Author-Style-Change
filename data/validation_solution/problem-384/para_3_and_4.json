@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation with periods and commas for clarity and structure. Paragraph 2 has a more casual and informal style with the use of abbreviations like 'idk' and incomplete sentences without proper punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with coherent sentences. Paragraph 2 shows a more informal and slang-rich lexicon with grammatical errors like missing subject pronouns.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences that contribute to a coherent narrative. Paragraph 2 features shorter, fragmented sentences with a less structured arrangement.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a serious and informative tone discussing financial pressures, while Paragraph 2 has a more casual and critical tone regarding labor exploitation.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and no typographical errors, indicating a similar level of care in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, the texts show notable disparities suggesting different authors. However, the absence of spelling and typographical errors aligns with a common writing standard. Therefore, the overall confidence score is moderate, indicating a likelihood of different authors.",
+    "score": 0.44
+  }
+}

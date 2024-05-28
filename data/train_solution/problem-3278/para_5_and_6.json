@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens, commas, and colons, but only paragraph 1 uses quotation marks and parentheses.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more informal and colloquial language compared to paragraph 2. Paragraph 2 is more formal in tone and choice of words.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and more fragmented sentences compared to paragraph 2 which has longer and more structured sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a casual and conversational tone with expressive language, while paragraph 2 is more factual and informative in nature.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is less likely that the two texts were written by the same author. However, the absence of spelling and typographical errors increases the likelihood slightly.",
+    "score": 0.52
+  }
+}

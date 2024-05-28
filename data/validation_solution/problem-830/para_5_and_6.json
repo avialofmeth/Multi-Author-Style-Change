@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas to separate clauses and list items, but the first text contains more commas than the second text.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, but the second text includes more specific economic terms compared to the first text.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The first text has longer sentences with more complex structures, while the second text is more straightforward and concise.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The first text discusses disparities in hotel rates, while the second text focuses on the economic situation in Portugal. Different topics and tones are evident.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure, topic, and tone, along with some similarities in punctuation and lack of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

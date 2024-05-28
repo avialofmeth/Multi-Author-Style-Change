@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, parentheses, and colons as punctuation marks. However, paragraph 1 shows more frequent use of these punctuation marks compared to paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a formal and structured lexical and grammatical style. While paragraph 1 contains legal and formal language, paragraph 2 is concise and straightforward, typical of automated responses.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with detailed information, while paragraph 2 is brief and to the point. The quantitative features differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a narrative style with a serious tone, focusing on legal matters. In contrast, paragraph 2 is a standard automated response, lacking narrative elements.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating careful writing or automated generation.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the likelihood of the two texts being written by the same author is moderate, with differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. The overall confidence score reflects this moderate likelihood.",
+        "score": 0.5
+    }
+}

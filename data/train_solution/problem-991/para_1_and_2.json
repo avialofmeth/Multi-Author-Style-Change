@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles with the presence of question marks and commas. However, the first text contains more varied punctuation marks like brackets and periods, unlike the second paragraph.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual tone with straightforward language. They both use informal language and contractions. However, the first text includes more complex sentence structures compared to the second one.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The first text shows a slightly higher level of sentence complexity and coherence compared to the second one. The first text also contains more varied sentence structures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts share a conversational tone and express opinions. However, the first text seems to have a more critical or questioning tone compared to the second text.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, and text and discourse features, along with the slight differences in sentence structure and tone, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

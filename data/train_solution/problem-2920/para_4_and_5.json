@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar punctuation style with consistent use of commas, periods, and quotation marks. However, the first text includes a colon and the second text includes hyphens. Overall, punctuation style is somewhat consistent.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is a mix of lexical and grammatical features in both texts, including varied vocabulary and sentence structures. The first text uses more specific terms related to the incident (e.g., 'migrants sleeping in tents,' 'sword attack'), while the second text focuses on the legal aspects of the case. Despite these differences, the overall lexical and grammatical features show some similarities.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts are relatively short and direct, providing factual information about the incident and the suspect. There are no major differences in coherence, cohesion, or sentence length. However, the first text contains more detailed information about the incident compared to the second text. Overall, there is moderate similarity in sentence structure and quantitative features.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Both texts follow a formal and factual narrative style, reporting on the events surrounding the suspect's release and the legal conditions imposed. The tone in both texts is neutral and informative, lacking emotional or opinionated language. While the specific content differs, the overall narrative style and tone are comparable.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts demonstrate moderate consistency in writing style, particularly in terms of punctuation style, lexical and grammatical features, sentence structure, narrative style, and absence of spelling errors. While there are some differences in specific vocabulary and content focus, the overall writing style suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.75
+  }
+}

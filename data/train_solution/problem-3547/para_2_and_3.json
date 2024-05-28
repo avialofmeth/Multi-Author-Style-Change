@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for list items and sentence structuring, while Paragraph 2 uses a hyphen for a compound adjective.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more formal language related to subreddit rules, while Paragraph 2 uses informal language with phrases like 'pinky swear'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in sentence structure with no complex constructions.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informative tone related to rules, while Paragraph 2 has a more humorous and satirical tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combination of features, the writing styles of the two paragraphs differ notably in punctuation style, lexical and grammatical features, and text and discourse features. There are similarities in sentence structure and absence of spelling errors. The overall confidence of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

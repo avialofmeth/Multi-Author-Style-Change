@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with the presence of colons, commas, and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similarity in lexical choices and word structures, such as 'questions,' 'media outlets,' 'approved domains list,' 'immigration,' and 'competing camps.'",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "While the sentence structures differ due to the nature of the content, there is coherence and cohesion in both texts. Both paragraphs are concise and to the point.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are distinct in the two texts, with one focused on subreddit guidelines and the other on political dynamics. However, both maintain a formal tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, lexical choices, and coherence, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

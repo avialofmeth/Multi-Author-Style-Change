@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal punctuation with minimal use of standard punctuation marks. It includes hyphens and no colons or semicolons.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit different lexical and grammatical features. Paragraph 1 contains informal language with colloquial expressions and abbreviations, while Paragraph 2 is more formal and structured.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts differ significantly. Paragraph 1 consists of shorter, fragmented sentences, while Paragraph 2 contains longer, more complex sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts have distinct text and discourse features. Paragraph 1 conveys a more conversational and opinionated tone, while Paragraph 2 adopts a formal and instructional style.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors apparent in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

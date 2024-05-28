@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks for direct speech, while Paragraph 2 does not use any direct speech punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal language with phrases like 'almost all of the food' and 'tiny amount'. Paragraph 2 has a more informal tone with phrases like 'Seems like a stretch' and 'failed twice'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively simple sentence structures with clear coherence. Paragraph 1 has a metaphorical question structure, while Paragraph 2 presents a critical assessment.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 uses a metaphorical question for comparison, indicating a reflective tone. Paragraph 2 adopts a critical and dismissive tone towards the subject.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

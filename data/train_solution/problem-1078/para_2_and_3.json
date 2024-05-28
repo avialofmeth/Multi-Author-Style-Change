@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize a variety of punctuation marks such as hyphens, brackets, colons, commas, and parentheses. However, the second text contains more complex punctuation usage with multiple parentheses and hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language, with the second text showing more informal and emotionally charged language. The lexical choices differ between the two texts, with the second text featuring more specific medical and economic terms.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity, with the second text containing longer and more descriptive sentences. The second text also shows a higher frequency of longer words and clauses.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text is more formal and instructional in tone, while the second text is more narrative and emotionally charged. The narrative styles and speech events differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, there are notable distinctions between the two texts. However, the absence of spelling and typographical errors increases the likelihood of a common author. The overall confidence score is moderate.",
+        "score": 0.56
+    }
+}

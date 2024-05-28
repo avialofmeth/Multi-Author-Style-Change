@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses. However, paragraph 1 incorporates parentheses within a sentence structure, whereas paragraph 2 uses parentheses at the beginning of the sentence.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes more complex and formal lexical choices compared to the straightforward and technical language used in paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts consist of relatively short and straightforward sentences with clear coherence. However, paragraph 1 displays slightly more complexity in sentence structure compared to paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a serious and formal tone, discussing political implications, while paragraph 2 adopts a neutral and technical tone as it indicates automated action.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

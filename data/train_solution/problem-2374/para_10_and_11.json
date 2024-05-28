@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas for listing and separating clauses, but only Text 1 uses a period in its abbreviation ('iirc').",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts contain formal language with precise terminology. Text 1 uses more informal language ('foreigners') compared to Text 2 ('demographic change').",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Text 1 has shorter sentences with direct information, while Text 2 includes longer sentences with more descriptive details. Both texts maintain coherence and logical flow.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more factual and straightforward tone, focusing on statistics. In contrast, Text 2 has a slightly more reflective tone discussing broader societal changes.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, text and discourse features, and lack of spelling errors, with some differences in lexical choices and sentence structures, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, colons, and parentheses, while Paragraph 2 mainly relies on commas for punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more complex vocabulary with words like 'despotism,' 'genocide,' and 'imperialist,' whereas Paragraph 2 has a simpler and more conversational tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a formal tone, while Paragraph 2 is shorter and more casual in structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood in Paragraph 1 are serious and condemnatory, focusing on a political issue, while Paragraph 2 has a light-hearted tone discussing language pronunciation.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, and tone, there is moderate evidence to suggest that the two texts were not written by the same author.",
+        "score": 0.46
+    }
+}

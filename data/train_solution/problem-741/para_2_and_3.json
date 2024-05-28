@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods. However, paragraph 1 includes more complex punctuation like colons and parentheses, which are not present in paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show a formal tone and use of specific vocabulary related to rules and guidelines. Paragraph 1 has more varied lexical choices due to the nature of its content, while paragraph 2 is more straightforward in vocabulary.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to paragraph 2. It also includes a higher frequency of rules and prohibitions which affect the coherence and cohesion. Paragraph 2 is more direct and concise.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts share a formal and instructional tone, typical of guidelines or rules. However, paragraph 1 focuses on behavior and consequences, while paragraph 2 is more specific about media outlets.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a consistent level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the overall confidence that the two texts were written by the same author is moderate.",
+        "score": 0.76
+    }
+}

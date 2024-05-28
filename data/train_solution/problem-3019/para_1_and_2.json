@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, quotation marks, and parentheses, although in different contexts. Text 1 uses hyphens in compound words and quotation marks for direct speech, while Text 2 uses quotation marks for sarcasm. The use of brackets and colons is specific to Text 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show lexical and grammatical variation, with different word choices and expressions. Text 1 includes informal language and personal opinion, while Text 2 contains more formal language and insults.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer sentences and more complex structures compared to Text 2. Text 2 is more direct and concise in its expression.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts express strong opinions and emotions, with Text 1 showing disappointment and criticism, while Text 2 displays frustration and name-calling.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and sentence structure, along with the similarities in expressing strong opinions and the lack of spelling errors, the likelihood that the two texts were written by the same author is moderate, but not high.",
+    "score": 0.62
+  }
+}

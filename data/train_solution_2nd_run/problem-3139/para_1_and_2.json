@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas for listing and separating clauses, indicating a similar punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical choices and word usage in the two paragraphs differ significantly, suggesting a low likelihood of the same author.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more direct sentences, while Paragraph 2 has longer, more elaborative sentences, indicating different sentence structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two paragraphs are markedly different, with Paragraph 1 being accusatory and Paragraph 2 being more neutral and informative.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the different lexical choices, sentence structures, and tone, along with the similar punctuation and lack of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.48
+  }
+}

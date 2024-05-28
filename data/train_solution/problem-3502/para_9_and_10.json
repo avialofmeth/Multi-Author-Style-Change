@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas, which are common punctuation marks. However, the first text includes colons and parentheses, while the second text does not.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text uses formal language with technical terms related to military operations, while the second text includes more informal language and specific names related to a guerrilla attack.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and to the point. The first text has a more descriptive narrative, while the second text reports a specific event.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text has a more neutral tone, focusing on factual information. In contrast, the second text has a more dramatic and urgent tone due to the nature of the reported event.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences in the writing styles of the two texts. The overall confidence score is moderate.",
+        "score": 0.64
+    }
+}

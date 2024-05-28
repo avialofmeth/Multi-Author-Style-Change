@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and parentheses for clarity and structuring sentences. Paragraph 2 lacks such consistent punctuation style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal lexical and grammatical style with proper word choice and grammatical structure. Paragraph 2 contains informal language and lacks the same level of grammatical precision.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a more structured and coherent sentence arrangement compared to the less organized and cohesive structure of Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, focusing on guidelines, while Paragraph 2 adopts a more opinionated and accusatory tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

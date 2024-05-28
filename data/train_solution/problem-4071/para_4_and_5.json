@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas more frequently compared to Paragraph 2. There is also a colon in Paragraph 1 which is absent in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in lexical choice and word usage. Paragraph 1 includes more informal language and contractions, while Paragraph 2 uses more formal and descriptive language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two paragraphs vary significantly. Paragraph 1 contains shorter, more straightforward sentences compared to the longer and more descriptive sentences in Paragraph 2.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "There is a distinct difference in tone and mood between the two paragraphs. Paragraph 1 has a more casual and conversational tone, while Paragraph 2 adopts a more formal and informative tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling and typographical errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.46
+    }
+}

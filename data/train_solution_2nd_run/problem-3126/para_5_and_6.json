@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 also uses some punctuation marks like commas and periods, but it includes more complex punctuation like colons and quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 is more straightforward and simplistic in word choice and structure, while Paragraph 2 includes more complex language and political terms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, concise sentences with a clear structure. In contrast, Paragraph 2 has longer and more convoluted sentences with varied structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and robotic tone, focusing on being helpful. Paragraph 2 expresses strong political opinions and uses hyperbolic language, indicating a different tone and mood.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors, displaying a similar level of correctness in this aspect.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and tone between the two paragraphs, the overall confidence score is moderate, indicating a likelihood that the texts were written by different authors.",
+    "score": 0.3
+  }
+}

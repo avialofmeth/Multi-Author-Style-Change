@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, colons, quotation marks, and parentheses, but the usage and frequency may vary.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Lexical choices and word usage differ between the texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure and length show differences, impacting coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The texts exhibit differing narrative styles and tones.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structure, and narrative style, there is moderate evidence to suggest that the texts may not have the same author.",
+    "score": 0.52
+  }
+}

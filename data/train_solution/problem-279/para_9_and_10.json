@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation with emojis and lack of proper capitalization. However, the first text includes more informal symbols like '@' and '...', while the second text uses more conventional punctuation marks like commas and periods.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal language with abbreviations ('ur', 'atleay'), lack of subject-verb agreement ('ur country having', 'Bet it has'), and non-standard spelling ('ppp dollars'). However, the second text shows slightly better adherence to standard grammar and vocabulary compared to the first text.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and contain informal language. The second text has slightly more complex sentence structures due to the use of numbers and technical terms. The first text is simpler in structure but more informal in style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts include informal expressions ('Bet', '🤷🏻‍♀️') and lack formal discourse markers. The second text, sourced from Wikipedia, maintains a more neutral tone compared to the first text, which includes personal opinions ('Bet it has').",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts contain spelling errors and non-standard abbreviations ('ur', 'atleay'). The first text has more typographical errors and inconsistencies in spelling compared to the second text.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts exhibit some commonalities in informal style and language but also show distinctions in terms of punctuation usage, grammar, and tone. The overall confidence score in the likelihood of the same authorship is moderate, reflecting the mix of similarities and differences.",
+    "score": 0.5
+  }
+}

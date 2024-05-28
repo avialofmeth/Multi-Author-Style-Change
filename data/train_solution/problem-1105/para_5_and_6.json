@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Text 1 uses informal language and profanity, while Text 2 is more formal and informative. Punctuation style differs significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Text 1 contains informal and colloquial language with strong emotions, while Text 2 is more technical and explanatory. Lexical and grammatical features are quite distinct.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "The sentence structures in Texts 1 and 2 are notably different in terms of complexity, coherence, and length. Text 1 shows more disjointed and emotional expression compared to the informative and structured nature of Text 2.",
+        "score": 0.15
+    },
+    "feature4": {
+        "explanation": "Text 1 has a confrontational and expressive tone with profanity, while Text 2 maintains a neutral and informative tone. Narrative styles and speech events vary significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in multiple linguistic features such as punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.31
+    }
+}

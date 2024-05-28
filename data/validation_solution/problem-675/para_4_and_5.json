@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and semicolons appropriately for punctuation, while Paragraph 2 lacks these and instead uses emojis for expression.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates formal word choice and structured sentences, while Paragraph 2 contains informal language, slang, and abbreviated forms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences with a cohesive structure, while Paragraph 2 has shorter, fragmented sentences with less cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal, analytical tone, while Paragraph 2 adopts a casual, colloquial tone with humor and emoticons.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a mix of punctuation marks like commas, parentheses, quotation marks, and colons. However, the first text has more formal punctuation due to its nature as an announcement or guideline, while the second text has a more informal style with parentheses and brackets used for side comments.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show a mix of lexical and grammatical features, with varying word choices and sentence structures. The second text is more conversational and opinionated compared to the first text, which is more informative and direct.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The first text consists of shorter and more straightforward sentences due to its instructional tone, while the second text has longer and more complex sentences with a more narrative style. This difference in sentence structure indicates a potential change in authorship.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The first text maintains a formal and neutral tone, typical of official announcements, whereas the second text has a more opinionated and informal tone, evident in phrases like 'A quick spin through Facebook comments confirms it, too.' The difference in narrative style and tone suggests a possible difference in authors.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors, indicating a similar level of attention to detail in terms of language use. The absence of errors does not provide a strong indicator of shared authorship.",
+    "score": 0.7
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there is a moderate level of inconsistency in writing style between the two texts, particularly in sentence structure, narrative style, and tone. While some punctuation and lexical features align, the differences in sentence complexity and tone suggest potential different authors. Therefore, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

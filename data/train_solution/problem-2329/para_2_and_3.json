@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and periods in a casual manner. Paragraph 2 includes a colon and uses commas for clarification.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes informal language, contractions, and specific jargon related to blockchain and cryptocurrency. Paragraph 2 is more formal and straightforward.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a mix of simple and complex structures. Paragraph 2 has longer sentences and is more structured.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a casual and conversational tone, including slang and emphasis. Paragraph 2 is more formal and directive in nature.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features between the two paragraphs, the likelihood of them being written by the same author is low.",
+    "score": 0.42
+  }
+}

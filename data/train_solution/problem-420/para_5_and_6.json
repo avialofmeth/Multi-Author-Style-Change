@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Different punctuation styles can indicate different writing habits or preferences, which may suggest different authors.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Variation in lexical choices and grammatical structures can provide insights into the author's writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures, coherence, and word distributions can reveal similarities or differences in writing styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Narrative styles, tone, and common expressions can be indicative of a consistent writing style.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Spelling and typographical errors may show consistency or inconsistencies in the author's attention to detail.",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "Considering the moderate strictness in scoring and the analysis of the linguistic features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

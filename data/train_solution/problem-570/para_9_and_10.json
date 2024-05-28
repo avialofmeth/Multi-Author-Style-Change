@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use various punctuation marks such as hyphens, colons, commas, and quotation marks. However, the specific usage and frequency of these punctuation marks differ slightly between the two texts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text includes more personal and emotionally charged vocabulary related to relationships and experiences, while the second text focuses on more technical and formal language related to government funding.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary between the two texts. The first text contains longer and more complex sentences with personal anecdotes, while the second text consists of shorter and more straightforward sentences discussing a specific issue.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts present different narrative styles and speech events. The first text is more reflective and personal, sharing experiences and emotions, while the second text is more analytical and focused on a specific situation.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no notable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. While there are some commonalities in punctuation and absence of spelling errors, the differences in lexical choices, sentence structures, and narrative styles suggest some stylistic disparity.",
+        "score": 0.64
+    }
+}

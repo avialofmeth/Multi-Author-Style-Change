@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of hyphens, quotation marks, and commas in a complex manner, while Paragraph 2 has a simpler punctuation style with only commas and exclamation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a mix of casual and formal language due to the narrative content, including specific terms related to the storyline. In contrast, Paragraph 2 uses a more casual tone without specific terms but with a focus on general comments.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences with detailed descriptions and events, while Paragraph 2 consists of shorter, more straightforward sentences expressing opinions.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a narrative style with a mix of dialogue and descriptive elements, showcasing a specific mood and tone. Paragraph 2 involves a different discourse style, focusing more on expressing gratitude and a preference for comments over lengthy explanations.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of obvious spelling and typographical errors, maintaining a similar level of correctness in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate due to differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features.",
+        "score": 0.46
+    }
+}

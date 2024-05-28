@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 utilizes punctuation marks like colons, commas, and parentheses, while Paragraph 2 primarily uses commas and question marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of formal and informal lexical choices. Paragraph 1 shows a more formal tone with specialized vocabulary related to subreddit guidelines, while Paragraph 2 contains more casual language with terms like 'interfered' and 'favor.'",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more structured sentences related to guidelines and criteria. In contrast, Paragraph 2 has longer, more complex sentences expressing opinions and questions.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs reflect a different discourse style - Paragraph 1 is instructional and informative, while Paragraph 2 is more narrative and expressive.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

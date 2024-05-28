@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 exhibits the use of commas, colons, and parentheses to separate and structure the information within the sentences. In contrast, Paragraph 2 lacks such punctuation complexity and utilizes simpler punctuation marks like periods and commas.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show a preference for concise and direct language. However, Paragraph 1 displays a higher level of lexical variation and word choice compared to Paragraph 2, which uses more straightforward and factual language.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a mix of clauses and phrases. On the other hand, Paragraph 2 consists of shorter, more straightforward sentences without much variation in structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style to describe a series of actions and events. In contrast, Paragraph 2 presents a direct statement without much elaboration, focusing on conveying information rather than storytelling.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate proper spelling and no typographical errors, indicating a similar level of attention to detail in written communication.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The analysis of the linguistic features suggests that while there are similarities in spelling and punctuation styles, the differences in lexical richness, sentence complexity, narrative approach, and overall tone indicate a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.5
+    }
+}

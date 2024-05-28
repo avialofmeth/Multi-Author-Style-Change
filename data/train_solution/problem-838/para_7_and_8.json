@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and quotation marks. However, the first text uses more hyphens and parentheses, while the second text includes colons and brackets. Overall, there are similarities in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical choices and word usage differ significantly between the two texts. The first text contains words like 'fascism' and 'Putin,' while the second text uses terms like 'propaganda' and 'superiority.' Grammatical categories and part of speech usage also vary noticeably.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts exhibit coherence and cohesion. However, the first text appears more complex with longer sentences, while the second text is more straightforward with shorter sentences. There are differences in sentence length and arrangement.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts display different narrative styles and tones. The first text conveys a critical and dismissive tone, while the second text adopts a more explanatory and neutral tone. The use of common expressions and idioms also varies between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either of the texts. Both texts are well-written without any mistakes in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, as well as narrative styles and tones, the confidence in the texts being written by the same author is low. However, the presence of common punctuation style and absence of spelling errors slightly increase the likelihood. Therefore, the overall confidence score is moderate.",
+        "score": 0.5
+    }
+}

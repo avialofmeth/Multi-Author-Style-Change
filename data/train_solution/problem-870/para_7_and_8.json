@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon for punctuation, while Paragraph 2 uses question marks and commas. Both paragraphs exhibit differences in punctuation style.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal tone with words like 'performed automatically' and 'concerns', while Paragraph 2 has a more informal and colloquial tone with phrases like 'absolutely nothing happens'. There are noticeable differences in lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter sentences compared to the longer and more complex sentences in Paragraph 2. The sentence structures and lengths differ significantly.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and informative tone related to bot actions, whereas Paragraph 2 conveys a pessimistic and casual tone discussing war. The narrative styles and mood vary greatly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, it is unlikely that the two texts were written by the same author. However, the lack of spelling and typographical errors slightly increases the possibility of a common authorship.",
+        "score": 0.46
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods correctly, but the first text lacks more advanced punctuation like colons and parentheses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts have a similar formal tone and use standard vocabulary without much variation. Sentence structures are also straightforward.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are short and to the point, with simple sentence structures and no complex arrangements.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal and polite tone, but the second text includes a more personalized greeting, which could be a distinguishing factor.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are similarities in writing style between the texts, but some distinctions in punctuation and greeting style may slightly lower the confidence level.",
+    "score": 0.64
+  }
+}

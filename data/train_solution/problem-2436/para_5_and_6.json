@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas for listing items and separating clauses, while Paragraph 2 lacks punctuation marks in places where they would be appropriate.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains some lexical and grammatical errors, such as 'vaccined' instead of 'vaccinated'. Paragraph 2 demonstrates a more formal and structured language typical of automated messages.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1's sentence structure is less coherent and cohesive, with shorter sentences and lack of clear transitions. Paragraph 2 is concise and straightforward in its sentence structure.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a sense of urgency and informality, while Paragraph 2 is detached and neutral in tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are spelling errors in Paragraph 1 ('vaccined') while Paragraph 2 is free of spelling mistakes.",
+    "score": 0.3
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the texts show noticeable disparities in writing style, suggesting they were likely not written by the same author.",
+    "score": 0.32
+  }
+}

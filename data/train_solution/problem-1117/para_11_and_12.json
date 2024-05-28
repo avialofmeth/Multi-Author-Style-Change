@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods. However, Paragraph 1 includes a hyphen, while Paragraph 2 does not. The presence of different punctuation marks may suggest a slight difference in style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show some differences in word choice and structure. Paragraph 1 contains more technical terms related to military operations, while Paragraph 2 has a more general tone. This variation indicates a potential difference in authorship.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit similar sentence structures in terms of length and coherence. However, the content and arrangement differ significantly, with Paragraph 1 focusing on a military offensive and Paragraph 2 discussing a recon unit. These differences suggest separate authors.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts diverge, with one focusing on military strategy and the other on after-action analysis. This discrepancy in tone and content points to distinct authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text, indicating a similar level of attention to detail in writing. This feature does not strongly indicate differences in authorship.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The overall assessment suggests that while there are some similarities in punctuation and spelling, the differences in lexical, grammatical, and text/discourse features outweigh the commonalities. The texts likely have different authors.",
+        "score": 0.54
+    }
+}

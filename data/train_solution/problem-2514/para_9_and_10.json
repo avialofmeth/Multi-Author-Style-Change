@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas and question marks, while Paragraph 2 includes hyphens and periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical choice, using phrases like 'freedom of association' and 'productive member'. Paragraph 2, on the other hand, includes more informal language with phrases like 'run by a devout republican'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively similar sentence lengths and coherence in their content. However, the structure and arrangement of the sentences differ slightly in terms of complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more argumentative tone with a focus on community rules and expectations, while Paragraph 2 discusses political affiliations in a more casual manner.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and tone in the two texts, along with some similarities in sentence structure and absence of spelling errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

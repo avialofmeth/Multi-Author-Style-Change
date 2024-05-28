@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as commas, periods, and parentheses, but the first text contains more parentheses and ellipses than the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features, including the use of informal language and contractions. However, the second text contains more technical terms related to politics.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts display a moderate level of sentence complexity and coherence. The second text is slightly longer and includes more detailed analysis.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts suggest a conversational tone, but the second text is more informative and analytical compared to the first text.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.69
+    }
+}

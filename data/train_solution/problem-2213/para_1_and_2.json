@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, slashes, and periods, while Paragraph 2 uses quotation marks and hyphens.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal and courteous tone with clear word choice, while Paragraph 2 has a more informal and direct tone with simpler language.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences focused on rules and consequences, while Paragraph 2 contains longer sentences reflecting on past actions and consequences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has an instructional tone emphasizing guidelines, while Paragraph 2 has a reflective tone discussing actions and outcomes.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show notable distinctions in writing style, indicating they are less likely written by the same author.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show similar punctuation styles with the use of hyphens, brackets, quotation marks, and commas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are some differences in lexical choices and grammatical structures between the two texts. For example, the misspelling of the actors' names in the second paragraph is a notable distinction.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts exhibit some similarities in terms of complexity and coherence. However, there are differences in the textual content and arrangement.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar narrative style, involving personal anecdotes or accounts. The tone and mood also show some consistency.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are typographical errors in both texts, such as misspelled names in the second paragraph.",
+        "score": 0.6
+    },
+    "overall": {
+        "explanation": "After considering all the features, the overall assessment suggests a moderate likelihood that the two texts were written by the same author, with some inconsistencies in lexical choices and typographical errors lowering the confidence level slightly.",
+        "score": 0.68
+    }
+}

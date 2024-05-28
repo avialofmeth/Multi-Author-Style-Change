@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, colons, and parentheses in a structured manner to provide additional information and clarify points. Paragraph 2 lacks such punctuation complexity, using mainly slashes and periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and descriptive lexical choice with phrases like 'higher education schemes' and 'English as a second language'. Paragraph 2, on the other hand, is more informal and direct in its word selection.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences, showcasing a higher level of coherence and cohesion. In contrast, Paragraph 2 consists of shorter and more straightforward sentences, lacking the same level of complexity.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss different topics and express distinct opinions, with Paragraph 1 focusing on education and language skills, while Paragraph 2 delves into sports and country participation. The tone and mood vary significantly between the two texts.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of written accuracy.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and sentence structure, along with the distinct text and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

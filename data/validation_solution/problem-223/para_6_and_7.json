@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods appropriately, although the second text includes a hyphen and the first text includes parentheses and a period followed by a question mark.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Text 2 includes more informal language and idiomatic expressions compared to the formal tone of Text 1. However, both texts exhibit similar grammatical structures and word choices.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Text 1 is a concise statement, while Text 2 is more descriptive and includes a metaphor. Both texts have coherent structures and similar sentence lengths.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Text 2 has a more expressive tone and includes a sarcastic remark, which differs from the straightforward and neutral tone of Text 1. However, both texts share a commonality in narrative style.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are similarities in punctuation style, sentence structure, and absence of spelling errors. However, differences in tone and lexical choices suggest some divergence. The overall confidence score is moderate.",
+    "score": 0.72
+  }
+}

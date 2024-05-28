@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, the first text includes a colon and quotation marks, whereas the second text does not. This difference in punctuation style suggests a slight divergence in writing style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a straightforward and concise writing style with no significant lexical or grammatical variations. The word choice and structure are similar, indicating a consistent writing pattern.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and length, both texts are brief and to the point. They lack complexity and exhibit a similar level of coherence and cohesion. This similarity in quantitative features points to a shared writing style.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The texts differ in their narrative styles and speech events. The first text expresses an opinion about being downvoted on Reddit, while the second text is a generic automated response. This discrepancy in tone and mood indicates a potential mismatch in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing a consistent level of attention to detail in writing. The absence of errors suggests a similar level of care in composition.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking into account the individual feature scores, the overall assessment suggests a moderate likelihood that the two texts were written by the same author, with some minor discrepancies observed in punctuation style and narrative tone.",
+        "score": 0.74
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit formal punctuation styles with the use of commas, periods, and quotation marks. However, Paragraph 2 shows a more casual tone with the use of contractions and lack of formal punctuation like colons and semi-colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choice and word usage between the two texts. Paragraph 1 uses formal language and specific terms related to government finance, while Paragraph 2 employs more colloquial language and abbreviations.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in Paragraph 1 are more complex and varied, with longer sentences and coherent organization. In contrast, Paragraph 2 consists of shorter, more fragmented sentences lacking cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions and express stances on political matters. However, Paragraph 1 maintains a formal and informative tone, while Paragraph 2 adopts a more opinionated and informal tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the overall confidence score is moderate, suggesting a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.62
+    }
+}

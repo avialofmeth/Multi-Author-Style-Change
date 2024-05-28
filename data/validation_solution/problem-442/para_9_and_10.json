@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit varied punctuation usage including commas, periods, and apostrophes. However, the second text includes more unconventional punctuation like double hyphens and misspellings of 'little bitty'.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of informal language and contractions. However, the second text contains more aggressive and informal language compared to the first.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The first text is straightforward and concise with a clear statement. In contrast, the second text is more complex, with longer sentences and a more casual tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text maintains a formal and neutral tone, indicating an informative or instructional style. The second text is emotional and confrontational, reflecting a different narrative style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors, maintaining a standard level of correctness.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the minor variations in emotional tone, the overall likelihood that these texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

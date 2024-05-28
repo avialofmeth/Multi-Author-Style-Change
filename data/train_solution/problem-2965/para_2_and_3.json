@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of parentheses and commas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some variation in word choice and sentence structure, indicating potential differences in authorship.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures differ significantly, with one being more formal and informational, and the other more informal and conversational.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features suggest different tones and styles, with one being more instructional and the other more personal.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text discourse features, along with some commonalities in punctuation style and absence of spelling errors, the overall likelihood of the same authorship is low.",
+    "score": 0.58
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks, commas, and periods correctly.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Texts show differences in lexical choice and tone. Paragraph 1 is formal and focused on political events, while Paragraph 2 is informal and personal.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2, which has shorter and simpler sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and formal tone related to political events, while Paragraph 2 has a casual and humorous tone expressing personal preference.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choice, tone, and sentence structure, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.64
+    }
+}

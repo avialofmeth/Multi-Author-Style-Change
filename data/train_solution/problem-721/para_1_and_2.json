@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with the use of colons, commas, and periods. In contrast, Paragraph 2 lacks the same structured punctuation, with a missing period at the end of the sentence and a hyphen in place of an apostrophe.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal and courteous language with specific terms related to community guidelines. In contrast, Paragraph 2 uses informal language with a specific mention of a lawyer and his rants, indicating a different lexical and grammatical style.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is a clear and coherent set of guidelines with balanced sentence structures. Paragraph 2 is a single sentence with a sarcastic tone, lacking the complexity and arrangement seen in Paragraph 1.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone related to community guidelines. In contrast, Paragraph 2 adopts a sarcastic tone with a specific reference to a legal situation, indicating a different narrative style and speech event.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, demonstrating a similar level of attention to detail in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone between the two texts, the likelihood of them being written by the same author is low. However, the absence of spelling and typographical errors provides a slight commonality. The overall confidence score is moderate.",
+        "score": 0.42
+    }
+}

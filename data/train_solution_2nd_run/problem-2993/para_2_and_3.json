@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more varied punctuation marks like colons, commas, and periods. It also includes a mix of quotation marks and parentheses. Paragraph 2, on the other hand, primarily uses periods and a question mark.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and structured lexicon, with phrases like 'genocidal campaign' and 'senseless loss of life.' Paragraph 2, in contrast, uses simpler and more conversational language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences with a focus on conveying detailed information. In comparison, Paragraph 2 consists of shorter, more straightforward sentences that aim to convey a personal perspective.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more aggressive and directive tone, urging action and showcasing a sense of urgency. Paragraph 2 takes a more reflective and contemplative approach, discussing the desires of individuals in a broader context.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate good spelling and typographical accuracy, without any noticeable errors in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable differences in the writing styles of the two paragraphs. The overall confidence score suggests a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.62
+  }
+}

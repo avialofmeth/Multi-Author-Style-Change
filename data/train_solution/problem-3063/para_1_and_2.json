@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation such as colons, commas, and periods. However, text 1 includes more instances of hyphens and parentheses compared to text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. Text 1 uses more specific and formal language compared to the more informal tone in text 2.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have clear and coherent sentence structures. Text 1 has longer sentences on average compared to text 2, which contains shorter and more direct sentences.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more formal and instructional tone with specific guidelines, while text 2 is more straightforward and serves as a quick reference for users.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the overall confidence score that the two texts were written by the same author is moderate, as there are both commonalities and distinctions in writing style.",
+    "score": 0.64
+  }
+}

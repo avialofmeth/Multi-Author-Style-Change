@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Paragraph 1 shows a formal and proper use of punctuation with colons, commas, and periods for sentence structure and clarity. Paragraph 2 lacks proper punctuation and contains informal language with missing punctuation marks.",
+      "score":0.3
+   },
+   "feature2":{
+      "explanation":"Paragraph 1 uses a more formal and professional tone with proper grammar and word choice. Paragraph 2 contains informal language with grammatical errors.",
+      "score":0.4
+   },
+   "feature3":{
+      "explanation":"Paragraph 1 has well-structured and coherent sentences. Paragraph 2 has shorter, fragmented sentences with a lack of cohesion.",
+      "score":0.2
+   },
+   "feature4":{
+      "explanation":"Paragraph 1 maintains a respectful and informative tone. Paragraph 2 contains confrontational language and lacks common expressions or idioms.",
+      "score":0.4
+   },
+   "feature5":{
+      "explanation":"Paragraph 1 shows no spelling or typographical errors. Paragraph 2 contains typographical errors ('thing' instead of 'think').",
+      "score":0.8
+   },
+   "overall":{
+      "explanation":"Overall, the linguistic features suggest that the two texts were likely not written by the same author due to significant differences in punctuation, tone, sentence structure, and grammar.",
+      "score":0.42
+   }
+}

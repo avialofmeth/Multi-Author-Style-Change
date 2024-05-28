@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, quotation marks, and periods. However, paragraph 1 contains more informal punctuation like ellipses and lacks the use of colons or semicolons, which are present in paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show similarities in terms of vocabulary complexity and sentence structures. Both texts use a mix of simple and complex sentences, but paragraph 1 includes more informal language and idiomatic expressions compared to the formal tone of paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts vary in complexity and length, contributing to overall coherence. However, paragraph 1 tends to have longer sentences with more detail, while paragraph 2 emphasizes concise and clear sentences. The overall arrangement and flow differ slightly due to the narrative styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of discourse features, paragraph 1 adopts a more narrative and anecdotal style, focusing on a specific event and personal experience. In contrast, paragraph 2 presents a general rule for behavior with a formal tone. The tone and mood differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and typographical accuracy without any errors. There are no notable differences in spelling or typographical errors between the two texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderately high. While there are some distinct differences in punctuation style, lexical choices, sentence structures, and discourse features, the absence of spelling errors and some shared characteristics suggest a moderate level of consistency in writing style.",
+        "score": 0.64
+    }
+}

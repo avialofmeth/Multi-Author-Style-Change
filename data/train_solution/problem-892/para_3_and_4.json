@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a consistent use of punctuation marks like commas, quotation marks, and periods to convey the author's message clearly. In contrast, Paragraph 2 lacks such consistent punctuation usage and shows a more casual style.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a formal and structured use of language with a focus on conveying a specific message clearly. In contrast, Paragraph 2 displays a more informal and colloquial tone with simpler language choices.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences that contribute to a coherent and cohesive narrative. On the other hand, Paragraph 2 contains shorter and less structured sentences, impacting the overall coherence and flow.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more formal and informative tone, utilizing expressions related to sports and teamwork. In contrast, Paragraph 2 employs a more casual and conversational tone with references to personal experiences.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors, maintaining a standard level of correctness in written language.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features between the two texts, indicating a lower likelihood of being written by the same author. However, the absence of spelling and typographical errors in both texts contributes to a higher overall confidence score.",
+        "score": 0.42
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show a similar use of punctuation marks such as commas, colons, and parentheses. However, Paragraph 1 uses a wider variety of punctuation marks (e.g., slashes, hyphens) compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. Paragraph 1 uses more formal language and specific terminology related to rules and violations. In contrast, Paragraph 2 focuses on media outlets and subreddit criteria, using different vocabulary.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts are clear and coherent, with straightforward language. Paragraph 1 has longer sentences focused on providing guidelines, while Paragraph 2 consists of shorter, more direct sentences for instructions.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a formal tone and a direct style of communication. They are instructional in nature, providing guidelines and information to the reader. However, the topics differ significantly, impacting the overall similarity in discourse features.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing. The language used is professional and error-free.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, and the variation in topic and content, the overall confidence score is moderate. The punctuation style and sentence structure similarities contribute to a slightly higher likelihood of the same authorship, while the distinct lexical choices reduce the overall confidence.",
+    "score": 0.62
+  }
+}

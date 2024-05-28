@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show a consistent use of punctuation marks such as commas, periods, and exclamation marks. However, there are differences in the specific punctuation used, like hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit informal language and colloquial expressions. They also share a tendency to use abbreviations ('wtf', 'ok'). However, there are differences in the specific lexical choices and grammatical structures.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more complex in sentence structure with longer sentences and a higher level of coherence. Paragraph 2 is less structured with shorter sentences and more abrupt shifts in topic. This indicates a difference in the quantitative features and coherence between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a passionate tone and informal style, with strong opinions expressed. However, the specific narrative styles and speech events differ significantly, with one focusing on historical information and the other on personal experiences and frustrations.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of spelling and grammar.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles, the likelihood that the two texts were written by the same author is moderate due to the shared informal tone and style. However, the differences in content and structure suggest potential different authors.",
+        "score": 0.58
+    }
+}

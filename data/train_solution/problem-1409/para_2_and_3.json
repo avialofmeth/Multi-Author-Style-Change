@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of consistent punctuation usage, including missing commas and periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show lexical variations and word choices that suggest a similar style, including informal language and unique word combinations.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are somewhat disjointed and lack cohesion, with varying lengths and arrangements.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts have a similar tone and mood, reflecting a critical or questioning stance towards political situations.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no distinctive spelling or typographical errors that stand out in either text.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

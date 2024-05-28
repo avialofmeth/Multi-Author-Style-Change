@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display similar usage of punctuation marks such as commas and apostrophes. However, the first text uses more varied punctuation marks like colons and quotation marks, while the second text includes hyphens and informal punctuation like 'Fuckin'.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual and informal tone with some colloquial expressions. However, the first text uses more varied and complex vocabulary, while the second text contains more direct and straightforward language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, the first text appears to have longer and more complex sentences with better coherence and cohesion. On the other hand, the second text consists of shorter and more fragmented sentences with a less organized structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts share a critical and frustrated tone towards political issues. However, the first text focuses on the actions of a specific group while the second text expresses anger towards a political figure. The narrative styles and speech events differ between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The overall likelihood that the two texts were written by the same author is moderate, considering the differences in punctuation style, vocabulary, sentence structure, and narrative focus. The absence of spelling errors increases the confidence slightly.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as commas, periods, and parentheses. However, paragraph 1 predominantly uses commas to separate ideas within sentences, while paragraph 2 includes more colons and periods for listing and emphasizing points.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical and grammatical features. Paragraph 1 focuses on technical terms related to renewable energy and land use, while paragraph 2 includes more informal language and abbreviations. Grammatically, paragraph 1 uses more complex structures with conditional statements, whereas paragraph 2 has simpler sentence structures.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, paragraph 1 contains longer sentences with multiple clauses, contributing to a more detailed and cohesive narrative. Paragraph 2, on the other hand, consists of shorter sentences with direct statements, leading to a less complex and more straightforward discourse.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two paragraphs. Paragraph 1 maintains a neutral and informative tone, focusing on presenting facts and possibilities. In contrast, paragraph 2 adopts a more conversational tone with a hint of argumentation and personal opinion, revealing a distinct narrative style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

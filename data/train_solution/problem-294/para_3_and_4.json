@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with the presence of colons, commas, and quotation marks, but differ in the use of hyphens and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features. The first paragraph uses more formal language related to guidelines, while the second paragraph uses informal language with specific references like 'old man Murdoch'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts differ significantly. The first paragraph is more straightforward and informational, while the second paragraph is more elaborate and narrative-driven.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features vary greatly between the two texts. The first paragraph is formal and instructional, while the second paragraph is more opinionated and critical.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the texts show more differences than similarities in writing style, indicating a lower likelihood of being written by the same author.",
+    "score": 0.48
+  }
+}

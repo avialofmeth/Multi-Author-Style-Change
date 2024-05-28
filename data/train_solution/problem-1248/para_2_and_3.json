@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a formal and structured punctuation style with the appropriate use of commas, colons, and parentheses, while Paragraph 2 lacks this formality and uses fewer punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical lexical and grammatical style, focusing on specific terms related to media outlets. In contrast, Paragraph 2 has a more informal and emotional word choice with terms like 'maddening,' 'whiny,' and 'petulant.'",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences related to providing information and instructions, while Paragraph 2 consists of shorter, emotionally charged sentences. The sentence structures and lengths differ significantly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and formal tone appropriate for guidelines, while Paragraph 2 exhibits a more emotional and critical tone towards an individual. The narrative styles and speech events vary between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, showing a similar level of correctness in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the texts show notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, indicating a low likelihood of being written by the same author. The high similarity in spelling and typographical error avoidance slightly increases the overall confidence score.",
+        "score": 0.44
+    }
+}

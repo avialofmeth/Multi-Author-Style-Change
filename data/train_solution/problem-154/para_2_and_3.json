@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon, commas, and a hyphen, while Paragraph 2 uses quotation marks and a comma.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more complex vocabulary and structures, mentioning 'Reptilians', while Paragraph 2 focuses on industry representatives and cannabis companies.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is shorter and more direct compared to the longer and more detailed Paragraph 2.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal and speculative tone with the reference to 'pesky Reptilians', while Paragraph 2 has a formal and factual tone discussing the impact of a bill.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, tone, and formality, the texts are less likely to be written by the same author.",
+    "score": 0.48
+  }
+}

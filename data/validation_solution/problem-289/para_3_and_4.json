@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and parentheses, while paragraph 2 uses a hyphen and an apostrophe. Different punctuation usage.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language related to media outlets, while paragraph 2 uses more informal language referring to the GOP and legislative efficiency. Different lexical and grammatical features.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively short and straightforward sentences. Paragraph 1 is more structured due to its instructional nature, while paragraph 2 is a single sentence with a casual tone. Different sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is formal and instructional, while paragraph 2 has a more casual and opinionated tone. Different text and discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score is moderate, indicating differences in writing style.",
+    "score": 0.4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and quotation marks.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features, with the first text being more formal and the second text showing more informal language and slang.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "While both texts are coherent, the sentence structures differ significantly in complexity and length.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The discourse features, including narrative styles and tone, differ notably between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, there are notable differences in writing style between the two texts, indicating a lower likelihood of being written by the same author.",
+    "score": 0.62
+  }
+}

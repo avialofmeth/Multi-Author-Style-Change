@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and apostrophes, while Paragraph 2 uses colons and commas.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and grammatical errors, while Paragraph 2 demonstrates a more formal and structured approach.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences with errors in coherence, while Paragraph 2 has longer, structured sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a defensive and accusatory tone, while Paragraph 2 uses a more analytical and critical tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were noted in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and tone, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.38
+    }
+}

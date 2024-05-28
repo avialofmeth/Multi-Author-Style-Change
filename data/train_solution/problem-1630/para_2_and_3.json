@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, commas, and parentheses. Paragraph 2 lacks these varied punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and complex lexical and grammatical style with phrases like 'ad nauseam' and 'mischievous or libelous works'. Paragraph 2 is more straightforward and informational.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with multiple clauses. Paragraph 2 consists of shorter, simpler sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more formal and argumentative tone discussing historical context. Paragraph 2 has a direct and instructional tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without obvious spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.44
+  }
+}

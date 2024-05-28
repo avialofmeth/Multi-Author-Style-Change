@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods while Paragraph 2 uses colons and commas. The punctuation styles differ significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language and slang ('give a fuck'), while Paragraph 2 uses formal language. The lexical and grammatical features are quite distinct.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with complex structures, while Paragraph 2 has shorter, more straightforward sentences. The sentence structures and quantitative features are noticeably different.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a critical tone towards media owners, while Paragraph 2 discusses a specific event with a neutral tone. The text and discourse features differ in style and mood.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the texts exhibit significant differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features. The lack of spelling errors is not sufficient to indicate a shared authorship. Therefore, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.36
+  }
+}

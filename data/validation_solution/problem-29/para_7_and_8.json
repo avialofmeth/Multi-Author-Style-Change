@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas for listing and separating clauses, but paragraph 1 includes more colons and quotation marks compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, with a focus on specific political terms. In contrast, paragraph 2 contains more informal and emotionally charged language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is composed of shorter and more straightforward sentences, while paragraph 2 features more complex sentence structures and emotional intensity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss political events, but paragraph 1 maintains a neutral and informative tone, whereas paragraph 2 is characterized by a more dramatic and accusatory tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

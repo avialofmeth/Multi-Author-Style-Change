@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas, periods, and capitalization, while Paragraph 2 lacks proper punctuation and uses informal language like 'bullshit.'",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays a more formal and structured lexical choice, whereas Paragraph 2 contains informal language and lacks lexical variation.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a more complex sentence structure and shows coherence, while Paragraph 2 has shorter, fragmented sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more narrative style with clear expression, while Paragraph 2 has a direct and informal tone with profanity.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that these texts were written by the same author.",
+        "score": 0.48
+    }
+}

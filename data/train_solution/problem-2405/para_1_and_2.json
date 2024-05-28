@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses correct punctuation with commas and periods, while Paragraph 2 contains errors such as missing commas and incorrect use of apostrophes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similar lexical and grammatical features, including informal language use and errors in subject-verb agreement.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have similar sentence structures with moderate complexity, coherence, and cohesion.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts show a tendency towards informal and argumentative tones, suggesting a potential similarity in authorship.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Paragraph 2 displays more spelling and typographical errors compared to Paragraph 1, which affects the overall writing style consistency.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in lexical and grammatical features, sentence structures, and narrative styles, along with some variations in punctuation style and spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.66
+  }
+}

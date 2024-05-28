@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and ellipses, while Paragraph 2 does not. Both paragraphs use commas for listing items.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more varied vocabulary with words like 'funded', 'nurtured', 'KGB', 'momentum', 'sneaky SOB'. Paragraph 2 has simpler language with words like 'under', 'surface'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively short sentences, but Paragraph 1 includes more complex structures with clauses and details.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more opinionated and informal tone with phrases like 'sneaky SOB'. Paragraph 2 is more neutral and descriptive.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in vocabulary, sentence complexity, and tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

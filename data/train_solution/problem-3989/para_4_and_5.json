@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses in a similar manner for additional information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the two texts, with distinct word choices and styles.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two texts vary significantly, with differences in complexity and arrangement.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "There are notable differences in narrative styles and tone between the texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, the overall confidence score is moderate.",
+        "score": 0.5
+    }
+}

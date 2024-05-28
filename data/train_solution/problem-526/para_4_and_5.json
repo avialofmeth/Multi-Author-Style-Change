@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "The punctuation styles in both texts exhibit differences - Paragraph 1 is more formal with correct punctuation usage, while Paragraph 2 has informal punctuation and the use of 'LOL', indicating a casual tone.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features - Paragraph 1 shows a more formal and structured language use, whereas Paragraph 2 contains colloquial language and slang, showing a more casual tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary - Paragraph 1 has longer and complex sentences compared to the shorter and simpler sentences in Paragraph 2, indicating differences in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ - Paragraph 1 conveys a more serious tone discussing the consequences of damming up creeks, while Paragraph 2 has a casual and dismissive tone towards wildfires, showcasing distinct narrative styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in both texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

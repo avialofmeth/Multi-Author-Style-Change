@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Text 1 uses hyphens, commas, and quotation marks. Text 2 uses commas and periods. Both texts demonstrate different punctuation styles.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Text 1 contains informal language and slang ('gives a shit'), while Text 2 is more formal in tone. The lexical and grammatical features diverge significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 is shorter and more fragmented, with abrupt transitions. Text 2 is longer and more coherent. The sentence structures and quantitative features differ notably.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text 1 has a critical, sarcastic tone, using informal expressions. Text 2 is informative and neutral in tone. The narrative styles and speech events are dissimilar.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the divergence in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles, it is unlikely that the two texts were written by the same author.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas in a precise manner for listing and providing information. Paragraph 2 does not exhibit similar punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a formal and structured lexical and grammatical choice, using technical language related to media outlets. Paragraph 2 uses more informal and descriptive language related to poverty and living conditions.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and focused on providing guidelines, with shorter sentences. Paragraph 2 is more descriptive and includes longer sentences discussing poverty and life conditions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and directive in tone, focusing on subreddit rules. Paragraph 2 has a more persuasive and narrative tone, discussing the positive outcomes of poverty alleviation.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.5
+    }
+}

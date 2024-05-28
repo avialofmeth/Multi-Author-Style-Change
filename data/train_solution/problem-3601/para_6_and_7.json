@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods. However, there are differences in the specific punctuation used (e.g., hyphens, brackets, colons).",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in the lexical choices and word usage in both texts, especially regarding the topic of Israel and Palestine. However, there are variations in the grammatical structures and part of speech usage.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts show some similarities in terms of coherence and word distribution. However, there are differences in sentence complexity and length.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts share common expressions related to the conflict between Israel and Palestine. The tone and mood also exhibit similarities in terms of conveying a critical perspective. However, there are differences in narrative styles and speech events.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no notable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, with some commonalities in punctuation style, lexical choice, text features, and absence of spelling errors, but noticeable distinctions in grammatical structures and sentence complexity.",
+        "score": 0.64
+    }
+}

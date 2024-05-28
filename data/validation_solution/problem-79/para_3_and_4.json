@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for list enumeration and sentence structure. Paragraph 2 uses commas for clause separation. Both paragraphs demonstrate a similar level of punctuation usage.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language related to subreddit rules. Paragraph 2 uses a more informal language related to a crime. The lexical and grammatical features are different due to the topic disparity.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains a longer sentence with list details. Paragraph 2 contains a shorter sentence emphasizing a point. The sentence structures differ significantly in length and style.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has an informative tone related to rules. Paragraph 2 has a more accusatory tone related to a crime. The discourse features and tone are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs show correct spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Given the differences in lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains informal punctuation with the use of hyphens, commas, and informal abbreviations like 'lol'. Paragraph 2, on the other hand, uses formal punctuation like colons and brackets.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more informal language and abbreviations ('lol'), while Paragraph 2 is more formal and structured in terms of lexicon and grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more fragmented sentences with informal language ('Roof is collapsing, lol!'), while Paragraph 2 has longer, more structured sentences related to guidelines and criteria.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more conversational and informal tone with expressions like 'lol'. Paragraph 2 maintains a formal and directive tone related to subreddit guidelines.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse features, the texts exhibit notable variations that suggest different authors. However, the absence of spelling and typographical errors provides a commonality. The overall confidence score in the likelihood of the same author is moderate.",
+    "score": 0.44
+  }
+}

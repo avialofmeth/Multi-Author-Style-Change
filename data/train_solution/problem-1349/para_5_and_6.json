@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like periods and commas, whereas Paragraph 2 contains non-standard punctuation like parentheses and commas for listing items within a phrase.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is more formal and structured in terms of lexical choice and grammar, while Paragraph 2 shows informal language and a lack of grammatical correctness.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward, but Paragraph 1 is more coherent and structured in sentence arrangement compared to the disjointed nature of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and automated tone, typical of bot-generated content, whereas Paragraph 2 displays a more opinionated and informal tone with slang ('lmao').",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, as well as tone and coherence, the likelihood of these texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

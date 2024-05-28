@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including hyphens, commas, and periods. However, the first text uses more informal punctuation like 'damn' and lacks quotation marks seen in the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text uses more informal language ('damn long') compared to the second text, which has a more formal tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have similar sentence structures in terms of length and coherence. However, the first text is more straightforward and lacks the complexity seen in the second text.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "There are differences in text and discourse features. The first text is more direct and to the point, while the second text expresses surprise and speculation.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences and similarities in punctuation, lexical and grammatical features, sentence structure, and text and discourse features, there are notable distinctions that suggest different authors, leading to a moderate confidence level in the texts being written by the same author.",
+        "score": 0.62
+    }
+}

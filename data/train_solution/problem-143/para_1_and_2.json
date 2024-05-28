@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains a mix of punctuation marks such as commas, periods, and quotation marks, but with inconsistent usage and some unconventional placements. Paragraph 2, on the other hand, demonstrates a more formal and standard use of punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a casual tone with a mix of colloquial language and unconventional word choices. In contrast, Paragraph 2 maintains a formal and respectful lexical and grammatical style.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows varying sentence lengths, occasional run-on sentences, and abrupt shifts in narrative events. Paragraph 2, however, presents coherent and structured sentences with appropriate length and organization.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a storytelling narrative with elements of humor and informal language. Paragraph 2, in contrast, provides clear guidelines in a formal and directive tone.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 contains several typos and spelling errors, such as 'peepaw' instead of 'grandpa' and 'bush light' instead of 'Bud Light'. In comparison, Paragraph 2 is free from spelling and typographical mistakes.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors between the two paragraphs, the likelihood of them being written by the same author is low.",
+        "score": 0.22
+    }
+}

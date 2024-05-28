@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks and commas effectively, while Paragraph 2 utilizes ellipses and hyphens. There are differences in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a formal tone with technical vocabulary related to nuclear weapons, while Paragraph 2 has a more casual tone with words related to personal traits. There are significant differences in lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, structured sentences with an informative style, whereas Paragraph 2 has shorter, more fragmented sentences with a narrative tone. There are notable disparities in sentence structure and quantitative features.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and authoritative tone discussing nuclear weapons, while Paragraph 2 conveys a more speculative and personal opinion. There is a clear distinction in text and discourse features.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text, indicating a similarity in this aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, alongside the similarity in spelling and typographical errors, the overall confidence score for the likelihood that the two texts were written by the same author is low to moderate.",
+        "score": 0.42
+    }
+}

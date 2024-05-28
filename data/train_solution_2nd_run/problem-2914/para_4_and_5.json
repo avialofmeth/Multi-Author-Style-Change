@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit similar use of punctuation marks such as commas and periods, but differ in the specific punctuation used (e.g., colons in Paragraph 2).",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two paragraphs due to the varying topics discussed, leading to inconsistencies in word choice and grammatical structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "While both paragraphs are coherent in their presentation of information, they differ significantly in sentence structure and quantitative features, with Paragraph 2 being more detailed and descriptive compared to the more concise nature of Paragraph 1.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two paragraphs differ greatly, with Paragraph 1 focusing on a specific event of theft while Paragraph 2 provides a broader timeline of events.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no notable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the varying degrees of similarity and dissimilarity in the identified features, the overall confidence score is moderate.",
+    "score": 0.5
+  }
+}

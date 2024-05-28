@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal punctuation like slashes and lack of proper punctuation in certain instances.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts have a similar level of lexical and grammatical features, with informal language and similar word choices.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have simple sentence structures and are relatively short in length.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles are different in the two texts; one is a personal observation while the other is a prediction. However, the tone and mood in both texts are casual and conversational.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all the features and their scores, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

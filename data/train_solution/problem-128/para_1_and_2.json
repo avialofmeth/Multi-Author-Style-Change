@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods. However, the first text utilizes a wider range of punctuation marks including hyphens, colons, and apostrophes, while the second text mainly relies on commas and periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts demonstrate a formal and structured style. The vocabulary used in both texts is appropriate for the context, with no significant differences in word choice or grammatical categories observed.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are clear and concise. While the first text contains longer sentences with varying complexity, the second text is more straightforward with shorter sentences. Both texts exhibit coherence and cohesion in their presentation.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Regarding text and discourse features, the first text adopts a more formal and informative tone related to political discussions, whereas the second text maintains a neutral and instructional tone specific to subreddit guidelines. The narrative styles and speech events differ between the two texts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a high level of attention to detail in writing. There are no observable mistakes in terms of spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the assessment of each feature, the overall likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation style, lexical and grammatical features, and absence of spelling errors, but notable differences in narrative styles and discourse features.",
+        "score": 0.72
+    }
+}

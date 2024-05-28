@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, commas, and parentheses, while Paragraph 2 uses hyphens, commas, and no other punctuation marks. There are differences in the use of punctuation that may indicate different writing styles.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes formal language with terms like 'approved domains list and outlet criteria', whereas Paragraph 2 contains more informal language with terms like 'c-spam rules' and 'SoH allows broadcast'. There are distinct differences in lexical choices and word usage.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. The sentence structures and lengths differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone, focusing on subreddit rules, while Paragraph 2 seems to discuss specific rules related to broadcasting with a more technical tone. The narrative styles and tones vary between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the lack of spelling errors, the overall confidence score is moderately low, indicating that the two texts are likely not written by the same author.",
+    "score": 0.44
+  }
+}

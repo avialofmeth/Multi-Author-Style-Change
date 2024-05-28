@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for punctuation, while Paragraph 2 uses hyphens, a colon, and no commas. Some variation but not significant.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of casual and formal language. They both include technical terms ('approved domains list,' 'Suicide Hotline') and more informal elements ('pro tip,' 'wear slippers'). Some similarities in lexical and grammatical features.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences compared to the shorter, more direct sentences in Paragraph 2. This difference in sentence structure and length could indicate different authors.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informational tone, while Paragraph 2 adopts a more informal and advisory tone. The narrative styles and speech events differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The different sentence structures and narrative styles between the two paragraphs suggest a lower likelihood of being written by the same author. However, the consistency in spelling and punctuation styles, as well as some shared lexical features, indicate a moderate possibility of a common author. Considering all features, the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

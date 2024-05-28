@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and colons in a formal and structured manner. Paragraph 2 contains commas and quotation marks in a more conversational tone.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show varied lexical choices and word usage, but Paragraph 2 includes more informal language due to the nature of the content.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured with clear sentence arrangements, while Paragraph 2 has a mix of sentence lengths and structures.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs exhibit a formal tone with different narrative styles \u2013 Paragraph 1 is informative, while Paragraph 2 is more conversational.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts show some commonalities in formal tone and lack of errors. The overall confidence score for similarity in authorship is moderate.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of punctuation marks like commas and periods, but Text 2 contains more informal and emotive punctuation like exclamation points and profanity.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of formal and informal language. Text 2 includes more informal and colloquial expressions compared to Text 1.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 has a more structured and formal sentence arrangement, while Text 2 has shorter sentences with more direct language and emotional tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts have a direct and opinionated tone, but Text 2 is more emotive and aggressive in its expression compared to the neutral tone of Text 1.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of different features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.54
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a casual and informal punctuation style with the use of hyphens, commas, and profanity. However, the first text includes more formal punctuation marks like colons and parentheses compared to the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts use informal language and profanity, indicating a similarity in lexical choice. However, the grammatical structures differ slightly, with the first text showing slightly more complexity in sentence structure.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text contains longer and more structured sentences compared to the second text, which is more fragmented and less coherent. This difference in sentence structure impacts the overall coherence and cohesion between the texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a casual and informal tone with the use of profanity. However, the first text discusses geopolitical events, while the second text focuses on a different context, affecting the narrative style.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering all the features, there are notable similarities in the informal style, profanity use, and attention to detail in terms of spelling. However, differences in sentence structure, coherence, and topic context suggest a moderate likelihood that the texts were written by the same author.",
+        "score": 0.66
+    }
+}

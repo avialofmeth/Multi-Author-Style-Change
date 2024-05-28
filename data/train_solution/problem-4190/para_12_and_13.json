@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons, parentheses, and commas for list items and additional information. Paragraph 2 uses hyphens for compound adjectives and parentheses for clarifications.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal and technical language related to media outlets and subreddit rules. Paragraph 2 uses informal language with specific references to individuals and events.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a single complex sentence with a clear directive. Paragraph 2 is a complex sentence with multiple clauses and shifts in focus.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informative tone. Paragraph 2 has a more casual and critical tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts have no noticeable spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and tone, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

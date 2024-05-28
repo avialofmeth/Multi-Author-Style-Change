@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 also includes commas and ellipses for stylistic effect.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and straightforward lexical and grammatical style. Paragraph 2 exhibits a more informal and colloquial word choice and sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of clear and coherent sentences. Paragraph 2 has shorter, more fragmented sentences with a different structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a neutral and automated tone. Paragraph 2 expresses a more informal and direct tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and tone, the texts are likely written by different authors. However, the consistent punctuation style and absence of spelling errors show some similarities.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, commas, and colons for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Distinct differences in lexical and grammatical features, with Text 1 focused on technical descriptions and Text 2 on personal advice.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer and more complex sentences compared to Text 2. Text 2 has simpler sentence structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a narrative style with descriptive details, while Text 2 presents a direct opinion. Tone and mood differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.58
+    }
+}

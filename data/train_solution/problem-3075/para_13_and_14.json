@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 only uses periods. There is a difference in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes specific political terms and informal language, while Paragraph 2 is more generic and formal due to being an automated message. There is a difference in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more complex sentence structures and uses informal language, while Paragraph 2 is straightforward and lacks complexity due to its automated nature. There is a difference in sentence structure and quantitative features.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses a prediction and informal tone, while Paragraph 2 is a standard automated response. There is a difference in text and discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the lack of spelling errors, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

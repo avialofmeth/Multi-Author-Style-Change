@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as hyphens, colons, and commas, although their usage may vary slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts, with one focusing on nuclear technology and the other on geopolitical risks.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ significantly due to the nature of the topics discussed.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The texts exhibit different narrative styles and tones, with one being more technical and the other more speculative and cautionary.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, it is unlikely that the two texts were written by the same author.",
+        "score": 0.5
+    }
+}

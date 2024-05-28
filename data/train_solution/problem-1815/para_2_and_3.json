@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, colons, and hyphens for punctuation. Paragraph 2 also uses commas and hyphens but lacks colons and parentheses.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit formal word choice and grammatical structures. However, the lexical variation in paragraph 2 is more focused on political terms compared to paragraph 1.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a more structured and formal sentence arrangement. Paragraph 2 contains longer and more complex sentences with a different focus on coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone. In contrast, paragraph 2 expresses a strong opinion and emotional charge, highlighting different narrative styles and mood.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The linguistic features show some similarities in punctuation usage and formal language but also significant differences in sentence structure, tone, and focus. Based on the analysis of all features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.58
+  }
+}

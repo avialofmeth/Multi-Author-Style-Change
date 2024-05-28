@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal and unorthodox punctuation with inconsistent use of commas and periods. The text also includes non-standard abbreviations ('b.' instead of 'be'). Paragraph 2, on the other hand, maintains standard punctuation and does not exhibit the same informal style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more colloquial and informal lexicon, including slang terms like 'kaline' and non-standard language ('Make America great again you b.'). Paragraph 2 follows a formal and courteous tone with standard vocabulary and grammar.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, fragmented sentences lacking coherence and structure. It also includes repetitions ('cigarette hanging out of his mouth'). Paragraph 2 is more organized with longer, coherent sentences and a clear structure.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a casual and nostalgic narrative style with informal expressions ('Make America great again'). In contrast, Paragraph 2 emphasizes respectful discourse and rules for engagement without any informal language.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, maintaining a consistent level of correctness in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexicon, sentence structure, and narrative style, there is a low likelihood that the two texts were written by the same author. The distinct variations in writing style and tone contribute to this assessment.",
+    "score": 0.36
+  }
+}

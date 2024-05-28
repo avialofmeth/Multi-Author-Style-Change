@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation such as colons and parentheses, while paragraph 2 uses informal punctuation like ellipses and quotation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs a more formal and technical lexical choice, whereas paragraph 2 includes more casual and conversational language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more structured sentences compared to the shorter and less organized sentences in paragraph 2.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and informational tone, while paragraph 2 has a speculative and conversational tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all the features, the texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, pointing towards different authors. The lack of spelling errors is a minor commonality.",
+        "score": 0.46
+    }
+}

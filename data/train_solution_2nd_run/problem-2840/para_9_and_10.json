@@ -1,0 +1,26 @@
+{
+   "feature1": {
+       "explanation": "Paragraph 1 uses hyphens and a hyphenated compound adjective 'Russian invaders.' Paragraph 2 lacks the use of hyphens.",
+       "score": 0.3
+   },
+   "feature2": {
+       "explanation": "Both paragraphs display a formal and factual tone, using military-related vocabulary and proper nouns. However, paragraph 2 includes a specific name 'Anatoliy Shtefan,' which is absent in paragraph 1.",
+       "score": 0.5
+   },
+   "feature3": {
+       "explanation": "Both paragraphs are concise and direct in their structure. Paragraph 1 contains a compound sentence, while paragraph 2 is a simple sentence. The overall structure and length vary slightly.",
+       "score": 0.4
+   },
+   "feature4": {
+       "explanation": "Both paragraphs present information in a straightforward manner without expressive or emotional elements. Paragraph 2 includes a reference to a source, adding a journalistic aspect.",
+       "score": 0.6
+   },
+   "feature5": {
+       "explanation": "There are no spelling or typographical errors in either paragraph.",
+       "score": 1
+   },
+   "overall": {
+       "explanation": "Considering the combined analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there are some similarities but also notable differences between the texts. The overall confidence score is moderate.",
+       "score": 0.56
+   }
+}

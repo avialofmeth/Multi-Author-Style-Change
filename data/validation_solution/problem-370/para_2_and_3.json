@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use colons and commas for punctuation. However, the first paragraph uses hyphens and parentheses, while the second paragraph uses none of these punctuation marks.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit formal word choice and grammatical structures. However, the second paragraph contains specific lexical choices related to refugee numbers and government actions that are not present in the first paragraph.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in sentence structure. However, the second paragraph has a slightly higher complexity due to the inclusion of specific numbers and actions.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a formal tone and provide information. However, the first paragraph is more instructional, while the second paragraph presents a news-like narrative.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.68
+  }
+}

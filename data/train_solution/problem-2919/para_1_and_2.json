@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with the presence of colons, commas, and periods. However, Paragraph 1 includes more specific punctuation marks like slashes, hyphens, and parentheses, which are not present in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone in language choice, focusing on rules and guidelines. They both use similar grammatical structures and vocabulary. However, Paragraph 1 includes specific terms like 'shill,' 'troll,' 'hate speech,' which are absent in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are concise and straightforward in sentence structure. They maintain a similar level of coherence and cohesion. However, Paragraph 1 is more directive and explicit in its instructions, while Paragraph 2 is more informative.",
+    "score": 0.75
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal and informative tone. Paragraph 1 focuses more on setting rules and consequences, while Paragraph 2 provides guidance on specific actions to be taken. They share a common style in terms of clarity and directness.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a good level of attention to detail in writing. The language used is consistent and error-free.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.77
+  }
+}

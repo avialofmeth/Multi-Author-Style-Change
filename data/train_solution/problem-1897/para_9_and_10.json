@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and numbers in a similar manner.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The vocabulary and word choice differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured and informative, while Paragraph 2 is more conversational and speculative.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more formal and factual, while Paragraph 2 is more casual and uncertain.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the different scores across features, there are notable differences in writing style between the two texts. The average confidence score is moderate, indicating a likelihood that they were written by different authors.",
+    "score": 0.66
+  }
+}

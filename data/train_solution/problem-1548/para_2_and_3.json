@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use punctuation consistently and appropriately, including hyphens, commas, and quotation marks.",
+    "score": 0.85
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical and grammatical features with a focus on formal language and structured sentences.",
+    "score": 0.75
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features are somewhat different in terms of complexity and length, impacting the overall coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The texts differ in narrative styles and tone, where one is more explanatory and analytical while the other is more descriptive.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the five features, there are some similarities in punctuation and grammar, but differences in sentence structure and narrative styles reduce the likelihood of the same author.",
+    "score": 0.72
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and parentheses for additional information and asides, while Paragraph 2 does not exhibit such punctuation usage.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more informal and conversational tone with phrases like 'that shit' and 'irl murder'. In contrast, Paragraph 2 maintains a formal and instructional tone with terms like 'media outlets' and 'approved domains'. This difference in lexical and grammatical features suggests distinct writing styles.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Both paragraphs vary in sentence structure and length. Paragraph 1 contains longer, more complex sentences with multiple clauses, while Paragraph 2 features shorter, more direct sentences. The quantitative features and coherence differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Narrative styles and speech events in the two paragraphs diverge: Paragraph 1 discusses societal norms and media influence on violence, while Paragraph 2 focuses on subreddit guidelines and media outlets. The tone, idioms, and expressions used are distinct, indicating different purposes and contexts.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, showing a shared proficiency in this aspect of writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the shared absence of spelling errors, the overall confidence in the likelihood of the two texts being written by the same author is low.",
+    "score": 0.34
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of commas and periods for sentence structure.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of complex and simple sentence structures, as well as a variety of vocabulary and word choices.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with more complex ideas, while paragraph 2 is more straightforward and concise.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a narrative style discussing political figures, while paragraph 2 sets rules for behavior. Different tone and content.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in narrative style, tone, and content between the two texts, as well as some differences in sentence structure, the overall confidence score is moderate.",
+        "score": 0.66
+    }
+}

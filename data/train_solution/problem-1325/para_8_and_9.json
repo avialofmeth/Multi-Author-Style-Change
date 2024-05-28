@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain unique punctuation choices such as hyphens, commas, and quotation marks, which may indicate a similar style of punctuation usage.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts, such as word choice and sentence structure, suggesting potential different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features vary significantly between the texts, with different levels of coherence and word distribution, indicating different writing styles.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the texts differ greatly, with one focusing on weather and the other on a political meeting, pointing to different authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text, indicating a similar level of attention to detail in this aspect.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score that the texts were written by the same author is moderate due to differences in lexical and grammatical features, sentence structures, and narrative styles.",
+        "score": 0.46
+    }
+}

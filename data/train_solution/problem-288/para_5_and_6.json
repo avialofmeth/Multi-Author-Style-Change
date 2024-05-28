@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit unique punctuation styles with the use of colons, parentheses, and informal expressions like 'Buuuuut'.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show differences in word choice and tone, indicating potential variations in writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly between the two texts in terms of complexity and coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone vary greatly between the texts, suggesting distinct authorial voices.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation styles, lexical and grammatical features, sentence structures, narrative styles, and tone, along with the absence of spelling errors, the overall confidence score is moderate.",
+    "score": 0.46
+  }
+}

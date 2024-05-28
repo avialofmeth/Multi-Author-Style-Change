@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more informal punctuation like question marks and ellipses, while Paragraph 2 is more formal with periods and commas.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more casual tone and uses simpler language compared to the slightly more technical language in Paragraph 2. Both show variation in word choice.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter sentences with more casual phrasing, while Paragraph 2 has longer, more structured sentences related to technical topics.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss economic topics, but the tone and focus differ. Paragraph 1 is more questioning and informal, while Paragraph 2 is explanatory and factual.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the texts show some similarities in informal language and topic but also notable distinctions in tone and formality.",
+    "score": 0.54
+  }
+}

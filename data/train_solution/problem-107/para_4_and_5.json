@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like commas and parentheses, while Paragraph 2 employs a non-standard form with excessive capitalization and lack of proper punctuation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and proper word choice and grammatical structure. Paragraph 2 employs informal language with misspellings and non-standard grammar.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has well-structured sentences with clear coherence. Paragraph 2 has fragmented and incoherent sentences.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone. Paragraph 2 uses slang and informal expressions with a negative tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is free from spelling and typographical errors. Paragraph 2 contains deliberate misspellings for stylistic effect.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical features, sentence structure, discourse style, and intentional misspellings, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.22
+    }
+}

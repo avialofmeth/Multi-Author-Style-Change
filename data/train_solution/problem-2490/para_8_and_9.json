@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and bc (because) as informal punctuation, while Paragraph 2 uses commas and periods in a more standard way. Both texts lack complex punctuation or unique features.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal language with contractions (bc for because) and lack of formal vocabulary. They both have a conversational tone.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are concise with short sentences. Paragraph 1 has a slightly longer sentence, but overall, they share a similar sentence structure in terms of length and simplicity.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses a critical opinion with strong language ('ridiculous,' 'altered,' 'for profit healthcare system'), while Paragraph 2 lists negative consequences without expressing a direct opinion. Different narrative styles and tones are present.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in both texts.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the features analyzed, while there are some similarities in punctuation, lexical features, and sentence structure, the differences in narrative style and tone significantly affect the overall likelihood of the texts being written by the same author.",
+    "score": 0.54
+  }
+}

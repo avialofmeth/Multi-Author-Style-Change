@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, parentheses, and forward slashes, while Paragraph 2 uses hyphens and colloquial language but lacks other punctuation marks like parentheses and forward slashes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and technical lexicon, focusing on energy research and industrial development. In contrast, Paragraph 2 uses informal language and slang terms.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with cohesive elements, while Paragraph 2 features shorter and more fragmented sentences with a lack of cohesion.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a positive and future-oriented tone, discussing innovation and hope. In contrast, Paragraph 2 uses negative language and focuses on past actions in a critical manner.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and no typographical errors, maintaining a similar level of writing proficiency.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score suggests a moderate likelihood of the two texts being written by the same author.",
+    "score": 0.6
+  }
+}

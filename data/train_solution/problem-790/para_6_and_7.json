@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and a colon, while Paragraph 2 does not contain any of these specific punctuation marks. However, both texts are devoid of other punctuation marks like parentheses, brackets, and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a straightforward and simple lexical and grammatical style with no significant variation or complexity in word choice or grammatical structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both paragraphs are relatively short and lack complexity in sentence arrangement. They also exhibit similar coherence and cohesion levels.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a narrative style with a specific event described, while Paragraph 2 is a generic statement indicating a bot performing an action. However, both lack idiomatic expressions and share a neutral tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The overall assessment indicates some commonalities in punctuation style, lexical and grammatical features, sentence structure, and absence of spelling errors, but variations in narrative style and speech events. The moderate level of strictness used in scoring leads to a moderate confidence score.",
+        "score": 0.64
+    }
+}

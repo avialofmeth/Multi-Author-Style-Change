@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses hyphens and commas appropriately for punctuation. However, paragraph 2 lacks proper punctuation and uses an incorrect apostrophe in 'it's'.",
+      "score": 0.7
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 demonstrates a formal and informative tone with specific vocabulary related to the topic. In contrast, paragraph 2 shows a more informal tone with errors in grammar and word choice.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 is structured with clear sentences and coherent organization. On the other hand, paragraph 2 lacks coherence and has disjointed sentence structures.",
+      "score": 0.5
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 maintains a neutral and factual narrative style. In contrast, paragraph 2 exhibits a defensive and confrontational tone, indicating a different discourse style.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "Both texts are free from spelling and typographical errors.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts are unlikely to be written by the same author despite sharing error-free spelling and typographical accuracy.",
+      "score": 0.58
+   }
+}

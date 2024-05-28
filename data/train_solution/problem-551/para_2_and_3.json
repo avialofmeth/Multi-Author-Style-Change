@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation like colons and commas for clarity and organization, while Paragraph 2 lacks proper punctuation and uses unconventional symbols like ampersands and hyphens.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style with clear word choice and sentence structure. Paragraph 2 includes informal language, wordplay, and unconventional terms.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows straightforward sentence structures and a formal arrangement of ideas. Paragraph 2 displays a more playful and creative sentence structure with wordplay and humor.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative discourse style. Paragraph 2 uses a more casual and conversational tone with humor and sarcasm.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts exhibit notable disparities in writing style, suggesting they are unlikely to be written by the same author.",
+        "score": 0.34
+    }
+}

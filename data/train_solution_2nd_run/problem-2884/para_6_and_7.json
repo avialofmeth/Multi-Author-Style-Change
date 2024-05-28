@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows consistent use of punctuation marks such as commas and periods in a conventional manner. In contrast, paragraph 2 uses hyphens, commas, and a lack of periods in a somewhat unconventional manner.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses a more formal and structured lexical and grammatical style with specific terms related to humanitarian aid. Paragraph 2 contains more informal language and specific terms related to military activities.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of one coherent sentence listing humanitarian aid items. Paragraph 2 is a fragmented sentence mentioning different events without clear coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a neutral and informative tone focusing on aid delivery. Paragraph 2 conveys a more intense and urgent tone related to military actions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there are notable distinctions indicating different authors. However, the absence of spelling errors contributes to a slightly higher likelihood of the same author. Therefore, the overall confidence score is moderate.",
+    "score": 0.44
+  }
+}

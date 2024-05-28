@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens to denote ranges of years (-50000 to -10000, -10000 to -4000).",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features, such as the use of numbers, average lifespans, and the structure of sentences.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Both texts have a quantitative focus, presenting calculations and numbers in a coherent manner. The sentence structure is straightforward and analytical.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and analytical tone, devoid of expressive or narrative elements.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, quantitative focus, and absence of spelling errors, there is a high likelihood that the two texts were written by the same author.",
+        "score": 0.85
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and question marks, but differ in the use of hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in word choice and lexical variation in terms of informal language use. However, differences in specific vocabulary choices may indicate different authors.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and straightforward, but the overall coherence and cohesion differ due to the contrasting tones and moods.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey a sense of pessimism and resignation, albeit in slightly different tones. The use of idiomatic expressions may hint at a common author, but the overall narrative style differs.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of multiple features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.62
+    }
+}

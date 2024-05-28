@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the presence of hyphens, brackets, and commas. Both texts also use parentheses for additional information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text contains more formal and descriptive language related to legal and social issues. In contrast, the second text uses more colloquial language and slang. This indicates a difference in word choice and style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary significantly. The first text has longer, more complex sentences, while the second text has shorter, more direct sentences. This difference in sentence structure suggests a divergence in writing style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts exhibit different tones and moods. The first text conveys a more serious and critical tone towards a specific issue, whereas the second text adopts a more casual and impassioned tone. This disparity in tone indicates a difference in narrative styles.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, along with the similarities in punctuation style and absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses to provide additional information and clarify certain terms. However, only Paragraph 2 uses brackets for similar purposes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on technical terms related to refugee assistance, while Paragraph 2 includes terms specific to hosting and settlement. Both texts exhibit different lexical choices and word usage based on their respective topics.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of straightforward sentences detailing a specific policy, while Paragraph 2 includes more descriptive and narrative elements. The sentence structures and lengths vary significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents information in a formal and informative tone, whereas Paragraph 2 adopts a more welcoming and persuasive tone. The discourse features and narrative styles differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the lack of spelling errors, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

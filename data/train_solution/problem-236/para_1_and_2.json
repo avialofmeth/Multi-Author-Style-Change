@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation with consistent use of commas, periods, and colons.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show slight differences as Paragraph 1 focuses more on rule enforcement language while Paragraph 2 addresses specific guidelines.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features are somewhat different as Paragraph 1 includes a list of prohibited actions while Paragraph 2 provides a directive to review a list.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text and discourse features vary significantly due to the different contexts of the paragraphs.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and discourse features, the texts are likely not written by the same author, but punctuation and absence of spelling errors provide some commonality.",
+    "score": 0.64
+  }
+}

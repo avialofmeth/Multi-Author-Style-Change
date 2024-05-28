@@ -1,0 +1,1 @@
+You don't need to recall every camera (a unique private key can be trivially generated on each device), but you're correct in principle: certificate revocation in general is a real-world problem, and we're talking monitoring the integrity of billions of devices.

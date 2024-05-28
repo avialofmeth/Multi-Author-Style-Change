@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and commas for punctuation. However, the first text uses more parentheses while the second text uses more hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use formal language with clear word choices. The first text includes terms like 'coerced' and 'Abrams', while the second text uses 'announced' and 'training'. Both texts exhibit a similar level of lexical and grammatical formality.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have a mix of sentence lengths, with a combination of short and longer sentences. The first text contains more complex sentence structures with clauses, while the second text is more straightforward. However, both maintain coherence and cohesion.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text has a more narrative style, indicating a sequence of events, while the second text presents information in a more direct manner with specific dates. The tone in both texts is informative. There are differences in narrative styles, but similarities in tone.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.74
+    }
+}

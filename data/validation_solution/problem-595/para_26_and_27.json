@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display consistent punctuation styles with the use of hyphens, parentheses, and colons. However, the first text contains more casual punctuation like missing spaces after colons and lacks proper capitalization.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts exhibit similarities in vocabulary choice and sentence structures, including informal language and abbreviations. However, the second text demonstrates a slightly higher level of formality and complexity compared to the first.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "While both texts show coherence and cohesion in their discussions, the second text has longer and more complex sentences with a clearer organization of ideas. The first text appears more disjointed and lacks a consistent flow.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Regarding text and discourse features, both texts convey a similar tone of informal discussion. However, the second text demonstrates a more structured argument with references to historical events and geopolitical strategies, while the first text appears more conversational and direct in its expression.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "In terms of spelling and typographical errors, both texts are relatively free from major mistakes. However, the first text contains more informal language and abbreviations that may be perceived as errors in a formal context.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are noticeable similarities in punctuation style, lexical and grammatical features, discourse style, and spellings between the two texts. However, differences in sentence structure and coherence suggest some variation in writing styles. Therefore, the likelihood of the two texts being written by the same author is moderately high.",
+    "score": 0.66
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation marks such as periods, commas, and apostrophes.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone and use vocabulary that suggests a serious or informative style.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain relatively short sentences and maintain coherence within each text.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "While the topics differ, both paragraphs convey a serious tone and discuss events related to military matters.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, formal tone, coherence, common serious tone, and absence of errors, there is a moderate level of confidence (0.76) that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

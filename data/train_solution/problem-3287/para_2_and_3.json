@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, periods, and colons. However, Paragraph 1 uses more diverse punctuation marks like slashes and parentheses compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show a similarity in lexical and grammatical features, with a focus on formal language and specific terminology related to rules and guidelines. However, Paragraph 2 includes more technical language related to media outlets compared to Paragraph 1.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts are clear and direct, with a focus on conveying rules and instructions. Paragraph 2 has slightly longer sentences due to the inclusion of more detailed criteria explanations.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a formal tone and provide instructions to readers. However, Paragraph 1 emphasizes community guidelines and behavior, while Paragraph 2 focuses on domain approval criteria, resulting in some differences in narrative style.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are notable similarities in punctuation style, lexical and grammatical features, sentence structure, and lack of spelling errors. However, differences in topic focus and narrative style slightly lower the overall confidence in the texts being written by the same author.",
+    "score": 0.74
+  }
+}

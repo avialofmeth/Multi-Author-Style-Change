@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both use punctuation marks such as commas and periods in a conventional manner. However, there are differences in the use of hyphens and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choice and word usage. Paragraph 1 contains terms like 'fascist regime' and 'non violent transfer of power,' while Paragraph 2 uses phrases like 'let your guard down' and 'fair elections.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structures and coherence between the two paragraphs. Paragraph 1 has longer sentences with more complex arrangements compared to the more straightforward sentences in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey a serious tone with a focus on political issues. However, the narrative styles differ slightly, with Paragraph 1 presenting a more descriptive tone compared to the cautionary tone in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no notable spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, while noting the absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

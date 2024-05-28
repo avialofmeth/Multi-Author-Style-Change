@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods predominantly, while Paragraph 2 includes hyphens and apostrophes.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes more informal language and gaming-related terms, while Paragraph 2 contains military terminology and strategic language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter and less complex sentences compared to the longer and more detailed sentences in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual and descriptive tone, focusing on personal preferences, while Paragraph 2 adopts a more serious and analytical tone discussing military strategies.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No significant issues with spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the same authorship is low.",
+        "score": 0.44
+    }
+}

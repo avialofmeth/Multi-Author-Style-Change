@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes parentheses and quotation marks, while Paragraph 2 uses ellipses and a dash. There is some variation in punctuation style.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes colloquial language and slang ('fucking killed it'), while Paragraph 2 uses more formal language ('old fashion way'). There is a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain relatively short and simple sentences. There is a similarity in sentence structure and length.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual and informal tone, while Paragraph 2 has a more serious tone. The narrative styles and mood differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, along with the distinct tones and narrative styles, it is unlikely that the two texts were written by the same author.",
+        "score": 0.56
+    }
+}

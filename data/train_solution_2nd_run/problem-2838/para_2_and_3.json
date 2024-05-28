@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and commas for listing rules, while Paragraph 2 uses commas to separate clauses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal tone with specific lexical choices related to rules and guidelines.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are concise and straightforward in structure, focusing on providing information.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more directive tone towards behavior, while Paragraph 2 addresses a specific query with a request for action.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, and absence of errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.72
+  }
+}

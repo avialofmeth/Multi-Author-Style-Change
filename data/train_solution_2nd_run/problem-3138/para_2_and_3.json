@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both exhibit similar punctuation styles with the use of colons, commas, and periods. However, Paragraph 1 focuses more on formal punctuation for clarification, whereas Paragraph 2 includes more informal punctuation for emphasis.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both paragraphs display differences in lexical and grammatical features, with Paragraph 1 utilizing more formal language related to rules or guidelines, while Paragraph 2 adopts a more conversational tone with informal language discussing personal opinions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with concise and direct sentences, typical of formal guidelines. In contrast, Paragraph 2 contains longer and more complex sentences with opinionated content, reflecting a conversational style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles between the two paragraphs vary significantly. Paragraph 1 is informative and neutral, focusing on guidelines, while Paragraph 2 is more opinionated and expressive, discussing personal preferences and views.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph, indicating a consistent level of accuracy in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, while there are some commonalities in punctuation and absence of spelling errors, the differences in lexical, grammatical, and narrative styles suggest a lower likelihood of the texts being written by the same author. The overall confidence score is moderately low due to the notable disparities in writing styles.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods consistently for punctuation.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language with some technical terms. Some differences in vocabulary and word choice are present.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts contain a mix of long and short sentences with varying structures. The first text is more complex in sentence structure.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts have a casual tone and engage in a discussion style. The first text expresses opinions strongly.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are similarities in punctuation style, sentence structure, and discourse features between the two texts. However, differences in vocabulary and word choice lower the overall confidence.",
+    "score": 0.8
+  }
+}

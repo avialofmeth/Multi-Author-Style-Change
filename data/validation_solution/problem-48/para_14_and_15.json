@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses ellipsis and commas for list enumeration, while Paragraph 2 uses hyphens and commas for additional information and clause separation.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on transportation-related lexicon, while Paragraph 2 emphasizes political and labor-related terms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence lengths and structures, with a clear focus on conveying information in a straightforward manner.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more casual and explanatory tone, while Paragraph 2 adopts a formal and procedural tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style and lexical content, along with similarities in sentence structure and absence of errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

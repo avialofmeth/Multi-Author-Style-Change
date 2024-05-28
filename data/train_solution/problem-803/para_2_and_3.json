@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of complex punctuation and use informal style punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The texts use informal language and show similarities in word choice and sentence structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and direct, lacking in intricate sentence structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more aggressive and confrontational tone, while Text 2 is more polite and rule-oriented.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

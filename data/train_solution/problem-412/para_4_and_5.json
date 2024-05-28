@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as commas and periods. However, the second text includes a hyphen, which is not present in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts contain relatively simple language and direct communication. However, the second text includes informal language and a specific proposal, while the first text is more formal and informative.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The structure of the sentences in both texts is straightforward with clear communication. However, the second text is more direct and to the point compared to the first text, which is more explanatory.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles of the two texts differ significantly. The first text is more formal, while the second text has a more informal and possibly persuasive tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, there are similarities in punctuation and absence of spelling errors, but differences in language formality and narrative style reduce the likelihood of the same author. The average confidence score is 0.56.",
+        "score": 0.56
+    }
+}

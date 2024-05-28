@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks and ellipses. However, the first text includes a colon and the second text does not. Overall, punctuation style is somewhat consistent.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The first text contains more formal language and specific terminology related to military technology. In contrast, the second text uses more informal and colloquial language. There are differences in lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is more structured and contains longer sentences. The second text is more casual and has shorter sentences. There are differences in sentence structure and quantitative features.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a serious tone related to military matters, while the second text has a more light-hearted and conversational tone. The narrative styles and speech events differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors. There are no discrepancies in this feature.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, it is less likely that the two texts were written by the same author. However, the consistent use of punctuation and absence of spelling errors provide some commonality. The overall confidence score is moderate.",
+        "score": 0.58
+    }
+}

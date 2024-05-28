@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including hyphens, commas, parentheses, and ellipses. However, the first text has more complex punctuation usage with nested parentheses and ellipses, while the second text is more straightforward.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a range of lexical and grammatical features, with variations in vocabulary and sentence structures. The first text shows more informal language and personal opinions, whereas the second text is more formal with clear rules and guidelines.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The first text demonstrates longer and more complex sentences with a mix of sentence types, while the second text is more concise and straightforward. However, both texts maintain coherence and cohesion within their respective contexts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text has a more conversational and opinionated tone, including informal expressions and a personal rant, while the second text adopts a formal and instructive tone with clear rules and prohibitions. Despite the difference in tone, both texts maintain clarity and purpose.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and typographical accuracy without errors, indicating a consistent level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, there are similarities in certain aspects such as punctuation usage and coherence, but notable differences in tone and formality. The overall confidence score is moderate, suggesting a likelihood that the two texts were written by different authors.",
+        "score": 0.64
+    }
+}

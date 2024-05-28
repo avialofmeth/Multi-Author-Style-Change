@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and quotation marks. However, the first text demonstrates a more diverse range of punctuation with colons, parentheses, and hyphens, while the second text lacks this variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text showcases a more formal and structured lexical and grammatical style, with specific terms related to political systems and deliberate word choices. In contrast, the second text contains more informal language and colloquial expressions, reflecting a different style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Regarding sentence structure and quantitative features, the first text presents longer and more complex sentences, indicative of a more detailed and elaborative writing style. The second text, on the other hand, features shorter and simpler sentences, suggesting a more straightforward and direct approach.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first text adopts a more formal and explanatory tone, discussing political systems and proposing changes. In contrast, the second text employs a more casual and conversational tone, focusing on a specific issue without extensive elaboration.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors present in either text, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the shared absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate, reflecting a mix of similarities and distinctions in writing styles.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as periods, commas, and apostrophes. However, there is a difference in the use of hyphens, with the first text using 'ppl' for 'people'.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display similar lexical and grammatical features with informal language and contractions ('doesn\u2019t', 'it\u2019s'). However, the first text uses abbreviations ('ppl') while the second text uses complete words ('anyone').",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively similar with clear and concise statements. Both texts show coherence and cohesion in expressing opinions. The first text is slightly more informal with abbreviations.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions and arguments on a similar topic with a serious tone. However, the first text appears slightly more informal due to the use of abbreviations.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, and text features, along with the slight differences in informality due to abbreviations, the likelihood of the two texts being written by the same author is moderately high.",
+        "score": 0.76
+    }
+}

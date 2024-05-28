@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, commas, and parentheses to provide additional information and structure sentences. Paragraph 2 lacks such punctuation complexity.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 showcases a mix of casual and formal language with references to specific cultural elements. Paragraph 2 is more formal and robotic in tone.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 features longer and more complex sentences with references to historical events. Paragraph 2 consists of shorter, more direct sentences typical of automated responses.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a conversational tone with references to pop culture and historical events. Paragraph 2 is straightforward and lacks conversational elements.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, and the similarity in the absence of spelling errors, the overall confidence in the two texts being written by the same author is low to moderate.",
+    "score": 0.44
+  }
+}

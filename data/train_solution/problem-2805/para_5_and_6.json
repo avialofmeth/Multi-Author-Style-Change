@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain hyphens and commas for punctuation, maintaining a similar style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show similarities in complexity and word choice, indicating a potential common author.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features are somewhat different due to the varied content but still show coherence and similar patterns.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The discourse features differ slightly in tone and narrative style, which may suggest a different author.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating attention to detail.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the texts show moderate similarities in punctuation, lexical and grammatical features, and coherence; however, differences in discourse features suggest a lower likelihood of being written by the same author.",
+    "score": 0.7
+  }
+}

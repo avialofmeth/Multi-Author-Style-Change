@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, slashes, and periods to separate ideas and clauses. However, Paragraph 2 lacks this diversity and mainly relies on periods.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and clear lexical choice with terms like 'courteous,' 'debate,' and 'violations.' In contrast, Paragraph 2 contains more informal language with phrases like 'GOP careers' and 'Democrat money.'",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 comprises sentences of varying complexity and lengths, maintaining coherence and cohesion. On the other hand, Paragraph 2 features shorter and less structured sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone focused on rules and guidelines. In contrast, Paragraph 2 takes on a more casual and opinionated tone discussing political figures.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate good spelling and lack typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the writing styles of the two texts do not align closely. However, the absence of spelling and typographical errors suggests a potential commonality in attention to detail. The overall confidence in the texts being written by the same author is moderate due to the notable disparities in writing style.",
+    "score": 0.48
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks and colons in a similar manner to introduce direct speech and list items.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There is a difference in word choice and lexical variation between the two texts. The vocabulary and grammar used in each text vary significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts differ in complexity and length. The first text has shorter, more direct sentences compared to the second text.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts involve news reporting and statements from individuals. However, the tone and mood in each text differ due to the differing contexts of the events described.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors apparent in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.6
+  }
+}

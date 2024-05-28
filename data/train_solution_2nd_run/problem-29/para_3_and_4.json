@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use a mix of punctuation marks such as hyphens, brackets, colons, commas, and parentheses. However, the first text includes ellipses for dramatic effect, which is absent in the second text.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"There is variation in lexical choices and word usage between the two texts. The first text includes informal language and slang, while the second text is more formal and direct in its word choice.",
+      "score":0.4
+   },
+   "feature3":{
+      "explanation":"Both texts display varied sentence structures and lengths. The first text contains more fragmented and informal sentences, while the second text has longer and more complex sentences.",
+      "score":0.5
+   },
+   "feature4":{
+      "explanation":"In terms of text and discourse features, both texts have a conversational tone. However, the first text uses sarcasm and humor, whereas the second text is more straightforward and serious in its tone.",
+      "score":0.6
+   },
+   "feature5":{
+      "explanation":"There are no significant spelling or typographical errors in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+      "score":0.62
+   }
+}

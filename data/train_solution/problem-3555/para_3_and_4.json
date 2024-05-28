@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation, including commas and colons. However, the second text includes hyphens and quotation marks, which are not present in the first text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features, such as the use of formal language and complex sentence structures. However, the second text contains more specific terms related to politics compared to the first text.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit coherence and cohesion in their structure. The second text has slightly longer sentences and more complex sentence arrangements compared to the first text.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts maintain a formal and informative tone. However, the second text contains more specific references to political events and polling data.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, coherence in structure, and text tone, along with the distinctions in topic specificity and use of certain punctuation marks, the overall confidence score is moderate.",
+        "score": 0.76
+    }
+}

@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts exhibit the use of commas and periods, indicating a similar punctuation style.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"Both texts use a casual tone and relatively simple vocabulary, showing some similarity in lexical and grammatical features.",
+      "score":0.6
+   },
+   "feature3":{
+      "explanation":"Both texts contain relatively short sentences and straightforward structures, with a focus on conveying a message clearly.",
+      "score":0.7
+   },
+   "feature4":{
+      "explanation":"While the topics differ, both texts convey a persuasive tone, indicating a similarity in discourse features.",
+      "score":0.7
+   },
+   "feature5":{
+      "explanation":"No spelling or typographical errors were identified in either text, suggesting a similarity in this aspect.",
+      "score":1.0
+   },
+   "overall":{
+      "explanation":"Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, discourse features, and spelling, the overall likelihood that the two texts were written by the same author is moderately high.",
+      "score":0.76
+   }
+}

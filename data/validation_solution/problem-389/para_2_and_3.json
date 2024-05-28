@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with colons and commas for clarity and structure. Paragraph 2 has informal punctuation with ellipses and lacks the same level of structure.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and professional lexical choice, using technical terms like 'approved domains list' and 'outlet criteria.' Paragraph 2, on the other hand, contains informal language with contractions like 'It's' and slang terms like 'twitter.'",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a formal sentence structure with clear coherence and cohesion. Paragraph 2 has shorter sentences and a more conversational tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone focused on subreddit guidelines. Paragraph 2 expresses personal opinions and preferences, indicating a different narrative style.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there are notable distinctions suggesting different authors. However, the absence of spelling and typographical errors slightly increases the likelihood of the same author.",
+    "score": 0.48
+  }
+}

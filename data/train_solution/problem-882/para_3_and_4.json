@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas in a similar style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Distinct differences in lexical choices and word usage.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit different sentence structures and lengths.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Divergent tones and moods in the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts do not contain spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts show some similarities in punctuation style and absence of errors, but significant differences in lexical choices, sentence structures, and tone.",
+        "score": 0.54
+    }
+}

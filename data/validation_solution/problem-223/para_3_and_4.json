@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured use of punctuation with appropriate commas and periods. In contrast, Paragraph 2 lacks proper punctuation and uses incorrect hyphenation and missing apostrophes.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit lexical and grammatical errors, such as missing articles or prepositions. However, Paragraph 2 shows more inconsistent word choice and grammatical issues compared to the more coherent language in Paragraph 1.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences with a structured flow, while Paragraph 2 is fragmented and lacks coherence in sentence structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone, discussing political issues, while Paragraph 2 seems disjointed and unclear in its narrative style, potentially indicating different writing styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 has no spelling or typographical errors, maintaining a standard level of correctness. In contrast, Paragraph 2 contains typographical errors like 'let it sic', indicating a lower level of attention to detail.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests that the two texts are unlikely to be written by the same author based on the differences in writing style.",
+    "score": 0.4
+  }
+}

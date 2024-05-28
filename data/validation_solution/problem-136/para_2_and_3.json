@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and parentheses, while paragraph 2 includes more informal punctuation like hyphens and quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit varied lexical choices and word usage, which may indicate a similarity in writing style.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have different sentence structures and lengths, with one being more formal in style and the other more conversational.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the two paragraphs differ significantly, suggesting a potential difference in authorship.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.52
+  }
+}

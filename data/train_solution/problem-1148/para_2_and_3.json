@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas for listing countries, while Paragraph 2 uses commas for an introductory clause. Both paragraphs lack hyphens, brackets, colons, parentheses, and quotation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes more formal and direct language in discussing loyalty and rebels, while Paragraph 2 has a casual and dismissive tone. Both paragraphs use different lexical and grammatical features.",
+        "score": 0.25
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have short and concise sentences. Paragraph 1 has a more structured flow due to the explanation of loyalty and rebels, while Paragraph 2 is more fragmented with a conversational tone.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and informative tone discussing loyalty to the leader, while Paragraph 2 has a sarcastic and indifferent tone. The narrative styles and speech events differ significantly.",
+        "score": 0
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of both texts being written by the same author is low.",
+        "score": 0.45
+    }
+}

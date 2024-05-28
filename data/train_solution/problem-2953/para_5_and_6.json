@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as commas and periods, but paragraph 1 includes more varied punctuation like colons and parentheses, whereas paragraph 2 lacks these additional punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informality in word choice and sentence structure. However, paragraph 2 shows more casual language and grammatical errors compared to paragraph 1.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more structured and coherent sentences with a mix of sentence lengths and complexity. In contrast, paragraph 2 contains shorter, less complex sentences with lower cohesion.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts convey information but in different narrative styles. Paragraph 1 has a more formal and straightforward tone, while paragraph 2 appears more casual and anecdotal.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Neither text contains spelling or typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are notable differences in punctuation usage, sentence structure, and narrative style between the two texts. However, the absence of spelling errors suggests a level of consistency in writing quality. The average confidence score is moderate, indicating a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.62
+  }
+}

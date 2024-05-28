@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 primarily uses standard punctuation marks like periods and commas, while Paragraph 2 includes hyphens and parentheses. This difference indicates a slight divergence in punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits formal and structured language typical of informative writing, while Paragraph 2 contains a more conversational tone with personal pronouns. The lexical and grammatical features differ significantly, suggesting potential different authors.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in Paragraph 1 are longer and more complex, reflecting a formal writing style. In contrast, Paragraph 2 has shorter, simpler sentences with a more casual structure. This disparity indicates a notable contrast in sentence complexity and arrangement.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone consistent with a news article, while Paragraph 2 adopts a more personal and anecdotal narrative style. The differing narrative styles and speech events suggest distinct authorship.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in writing. This similarity in spelling and typographical accuracy does not contribute significantly to authorship assessment.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the analysis of key linguistic features, especially punctuation style, lexical and grammatical features, sentence structure, and narrative style, the texts demonstrate notable differences that suggest they were likely written by different authors.",
+    "score": 0.32
+  }
+}

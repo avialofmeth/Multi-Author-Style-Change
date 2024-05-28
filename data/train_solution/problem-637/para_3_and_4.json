@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with appropriate use of commas and periods. Paragraph 2 lacks proper punctuation and uses hyphens and quotation marks in a different manner.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal and respectful language with a focus on rules and guidelines. Paragraph 2 contains informal and derogatory language with a mocking tone.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is well-structured and coherent in conveying rules and consequences. Paragraph 2 is less organized, with a direct critique lacking a clear development of ideas.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and professional tone in outlining expectations. Paragraph 2 adopts a sarcastic and disdainful tone towards a specific individual.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors observed.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, language tone, coherence, and structure, the overall confidence in the texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation such as commas and apostrophes. However, the first text uses colons and quotation marks, while the second text uses hyphens and parentheses.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts use informal language and have a casual tone. They both contain slang terms ('ain't cool', 'around these parts'). However, the first text includes more specific terminology related to government entities (Ontario, First Nations, Canadian federal government), while the second text uses more general terms (Texas, country).",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward in structure. The first text has a more complex sentence structure with multiple clauses, while the second text consists of simpler sentences. The first text also includes more explicit information about the situation being described.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts use comparisons to convey a point (Ontario vs. Canadian federal government, Texas vs. country). They both exhibit a conversational tone. However, the first text is more specific in its comparison, while the second text uses a more general analogy.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.6
+  }
+}

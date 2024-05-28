@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as question marks, ellipses, and commas. However, only the first text contains quotation marks, while the second text includes hyphens and colons.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with complex sentence structures. The first text has a more straightforward lexical choice, while the second text includes legal jargon and technical vocabulary.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts are coherent and well-structured. However, the first text is more concise with shorter sentences, while the second text is more detailed and has longer sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts discuss legal matters but in different contexts. The first text is more speculative and questioning in tone, while the second text is explanatory and factual.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choice, sentence structure, and tone, while also noting the coherence in both texts and absence of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

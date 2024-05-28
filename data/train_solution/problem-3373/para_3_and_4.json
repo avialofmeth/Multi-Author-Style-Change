@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of parentheses and commas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are notable differences in lexical and grammatical features, such as regional dialects and language usage.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features vary significantly due to the differing contexts and topics.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ greatly, reflecting different narrative styles and speech events.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Spelling and typographical errors were not present in the provided texts.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and discourse styles, along with the similarity in punctuation styles and absence of spelling errors, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

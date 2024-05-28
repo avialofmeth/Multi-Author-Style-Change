@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 primarily uses commas, colons, and quotation marks for punctuation. Paragraph 2 also includes commas and question marks but lacks colons and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with specific terms like 'declarative', 'sensational', and 'EXCLUSIVE'. Paragraph 2, on the other hand, uses more informal and direct language with phrases like 'Seemed just fine' and 'politicians and rich people'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a balanced sentence structure with moderate length and variety. Paragraph 2 contains shorter sentences and lacks complexity in structure.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 exhibits a more formal and instructional tone related to rules and guidelines. Paragraph 2 takes on a more conversational and opinionated tone focused on a specific issue.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts show no spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show some similarities in spelling and typographical accuracy. The overall confidence score is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show similar punctuation style with the use of commas, periods, and quotation marks. However, the first paragraph displays a higher frequency of punctuation marks such as colons and parentheses compared to the second paragraph.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts exhibit a formal tone with a standard vocabulary. However, the first paragraph contains more specific terms related to a crime incident, while the second paragraph is more general and automated in nature.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure in both texts is relatively straightforward with coherent organization. The first paragraph contains longer sentences due to detailed descriptions, whereas the second paragraph is concise and to the point.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two texts. The first paragraph is descriptive and narrative, focusing on a specific event, while the second paragraph is more instructional and detached as it is likely an automated response.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, displaying a high level of accuracy in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

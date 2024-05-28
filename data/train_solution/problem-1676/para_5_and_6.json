@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal language and includes a profanity, while Paragraph 2 is formal and polite. Punctuation style differs significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more colloquial language and slang, while Paragraph 2 is more formal and structured. Lexical and grammatical features are quite distinct.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a complex sentence structure with informal elements, while Paragraph 2 is more straightforward with a formal tone. Differences in coherence and sentence structure are noticeable.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a sarcastic and critical tone, using explicit language, while Paragraph 2 is neutral and polite. Narrative styles and tone are vastly different.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation, lexical and grammatical features, sentence structure, and narrative style, it's unlikely that the two texts were written by the same author.",
+    "score": 0.34
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, parentheses, and quotation marks, but the first text also contains colons and commas for separation and clarification.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical variation and word choice due to the different topics discussed. However, there are similarities in the grammatical categories and part of speech usage.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ in complexity and length due to the nature of the content. The first text is more structured and formal, while the second text is more conversational.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts have distinct narrative styles and tones. The first text is more objective and informative, while the second text is more subjective and informal.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, narrative styles, and lexical variation, the likelihood of the same authorship is moderate.",
+        "score": 0.66
+    }
+}

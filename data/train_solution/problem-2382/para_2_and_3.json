@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as commas, periods, and ellipses. However, the first text includes more complex punctuation like colons and semicolons, while the second text predominantly uses commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice between the texts, with the first text containing more formal language related to manufacturing and selling, while the second text includes military terminology. Grammatically, both texts are concise and straightforward.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure, the first text contains longer and more complex sentences compared to the second text, which has shorter and more fragmented sentences. Both texts are coherent and maintain logical flow.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the texts differ significantly due to their distinct topics. The first text has a more informative and explanatory tone, while the second text is more descriptive. However, both maintain a factual and straightforward style.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the likelihood that the two texts were written by the same author is moderate, as they share some commonalities in punctuation style, sentence structure, and lack of spelling errors, but exhibit notable differences in lexical choice and narrative style.",
+    "score": 0.64
+  }
+}

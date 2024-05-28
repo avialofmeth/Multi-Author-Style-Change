@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as colons, commas, and periods. However, paragraph 1 uses an exclamation mark while paragraph 2 does not. There are no significant differences in punctuation that would suggest different authors.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and informative tone with clear and concise language. They share common lexical choices related to community engagement and rules. There are no distinct differences in word choice or grammatical features that would imply different authors.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are straightforward and direct, with a focus on conveying information clearly. While paragraph 1 is slightly shorter and more concise, both texts maintain coherence and cohesion in their presentation. Overall, the similarity in sentence structure suggests a consistent writing style.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts maintain a formal and instructional tone, emphasizing community guidelines and expectations. While the specific content differs, the overall narrative style and speech events align in terms of providing information and guidance. The tone and mood are consistent across both texts, indicating a shared authorship.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating attention to detail in writing. Both texts demonstrate a similar level of accuracy in terms of spelling and formatting.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is high. The consistent patterns across these features indicate a coherent writing style.",
+        "score": 0.81
+    }
+}

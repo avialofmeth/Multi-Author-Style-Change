@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens but differ in their usage of other punctuation marks like parentheses, brackets, and quotation marks.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Text 2 displays more informal and simplified language compared to Text 1, which uses more formal language. Different lexical choices and sentence structures.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to Text 2. Text 2 has simpler sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts discuss different topics with varying tones. Text 1 has a more formal tone, while Text 2 is more conversational.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.56
+  }
+}

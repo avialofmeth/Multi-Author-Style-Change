@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas, parentheses, and periods. However, paragraph 1 includes more specific punctuation like slashes and colons while paragraph 2 utilizes hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit a formal tone and vocabulary. However, paragraph 1 uses more directive language with terms like 'shill or troll accusations' and 'rule violations', while paragraph 2 is more informative.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are clear and straightforward. Paragraph 1 contains longer sentences with multiple clauses, while paragraph 2 is more concise with shorter sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts share a formal and instructional tone. However, paragraph 1 emphasizes rules and consequences, while paragraph 2 focuses on providing guidance for specific actions.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are well-written without spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, sentence structure, and lack of spelling errors, the texts show some consistency in writing style. However, differences in lexical choices and tone suggest potential variation. The overall confidence score is moderate, indicating a likelihood that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and proper nouns within them, although in different contexts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 includes some informal language like 'smites' and 'irrational' word usage, whereas Text 2 is more formal with terms like 'peace agreement' and 'friends'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 is a longer sentence with multiple clauses while Text 2 is shorter and more direct.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text 1 seems more speculative and narrative-driven, while Text 2 is more factual and straightforward.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, as well as sentence structure and narrative style, the overall likelihood of the same author is moderate.",
+        "score": 0.54
+    }
+}

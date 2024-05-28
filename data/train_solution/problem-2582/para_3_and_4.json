@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation marks (colons, periods, commas) typical of informational writing, while Paragraph 2 includes casual punctuation (ellipses, apostrophes) more common in informal writing.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more professional and formal lexical and grammatical style, with technical terms and structured sentences. Paragraph 2 is informal, with more colloquial word choices and less structured sentences.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has well-structured, coherent sentences with a formal tone. Paragraph 2 has shorter, less structured sentences with a casual tone.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral, informative tone typical of official communications. Paragraph 2 expresses personal opinion and skepticism in a more informal manner.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis of the linguistic features shows distinct differences in writing style between the two texts, indicating they are likely written by different authors. While some features overlap, the overall assessment suggests low likelihood of the same authorship.",
+    "score": 0.44
+  }
+}

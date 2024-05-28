@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including hyphens, commas, and semicolons. However, there are differences in the use of brackets and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features such as word choice and sentence structure. However, there are some distinct differences in the quantitative features like numbers and time periods mentioned.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "While both texts exhibit coherence and cohesion, there are differences in sentence complexity and length. The first text is more quantitative-focused, whereas the second text is more descriptive.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts present factual information in a straightforward manner without elaborate narrative styles. However, the tone and mood differ slightly, with the first text being more matter-of-fact and the second text slightly more detailed.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, there is moderate confidence (average score of 0.68) that the two texts were written by the same author.",
+        "score": 0.68
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and colons.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. Text 1 discusses food prices while Text 2 focuses on general etiquette. The word choices and grammatical structures differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features also vary greatly. Text 1 has longer sentences discussing specific details, while Text 2 consists of shorter, more direct sentences expressing rules and guidelines.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ significantly as well. Text 1 is descriptive and informative, while Text 2 is prescriptive and instructive.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text discourse features, the likelihood of these texts being written by the same author is low.",
+    "score": 0.54
+  }
+}

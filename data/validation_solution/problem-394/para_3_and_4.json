@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and commas for additional information or clarification.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 uses more formal and informational language, while Text 2 is more informal and conversational. Different word choices and levels of formality are observed.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Text 1 is structured more formally with clear sentences, while Text 2 is more casual with shorter sentences and a conversational tone.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more formal and informative tone, while Text 2 is more casual and opinionated about a specific TV show.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in formality, word choice, and tone, there are significant stylistic distinctions between the two texts, indicating a lower likelihood of being written by the same author.",
+    "score": 0.66
+  }
+}

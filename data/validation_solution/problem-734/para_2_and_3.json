@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a mix of punctuation marks such as commas, periods, and parentheses, but the first text has more formal punctuation like colons and brackets while the second text has an informal use of hyphens and colloquial expressions.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts differ significantly. The first text uses more formal language related to media outlets and subreddit rules, while the second text contains informal language, contractions, and colloquial expressions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text is more structured and organized, with clear sentences and coherent ideas. The second text is more casual, with shorter sentences and an informal tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The texts have different narrative styles and tones. The first text is more informative and directive, while the second text is conversational and opinionated. The mood and tone also vary significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, showing a similar level of attention to detail in terms of language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, as well as the similarity in spelling and typographical accuracy, the overall confidence in the two texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

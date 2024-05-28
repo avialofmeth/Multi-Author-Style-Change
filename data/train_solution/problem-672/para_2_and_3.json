@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of colons and commas for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The first text has a more serious tone and choice of words, while the second text incorporates humor and wordplay. However, both texts show variation in lexical choices and grammatical features.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text is more coherent and structured, with longer sentences. The second text is more fragmented and includes a reference to a comedic sketch. Sentence complexity varies between the two texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text maintains a serious and informative tone, while the second text adopts a humorous and playful tone. The narrative styles differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone, coherence, and narrative style, along with the shared punctuation style and absence of errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

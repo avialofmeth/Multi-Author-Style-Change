@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, hyphens, and exclamation marks, while Paragraph 2 includes a colon and no other punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more formal and structured word choice, while Paragraph 2 contains more informal language with abbreviations like 'imo'. Additionally, the sentence structures differ significantly in complexity and formality.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter and more direct sentences, whereas Paragraph 2 has longer and more complex sentence structures. The coherence and cohesion also vary between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a more informative and neutral tone, focusing on a specific call to action, while Paragraph 2 expresses a personal opinion with a casual tone. The narrative styles and speech events differ notably.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.4
+  }
+}

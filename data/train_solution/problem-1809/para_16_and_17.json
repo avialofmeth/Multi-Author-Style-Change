@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use relatively similar punctuation styles, including commas, periods, and the absence of excessive punctuation marks. However, Paragraph 1 uses more complex punctuation such as colons and parentheses, while Paragraph 2 relies more on basic punctuation marks.",
+      "score":0.7
+   },
+   "feature2":{
+      "explanation":"There is a noticeable difference in lexical and grammatical features between the two texts. Paragraph 1 demonstrates a more formal and structured use of language with varied vocabulary, while Paragraph 2 showcases a more informal and colloquial tone with simpler word choices.",
+      "score":0.3
+   },
+   "feature3":{
+      "explanation":"Both texts exhibit differences in sentence structure and quantitative features. Paragraph 1 contains longer and more complex sentences, whereas Paragraph 2 consists of shorter and more straightforward sentences. Additionally, Paragraph 1 shows better coherence and cohesion in its argumentation.",
+      "score":0.6
+   },
+   "feature4":{
+      "explanation":"In terms of text and discourse features, both texts convey a similar narrative style and seriousness in tone. However, Paragraph 2 uses more informal language and expressions compared to the more formal tone of Paragraph 1.",
+      "score":0.5
+   },
+   "feature5":{
+      "explanation":"There are no apparent spelling or typographical errors in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the analysis of the individual features, the likelihood of the two texts being written by the same author is moderate. While there are similarities in punctuation style and text/discourse features, the differences in lexical/grammatical features, sentence structure, and quantitative features suggest some divergence in writing style.",
+      "score":0.62
+   }
+}

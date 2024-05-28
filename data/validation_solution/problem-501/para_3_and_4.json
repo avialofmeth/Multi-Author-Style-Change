@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Lack of hyphens, brackets, colons, and parentheses in both texts.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Similar lexical choices and word structures observed in both texts.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have similar sentence structures and coherence.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Similar tone and mood in both texts, questioning and critical.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the above features, the likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.78
+    }
+}

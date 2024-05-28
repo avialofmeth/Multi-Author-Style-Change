@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with commas, periods, and apostrophes. Paragraph 2 also demonstrates consistent punctuation with commas and periods.",
+        "score": 0.85
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar lexical and grammatical style with no significant differences in word choice or grammatical structures.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "The sentences in both paragraphs are structured similarly in terms of length and complexity. Both maintain coherence and cohesion in their presentation.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 shows a conversational tone and a straightforward narrative style. Paragraph 2, being a bot-generated response, lacks a conversational tone but aligns with a direct response style.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the consistency in punctuation, lexical and grammatical features, sentence structure, and lack of spelling errors, the likelihood of the two texts being written by the same author is moderately high.",
+        "score": 0.86
+    }
+}

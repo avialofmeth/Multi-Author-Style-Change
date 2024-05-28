@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with the presence of hyphens, brackets, colons, and commas in a structured manner.",
+    "score": 0.85
+  },
+  "feature2": {
+    "explanation": "There is some consistency in lexical and grammatical features in terms of complexity and word choice.",
+    "score": 0.75
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly between the two texts, affecting coherence and style.",
+    "score": 0.45
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show notable differences in narrative style and tone.",
+    "score": 0.40
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The texts exhibit similarities in punctuation and lexical features but differ significantly in sentence structure and text characteristics, leading to a moderate overall confidence score.",
+    "score": 0.69
+  }
+}

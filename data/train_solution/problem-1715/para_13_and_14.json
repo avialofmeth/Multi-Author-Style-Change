@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts utilize similar punctuation styles such as commas, colons, and parentheses. However, there are differences in the use of hyphens and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show variations in word choice and grammatical structures between the two texts. Different expressions and vocabulary are used in each text.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structure complexity and coherence. One text contains longer sentences with more complex arrangements, while the other is more straightforward.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the texts differ significantly. One text focuses on democratic rights and racial tensions, while the other on legislation and power dynamics.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the linguistic features, the likelihood that the two texts were written by the same author is low, as there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles.",
+    "score": 0.46
+  }
+}

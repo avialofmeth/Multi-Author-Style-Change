@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as colons, commas, and periods in a consistent manner. However, the first text includes more diverse punctuation like slashes and parentheses, while the second text mainly relies on commas and periods.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. The first text uses more complex language with terms like 'shill,' 'troll,' and 'hate speech,' indicating a more formal tone. In contrast, the second text is straightforward and uses simpler language without specialized terms.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit coherence and cohesion in their structure, with clear and direct communication of rules and instructions. However, the first text is more detailed and includes longer sentences with varied structures, while the second text is concise and to the point with shorter sentences.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the first text adopts a more instructional and authoritative tone, setting rules and consequences. The second text is more informational, providing guidance on browsing approved domains. Despite the differing purposes, both texts maintain a formal and professional tone.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, demonstrating attention to detail in writing. The language used in both texts is clear and error-free.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts show some similarities in punctuation usage, coherence, and tone, but exhibit notable differences in lexical complexity and sentence structure. The overall confidence score of the two texts being written by the same author is moderate.",
+    "score": 0.7
+  }
+}

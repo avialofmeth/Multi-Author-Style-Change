@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and a comma for punctuation, while Paragraph 2 uses a greater variety with hyphens, quotation marks, and parentheses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal and technical language related to geopolitical issues, while Paragraph 2 includes slang and informal terms like 'Bellend of the Year.'",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with a focus on the conflict's details, while Paragraph 2 is shorter and more direct, focusing on a specific event.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and analytical tone discussing trade and war, while Paragraph 2 is humorous and satirical with the statue description.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.48
+    }
+}

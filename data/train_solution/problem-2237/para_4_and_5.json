@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as colons, commas, and hyphens. However, the second text includes more specific numerical punctuation like quotation marks for figures.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language with a focus on factual information. While the first text is more opinion-based, the second text contains statistical data and technical terms related to employment.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short to medium-length sentences with clear structure and coherence. The second text includes more numerical data and a slightly higher level of complexity due to the topic.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts convey information in a straightforward manner without extensive use of idioms or expressive language. The second text is more factual and informative compared to the first text.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, maintaining a consistent level of language proficiency.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, the writing style of the two texts shows moderate similarities in terms of punctuation, sentence structure, and lack of errors. However, differences in topic and tone slightly decrease the overall likelihood of the same author.",
+    "score": 0.64
+  }
+}

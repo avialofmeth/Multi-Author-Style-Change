@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of dashes, commas, and periods. However, Paragraph 1 has a more extensive list of punctuation marks compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both paragraphs show similarities in terms of formality and clarity, with a focus on conveying rules and guidelines. However, there are differences in the specific vocabulary used in each text.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have a clear and direct sentence structure, with a focus on providing information or instructions. They are concise and to the point, without unnecessary elaboration.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While both texts adopt a formal and instructional tone, Paragraph 1 emphasizes etiquette and consequences, while Paragraph 2 focuses on providing information and directing users to specific resources.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, sentence structure, and lack of spelling errors, along with some differences in vocabulary and tone, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

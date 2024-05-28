@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with standard use of hyphens, commas, and periods. However, the second text includes colons and parentheses, which are not present in the first text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. The first text focuses more on specific technical terms related to power utility and weather, while the second text delves into broader geopolitical terms and war-related vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both texts is relatively simple and straightforward. However, the second text contains longer sentences with more complex ideas compared to the first text.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two texts. The first text is more descriptive and factual, while the second text takes on a more narrative and analytical tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

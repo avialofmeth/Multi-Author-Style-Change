@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation with lack of proper structure and consistency, while Paragraph 2 lacks punctuation due to its nature as an automated message.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates colloquial language and informal word choice, while Paragraph 2 is formal and technical due to being an automated message.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more casual sentences compared to the concise, structured sentences in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational, informal tone with slang, while Paragraph 2 is impersonal and neutral as it is an automated response.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the distinct differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

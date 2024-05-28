@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Different punctuation styles used - one text includes hyphens and apostrophes, while the other uses commas and quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Distinct lexical and grammatical choices - one text has casual language ('dont,' 'ridiculous'), while the other is more formal ('personally,' 'better for the country').",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary - one text has shorter, more conversational sentences, while the other is more formal and complex.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Different tones and moods evident - one text is dismissive and casual, while the other is more serious and opinionated.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors detected in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there are notable differences in writing style between the two texts, indicating they were likely written by different authors.",
+    "score": 0.48
+  }
+}

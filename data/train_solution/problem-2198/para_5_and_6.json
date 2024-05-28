@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of periods and commas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a mix of informal language and technical terms in both texts, suggesting some consistency in lexical variation and word choice.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward in structure, lacking complexity or elaborate sentence arrangements.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is somewhat direct and informative, albeit with different contexts.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with commas and quotation marks being common features.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features with varying word choices and structures in the two texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ significantly between the two texts in terms of complexity and length.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The texts have different discourse features with one focusing on legal issues and the other on constitutional matters.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, varying sentence structures, and divergent discourse features, the overall confidence in the texts being written by the same author is low.",
+        "score": 0.48
+    }
+}

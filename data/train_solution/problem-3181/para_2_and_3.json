@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation like periods and commas, while Paragraph 2 includes hyphens and colons in a non-standard way.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal and direct lexical and grammatical style, while Paragraph 2 includes sensationalized and informal language with unique terms like 'Satan-Nazis' and 'de-nazified'.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more coherent sentences, while Paragraph 2 has shorter, fragmented sentences with abrupt transitions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and factual tone, while Paragraph 2 uses sensationalism and aggression in its narrative style.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.38
+  }
+}

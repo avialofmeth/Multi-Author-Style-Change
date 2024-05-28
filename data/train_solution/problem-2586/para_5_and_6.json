@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and ellipses for punctuation, but paragraph 1 has a more informal style with its use of ellipses, while paragraph 2 uses ellipses mainly for emphasis. Both texts also use periods and apostrophes consistently.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar level of lexical and grammatical features with a mix of formal and informal language. They both use a variety of words and maintain grammatical correctness.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Sentence structure and length vary between the two texts, with paragraph 1 having shorter sentences and a more conversational tone. Paragraph 2 contains longer sentences and more structured arguments.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts have a serious tone and discuss factual information. They lack narrative styles and are focused on conveying information rather than storytelling.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text, indicating attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate, as they share similarities in punctuation style, lexical and grammatical features, text and discourse features, and lack spelling errors. However, differences in sentence structure and length slightly reduce the overall confidence.",
+    "score": 0.76
+  }
+}

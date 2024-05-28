@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 uses parentheses and a period.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal language with terms like 'lofty plans' and 'Foundations of Geopolitics', whereas Paragraph 2 is more straightforward and direct in its word choice.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer sentences with complex structures, while Paragraph 2 has shorter sentences and simpler arrangements.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more serious and formal tone discussing geopolitical ambitions, while Paragraph 2 has a pragmatic and urgent tone discussing the need for help and prevention of conflict.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, and the similarity in spelling and typographical errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

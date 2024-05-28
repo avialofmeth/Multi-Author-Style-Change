@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, periods, and apostrophes while Paragraph 2 uses commas, periods, and hyphens.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes terms like 'Republicans,' 'state wide,' and 'stronghold,' while Paragraph 2 uses more formal language like 'outlets,' 'subreddit,' and 'criteria.' The lexical and word choice differences suggest different writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, complex sentences with multiple clauses, while Paragraph 2 has shorter, more direct sentences. This difference indicates distinct sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal, conversational tone with expressions like 'waste of money' and 'stronghold,' while Paragraph 2 is more formal and directive in tone with phrases like 'click to review' and 'approved domains.' The tone and style vary significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and discourse features, the texts exhibit notable distinctions in writing style, suggesting different authors.",
+    "score": 0.5
+  }
+}

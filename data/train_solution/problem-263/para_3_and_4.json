@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods for punctuation. However, the first paragraph includes colons and brackets, which are not present in the second paragraph.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts exhibit differences in vocabulary and sentence structure. The first paragraph is more formal and structured, while the second paragraph is more informal and fragmented.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features vary significantly between the texts. The first paragraph is concise and structured, whereas the second paragraph is less organized and lacks coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The texts differ in their discourse features. The first paragraph is informative and directive, while the second paragraph is more expressive and opinionated.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the different linguistic features analyzed, the texts exhibit notable distinctions in punctuation style, lexical and grammatical features, sentence structure, and discourse features, suggesting they may not be written by the same author.",
+    "score": 0.48
+  }
+}

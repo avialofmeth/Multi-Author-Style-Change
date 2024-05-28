@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles, including commas, hyphens, and colons.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone with specialized vocabulary related to their respective topics.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The texts show differences in sentence complexity and length, with one focusing on medical urgency and the other on system design.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The texts have distinct narrative styles and speech events due to their different contexts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the mix of commonalities and distinctions in the linguistic features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.58
+  }
+}

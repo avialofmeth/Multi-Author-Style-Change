@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain the use of parentheses and ellipses for asides and omitting text, although the first text uses these more extensively.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The first text shows a unique use of word choice and specific references related to personal experiences, while the second text is more general and straightforward due to being a bot response.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structure in the first text is more elaborate and detailed, with varying sentence lengths and complexity. In contrast, the second text is brief and direct, typical of automated responses.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text conveys personal emotions and opinions, demonstrating a unique narrative style and tone. The second text lacks personal touch and is impersonal, consistent with a bot response.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, there are notable differences in word choice, tone, and narrative style, indicating a lower likelihood of the same author. However, similarities in punctuation style and absence of spelling errors suggest some commonality. The overall confidence score is moderate.",
+        "score": 0.58
+    }
+}

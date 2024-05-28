@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, colons, commas, and parentheses in a similar manner, enhancing the overall punctuation style.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts in terms of vocabulary and sentence structures, indicating potential diversity in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ significantly in complexity, length, and coherence, suggesting a notable contrast in writing styles between the texts.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The texts differ in narrative styles, tone, and mood, pointing towards potential distinct authorial voices.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, maintaining a consistent level of correctness in language use.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, it is unlikely that the two texts were written by the same author.",
+        "score": 0.56
+    }
+}

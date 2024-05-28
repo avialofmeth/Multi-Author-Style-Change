@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as colons, commas, and parentheses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The vocabulary and word choice in both texts are straightforward and lack complexity.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts have clear and direct sentence structures without significant variation in length or complexity.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The tone and style in both texts are formal and informative, lacking expressive or emotional elements.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "After evaluating all features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.76
+  }
+}

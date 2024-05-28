@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains informal and aggressive language with the use of expletives and strong phrases, while Paragraph 2 is formal and professional as it is a bot-generated response. This contrast in punctuation style indicates a significant difference in writing style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses informal and strong language, with a focus on emotive terms, while Paragraph 2 is formal and technical in nature. The lexical and grammatical features are distinct, showing a clear difference in writing style.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and complex sentences with emotive language, while Paragraph 2 is concise and straightforward. The sentence structures and quantitative features differ significantly, indicating a difference in writing style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a strong tone with emotional content, while Paragraph 2 is neutral and automated. The narrative styles and discourse features are contrasting, highlighting a difference in writing style.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, showing a similarity in this aspect. However, this similarity alone is not sufficient to indicate a common author.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "When considering all the features collectively, the overall confidence score suggests a low likelihood that the two texts were written by the same author, as the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles outweigh the similarity in spelling and typographical errors.",
+        "score": 0.32
+    }
+}

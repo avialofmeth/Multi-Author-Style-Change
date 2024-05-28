@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, periods, and a question mark. Paragraph 2 also uses commas, periods, and a question mark, but includes an exclamation mark and a question mark together in one sentence.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes formal language with words like 'automatically' and 'concerns'. Paragraph 2 has a more casual tone with words like 'freaking' and 'okay'.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single sentence. Paragraph 2 is composed of two separate sentences with distinct ideas.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and automated tone. Paragraph 2 has a more conversational and expressive tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, it is unlikely that the two texts were written by the same author.",
+    "score": 0.6
+  }
+}

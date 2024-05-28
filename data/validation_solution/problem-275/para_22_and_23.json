@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas for listing information and quotations marks for direct speech.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses technical language related to emergencies and pipelines, while Paragraph 2 discusses gas supplies and countries. Different lexical and grammatical features are present in each text.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is a shorter news report with straightforward sentence structures, while Paragraph 2 is a more complex statement. Different sentence structures and lengths are observed.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral tone typical of news reports, while Paragraph 2 expresses future plans with determination. The narrative styles and tone differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative tones, it is unlikely that the two texts were written by the same author.",
+        "score": 0.54
+    }
+}

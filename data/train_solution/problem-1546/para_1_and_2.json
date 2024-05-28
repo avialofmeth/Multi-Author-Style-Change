@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, with the use of commas and periods for separating clauses and sentences.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show similarities in lexical and grammatical features, such as the use of informal language, contractions, and varied sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The texts differ significantly in their sentence structure and quantitative features, with one being more narrative and descriptive, while the other is more technical and concise.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "There is a noticeable difference in the text and discourse features, with one text discussing travel tips and the other focusing on historical events related to copper shortages.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure, text and discourse features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.58
+  }
+}

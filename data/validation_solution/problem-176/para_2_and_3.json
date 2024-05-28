@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, parentheses, and colons, while Paragraph 2 uses hyphens and commas. Both texts exhibit a mix of punctuation marks, indicating some variation in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more formal language and structured sentences, while Paragraph 2 has a more casual tone with slang ('got off their ass'). Both texts show variation in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter, simpler sentences in Paragraph 2. Both texts differ in sentence structure and quantitative features.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a narrative style with a focus on reporting events, while Paragraph 2 reflects a more conversational tone with expressions like 'What’s really dumb.' There are differences in text and discourse features.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of care in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the mix of punctuation styles, variation in lexical and grammatical features, differences in sentence structure and discourse features, and the absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

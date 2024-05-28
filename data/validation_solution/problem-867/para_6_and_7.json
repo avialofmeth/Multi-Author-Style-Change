@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, brackets, and parentheses while Paragraph 2 lacks such punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more complex lexical choices and wordplay compared to the straightforward nature of Paragraph 2. This could indicate a difference in writing style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more diverse sentence structures and lengths, showing a varied writing style, whereas Paragraph 2 is more uniform in sentence structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 displays a critical and opinionated tone with references to political figures, while Paragraph 2 maintains a neutral and informative tone as expected from a bot response.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and tone between the two paragraphs, there is a moderate likelihood that they were not written by the same author.",
+    "score": 0.4
+  }
+}

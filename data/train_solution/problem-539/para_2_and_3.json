@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use a mix of punctuation marks including hyphens, commas, colons, and periods. However, the punctuation styles in both texts are different, with varying usage and placement.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. Paragraph 1 includes more technical terms related to medical conditions, while Paragraph 2 focuses on general statements. The word choices and grammatical structures are distinct in each paragraph.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features vary significantly between the two paragraphs. Paragraph 1 contains longer, more complex sentences with detailed information, while Paragraph 2 has shorter, simpler sentences with a more straightforward message. The coherence and cohesion in the texts differ.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles, speech events, and tone in the two texts display notable differences. Paragraph 1 presents a personal anecdote with a serious and emotional tone, while Paragraph 2 delivers a more general message with a neutral tone. The narrative styles do not align.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, the likelihood that the two texts were written by the same author is low. The differences in punctuation style, lexical and grammatical features, sentence structures, narrative styles, and tone suggest distinct writing styles.",
+        "score": 0.42
+    }
+}

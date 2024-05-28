@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation with the presence of hyphens, colons, and commas. However, the specific usage and frequency of punctuation may differ.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features like technical terminology related to water management. However, the level of complexity and word choice may vary.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit differences in sentence structure and length. The first paragraph is more complex and detailed compared to the second. This could indicate a difference in writing style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts differ significantly, with one focusing on wastewater challenges and the other on water conservation. This suggests a potential difference in authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There is no evidence of spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed similarities and differences in the linguistic features analyzed, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon for punctuation, while paragraph 2 uses an ampersand (&) and quotation marks. There are differences in punctuation style.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with terms like 'outlets' and 'subreddit', whereas paragraph 2 is more informal with phrases like 'our Country' and 'paying the price'. There are noticeable differences in lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and structured with a clear call to action. Paragraph 2 is a single, impactful sentence. There are differences in sentence structure and quantitative features.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and directive, focusing on subreddit rules. Paragraph 2 expresses a strong opinion about the Supreme Court. There are distinct text and discourse features.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, the likelihood of the two texts being written by the same author is low. The only commonality is the absence of spelling and typographical errors.",
+        "score": 0.42
+    }
+}

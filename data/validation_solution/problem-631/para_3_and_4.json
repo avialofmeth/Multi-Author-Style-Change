@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as commas and periods. However, the first text includes more formal punctuation like colons, while the second text includes more informal punctuation like ellipses and lack of proper punctuation in some instances.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language with some unique word choices. The first text uses more industry-specific terms (e.g., GOP, contractors), while the second text includes colloquial expressions and informal language (e.g., gonna, mil, proudboy).",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity, with the first text having longer and more coherent sentences. The second text contains shorter, fragmented sentences and more casual language.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit different narrative styles and tones. The first text is more formal and informative, while the second text has a conversational and slightly sarcastic tone with references to specific groups and events.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation styles, lexical choices, sentence structures, and narrative tones, there are notable distinctions between the two texts that suggest they may not be written by the same author. The lack of significant spelling errors provides some consistency, but the overall writing styles differ significantly.",
+        "score": 0.62
+    }
+}

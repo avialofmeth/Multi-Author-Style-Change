@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks correctly for direct speech, while Paragraph 2 lacks proper punctuation in the sentence provided.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit variations in lexical choices and word usage, with Paragraph 1 showing more structured language compared to the informal language in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of more complex sentences and maintains coherence, whereas Paragraph 2 contains a shorter, less structured sentence that lacks coherence.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones differ between the two texts, with Paragraph 1 presenting a more formal tone compared to the casual tone in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts contain typographical errors, with Paragraph 2 having more noticeable errors compared to Paragraph 1.",
+        "score": 0.3
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

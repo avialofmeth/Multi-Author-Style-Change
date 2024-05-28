@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 contains commas for listing and separating clauses. Paragraph 2 also uses commas for listing but has longer, complex sentences with multiple clauses.",
+		"score": 0.6
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 uses more formal language and structured sentences. Paragraph 2 has a more informal tone, with colloquial language and slang.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 has shorter, more direct sentences. Paragraph 2 has longer sentences with more varied structure.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 maintains a neutral tone and provides information. Paragraph 2 is more opinionated, critical, and descriptive.",
+		"score": 0.4
+	},
+	"feature5": {
+		"explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical errors.",
+		"score": 0.9
+	},
+	"overall": {
+		"explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+		"score": 0.52
+	}
+}

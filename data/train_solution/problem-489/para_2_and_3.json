@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks like parentheses, colons, and commas in a similar manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is some similarity in lexical and grammatical features, such as the use of formal language and specific terms.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structure and length differ between the two texts, impacting coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features vary significantly due to the different topics and styles of writing.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The overall confidence score is moderate, indicating some commonalities in punctuation and lexical features but differences in sentence structure and discourse style.",
+        "score": 0.6
+    }
+}

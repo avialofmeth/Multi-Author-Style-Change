@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas in a similar style, with occasional use of parentheses, indicating some consistency in punctuation style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features, with varying word choice and sentence structures between the two texts, suggesting a lack of consistency in this aspect.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features differ significantly between the texts. One text has longer, complex sentences while the other has shorter, more straightforward sentences, indicating a lack of coherence in this area.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The texts exhibit differences in narrative styles and tone. One text is more pessimistic and direct, while the other is more analytical and future-oriented, showing a divergence in text and discourse features.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, indicating consistency in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is low, as there are notable differences in lexical, sentence structure, and text discourse features. The overall average confidence score is 0.5.",
+    "score": 0.5
+  }
+}

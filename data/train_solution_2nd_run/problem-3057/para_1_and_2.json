@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a consistent and formal punctuation style with the appropriate use of commas, periods, and other standard punctuation marks. Paragraph 2 lacks proper punctuation, including missing commas and question marks, which suggests a different style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and adheres to proper grammar rules. In contrast, Paragraph 2 contains informal language, such as 'thing' instead of 'think,' and has grammatical errors like 'still in denial?' This difference in lexical and grammatical features indicates a distinct writing style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured clearly with coherent sentences and a formal tone. On the other hand, Paragraph 2 lacks coherence and contains fragmented thoughts, leading to an inconsistency in sentence structure and overall organization.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a professional and informative tone, emphasizing rules and guidelines. In contrast, Paragraph 2 conveys a confrontational and accusatory tone, using informal expressions like 'still in denial?' These differing narrative styles suggest different authors.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is free of spelling and typographical errors, whereas Paragraph 2 contains typographical errors like 'do you thing' instead of 'do you think.' This variation in spelling accuracy points to distinct authors.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation, lexical and grammatical features, sentence structure, narrative styles, and spelling errors between the two texts, it is highly unlikely that they were written by the same author.",
+    "score": 0.28
+  }
+}

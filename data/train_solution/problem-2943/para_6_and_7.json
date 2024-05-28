@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, Paragraph 1 includes more complex punctuation like hyphens and parentheses, which are absent in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, Paragraph 1 demonstrates a more informal and emotive language with phrases like 'hatred feels more true'. Paragraph 2, on the other hand, maintains a formal and neutral tone. There are differences in lexical choice and word usage.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively similar sentence structures in terms of length and complexity. However, Paragraph 1 contains more complex sentences with layered ideas, while Paragraph 2 is more straightforward and direct.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a strong opinionated tone with expressive language, focusing on criticizing a particular entity. In contrast, Paragraph 2 maintains a neutral and informative tone, providing guidelines. The narrative styles and speech events differ significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two paragraphs. However, the absence of spelling and typographical errors contributes to a slightly higher confidence score.",
+    "score": 0.6
+  }
+}

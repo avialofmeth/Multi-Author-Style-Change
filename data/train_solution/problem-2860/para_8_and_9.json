@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and parentheses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There is a notable difference in the lexical and grammatical features between the two texts. The first paragraph includes words and phrases related to politics and ideology, while the second paragraph is more generic and technical in nature.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features are quite distinct. The first paragraph is longer and more complex, whereas the second paragraph is concise and straightforward.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The texts differ significantly in terms of narrative style and tone. The first paragraph is opinionated and emotive, while the second paragraph is informative and neutral.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the overall confidence score in the texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

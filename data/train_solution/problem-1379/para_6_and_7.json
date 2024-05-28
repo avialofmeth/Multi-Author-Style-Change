@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, only the second text includes hyphens and lacks quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts share lexical and grammatical features such as the use of pronouns, verbs, and conjunctions. However, the second text includes more varied word choices and shows a slightly different grammatical structure.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively simple with short to medium-length sentences. Both texts exhibit coherence and cohesion. However, the second text shows slightly more quantitative features with longer sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "In terms of narrative styles and tone, both texts show similarities in conveying dislike and negative emotions. However, the second text introduces a different context related to being fired and avoiding arrest.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are notable similarities in punctuation style, lexical and grammatical features, and narrative styles. However, differences in sentence structure and context suggest potential variations. The overall confidence score is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a formal and structured punctuation style, including proper use of commas and periods. Paragraph 2 lacks proper punctuation and contains informal language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a higher level of lexical variation and word choice compared to Paragraph 2, which repeats certain phrases and lacks diversity in vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a more coherent and structured sentence arrangement, while Paragraph 2 has longer, rambling sentences with less coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and formal tone, focusing on guidelines and rules. Paragraph 2 is emotionally charged, expressing opinions and criticisms.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical diversity, sentence structure, and tone, along with the similarities in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

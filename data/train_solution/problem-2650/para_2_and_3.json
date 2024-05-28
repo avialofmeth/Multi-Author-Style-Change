@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, double quotations, and no colons, while Paragraph 2 uses double quotations, a colon, and no hyphens. There is inconsistency in punctuation style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows some issues with word choice and grammatical structure ('that's could' instead of 'that could', 'between between'). Paragraph 2 demonstrates more formal language use and better grammar.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences, while Paragraph 2 is more concise with simpler sentence structures. There is a difference in sentence length and complexity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal tone and presents an opinion, while Paragraph 2 is more formal and presents factual information. The narrative styles and tone are distinct.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, word choice, sentence structure, narrative styles, and tone, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.6
+  }
+}

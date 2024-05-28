@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation with colons and parentheses, while paragraph 2 lacks these formal punctuation marks. However, both texts use general punctuation conventions such as commas and periods.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs formal and technical language related to media outlets and subreddit guidelines. Paragraph 2 uses more casual language discussing people leaving Twitter and extremists. The lexical and grammatical features differ significantly due to the contrasting topics.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of relatively short and straightforward sentences. However, the sentence structures and quantitative features do not show significant similarities due to the disparate content and context of the texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more formal and informational tone, while paragraph 2 expresses a personal opinion with a casual and conversational tone. The text and discourse features vary notably between the two paragraphs.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, demonstrating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, along with the commonality in spelling and typographical errors, the overall confidence in the two texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

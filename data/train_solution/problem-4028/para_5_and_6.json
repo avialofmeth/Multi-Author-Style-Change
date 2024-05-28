@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as commas, quotation marks, and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and utilize different grammatical categories. The first text is more straightforward and formal compared to the second text which has a more informal tone.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The first text is comprised of short, concise sentences with a clear structure. The second text contains longer, more complex sentences with a descriptive narrative.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text is straightforward and informative, while the second text is more narrative and strategic in nature.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts exhibit similarities in punctuation and absence of spelling errors, but show differences in lexical choices, sentence structure, and narrative style.",
+        "score": 0.7
+    }
+}

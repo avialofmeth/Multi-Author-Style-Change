@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles, including colons, commas, and quotation marks. However, the first text uses more parentheses and hyphens compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, utilizing specific jargon related to military affairs. The first text uses more technical terms related to military strategy, while the second text contains informal language and abbreviations like 'PMC'.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts have a similar sentence structure with a mix of complex and simple sentences. However, the first text is more detailed and provides a longer analysis, while the second text is more concise and direct.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts adopt a somewhat informal tone, with the first text leaning towards a more analytical and critical perspective, while the second text takes on a more humorous and sarcastic tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation styles, lexical and grammatical features, and sentence structures, along with the absence of spelling errors, there is moderate confidence that the two texts were written by the same author despite the differences in tone and content.",
+    "score": 0.64
+  }
+}

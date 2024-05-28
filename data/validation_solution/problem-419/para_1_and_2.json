@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, slashes, colons, and commas in a manner that is not present in Paragraph 2. The punctuation style differs significantly.",
+    "score": 0.1
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone and use specific language related to rules and guidelines. However, the lexical and grammatical features show some variation in word choice and sentence structures between the two paragraphs.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs are clear and direct, focusing on providing information. While there are differences in sentence length and complexity, overall coherence and cohesion are maintained.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts share a formal and instructional tone, with a focus on providing guidelines and information. However, the specific discourse features like narrative style and common expressions differ between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.5
+  }
+}

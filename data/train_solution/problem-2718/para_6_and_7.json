@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas appropriately but lacks other punctuation marks. Paragraph 2 also uses commas correctly but includes other punctuation marks like periods and full stops.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical and grammatical complexity. They use relatively simple vocabulary and sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of short and straightforward sentences without much variation in length or complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a neutral tone and lack distinctive narrative styles or speech events.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors are present in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, there are similarities in lexical and grammatical features, sentence structure, and absence of spelling errors. However, differences in punctuation style and narrative styles indicate some variation in writing style. The overall confidence score reflects moderate similarity in writing style.",
+    "score": 0.64
+  }
+}

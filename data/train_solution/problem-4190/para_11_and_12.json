@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains hyphens, quotation marks, and parentheses, while Paragraph 2 only uses parentheses. The use of these punctuation marks differs between the two texts.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the texts. Paragraph 1 uses more complex vocabulary and grammatical structures compared to the simpler language in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit similar sentence structures in terms of length and coherence. The sentence complexity is comparable in both texts.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The text and discourse features vary significantly between the two paragraphs. Paragraph 1 has a more informal and narrative tone, while Paragraph 2 is more formal and instructional.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the overall confidence score is moderate, indicating that the likelihood of the two texts being written by the same author is uncertain.",
+        "score": 0.56
+    }
+}

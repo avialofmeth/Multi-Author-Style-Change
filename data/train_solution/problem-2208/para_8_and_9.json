@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses ellipsis, hyphens, and parentheses, while Paragraph 2 uses hyphens and commas, showing some overlap in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 tends to use more formal language and longer sentences, while Paragraph 2 has a more casual tone with shorter sentences. There is some difference in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences and a more complex structure compared to the shorter and simpler sentences in Paragraph 2. The differences in sentence complexity and arrangement are notable.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious tone discussing legal matters, while Paragraph 2 has a casual tone with slang ('Bruh'). The narrative styles and tone are quite distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, there are notable differences in writing style between the two texts, indicating a lower likelihood of being written by the same author.",
+    "score": 0.5
+  }
+}

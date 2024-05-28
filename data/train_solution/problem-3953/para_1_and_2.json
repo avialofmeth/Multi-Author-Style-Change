@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, quotation marks, and parentheses for emphasis and clarification.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Texts show differences in lexical choice and tone, with one being more aggressive and informal compared to the other's more formal and courteous tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is characterized by longer sentences with complex structures, while Paragraph 2 is more straightforward and succinct.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have distinct narrative styles and tones, with one being confrontational and the other being informative and rule-based.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the features, the texts show some commonalities in punctuation style (0.8) and absence of spelling errors (1), but exhibit notable differences in lexical and grammatical features (0.4), sentence structure (0.6), and text discourse features (0.5). Therefore, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.66
+    }
+}

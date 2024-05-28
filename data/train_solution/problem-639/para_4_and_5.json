@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 lacks proper punctuation, with an ellipsis used at the end.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal tone with phrases like 'action was performed automatically.' Paragraph 2 has a more casual and informal tone with phrases like 'Yeah, let's just push.'",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and direct in their structure. Paragraph 1 is more straightforward, while Paragraph 2 has a hint of sarcasm.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and helpful in nature. Paragraph 2 expresses a negative opinion with a sense of disbelief.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, tone, and narrative style, along with some similarities in sentence structure and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.54
+    }
+}

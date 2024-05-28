@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and commas in a complex manner, while Paragraph 2 emphasizes on basic punctuation usage like commas and periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains specific vocabulary related to politics and government, while Paragraph 2 focuses on general language about behavior and rules.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences with multiple clauses, compared to Paragraph 2 which has simpler and shorter sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more assertive and directive tone, discussing political strategies, while Paragraph 2 adopts a more polite and advisory tone regarding behavior.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, and tone, the writing styles in the two texts do not align closely, leading to a low likelihood of being written by the same author.",
+    "score": 0.44
+  }
+}

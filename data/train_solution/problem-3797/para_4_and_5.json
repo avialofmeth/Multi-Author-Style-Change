@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses correct punctuation marks such as commas and period. Paragraph 2 includes hyphens, quotation marks, and ellipses.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is straightforward and uses simple language. Paragraph 2 includes more technical terms related to business and finance.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain short, direct sentences. Paragraph 2 includes a direct quote, adding variety to the text.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal tone due to the automated nature of the content. Paragraph 2 has a more casual and conversational tone, especially evident in the direct quote.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of each feature, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

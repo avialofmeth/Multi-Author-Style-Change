@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use similar punctuation styles including commas and periods. However, there are differences in the use of hyphens and colons.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"The texts exhibit some common lexical and grammatical features such as the use of similar vocabulary related to war and conflict. However, there are differences in the sentence structures and word choices.",
+      "score":0.5
+   },
+   "feature3":{
+      "explanation":"Both texts are relatively short and straightforward. They share a common theme of war and conflict. However, there are differences in sentence complexity and arrangement.",
+      "score":0.4
+   },
+   "feature4":{
+      "explanation":"The texts convey a similar tone of discussing a conflict, but there are differences in the narrative styles and speech events.",
+      "score":0.6
+   },
+   "feature5":{
+      "explanation":"No spelling or typographical errors were observed in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the commonalities in punctuation style and some shared lexical features, along with differences in sentence structure and narrative styles, there is a moderate likelihood that the two texts were written by the same author.",
+      "score":0.62
+   }
+}

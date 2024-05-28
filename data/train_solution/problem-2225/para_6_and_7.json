@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and ellipses for pauses and lists items with commas. Paragraph 2 uses hyphens and commas in a straightforward manner.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal and descriptive language with phrases like 'booger napkins' and 'literal dirt'. Paragraph 2 is more formal and political in nature.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter sentences and uses a more casual tone. Paragraph 2 has longer sentences and is more structured.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a playful and conversational tone. Paragraph 2 is serious and analytical.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either text.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, tone, and formality between the two texts, the likelihood of them being written by the same author is low.",
+    "score": 0.3
+  }
+}

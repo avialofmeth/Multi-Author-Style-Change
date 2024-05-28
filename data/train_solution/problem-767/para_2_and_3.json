@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of standard punctuation marks such as commas and periods. However, it lacks consistency in capitalization and has a minor punctuation error ('he's part'). Paragraph 2 contains informal language with errors like 'Your right' instead of 'You're right' and lacks proper punctuation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a higher level of lexical and grammatical accuracy with appropriate word choices and grammatical structures. In contrast, Paragraph 2 contains informal language ('sunnies,' 'shittes') and grammatical errors ('Your right').",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of short and straightforward sentences. Paragraph 1 maintains coherence and cohesion in presenting information, while Paragraph 2 lacks clarity and coherence, affecting the overall structure.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal and informative tone, focusing on discussing an individual's background. In contrast, Paragraph 2 uses informal language and lacks clarity in expressing thoughts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs do not contain significant spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score suggests a moderate likelihood that the two texts were written by different authors due to differences in formality, coherence, and language use.",
+        "score": 0.54
+    }
+}

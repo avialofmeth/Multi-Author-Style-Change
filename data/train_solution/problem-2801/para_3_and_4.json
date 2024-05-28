@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains standard punctuation marks such as quotes and commas. Paragraph 2 uses informal language and lacks standard punctuations in places.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates formal language and specific vocabulary related to human rights. Paragraph 2 uses informal language and slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with a clear structure. Paragraph 2 has shorter, fragmented sentences and lacks coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal tone appropriate for a human rights issue. Paragraph 2 is highly informal and disrespectful in tone.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there is a low likelihood that the two texts were written by the same author.",
+    "score": 0.4
+  }
+}

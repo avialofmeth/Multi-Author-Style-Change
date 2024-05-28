@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, periods, and quotation marks similarly. However, the first text uses more informal punctuation style with ellipses and lacks proper capitalization, which differs from the second text.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal language with some grammatical errors. However, the second text contains more complex sentence structures compared to the first text.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts have a similar level of coherence and cohesion. The sentence length is relatively short in both texts, with straightforward arrangement.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts share a similar tone of skepticism and criticism. However, the topics and expressions used in the texts differ significantly.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts have no apparent spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, the overall confidence score is moderate, suggesting a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.64
+  }
+}

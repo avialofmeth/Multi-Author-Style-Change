@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both paragraphs use quotation marks and commas correctly in direct speech.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"Paragraph 1 uses more formal and technical language compared to the informal tone of Paragraph 2. This difference in word choice and style could suggest a different author.",
+      "score":0.4
+   },
+   "feature3":{
+      "explanation":"Paragraph 1 is more structured and coherent in presenting scientific research findings, while Paragraph 2 is more speculative and casual in nature.",
+      "score":0.5
+   },
+   "feature4":{
+      "explanation":"Paragraph 1 has a formal and informative tone related to a scientific study, while Paragraph 2 has a more light-hearted and playful tone discussing a hypothetical scenario.",
+      "score":0.6
+   },
+   "feature5":{
+      "explanation":"No spelling or typographical errors were identified in either paragraph.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the mix of formal and informal language, speculative nature, and differing tones between the two paragraphs, it is unlikely that the same author wrote both texts.",
+      "score":0.66
+   }
+}

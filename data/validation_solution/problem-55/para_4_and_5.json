@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons and question marks appropriately, but they differ in the use of hyphens, brackets, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical choice and part of speech usage, such as the use of specific terms like 'garrison' and 'reinforcements'. However, the comparison to a video game in the second text indicates some variation in word choice.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts contain relatively short and straightforward sentences without significant complexity. They also exhibit coherence in presenting ideas.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ significantly between the historical military scenario in the first text and the reference to a video game in the second text. This contrast in tone and mood suggests potential differences in authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors apparent in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and differences in writing style, the overall confidence score that these texts were written by the same author is moderate.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain hyphens and numbers presented in a similar format.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Both texts use concise language and simple grammatical structures, focusing on conveying information directly.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts consist of short, straightforward sentences with a focus on presenting factual information.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts have a neutral tone and provide information without emotional or subjective language.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the alignment in punctuation style, lexical and grammatical features, text structure, discourse features, and absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.84
+    }
+}

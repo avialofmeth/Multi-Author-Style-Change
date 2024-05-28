@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks for direct speech, while Paragraph 2 does not include direct speech to evaluate the use of punctuation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes informal language and slang ('BALLS', 'REAL man'), whereas Paragraph 2 emphasizes courteous and formal language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter, more fragmented sentences, while Paragraph 2 contains longer, more structured sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 exhibits a confrontational and aggressive tone, contrasting with the polite and respectful tone of Paragraph 2.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling and typographical errors, it is unlikely that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

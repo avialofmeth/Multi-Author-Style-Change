@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks for direct speech, commas for separating items in a list, and periods for ending sentences. However, the first text includes a wider variety of punctuation marks like hyphens and parentheses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit different lexical choices and word usage due to the nature of the content. The first text includes more politically charged words related to protests, while the second text focuses on a criminal incident. Grammatical features such as sentence structure and part of speech usage vary between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text contains shorter, more fragmented sentences typical of protest chants, whereas the second text presents longer, more detailed sentences characteristic of a news report. The overall sentence structures and quantitative features differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts are distinct, with the first text expressing protest sentiments through chants and direct accusations, while the second text reports on a specific criminal incident. The tone and mood in each text differ due to the differing subject matter.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles, there is moderate evidence to suggest that the two texts were not written by the same author. However, the absence of spelling and typographical errors provides a slight counterbalance. The overall confidence score is moderate.",
+        "score": 0.52
+    }
+}

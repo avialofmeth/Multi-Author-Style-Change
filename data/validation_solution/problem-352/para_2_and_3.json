@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and commas for list enumeration, while Paragraph 2 uses commas for separating clauses and phrases.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical language related to media outlets, while Paragraph 2 discusses issues of factionalism and party unity.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have varied sentence structures and moderate complexity.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informational tone, while Paragraph 2 has a more analytical and critical tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not exhibit spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in topic and content, the linguistic features analyzed show some similarities but also notable distinctions, leading to a moderate level of confidence that the texts were not written by the same author.",
+    "score": 0.58
+  }
+}

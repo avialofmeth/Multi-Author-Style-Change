@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a mix of hyphens, commas, and periods, but the first text includes more informal punctuation like ellipses and lacks quotation marks. The second text maintains a more formal and consistent punctuation style.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "The first text shows a tendency towards informal language with phrases like 'shoot at tornados' and 'above average force.' The second text is more formal and focused on etiquette and rules.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit varied sentence structures, but the first text is more fragmented and lacks coherence in comparison to the second text, which maintains a more organized and coherent structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text has a more informal and conversational tone with references to specific events, while the second text is more formal and instructional in nature.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in that regard.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and overall tone between the two texts, the likelihood of them being written by the same author is low.",
+        "score": 0.4
+    }
+}

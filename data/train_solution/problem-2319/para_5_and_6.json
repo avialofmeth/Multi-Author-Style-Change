@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation with consistent use of commas and periods. Paragraph 2 has a lack of punctuation in some instances and includes a mix of hyphens, parentheses, and commas.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with clear word choice. Paragraph 2 contains more informal language and shows variation in word choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 maintains a consistent sentence structure and length, contributing to coherence. Paragraph 2 exhibits longer and more complex sentences, affecting overall coherence and cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and direct narrative style. Paragraph 2 has a more conversational tone with a list-like structure of points.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, there are notable divergences in writing style that suggest different authors. However, the lack of spelling and typographical errors slightly raises the possibility of the same author. The average score indicates a moderate likelihood that the texts were written by different authors.",
+        "score": 0.5
+    }
+}

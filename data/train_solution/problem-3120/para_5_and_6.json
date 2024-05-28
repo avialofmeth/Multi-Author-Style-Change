@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation like hyphens and colons. However, the first text also includes parentheses and quotation marks while the second text does not. There are some differences in punctuation style.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "The first text uses more formal language with words like 'overwhelmingly unpopular' and 'backing the group,' while the second text is more informal with phrases like '_Shit tons_ of people.' Different lexical and grammatical features are present.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively short and straightforward sentences. The first text has a more structured and formal sentence construction compared to the second text. Sentence complexity and coherence differ slightly.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a serious tone discussing unpopularity and financial support, while the second text uses informal language and a casual tone. The narrative styles and tone are distinct between the texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors. There is consistency in spelling and no errors observed.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and narrative styles, it is unlikely that the two texts were written by the same author. However, the consistency in spelling boosts the overall confidence.",
+    "score": 0.6
+  }
+}

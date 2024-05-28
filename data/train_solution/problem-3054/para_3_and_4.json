@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas to separate clauses and provide additional information within sentences.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There is a variation in word choice and vocabulary between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively simple sentence structures with clear expressions.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The tone and mood in both texts are different, with the first text expressing concern and the second text showing a more detached attitude.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in word choice and tone, as well as the similarities in punctuation and sentence structure, there is moderate confidence that the two texts were not written by the same author.",
+    "score": 0.64
+  }
+}

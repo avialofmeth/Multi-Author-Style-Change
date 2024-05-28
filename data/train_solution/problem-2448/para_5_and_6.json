@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas, but the second text also includes a colon.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts use direct and clear language, but the second text includes more emotionally charged words.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts have short and direct sentences, but the second text has a stronger emotional tone.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text has a neutral and informative tone, while the second text has a more expressive and opinionated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in emotional tone and narrative style, along with some shared punctuation features, there is moderate confidence that the texts were written by the same author.",
+        "score": 0.66
+    }
+}

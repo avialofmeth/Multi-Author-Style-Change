@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Differences in the use of punctuation marks like hyphens, colons, and quotation marks can indicate a different writing style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Variation in lexical choice and grammatical structures can help differentiate between different authors.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure, length, and coherence can be indicative of a particular writing style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Tone, mood, and narrative styles can vary among authors and influence the writing style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Spelling and typographical errors can also be a factor in distinguishing between authors.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the above features collectively, there are some similarities but also noticeable differences in the writing styles of the two texts, leading to moderate confidence that they were not written by the same author.",
+    "score": 0.34
+  }
+}

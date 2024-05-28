@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent and correct use of punctuation marks such as commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts demonstrate a mix of casual and formal language, with variations in word choice and sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The first text is structured with clear sentences and coherence, while the second text contains shorter and more abrupt sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The first text conveys a formal tone focused on rules and guidelines, while the second text presents a more informal and narrative style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "After considering the individual feature scores, the moderate level of strictness in scoring indicates a moderate likelihood that the texts were written by the same author.",
+    "score": 0.66
+  }
+}

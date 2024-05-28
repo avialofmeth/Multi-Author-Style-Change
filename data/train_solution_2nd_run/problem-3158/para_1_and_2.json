@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods correctly and consistently. However, the first paragraph uses more varied punctuation including parentheses and question marks, while the second paragraph lacks such variation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first paragraph demonstrates a wider range of vocabulary compared to the second paragraph, which is more straightforward and lacks complexity in word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first paragraph is more complex in sentence structure with varied lengths and arrangements, while the second paragraph is more simplistic in structure with shorter sentences. Cohesion is stronger in the first paragraph, indicating a higher level of writing skill.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and straightforward tone. However, the first paragraph shows a slightly more analytical approach, discussing potential outcomes and implications, while the second paragraph is more direct in expressing disbelief.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are both similarities and differences in the writing styles of the two texts. The first text exhibits more varied punctuation, vocabulary, and sentence complexity, suggesting a higher level of writing skill compared to the second text, which is more straightforward and simplistic. The lack of lexical variation and complex sentence structures in the second text contrasts with the first text's more sophisticated style, leading to a moderate confidence score in the likelihood of the same authorship.",
+        "score": 0.64
+    }
+}

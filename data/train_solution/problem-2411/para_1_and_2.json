@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation such as commas, brackets, and colons, while Paragraph 2 mainly relies on commas and colons.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more complex and formal language compared to the simpler language used in Paragraph 2. This difference in lexical variation and word choice suggests a distinction.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. There is a clear difference in sentence structure and quantitative features.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and urgent tone related to political issues, while Paragraph 2 adopts a neutral and informative tone regarding subreddit guidelines. The narrative styles and speech events differ significantly.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

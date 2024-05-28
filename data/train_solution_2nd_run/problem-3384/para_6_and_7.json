@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods. However, the second text lacks some of the punctuation marks seen in the first text.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show differences. The first text uses more informal language and slang compared to the second text, which is more formal and technical due to the mention of being a bot.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features are distinct in the two texts. The first text has shorter, more fragmented sentences, while the second text is more straightforward and concise.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the texts differ significantly. The first text conveys a personal opinion with a negative tone, while the second text is neutral and informational.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, there are notable differences in the writing styles of the two texts, particularly in lexical and grammatical choices, sentence structures, and narrative tones. Based on these differences, the confidence that the two texts were written by the same author is low.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as commas, periods, and ellipses. However, Text 1 includes more colons and quotation marks compared to Text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choices and word usage. For example, Text 1 focuses on counter-terrorism laws while Text 2 mentions diverse identities. The grammatical structures also vary significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 contains longer sentences with more complex structures, especially in terms of discussing the context of counter-terrorism laws. In contrast, Text 2 has shorter sentences and simpler arrangements.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events differ greatly between the two texts. Text 1 adopts a formal and informative tone, focusing on legal matters, while Text 2 uses a more conversational and opinionated tone discussing terror attacks.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The analysis indicates significant differences in punctuation style, lexical and grammatical features, sentence structures, and discourse features between the two texts. While there are some commonalities in punctuation usage and lack of spelling errors, the overall writing styles suggest different authors.",
+    "score": 0.5
+  }
+}

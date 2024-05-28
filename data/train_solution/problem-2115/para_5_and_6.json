@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles with commas and periods, but the first text uses colons while the second text does not. However, this variation in punctuation usage is not substantial enough to indicate different authors.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical and grammatical features, utilizing technical military terminology and concise language. The word choices and grammatical categories align well between the two texts, suggesting a common author.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts display a concise and direct style with moderate sentence length. They maintain coherence and cohesion in presenting their points, indicating a consistent writing style.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in both texts are focused on military strategies and outcomes, with a serious and informative tone. While the topics differ, the overall writing style and mood are consistent, pointing towards a shared authorship.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in writing quality.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the consistency in punctuation styles, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is a high likelihood that the two texts were written by the same author.",
+        "score": 0.88
+    }
+}

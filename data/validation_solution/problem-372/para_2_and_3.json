@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas, periods, and apostrophes. However, Paragraph 1 includes more formal punctuation like colons and parentheses, while Paragraph 2 uses informal punctuation like ellipses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts. Paragraph 1 is formal and informational, with specific terminology related to media outlets. In contrast, Paragraph 2 is informal, with colloquial language and informal expressions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features also vary greatly. Paragraph 1 consists of concise and direct sentences related to providing information, while Paragraph 2 contains longer, more complex sentences expressing opinion and emotion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features show a distinct difference in narrative styles and tone. Paragraph 1 maintains a neutral and formal tone focused on guidelines, whereas Paragraph 2 adopts a critical and sarcastic tone towards a political group.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors apparent in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

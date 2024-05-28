@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates inconsistent and incorrect punctuation usage, including missing commas and periods. It also contains an excessive amount of run-on sentences. In contrast, Paragraph 2 showcases appropriate punctuation and sentence structure.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a mix of formal and informal language, with some spelling and grammatical errors. In contrast, Paragraph 2 maintains a more formal tone with correct lexical and grammatical choices.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is characterized by long, convoluted sentences lacking cohesion and clarity. Paragraph 2, on the other hand, presents concise and well-structured sentences with better coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a combative and dismissive tone towards a specific group of individuals. In contrast, Paragraph 2 focuses on general guidelines for respectful communication without targeting any particular group.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 contains several typographical errors, such as 'treats' instead of 'threats' and 'mini maga' instead of 'MAGA.' Paragraph 2, in comparison, is free from such spelling mistakes.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall likelihood of the two texts being written by the same author is low due to significant disparities in writing style.",
+    "score": 0.22
+  }
+}

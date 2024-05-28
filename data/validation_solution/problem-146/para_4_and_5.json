@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as commas and periods similarly. However, the second text includes hyphens and lacks quotation marks, which differs from the punctuation style in the first text.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of lexical and grammatical features, including varied word choices and sentence structures. However, the second text includes more technical terms related to law enforcement, while the first text is more general.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts show coherence and reasonable sentence lengths. The second text has more complex sentences due to the technical nature of the content.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ significantly between the two texts. The first text has a more formal and automated tone, while the second text adopts a more urgent and specific tone related to law enforcement procedures.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate, as there are similarities in punctuation, lexical and grammatical features, and sentence structure. However, the differences in narrative style and tone lower the overall confidence in authorship.",
+    "score": 0.62
+  }
+}

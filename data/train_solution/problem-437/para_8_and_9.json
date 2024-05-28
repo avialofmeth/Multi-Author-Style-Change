@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and mentions animals in the sea, while Paragraph 2 mentions animals on land. The punctuation style differs in terms of content.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "There is a difference in the lexical and grammatical features due to the subject matter being different in each paragraph.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Sentence structures and quantitative features vary significantly in the two texts, affecting coherence and cohesion.",
+        "score": 0.15
+    },
+    "feature4": {
+        "explanation": "The narrative styles, speech events, tone, and mood differ as the topics discussed are distinct.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no notable spelling or typographical errors in either paragraph.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, and the lack of spelling errors, it is unlikely that the two texts were written by the same author.",
+        "score": 0.29
+    }
+}

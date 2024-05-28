@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation such as commas and periods, but Paragraph 1 also includes a dash and a profanity, which is absent in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use a direct and straightforward style with minimal lexical variation. However, the profanity in Paragraph 1 sets it apart from the more neutral tone in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is longer and more complex in structure compared to the concise and straightforward nature of Paragraph 2. This difference in sentence length and complexity affects the overall style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts lack narrative elements and are more instructional in nature. However, the profanity in Paragraph 1 contrasts with the automated and formal tone in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, tone, sentence structure, and formality, along with the presence of profanity in Paragraph 1, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

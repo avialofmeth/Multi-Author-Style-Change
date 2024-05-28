@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, colons, and quotation marks to structure the text. Paragraph 2 lacks this diversity and uses fewer punctuation marks overall.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice. They both contain formal language with complex sentence structures.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more complex structures compared to Paragraph 2. Paragraph 2 is more straightforward and has shorter sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss political situations but with different contexts. Paragraph 1 focuses on EU and NATO relations, while Paragraph 2 speculates about potential military actions. The tone and mood vary due to the subject matter.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, there are notable similarities in lexical and grammatical features as well as in the absence of spelling errors. However, differences in punctuation style, sentence structure, and text/discourse features suggest some variation in writing style. The overall likelihood of the texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

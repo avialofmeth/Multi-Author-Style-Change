@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods, while Paragraph 2 uses ellipses and question marks. Both paragraphs lack hyphens, brackets, colons, and quotation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more casual and informal tone with phrases like 'worthless shit,' while Paragraph 2 has a slightly more formal tone with terms like 'reconquer.' Both paragraphs show some variation in word choice but differ in terms of formality.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of relatively short sentences. Paragraph 1 is more cohesive in discussing a specific action, while Paragraph 2 appears more fragmented and speculative. Sentence structure and length vary between the two paragraphs.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more colloquial narrative style, discussing mundane activities. In contrast, Paragraph 2 presents a more analytical and speculative narrative regarding geopolitical scenarios. The tones and narrative styles are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate due to some shared features but notable distinctions.",
+    "score": 0.48
+  }
+}

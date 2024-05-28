@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with commas and periods. There are no hyphens, brackets, colons, parentheses, or quotation marks in this text.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical and grammatical features, focusing on factual information and straightforward language. There are no distinct differences in word choice or grammatical categories.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are relatively simple and direct, with a focus on conveying information clearly. Both texts lack complexity in terms of sentence length and arrangement.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both paragraphs lack narrative elements or distinctive styles. They both convey information in a neutral tone without any expressive or emotional language.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there are moderate similarities between the two texts, suggesting a moderate likelihood that they were written by the same author.",
+        "score": 0.34
+    }
+}

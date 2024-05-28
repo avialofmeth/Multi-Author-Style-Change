@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use dashes and parentheses for additional information within sentences.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is variation in lexical choices and word usage between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure differs significantly between the texts, affecting coherence and cohesion.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Different narrative styles and tones are present in the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the likelihood of the two texts being written by the same author is low to moderate.",
+    "score": 0.52
+  }
+}

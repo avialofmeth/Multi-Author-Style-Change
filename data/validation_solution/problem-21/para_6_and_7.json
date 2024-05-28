@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of colons, commas, and quotation marks for direct quotes. However, Paragraph 1 includes more formal punctuation due to its nature as a report.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs formal and technical language related to medical procedures and investigative findings. In contrast, Paragraph 2 has a more casual tone with phrases like 'cheat code,' indicating a difference in lexical choice and formality.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences typical of a formal report, while Paragraph 2 contains shorter, more conversational sentences. This difference in sentence structure impacts the overall coherence and style.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts address serious issues but from different perspectives - one from an investigative report angle (Paragraph 1) and the other from a critical inquiry standpoint (Paragraph 2). This variation in narrative style and tone suggests potential different authors.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choice, sentence structure, and narrative style, it is less likely that the two texts were written by the same author despite the similarities in punctuation style and lack of spelling errors.",
+    "score": 0.58
+  }
+}

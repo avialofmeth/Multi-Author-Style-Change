@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods. However, Paragraph 1 includes more formal punctuation like colons and quotation marks, while Paragraph 2 uses ellipses and dashes more informally.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style with clear word choices and grammatical categories. In contrast, Paragraph 2 shows a more informal and colloquial word choice and grammar.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are coherent in their structure, but Paragraph 1 displays longer and more complex sentences, while Paragraph 2 contains shorter, fragmented sentences. This indicates a difference in sentence length and complexity.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal narrative style and tone, focusing on the news report. In contrast, Paragraph 2 adopts a more informal and conversational tone with elements of sarcasm and personal commentary, indicating a distinct narrative style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and typographical errors, indicating a level of care in writing. There are no significant differences in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structures, and narrative styles, along with the consistency in spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

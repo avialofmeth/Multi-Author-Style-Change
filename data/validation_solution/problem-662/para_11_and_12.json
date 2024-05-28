@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for analogy, while Paragraph 2 uses ellipsis for emphasis. Both paragraphs use commas appropriately.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and technical vocabulary related to scientific concepts, while Paragraph 2 includes historical and geopolitical terms. Both paragraphs exhibit variety in word choice.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, complex sentences for explanation, whereas Paragraph 2 has shorter and more direct sentences for impact. Both paragraphs are coherent and structured.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a neutral and explanatory tone, while Paragraph 2 expresses a slightly dismissive and sarcastic tone. Both paragraphs exhibit different narrative styles.",
+    "score": 0.25
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in narrative styles and tones, as well as the vocabulary used, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.55
+  }
+}

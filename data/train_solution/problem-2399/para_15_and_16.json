@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas and question marks, while Paragraph 2 mainly relies on periods and commas. Both paragraphs exhibit consistent use of punctuation within their respective structures.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more complex and formal language with phrases like 'actively covering up' and 'enabling the abuse,' while Paragraph 2 employs simpler language with phrases like 'put a stop to that.' The lexical and grammatical features differ in complexity and formality.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs vary in length and complexity. Paragraph 1 has longer sentences with multiple clauses, whereas Paragraph 2 consists of shorter, more straightforward sentences. The coherence and cohesion also differ in terms of the narrative styles and sentence arrangements.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both paragraphs are distinct. Paragraph 1 conveys a critical and accusatory tone, while Paragraph 2 maintains a more informative and reflective tone. The narrative styles and speech events are different between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit correct spelling and typographical errors are not present. The spelling and typographical features are consistent in terms of accuracy.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate, as there are notable differences in language complexity, tone, and narrative styles.",
+        "score": 0.5
+    }
+}

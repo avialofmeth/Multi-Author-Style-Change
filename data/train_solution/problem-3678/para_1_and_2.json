@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains formal and structured punctuation such as commas, hyphens, and colons, while Paragraph 2 includes more informal punctuation like ellipses and lacks the structured use of hyphens and colons.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses technical and formal language related to medical procedures, while Paragraph 2 has a more conversational and informal tone with personal pronouns and colloquial language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences related to medical details, whereas Paragraph 2 has shorter and simpler sentences expressing personal opinions.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and factual tone given the context of medical information, while Paragraph 2 adopts a more emotional and conversational tone in discussing fairness and personal perspectives.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate accurate spelling and no typographical errors, showing a consistent level of attention to detail in terms of language mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and discourse characteristics, along with the consistent spelling and absence of errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

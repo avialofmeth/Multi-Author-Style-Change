@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both exhibit similar punctuation styles with the use of commas, periods, and dollar signs, although Paragraph 1 contains more hyphens and Paragraph 2 includes a colon.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two paragraphs. Paragraph 1 uses more technical and legal language related to tax avoidance, while Paragraph 2 focuses on discussing working conditions and social issues.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more complex in sentence structure with longer sentences compared to the simpler sentence structure in Paragraph 2. Additionally, Paragraph 1 uses more varied sentence lengths.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone differ significantly between the two paragraphs. Paragraph 1 has a more critical and problem-solving tone related to tax evasion, whereas Paragraph 2 adopts a more positive and descriptive tone about working conditions in Switzerland.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative style, as well as the similarities in punctuation style and absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

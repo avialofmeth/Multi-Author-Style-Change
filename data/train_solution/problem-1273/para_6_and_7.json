@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas appropriately, although the first text contains more varied punctuation marks compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text demonstrates a formal tone with clear lexical choices, while the second text uses more informal language and specific references. Grammatically, both texts show coherence.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structure in the first text is straightforward and direct, while the second text contains a more complex sentence structure. Both texts exhibit coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text adopts a neutral and informative tone, while the second text conveys a more opinionated and speculative tone. This difference in tone may suggest a divergence in authorship.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, along with the similarities in spelling and typographical error-free text, the overall confidence score of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods consistently. However, only Paragraph 1 uses colons, while Paragraph 2 does not use any specialized punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice. They use technical terms related to the energy industry but do not contain significant differences in vocabulary.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with more complex structures compared to Paragraph 2, which consists of shorter and more straightforward sentences. However, both maintain coherence and cohesion in their respective styles.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey a somewhat formal tone, discussing the future of fossil fuels. However, the first text is more descriptive and explanatory, while the second text is more speculative and critical in nature.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, coherence, tone, and absence of spelling errors, there is a moderate level of confidence that the two texts may have been written by the same author.",
+        "score": 0.76
+    }
+}

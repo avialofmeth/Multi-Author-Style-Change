@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a mix of punctuation marks including commas, colons, and question marks. However, the use of parentheses and quotation marks differs between the two texts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is variation in word choice and sentence structure between the two texts. The vocabulary and grammatical structures used differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ in complexity and length. One text contains longer, more complex sentences while the other has shorter, more direct sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts vary significantly. One text expresses frustration and criticism, while the other discusses military and humanitarian aid in a more neutral tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors apparent in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

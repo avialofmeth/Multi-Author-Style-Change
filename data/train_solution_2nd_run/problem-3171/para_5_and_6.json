@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and period punctuation marks appropriately. However, the first text includes more informal punctuation like ellipses and lacks proper capitalization in 'REAL'.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of informal and formal language. The first text uses colloquial language with contractions like 'dont' and 'they're', while the second text is more formal and structured.",
+    "score": 0.25
+  },
+  "feature3": {
+    "explanation": "The first text has longer sentences with informal language, while the second text is concise and straightforward. The sentence structures and lengths differ significantly.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The first text expresses a strong opinion with a sarcastic tone, while the second text is neutral and informative. The narrative styles and tones are distinct.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and narrative styles, the texts are unlikely to be written by the same author.",
+    "score": 0.41
+  }
+}

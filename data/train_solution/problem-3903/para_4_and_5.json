@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, question marks, and periods. However, the second text shows more varied punctuation usage with dashes, ellipses, and exclamation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are some similarities in lexical and grammatical features such as the use of complex sentences and formal language in both texts. However, the second text demonstrates a wider range of vocabulary and more complex sentence structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts show coherence and cohesion in discussing legal and political matters. The first text is more straightforward and direct in its presentation, while the second text includes more detailed examples and elaborations.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey a critical tone towards the Russian government and legal system. However, the second text uses more emotive language and expresses stronger opinions compared to the first text.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate, as they demonstrate some similarities in writing style but also notable differences in vocabulary richness, punctuation variety, and emotional expression.",
+        "score": 0.64
+    }
+}

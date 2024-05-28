@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar punctuation style, including the use of colons and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features, such as the use of specific terms like 'history' and 'people.' However, there are differences in word choice and sentence structure.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "While both texts vary in sentence complexity and length, they share coherence and cohesion in presenting ideas.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ between the two texts, with one being informational and the other more opinion-based. However, both exhibit a serious tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combination of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and lack of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.72
+    }
+}

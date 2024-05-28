@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, quotation marks, and hyphens to separate information and indicate dialogue. Paragraph 2 employs commas and slashes within a list of rule violations.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes specific vocabulary related to a physical altercation (e.g., pummeling, shooter). Paragraph 2 focuses on general etiquette with terms like insults, shill, and troll.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains a mix of short and medium-length sentences, with a descriptive narrative style. Paragraph 2 is concise and straightforward, emphasizing rules without detailed elaboration.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a dramatic tone in describing the physical confrontation. Paragraph 2 maintains a neutral and instructive tone when listing rule violations.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and no typographical errors, indicating attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, vocabulary choice, sentence structure, discourse features, and spelling accuracy, the writing styles of the two paragraphs show some differences in lexical choice and sentence structure but exhibit similarities in punctuation and absence of errors. The overall confidence score is moderate.",
+    "score": 0.6
+  }
+}

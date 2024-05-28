@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured use of punctuation marks such as commas, colons, and quotation marks for clarity and organization. In contrast, Paragraph 2 lacks proper punctuation and uses slashes instead of commas.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses technical and formal language with a focus on legal terms related to courts and investigations. In comparison, Paragraph 2 contains informal language, abbreviations ('MAGA'), and slang ('hang pence') that are not present in Paragraph 1.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured with clear, coherent sentences related to legal procedures. Paragraph 2, on the other hand, is fragmented and lacks clear sentence structure and coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone related to legal concepts. Paragraph 2, in contrast, expresses emotional content and references specific political events, indicating a different narrative style and tone.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both paragraphs exhibit proper spelling and typographical accuracy without errors or mistakes.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.4
+    }
+}

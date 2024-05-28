@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with commas, periods, and parentheses. However, the presence of colons in the second text while absent in the first text can be considered a distinguishing factor.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in the lexical and grammatical features such as the use of common words and grammatical structures. However, the second text includes more specific terms related to a political context, which may indicate a slight difference.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit a straightforward sentence structure with clear communication. The second text is slightly more directive in nature, which could be a distinguishing factor.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both texts are informative and instructional. The tone in the second text is more urgent and directive compared to the neutral tone of the first text.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a level of attention to detail.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of each feature, there are similarities in punctuation, lexical and grammatical features, sentence structure, and absence of spelling errors. However, differences in terms of specific terminology, tone, and narrative style are present, leading to a moderate level of confidence in the texts being written by the same author.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 exhibits a formal and structured punctuation style with the use of colons and commas for clarity. In contrast, Paragraph 2 lacks such formal punctuation, with a more informal and conversational tone.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal and technical language related to media outlets and subreddit guidelines. Paragraph 2, on the other hand, includes more colloquial language and slang, indicating a difference in lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of clear and direct sentences focused on conveying information. In contrast, Paragraph 2 has more complex and convoluted sentence structures, reflecting a difference in sentence complexity and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative tone appropriate for guidelines. Paragraph 2, however, adopts a more casual and opinionated tone, showing a divergence in narrative styles and tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free of spelling and typographical errors, indicating a similarity in this aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author. The presence of similar spelling and typographical accuracy provides a slight commonality. The overall confidence score is moderate, suggesting a low likelihood of the same authorship.",
+        "score": 0.44
+    }
+}

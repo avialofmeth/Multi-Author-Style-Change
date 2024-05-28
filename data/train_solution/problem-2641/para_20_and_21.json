@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use quotation marks and hyphens, but only the first text includes a colon.",
+      "score":0.5
+   },
+   "feature2":{
+      "explanation":"The lexical and grammatical features differ significantly between the two texts, with the first text using more formal language and the second text being more informal and colloquial.",
+      "score":0.2
+   },
+   "feature3":{
+      "explanation":"Text 1 is more structured and formal in its sentence construction compared to the informal and fragmented nature of Text 2.",
+      "score":0.3
+   },
+   "feature4":{
+      "explanation":"The narrative styles and tone are quite different in the two texts, with the first text discussing a political campaign while the second text appears to be a casual complaint.",
+      "score":0.3
+   },
+   "feature5":{
+      "explanation":"There are no apparent spelling or typographical errors in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+      "score":0.46
+   }
+}

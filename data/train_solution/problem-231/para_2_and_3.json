@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and quotation marks for additional information and direct quotes.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts display a similar level of formality in word choice and grammatical structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit moderate sentence complexity and coherent organization.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and style differ significantly due to the difference in topics and content.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical features, and sentence structure, with the only notable difference being the topic-related tone, there is moderate confidence that the texts may be written by the same author.",
+        "score": 0.68
+    }
+}

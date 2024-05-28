@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a consistent use of commas and numbers, but they differ in the presence of other punctuation marks like hyphens, brackets, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some differences in terms of vocabulary and sentence structure. The first text uses more formal military-related terms and specific ranks, while the second text has a more casual tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly. The first text contains a list of ranks in a structured manner, while the second text is more conversational with shorter and more fragmented sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The discourse features also differ between the texts. The first text is factual and informative, while the second text introduces a more speculative and opinionated tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is less likely that the two texts were written by the same author.",
+        "score": 0.54
+    }
+}

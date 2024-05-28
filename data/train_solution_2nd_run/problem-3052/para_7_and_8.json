@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of hyphens, commas, and periods, but differ in the use of quotation marks and parentheses.",
+        "score": 0.75
+    },
+    "feature2": {
+        "explanation": "The lexical variation and word choice in both texts differ significantly. The first text uses more technical military terms while the second text references a movie ('Patton'). Grammatical categories and part of speech usage also vary between the two texts.",
+        "score": 0.25
+    },
+    "feature3": {
+        "explanation": "The sentence structure and quantitative features show differences in complexity and coherence. The first text contains longer, more complex sentences, while the second text is more straightforward and concise.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events are distinct between the two texts. The first text discusses military strategy, while the second text references a movie and reflects a different tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical and grammatical features, sentence structure, and narrative styles.",
+        "score": 0.54
+    }
+}

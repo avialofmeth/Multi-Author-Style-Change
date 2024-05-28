@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a conversational style with informal punctuation such as ellipses and casual language. Paragraph 2, on the other hand, employs more formal punctuation suited for reporting facts and figures.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more introspective and emotional tone with expressive language, while Paragraph 2 leans towards factual reporting with technical terms. The lexical and grammatical features differ significantly between the two texts.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 comprises longer, complex sentences with a reflective and narrative style. In contrast, Paragraph 2 consists of shorter, more straightforward sentences focusing on providing information. The sentence structures and quantitative features are distinct.",
+    "score": 0.1
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a philosophical and speculative tone, discussing broader societal issues. Paragraph 2 adopts a more detached and observational tone related to a specific event. The text and discourse features diverge significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and typographical accuracy, showing no errors in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.32
+  }
+}

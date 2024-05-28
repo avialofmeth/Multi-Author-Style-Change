@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and apostrophes. However, the second text includes more hyphens compared to the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use formal and structured language with varied vocabulary. The second text has a more specific focus on political terms compared to the first text's general guidelines.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have moderate sentence complexity and average length. The first text contains a clear list of rules, while the second text presents a political analysis.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is informative and directive. However, the first text is more instructional, while the second text is descriptive and analytical.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the absence of spelling errors, there is a moderate confidence that the two texts were written by the same author.",
+        "score": 0.74
+    }
+}

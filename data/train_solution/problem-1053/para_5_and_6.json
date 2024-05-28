@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display consistent use of commas for listing and separating elements within sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more technical and military-related vocabulary compared to Text 2, which focuses on morale and volunteerism. This difference in lexical choice suggests some distinction in writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit relatively similar sentence structures with a mix of complex and simpler sentences, contributing to coherence.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more urgent and directive tone, emphasizing the need for military support, while Text 2 adopts a more descriptive and comparative tone focusing on the differences in morale between Ukrainian and Russian troops.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, sentence structure, and absence of spelling errors, alongside the distinctions in lexical and grammatical features as well as tone and vocabulary choice, the overall confidence score in the texts being written by the same author is moderate.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use informal punctuation such as slashes and hyphens. They also contain profanity, which could be considered as a punctuation style in this context.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"Both texts exhibit a similar informal and conversational tone with casual word choices and grammatical structures.",
+      "score":0.7
+   },
+   "feature3":{
+      "explanation":"The texts share a commonality in sentence structure with shorter, direct sentences that convey strong opinions.",
+      "score":0.6
+   },
+   "feature4":{
+      "explanation":"Both texts convey a critical and opinionated tone towards political figures, showing a similarity in narrative style and mood.",
+      "score":0.9
+   },
+   "feature5":{
+      "explanation":"No spelling or typographical errors were identified in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the shared use of informal punctuation, similar tone, sentence structure, and narrative style, along with the absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+      "score":0.8
+   }
+}

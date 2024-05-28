@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as colons and periods, but Paragraph 2 includes hyphens and single quotation marks which are not present in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and sentence structures between the two texts. Paragraph 1 uses more formal language related to guidelines, while Paragraph 2 features more informal language related to legal proceedings.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to the simpler sentences in Paragraph 2. The overall sentence structure and length differ significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events vary greatly between the two texts. Paragraph 1 focuses on guidelines and regulations, while Paragraph 2 presents a legal defense scenario.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five linguistic features, the texts show some similarities in punctuation but differ significantly in lexical and grammatical features, sentence structure, and discourse style. The absence of spelling errors is a commonality. Therefore, the likelihood of the two texts being written by the same author is low to moderate.",
+    "score": 0.5
+  }
+}

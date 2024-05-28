@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes a mix of various punctuation marks such as hyphens, commas, parentheses, and quotation marks. Paragraph 2, on the other hand, uses a more standard punctuation style with periods and commas for clarity.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more casual and conversational lexical choice with phrases like 'won't get shunned', 'hang out', and 'give a shit'. Paragraph 2, in contrast, uses more formal and direct language focusing on rules and guidelines.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs show differences in sentence structure and length. Paragraph 1 contains longer and more complex sentences with informal arrangements. Paragraph 2 has shorter, more concise sentences with a focus on clarity and directness.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a more narrative and opinionated style with expressions like 'I definitely think', 'I also feel', and 'this part might just be me fantasizing'. Paragraph 2 adopts a more instructional and formal tone with phrases like 'In general, be courteous to others' and 'rule violations'.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences and similarities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, there are noticeable distinctions in writing style between the two paragraphs. The overall confidence score of the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

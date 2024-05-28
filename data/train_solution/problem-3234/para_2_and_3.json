@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use punctuation marks like commas and quotation marks, but the usage is different. Text 1 uses more formal punctuation like colons and parentheses, while Text 2 has informal punctuation like hyphens.",
+      "score": 0.5
+   },
+   "feature2": {
+      "explanation": "Text 1 uses more formal and structured language with specific references, while Text 2 has a more casual and colloquial tone with regional expressions.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "Text 1 has a more structured sentence arrangement and coherence, whereas Text 2 has shorter sentences and a conversational tone.",
+      "score": 0.4
+   },
+   "feature4": {
+      "explanation": "Text 1 is more informational and directive in tone, focusing on guidelines. Text 2 has a descriptive and personal tone discussing cultural aspects.",
+      "score": 0.6
+   },
+   "feature5": {
+      "explanation": "Both texts are free from spelling and typographical errors.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the mix of formal vs. informal elements in punctuation, language, and tone, along with differences in sentence structure and narrative styles, there is moderate confidence that the texts were not written by the same author.",
+      "score": 0.56
+   }
+}

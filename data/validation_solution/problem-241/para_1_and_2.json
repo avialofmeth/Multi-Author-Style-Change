@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of commas, colons, and quotation marks for direct speech, showing similarity in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts demonstrate a formal tone and use of legal terminology, indicating a similarity in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 focuses on a specific legal ruling with concise sentences, while Paragraph 2 provides an explanation of mediation with a more varied sentence structure. This difference affects the sentence structure and coherence, lowering the similarity in this feature.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts maintain a formal tone appropriate for legal contexts, but the narrative style and speech events differ between the two paragraphs. Paragraph 1 is more direct and informative, while Paragraph 2 is explanatory and instructional. This difference reduces the similarity in text and discourse features.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similarity in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in sentence structure and text discourse features, while punctuation style, lexical and grammatical features, and lack of spelling errors show some similarity, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.7
+  }
+}

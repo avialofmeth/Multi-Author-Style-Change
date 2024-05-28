@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use colons, commas, and question marks appropriately. However, the first text contains more informal punctuation like double question marks and lacks some formal punctuation compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical choice in the two texts differs significantly. The first text shows informal language with slang terms and personal attacks, while the second text maintains a formal and courteous tone.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts are markedly different. The first text consists of shorter, more fragmented sentences, whereas the second text contains longer and more coherent sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are contrasting in the two texts. The first text exhibits a confrontational and accusatory tone, while the second text emphasizes politeness and respectful discourse.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts show notable differences in lexical choice, sentence structure, and narrative style, indicating a low likelihood of being written by the same author.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of commas, periods, and capitalization at the beginning of sentences. However, the presence of hyphens, brackets, colons, and quotation marks is different between the two texts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and use grammatical structures effectively. However, the tone and word choice differ significantly between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple. Paragraph 1 is shorter and more concise, while Paragraph 2 is longer and more opinionated.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts have a direct and informal tone, but the content and sentiments expressed are contrasting. Paragraph 1 is neutral and informative, while Paragraph 2 is opinionated and expressive.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account all the features, the overall confidence score suggests that the two texts are unlikely to have been written by the same author due to significant differences in lexical and grammatical features, sentence structure, and tone.",
+        "score": 0.6
+    }
+}

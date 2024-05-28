@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display similar punctuation styles, including the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The texts share common lexical and grammatical features, such as straightforward language and similar word choices.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit comparable sentence structures in terms of length and coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the two texts differ slightly, with one focusing on data availability and the other on gun safety.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the linguistic features, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

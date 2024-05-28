@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 uses a semicolon and a comma. The punctuation style differs in terms of usage and frequency.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with common grammatical structures, while Paragraph 2 includes informal abbreviations like 'Tl;Dr' and specific terms like 'feds.' The lexical and grammatical features indicate a difference in writing styles.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are concise with straightforward sentence structures. However, Paragraph 2 includes an abbreviation (Tl;Dr) and a specific reference to 'RSV, the flu, and COVID,' which differ from the content in Paragraph 1.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is formal and informative in tone, while Paragraph 2 adopts a more casual and direct style, using abbreviations and addressing a specific topic of current events. The narrative styles and tone vary significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score is moderate, indicating a likelihood that the two texts were not written by the same author.",
+        "score": 0.48
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas in a structured manner to convey emphasis and separation of ideas. Paragraph 2 uses casual punctuation with an informal tone.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a formal and critical tone with complex lexical choices and grammatical structures. Paragraph 2 uses colloquial language and slang terms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, complex sentences with a narrative structure. Paragraph 2 consists of shorter, casual sentences with a direct tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses a serious and critical view, while Paragraph 2 has a playful and informal tone with colloquial expressions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical accuracy, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.3
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and parentheses in a similar manner, but the first text has more complex punctuation (colons, slashes) compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts. The first text contains more informal language and specific political terms, while the second text is more formal and focused on subreddit guidelines.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text has longer and more complex sentences compared to the second text, which is more straightforward and concise.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and discourse features vary greatly between the texts. The first text is opinionated and emotive, using strong language, while the second text is informative and directive.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering all the features, the writing styles of the two texts show significant differences in lexical and grammatical features, sentence structure, and narrative styles, indicating likely different authors.",
+        "score": 0.46
+    }
+}

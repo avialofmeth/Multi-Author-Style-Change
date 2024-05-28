@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and quotation marks for direct speech or emphasis.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on formal language with specific rules stated, while paragraph 2 uses more informal language with specific names and references.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with a more structured arrangement, while paragraph 2 consists of shorter and more direct sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have a serious tone, but the topics and styles differ significantly.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, there is moderate evidence to suggest the texts were not written by the same author.",
+        "score": 0.66
+    }
+}

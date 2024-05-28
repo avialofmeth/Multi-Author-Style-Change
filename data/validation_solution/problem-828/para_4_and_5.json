@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both exhibit the use of commas and periods, but Paragraph 2 also includes an exclamation mark.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use a mix of complex and simple vocabulary, with Paragraph 2 showing more emotional language compared to the more neutral tone in Paragraph 1.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more concise sentences, while Paragraph 2 has longer sentences with emotional depth.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal, procedural tone, typical of automated responses, while Paragraph 2 conveys a personal opinion with strong emotional content.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in tone, sentence structure, and emotional content, along with the similarities in punctuation and absence of errors, the overall confidence that the two texts were written by the same author is moderate.",
+    "score": 0.48
+  }
+}

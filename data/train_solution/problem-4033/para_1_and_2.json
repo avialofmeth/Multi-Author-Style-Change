@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as quotation marks and commas, though there are differences in hyphen usage and presence of slashes in the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit variations in word choice and employ grammatical structures typical of informal writing. However, the second text includes more informal expressions like 'Case closed' and 'all wrongdoing cleared', which differ from the first text's style.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The first text contains a well-structured paragraph with coherent sentence arrangements, while the second text presents a fragmented structure with incomplete thoughts and a sarcastic tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The first text follows a narrative style typical of news reporting, presenting factual information, while the second text adopts a more casual and sarcastic tone, indicating a different discourse style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and discourse style, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.58
+    }
+}

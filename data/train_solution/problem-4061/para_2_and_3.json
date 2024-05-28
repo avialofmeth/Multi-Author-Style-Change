@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, quotation marks, and a period for punctuation. Paragraph 2 uses commas, hyphens, parentheses, and a period for punctuation.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes varied vocabulary and more formal language with terms like 'Gepard tanks.' Paragraph 2 contains specialized military terminology like 'Ka-52 helicopter pilot' and 'head of military firearms tactical training.'",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. Paragraph 1 has a direct quote, while Paragraph 2 presents factual information.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a formal tone discussing military equipment. Paragraph 2 reports a tragic event in a more somber tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there are similarities in writing style, but the distinct military context and tone differences suggest a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.76
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a hyphen in 'navy seal' while Paragraph 2 uses hyphens in 'TTPs' and 'couple-day'. Both paragraphs lack consistent punctuation styles.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone with specialized terminology ('navy seal', 'TTPs', 'astronaut training'). They share a level of lexical and grammatical complexity.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured in a more straightforward manner compared to Paragraph 2, which contains more complex and compound sentences. The coherence and cohesion differ between the two paragraphs.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a serious and informative tone, but the topics differ significantly. There are no distinct common expressions or idioms shared between the texts.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure and coherence, as well as the lack of shared common expressions, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

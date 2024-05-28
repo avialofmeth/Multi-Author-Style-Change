@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and commas to list out specific rule violations, while Paragraph 2 uses commas and parentheses to provide additional information.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with specific vocabulary related to rules and guidelines.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer sentences with clear rules and consequences, while Paragraph 2 is shorter and more direct in providing guidance.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey informative instructions with a serious tone, focusing on rules and guidelines.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, text and discourse features, and the absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

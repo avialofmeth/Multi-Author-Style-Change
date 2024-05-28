@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks and hyphens in a similar manner, which indicates a common punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features, such as word choice and sentence structure, suggesting a lack of similarity in writing style.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit varying sentence lengths and complexity, but lack coherence and cohesion in terms of topic and content.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the texts, indicating a divergence in writing style.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is low.",
+        "score": 0.54
+    }
+}

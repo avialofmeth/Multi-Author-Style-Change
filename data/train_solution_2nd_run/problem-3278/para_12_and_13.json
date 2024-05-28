@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display a similar use of hyphens to connect words and create compound adjectives.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The two texts differ significantly in their lexical and word choice, with distinct tones and vocabulary choices.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts are quite different in complexity and length.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone are contrasting in the two texts, showing different attitudes and expressions.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all the features, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

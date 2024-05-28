@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit consistent use of punctuation such as commas, parentheses, and periods, although the specific usage may differ in terms of frequency and placement.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and overall tone between the two paragraphs. The first paragraph contains more complex and emotionally charged language, whereas the second paragraph is more straightforward and instructional in nature.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 demonstrates longer and more complex sentences compared to the shorter and more direct sentences in Paragraph 2. There is a difference in sentence structure and coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative style and speech events differ significantly between the two paragraphs. Paragraph 1 focuses on a specific event and conveys a sense of urgency and emotion, while Paragraph 2 provides general guidelines without a specific context.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and typographical accuracy without errors, maintaining a consistent level of language proficiency.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative style, it is unlikely that the two texts were written by the same author.",
+    "score": 0.58
+  }
+}

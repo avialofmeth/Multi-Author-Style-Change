@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as colons, quotation marks, and commas. However, the first text emphasizes the use of parentheses and hyphens, which are not present in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, the first text uses more formal language related to subreddit guidelines, while the second text contains more informal language discussing a specific medical practice. The word choice and grammatical structures differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit varying sentence lengths, with the first text containing longer, more complex sentences related to guidelines, and the second text featuring shorter, direct sentences discussing a medical practice. The coherence and cohesion are different due to the distinct topics and styles.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts are starkly different. The first text is informative and formal, while the second text adopts a critical tone towards a specific medical procedure. The tone, mood, and expressions used are dissimilar.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors, indicating a similar level of attention to detail in writing. The spelling and typographical accuracy are consistent across both texts.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the similarities in spelling and typographical errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

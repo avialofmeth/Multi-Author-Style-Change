@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show a similar use of punctuation marks such as hyphens, commas, and parentheses, albeit in different contexts.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The word choice and sentence structures differ significantly in the two texts, with varying levels of formality and technical terminology used.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the texts differ in complexity and coherence, with one text focusing more on technical details and the other on explanations.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the texts are distinct, with one text discussing military topics and the other focusing on calculations and technology.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, along with the common use of punctuation marks and absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.54
+  }
+}

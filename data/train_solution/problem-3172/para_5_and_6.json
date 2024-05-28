@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show the use of hyphens and commas for punctuation. However, the first text includes more parentheses and quotation marks compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts exhibit differences in word choice and grammatical structures. The first text uses more informal language and contrasts 'tasty cows' with 'yucky lithium', while the second text presents a more informative tone with terms like '50 ways to save the Earth' and 'high-impact solutions'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts vary in sentence complexity and length. The first text has shorter, more straightforward sentences, whereas the second text consists of longer sentences with more detailed explanations.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The text and discourse features differ significantly between the two texts. The first text conveys a tone of sarcasm and criticism, while the second text adopts a more reflective and informative tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the overall confidence in the texts being written by the same author is moderate, with room for doubt due to notable variations in writing style.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses punctuation marks such as periods, commas, and exclamation points. It lacks other punctuation marks like hyphens, brackets, colons, and parentheses.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit variation in word choice and use complex grammatical structures. However, the second paragraph includes more technical terms related to technology and business.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentences in both paragraphs are relatively short and lack complexity. They maintain a straightforward, informative style.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses dissatisfaction with the content of an article, while Paragraph 2 provides an explanation of Amazon's performance during the pandemic. The tone and narrative style differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are notable differences in punctuation style, narrative styles, and tone between the two paragraphs, indicating a low likelihood of having the same author.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 uses quotation marks for direct speech. This difference in punctuation style suggests a potential difference in authorship.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses simpler and more direct language compared to the scientific language used in Paragraph 2. This suggests a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward, lacking complex sentence structures or extensive quantitative features. However, the content and focus differ significantly, impacting the assessment of this feature.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more informative and argumentative tone, focusing on the impact of deforestation, while Paragraph 2 presents a scientific finding. The narrative styles and speech events are distinct, indicating potential different authors.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, narrative styles, and content focus between the two paragraphs, the overall likelihood of them being written by the same author is low.",
+        "score": 0.54
+    }
+}

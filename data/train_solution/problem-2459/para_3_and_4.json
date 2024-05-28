@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of hyphens, commas, and periods in a structured manner. Paragraph 2 lacks these punctuation marks and is more fragmented.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more varied lexicon and grammatical structure with complex sentence constructions. Paragraph 2, while using some varied vocabulary, lacks the same level of complexity in sentence structure.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with cohesive organization. Paragraph 2 consists of shorter, fragmented sentences lacking coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 uses a more formal tone and structured narrative style. Paragraph 2 presents a more abrupt and repetitive tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.56
+  }
+}

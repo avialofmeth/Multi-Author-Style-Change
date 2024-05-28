@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both use hyphens and colons to separate phrases and introduce lists. However, Paragraph 1 contains more commas for listing specific examples.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit variation in word choice and use complex grammatical structures. Paragraph 1 includes specific terms related to abortion views, while Paragraph 2 discusses government programs and financial disparities. The grammatical structures are more complex in Paragraph 1 due to the inclusion of legal language.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with multiple clauses discussing specific actions and consequences related to abortion views. In contrast, Paragraph 2 has shorter sentences focusing on broader societal issues and disparities.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "While both texts convey strong opinions, the tone in Paragraph 1 is accusatory and critical towards a specific individual (Lee Zeldin), whereas Paragraph 2 discusses societal disparities in a more general manner.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-structured without spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author, with differences attributed to the topic and tone.",
+    "score": 0.64
+  }
+}

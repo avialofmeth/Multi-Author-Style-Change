@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, hyphens, and periods in a conventional manner, while Paragraph 2 lacks proper punctuation with missing periods and spaces between words.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both texts demonstrate a mix of informal language and slang, such as 'badass' and 'AF'. Paragraph 1 shows more structured sentences, whereas Paragraph 2 contains fragmented expressions and unconventional word choices.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more coherent sentences with a clear progression of ideas. In contrast, Paragraph 2 has shorter and disjointed sentences with abrupt shifts in focus.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey a casual tone and use colloquial expressions. However, Paragraph 1 maintains a consistent narrative style, while Paragraph 2 lacks coherence and exhibits a more erratic tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is relatively free of spelling and typographical errors. In contrast, Paragraph 2 contains several typographical errors and lacks proper spacing between words.",
+    "score": 0.3
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence in the two texts being written by the same author is moderate.",
+    "score": 0.38
+  }
+}

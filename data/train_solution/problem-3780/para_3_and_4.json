@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation styles, including parentheses, commas, and use of percentages.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some overlap in terms of sentence structure and word choice, such as the use of specific county names and technical terms.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structures vary in complexity, but both texts show coherence in presenting information.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative style differs significantly between the two paragraphs, with one focusing on media outlets and the other on election updates.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all features collectively, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

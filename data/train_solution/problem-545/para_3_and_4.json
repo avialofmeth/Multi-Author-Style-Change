@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display consistent use of punctuation such as commas and question marks. However, differences are observed in the use of hyphens, colons, and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in word choice and grammatical structures, but notable differences in the specific vocabulary and sentence construction.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "While both texts exhibit some similarities in sentence complexity and coherence, there are variations in sentence length and word usage.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The texts differ in tone and narrative style, with one focusing on strategic planning and the other on a specific political situation.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combination of the features analyzed, the likelihood of the two texts being written by the same author is moderate, with some similarities in punctuation and coherence but notable differences in tone and narrative style.",
+        "score": 0.62
+    }
+}

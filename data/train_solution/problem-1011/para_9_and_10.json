@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and parentheses, while Paragraph 2 does not use any of these punctuation marks. Both paragraphs use colons, commas, and periods.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit similar lexical and grammatical features with no significant differences in word choice or grammatical categories.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have a similar sentence structure and quantitative features in terms of coherence, sentence length, and arrangement.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a similar tone and mood, focusing on expressing opinions and holding individuals accountable.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in lexical and grammatical features, sentence structure, tone, and absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.82
+    }
+}

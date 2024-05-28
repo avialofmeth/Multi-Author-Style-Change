@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation marks such as commas, quotation marks, and question marks. However, paragraph 2 includes more varied punctuation like hyphens and colons.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. Paragraph 1 is more concise and straightforward, while paragraph 2 uses more informal language and rhetorical questions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts have varied sentence lengths and some coherence. However, paragraph 2 has longer sentences and a more conversational tone compared to paragraph 1.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show differences in narrative styles and tone. Paragraph 1 is formal and direct, while paragraph 2 is more casual and expressive with analogies and direct addresses.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, the overall confidence score that the two texts were written by the same author is moderate, as there are notable differences in lexical and grammatical features, sentence structure, and discourse style.",
+    "score": 0.56
+  }
+}

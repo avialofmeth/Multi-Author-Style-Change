@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with proper use of commas and periods. Paragraph 2 lacks proper punctuation usage and includes informal language.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 utilizes formal language with a focus on courteous communication. Paragraph 2 contains informal, negative language with a different tone and choice of words.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear sentences and rules for communication. Paragraph 2 lacks coherence and proper sentence structure, making it challenging to follow.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a respectful and informative tone in discussing communication guidelines. Paragraph 2 contains accusatory language and negative tone towards a political figure.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is well-written without spelling or typographical errors. Paragraph 2 contains typographical errors like 'Burra' instead of a proper name, indicating a lack of attention to detail.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, language tone, coherence, and presence of typographical errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.18
+  }
+}

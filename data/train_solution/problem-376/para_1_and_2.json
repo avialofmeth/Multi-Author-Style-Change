@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain the use of hyphens, colons, and commas, although used in different contexts. Paragraph 1 uses more commas in a compound sentence structure, while Paragraph 2 utilizes hyphens and colons to provide additional information and structure the text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. Paragraph 1 includes military-related terminology and formal language, whereas Paragraph 2 focuses on geopolitical relations and specific regional references.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures vary significantly between the two paragraphs. Paragraph 1 consists of longer, more complex sentences, while Paragraph 2 contains shorter, more direct sentences with specific details.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ in the two texts. Paragraph 1 presents a more formal and distant tone related to military actions, while Paragraph 2 adopts a more descriptive and explanatory tone regarding geopolitical events.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

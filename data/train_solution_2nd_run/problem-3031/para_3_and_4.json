@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, periods, and quotation marks. However, there are differences in the specific punctuation used, such as the hyphens in Text 1 and lack of parentheses in Text 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more formal language and structured sentences, while Text 2 includes more informal language and fragmented sentences. There are differences in lexical choices and grammatical structures between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer and more complex sentences, contributing to a more coherent and cohesive structure. In contrast, Text 2 has shorter and less structured sentences, affecting overall coherence.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey different tones and moods - Text 1 appears more positive and informative, while Text 2 expresses frustration and criticism. The narrative styles and speech events differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five linguistic features, the likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation and spelling style but notable differences in lexical choices, sentence structures, and narrative tones.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods properly, while Paragraph 2 has issues with punctuation like missing periods and inconsistent spacing.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in lexical choices and word usage, with varying sentence structures and part of speech usage.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter, more fragmented sentences, whereas Paragraph 2 includes longer and more complex sentences. There are differences in coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two paragraphs. Paragraph 1 is more direct and assertive, while Paragraph 2 is explanatory and justifying.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are spelling and typographical errors present in both paragraphs, but the nature and frequency of errors differ.",
+        "score": 0.3
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.33
+    }
+}

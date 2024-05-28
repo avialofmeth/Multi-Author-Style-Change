@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas, periods, and question marks. However, Paragraph 1 uses more formal punctuation like colons and ellipses compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, focusing on technical language related to language teaching and accents. In contrast, Paragraph 2 uses informal language and questions the approach mentioned in Paragraph 1.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. The sentence structure in Paragraph 1 is more organized and technical, while Paragraph 2 is more conversational and expressive.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a more formal and informative tone, discussing the practical aspects of teaching a language. In contrast, Paragraph 2 adopts a critical and questioning tone, challenging the proposed approach in Paragraph 1.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate correct spelling and typographical accuracy without errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show notable variations in writing style, indicating they are less likely to be written by the same author.",
+        "score": 0.54
+    }
+}

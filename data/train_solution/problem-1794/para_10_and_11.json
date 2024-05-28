@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens, commas, and periods for punctuation. However, the first text uses colons while the second text does not. Overall, punctuation style is somewhat similar.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and word usage between the two texts. The first text includes more formal terms like 'oligarchs' while the second text contains more informal and abrupt language. Grammatical categories and part of speech usage also vary, impacting the similarity in writing style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts differ significantly. The first text is more complex and structured, while the second text is shorter and more abrupt. This affects coherence and cohesion, making them less likely to be written by the same author.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "In terms of narrative styles and tone, the two texts have contrasting moods. The first text conveys a sense of caution or warning, while the second text contains elements of abrupt action and intensity. These differences in tone and mood suggest distinct authorial styles.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text. Both texts appear to be well-written in terms of spelling and accuracy.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering all the features assessed, the writing styles in the two texts show notable differences in lexical choice, sentence structure, and narrative tone. While some punctuation and spelling similarities exist, the overall writing styles suggest different authors.",
+    "score": 0.52
+  }
+}

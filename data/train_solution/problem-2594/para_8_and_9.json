@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods. Paragraph 2 includes an expletive and lacks proper punctuation at the end of the second sentence.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs formal and positive language with words like 'rebuild,' 'triumphant,' and 'proud.' Paragraph 2 contains informal and negative language with expletives and slang terms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences with a focus on hope and support. Paragraph 2 is shorter and more direct, expressing frustration.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a supportive and optimistic tone towards Ukraine. Paragraph 2 expresses anger and dismissiveness towards Russian trolls.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence score is moderate.",
+    "score": 0.44
+  }
+}

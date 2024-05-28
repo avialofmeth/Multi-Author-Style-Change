@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, quotation marks, and commas, although in different contexts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 focuses on military terminology and vehicles, while Text 2 is more general in nature, but both use a similar level of formal language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are relatively simple with clear coherence, but text 1 is more descriptive than text 2.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more informative and descriptive tone, while text 2 poses questions indicating a more reflective tone. However, both show a formal style of writing.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the linguistic features, there are similarities in punctuation style and coherence, but differences in lexical and grammatical features and tone. The average score indicates a moderate likelihood that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

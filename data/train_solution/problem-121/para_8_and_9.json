@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks to indicate direct speech or titles.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Text 1 shows formal language with defined acronyms, while text 2 uses informal language with abbreviations and slang.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer, more structured sentences compared to text 2, which has shorter and less structured sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 is more formal and informative, while text 2 is informal and opinionated.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts exhibit notable differences in lexical and grammatical features, sentence structure, and discourse style, but share similarities in punctuation style and lack of spelling errors. The overall confidence score is moderate, indicating a likelihood that the texts were not written by the same author.",
+        "score": 0.64
+    }
+}

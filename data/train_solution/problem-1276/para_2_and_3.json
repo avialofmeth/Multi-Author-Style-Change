@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and commas for additional information and clarification.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts display a formal tone with specific terms and names used. There is a mix of proper nouns and technical terms.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and direct, emphasizing clarity. Paragraph 2 contains a longer, complex sentence with multiple clauses. Different sentence structures are observed.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey informative content with a straightforward style. The narrative styles differ due to the nature of the information presented.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.7
+    }
+}

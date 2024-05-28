@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as commas and periods, but the first text includes more complex punctuation like colons and arrows while the second text has simpler punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit varied lexical choices and word structures. The first text contains more formal language related to political analysis, while the second text is more informal with simpler vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text has longer and more complex sentences with detailed information, whereas the second text consists of shorter and simpler sentences with less complexity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts differ significantly in narrative style and tone. The first text is analytical and informative, while the second text is descriptive and narrative-based.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low, as the differences in writing style outweigh the similarities.",
+    "score": 0.5
+  }
+}

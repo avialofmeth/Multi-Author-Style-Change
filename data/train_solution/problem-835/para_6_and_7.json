@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and commas for additional information. Text 1 has a consistent use of commas for clause separation, while Text 2 uses parentheses for clarifications.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 contains more complex lexical choices and longer sentences compared to Text 2. Text 2 has a more straightforward and direct word choice with simpler sentence structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit similar sentence complexity and coherence, with varying sentence lengths. However, Text 1 tends to have longer sentences overall.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 and Text 2 share a similar accusatory tone and narrative style, focusing on negative portrayals of individuals. Both texts use direct and assertive language.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable similarities in tone and punctuation use but differences in lexical complexity and sentence structure. The average confidence score is moderate.",
+        "score": 0.7
+    }
+}

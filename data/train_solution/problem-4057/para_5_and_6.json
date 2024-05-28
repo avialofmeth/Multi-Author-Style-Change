@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of appropriate punctuation marks such as hyphens, colons, and semicolons. Paragraph 2 contains informal language and includes a profanity, which is not typically found in formal writing, affecting punctuation use.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with specific vocabulary related to financial terms. Paragraph 2 includes informal language and slang terms. The word choice and style differ significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 showcases structured and coherent sentences with a focus on explaining a concept. Paragraph 2 has a more disjointed and emotionally charged structure, lacking the clarity observed in the first paragraph.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a professional and explanatory tone. In contrast, Paragraph 2 displays a confrontational and dismissive tone towards a particular group, impacting the overall discourse style.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.5
+    }
+}

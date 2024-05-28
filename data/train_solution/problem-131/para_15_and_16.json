@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, brackets, and commas. Paragraph 2 lacks these punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses specific vocabulary related to welfare and politics. Paragraph 2 uses general language related to automated actions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences. Paragraph 2 is short and straightforward.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious, opinionated tone about a social issue. Paragraph 2 has a neutral, automated tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary, sentence structure, and tone, there is a low likelihood that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

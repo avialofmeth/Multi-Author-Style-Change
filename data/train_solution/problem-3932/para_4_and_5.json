@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of commas and quotation marks, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more complex and varied vocabulary compared to the more simplistic language used in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more convoluted sentences compared to the shorter, simpler sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more accusatory and confrontational tone, while Paragraph 2 expresses a historical perspective with a proud sentiment.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary, sentence structure, and tone, there are notable distinctions that suggest different authors.",
+        "score": 0.48
+    }
+}

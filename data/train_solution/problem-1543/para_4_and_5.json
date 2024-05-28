@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts have similar punctuation usage with commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar formal and structured lexical and grammatical style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts show coherence and structured sentence arrangements.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have a neutral and informative tone without distinct expressive elements.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The overall score indicates a moderate likelihood that the texts were written by the same author.",
+        "score": 0.72
+    }
+}

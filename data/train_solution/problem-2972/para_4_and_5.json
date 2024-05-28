@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit similar punctuation style with the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs have a straightforward and concise lexical and grammatical style without significant variation in word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are short with simple sentence structures and similar coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more expressive and opinionated tone compared to the neutral and automated tone of Paragraph 2.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the combination of the features, there are notable similarities in punctuation, lexical and grammatical features, and absence of spelling errors. However, the difference in tone and expressiveness lowers the overall confidence of the two texts being written by the same author.",
+    "score": 0.7
+  }
+}

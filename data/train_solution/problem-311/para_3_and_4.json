@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and ellipses, but in different contexts.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Different word choices and grammatical structures are used in each text.",
+        "score": 0
+    },
+    "feature3": {
+        "explanation": "Distinct sentence structures and coherence levels are observed in the texts.",
+        "score": 0
+    },
+    "feature4": {
+        "explanation": "Different tones and moods are present in the two texts.",
+        "score": 0
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, the texts show significant differences in linguistic features, indicating a low likelihood of being written by the same author.",
+        "score": 0.3
+    }
+}

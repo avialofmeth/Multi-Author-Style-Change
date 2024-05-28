@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display a similar punctuation style with the use of commas, quotation marks, and ellipses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. The vocabulary and word choice vary significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts differ in complexity and length. One text contains longer and more complex sentences, while the other is more concise.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the texts are distinct, with one text discussing military operations and the other referencing fictional characters like Thor and hooligans. The expressions and idioms used also differ.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, while acknowledging the shared punctuation style and absence of spelling errors, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and a colon to separate clauses and provide additional information. Paragraph 2 lacks such punctuation complexity.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and technical lexical choice related to finances and FIFA presidency. Paragraph 2 has a more casual tone with expressions like 'bullshit' and 'real celebration of football.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 features longer and more complex sentences with detailed information about net worth development. Paragraph 2 consists of shorter, more straightforward sentences expressing personal opinions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a neutral and factual tone related to financial information. Paragraph 2 conveys a more emotional and opinionated tone about football and national team participation.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and tone, the likelihood of both texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

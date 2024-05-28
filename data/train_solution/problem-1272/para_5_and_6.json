@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods, while Paragraph 2 includes hyphens and quotation marks. There is a difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is straightforward and uses common words, while Paragraph 2 has more complex language with specific terms like 'moderate R's' and 'McCarthy hostage'. There is a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are short and simple in structure. They lack complexity and vary in length. There is some similarity in sentence structure and quantitative features.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal tone with a directive sentence. Paragraph 2 has a more casual and speculative tone. There is a difference in text and discourse features.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors. There is similarity in spelling and typographical accuracy.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features. However, the similarity in spelling and typographical errors boosts the overall confidence score slightly.",
+        "score": 0.5
+    }
+}

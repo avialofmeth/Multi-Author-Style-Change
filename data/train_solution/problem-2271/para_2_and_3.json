@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, colons, parentheses, and commas to provide additional information and structure sentences. Paragraph 2, however, only uses commas for punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show differences in lexical and grammatical features. Paragraph 1 contains technical terms related to earthquakes and preparedness, while Paragraph 2 discusses voter registration in a more straightforward manner.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures and lengths vary between the two paragraphs. Paragraph 1 has longer and more complex sentences due to the technical nature of the content, while Paragraph 2 consists of shorter and simpler sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ significantly. Paragraph 1 conveys a serious and informative tone related to natural disasters, while Paragraph 2 is more instructional and matter-of-fact about voter registration.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two paragraphs were written by the same author. The similarity in spelling and typographical accuracy slightly raises the overall confidence score.",
+    "score": 0.3
+  }
+}

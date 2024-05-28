@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain a variety of punctuation marks like commas and apostrophes, but differ in their use of hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show differences in word choice and sentence structure, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly in complexity and arrangement, suggesting a low likelihood of the same author.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The texts exhibit differences in tone and style, indicating a potential difference in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in lexical, sentence structure, and tone, along with some punctuation variations, the likelihood of the same authorship is low.",
+        "score": 0.5
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use a similar style of punctuation with commas, periods, and parentheses. However, there are differences in the use of hyphens, colons, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some similarities in sentence structure and word choice, but there are noticeable differences in the vocabulary and grammatical structures used.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features exhibit differences in complexity, coherence, and word distributions. While there are similarities in sentence length, the overall structure varies significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show differences in narrative style, tone, and idiomatic expressions. The overall tone and mood of the paragraphs differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate proper spelling and lack of typographical errors, indicating a level of consistency in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate, with some commonalities in punctuation and spelling but notable distinctions in other linguistic aspects.",
+    "score": 0.48
+  }
+}

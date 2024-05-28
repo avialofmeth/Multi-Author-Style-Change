@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured punctuation style with consistent use of punctuation marks. It uses commas, slashes, and periods appropriately. Paragraph 2 lacks proper punctuation and shows a more informal style with run-on sentences.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays a more sophisticated and varied lexical and grammatical choice, reflecting a formal tone. In contrast, Paragraph 2 lacks diversity in vocabulary and uses simpler language with errors like 'fix news'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has well-structured sentences with clear organization and coherence. It maintains a formal and consistent sentence length. Paragraph 2, on the other hand, lacks coherence and has awkward sentence structures with abrupt transitions.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a professional and informative discourse style, focusing on rules and guidelines. In contrast, Paragraph 2 has a more informal and conspiratorial tone, using colloquial expressions and a suspicious attitude towards the media.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is well-edited with no spelling or typographical errors, indicating attention to detail. Paragraph 2 contains a typographical error with 'fix news', suggesting a lack of careful proofreading.",
+        "score": 0.6
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical sophistication, sentence structure, discourse tone, and errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

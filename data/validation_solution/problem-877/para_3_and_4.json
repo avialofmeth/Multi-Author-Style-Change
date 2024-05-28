@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as hyphens, colons, commas, and quotation marks, although their usage may vary in terms of style and frequency.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Text 1 demonstrates a formal and structured lexical and grammatical style with coherent sentences, while Text 2 showcases a more informal and disjointed word choice and sentence structure.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 exhibits longer and more complex sentences with a coherent flow, whereas Text 2 contains shorter and less structured sentences, affecting overall coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text 1 maintains a serious and formal tone discussing political matters, while Text 2 adopts a casual and critical tone towards an individual, showing a stark contrast in discourse styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "While both texts contain some spelling and typographical errors, Text 2 shows more errors and informal language use compared to the relatively cleaner Text 1.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse style, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

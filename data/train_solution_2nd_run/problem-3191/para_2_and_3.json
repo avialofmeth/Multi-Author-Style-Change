@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and periods consistently for punctuation.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Texts exhibit differences in word choice and grammatical structure. For example, the first text uses more formal language compared to the second text which includes informal expressions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts display varying sentence lengths and structures. The first text has longer sentences with complex structures, while the second text has shorter, more straightforward sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two texts differ significantly. The first text has a serious tone, whereas the second text appears more casual and conversational.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts show some similarities in punctuation and absence of spelling errors, but significant differences in word choice, sentence structure, and tone. Therefore, the overall likelihood of the same author is moderate.",
+    "score": 0.62
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as commas and periods, but there are differences in the use of parentheses and quotation marks. However, these differences may not be substantial enough to indicate different authors.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical variation and word choice, with both texts discussing archeological findings and historical narratives. Grammatical categories and part of speech usage also show consistency, suggesting a potential common author.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "The texts exhibit similar sentence structures in terms of length and complexity. Both maintain coherence and cohesion in discussing historical and nationalistic themes. The quantitative features align closely, indicating a possible shared writing style.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "While the tone and mood differ slightly between the texts, both convey opinions and perspectives on historical narratives. Common expressions and idioms are not prominent, but the narrative styles show a degree of similarity.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text, indicating a level of writing proficiency consistent with a single author.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderately high.",
+    "score": 0.7
+  }
+}

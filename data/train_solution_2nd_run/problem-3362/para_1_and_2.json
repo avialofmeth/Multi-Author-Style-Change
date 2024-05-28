@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and parentheses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts, indicating potential variation in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly in complexity, length, and coherence, suggesting a potential difference in authorship.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Both texts have a conversational tone and discuss social issues, but the narrative styles and speech events vary, implying possible differences in authorship.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more punctuation marks like hyphens, commas, and parentheses compared to Paragraph 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There is a significant difference in lexical and grammatical features between the two paragraphs, with distinct word choices and structures.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two paragraphs differ in complexity and length, impacting coherence and cohesion.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features vary substantially, with different tones and narrative styles in each paragraph.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text features, along with the absence of spelling errors, the overall likelihood of the same authorship is low.",
+    "score": 0.4
+  }
+}

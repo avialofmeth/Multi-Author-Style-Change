@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with proper use of commas, periods, and numbers. Paragraph 2 lacks proper punctuation and uses hyphens inappropriately.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and technical vocabulary related to viruses and statistics. Paragraph 2 uses informal language and idiomatic expressions unrelated to the topic.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more structured sentences with a focus on providing information. Paragraph 2 has shorter, fragmented sentences with a more conversational tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone appropriate for discussing a global health issue. Paragraph 2 has a casual and light-hearted tone unrelated to the topic.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary, sentence structure, tone, and content relevance, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

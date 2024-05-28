@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas to separate a list of actions, while Paragraph 2 uses commas for additional information. Both paragraphs use hyphens correctly.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses straightforward language with a focus on actions and events. Paragraph 2 reflects a personal reflection with emotional undertones. Both paragraphs have distinct lexical and grammatical choices.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, complex sentences, detailing a sequence of events. Paragraph 2 is shorter and more direct. The sentence structures and lengths differ significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a factual and descriptive tone, focusing on events. Paragraph 2 reveals a personal reaction and opinion. The narrative styles and tones are contrasting.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall confidence in the same authorship is moderate.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as commas, quotation marks, and periods, but they differ in the use of hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts differ significantly. The vocabulary choices, sentence structures, and grammatical categories are distinct.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures and quantitative features vary notably between the texts. One text is more narrative and descriptive while the other is more informative and directive.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features show a clear contrast. One text presents a political stance with assertiveness while the other outlines rules and guidelines emphasizing civility.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, showing a consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse style, along with the consistency in spelling and typographical errors, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.5
+    }
+}

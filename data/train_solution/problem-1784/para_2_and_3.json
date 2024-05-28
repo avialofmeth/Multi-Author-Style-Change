@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use standard punctuation marks such as periods and commas. Neither paragraph displays any unique punctuation styles or patterns that could indicate a common author.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use simple and straightforward language without any distinctive lexical variations or word choices. The grammatical structures in both paragraphs are basic and do not show any unique patterns.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are similar in sentence structure, with clear and direct statements. There are no notable differences in sentence complexity, length, or arrangement that could suggest different authors.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss societal attitudes towards women's clothing and behavior. While the specific content differs, the tone in both paragraphs is matter-of-fact and focused on social norms.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors. There are no inconsistencies in spelling or typing that could indicate different authors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score in determining whether the two texts were written by the same author is moderately high.",
+    "score": 0.66
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, and quotation marks more extensively compared to Paragraph 2.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more complex and varied lexical choices, while Paragraph 2 is more straightforward and simple in its word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a focus on narrative and details, while Paragraph 2 has shorter and simpler sentences with a more direct tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 displays a serious and informative tone discussing political situations, while Paragraph 2 uses a more casual and descriptive tone about a different scenario.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

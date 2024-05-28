@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 mainly uses parentheses and commas for additional information and structuring, while Paragraph 2 uses commas and slashes for listing and detailing. The differences in punctuation style suggest some variation in writing style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal and technical language with terms like 'equatorial' and 'habitability,' while Paragraph 2 has a more casual tone with phrases like 'won't have any nature.' There is a noticeable difference in lexical choice and tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, complex sentences with detailed explanations, whereas Paragraph 2 contains shorter sentences and a more direct, conversational style. The sentence structures differ significantly.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Both paragraphs discuss environmental issues and future scenarios, maintaining a serious and informative tone throughout. However, the specific topics addressed vary, impacting the overall narrative style.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in terms of accuracy.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text content, the likelihood of the two texts being written by the same author is moderate. While there are some commonalities in spelling and tone, the variations in writing style suggest different authors.",
+        "score": 0.46
+    }
+}

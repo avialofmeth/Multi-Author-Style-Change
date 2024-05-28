@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use colons and commas for punctuation, but only the first paragraph uses a hyphen while the second does not. The punctuation style is somewhat consistent but not entirely identical.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit formal language with similar word choices and grammatical structures. There are no distinct lexical or grammatical differences that would indicate different authors.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, both paragraphs contain relatively complex sentences with coherent organization. However, the first paragraph is slightly longer and more detailed compared to the second, which may suggest a subtle difference in writing style.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a serious tone and express opinions using formal language. While the topics differ, the narrative styles and mood are consistent in both texts.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and lack of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

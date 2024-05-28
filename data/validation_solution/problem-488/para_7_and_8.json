@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize commas and colons appropriately to separate clauses and introduce lists. Punctuation style is consistent in both texts.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Lexical choices and word usage are different in the two texts, with varying levels of formality and vocabulary. Grammatical categories and part of speech usage also differ.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and complexity show differences between the texts. The first paragraph is more formal and structured, while the second paragraph is conversational and less formal.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ significantly between the texts. The first text is factual and informative, while the second text is conversational and includes personal opinions.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The overall confidence score is moderate, indicating that there are some similarities in punctuation and absence of spelling errors, but differences in lexical choices, sentence structure, and discourse features suggest different authors.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and periods, while Paragraph 2 lacks punctuation and contains typographical errors like missing spaces.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical and grammatical accuracy with coherent sentences. In contrast, Paragraph 2 has more informal language and errors like 'fucking realllllly' and lacks grammatical accuracy.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has structured sentences with varying lengths and a coherent flow. Paragraph 2 lacks coherence, has shorter and fragmented sentences with typographical errors.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone. Paragraph 2 uses informal language and expressions like 'fucking realllllly,' indicating a different tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 has minimal spelling and typographical errors. Paragraph 2 contains spelling errors like 'realllllly' and typographical issues, affecting readability.",
+        "score": 0.4
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical accuracy, sentence structure, tone, and spelling errors, the likelihood of the same authorship is low.",
+        "score": 0.44
+    }
+}

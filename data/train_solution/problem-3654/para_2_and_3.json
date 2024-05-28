@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, colons, and parentheses, while Paragraph 2 lacks these punctuations. However, both texts lack hyphens, brackets, and quotation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice. However, Paragraph 2 contains a more informal abbreviation 'tbh' that is not present in Paragraph 1.",
+        "score": 0.75
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2. Additionally, Paragraph 1 provides more coherence and cohesion in its structure.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a serious tone, using phrases like 'falling into turmoil' and 'isn\u2019t exactly a good thing'. However, the narrative styles differ slightly due to the varying topics discussed.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in lexical features, coherence, and absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author despite some differences in punctuation and tone.",
+        "score": 0.73
+    }
+}

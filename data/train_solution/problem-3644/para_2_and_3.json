@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize hyphens and parentheses for additional information or clarification.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 contains more technical and specific terms related to rankings, while Text 2 is more conversational and expressive. Word choice and lexical variation differ significantly.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Text 1 is concise and to the point with shorter sentences, whereas Text 2 is more descriptive and includes longer sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more serious and informative tone discussing press freedom ranks, while Text 2 is more casual and positive about editing on Wikipedia.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling errors and typographical mistakes.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in word choice, sentence structure, and tone, the texts exhibit significant divergence in writing style, indicating a low likelihood of being written by the same author.",
+        "score": 0.58
+    }
+}

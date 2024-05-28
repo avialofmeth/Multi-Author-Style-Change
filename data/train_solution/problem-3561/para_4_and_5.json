@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains a mix of punctuation marks including hyphens, commas, and periods. Paragraph 2 uses commas and periods but lacks hyphens or other special punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses specific vocabulary related to filming cops and police actions. Paragraph 2 has a more general vocabulary related to automated actions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of short and straightforward sentences. Paragraph 2 is a single sentence. Both lack complexity and variety in sentence structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a serious and direct tone related to law enforcement. Paragraph 2 has a neutral and informative tone as seen in automated responses.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in punctuation, vocabulary, sentence structure, and tone, the likelihood of the texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

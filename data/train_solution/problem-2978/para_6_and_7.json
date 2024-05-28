@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks to indicate direct speech or to highlight specific terms. There are no significant differences in the punctuation style between the two texts.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "While both texts discuss medical conditions, the choice of words and sentence structures differ significantly. The first paragraph focuses on sensory sensitivity, while the second paragraph mentions muscle stiffness as the main symptom. There are notable differences in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The first paragraph is more descriptive and provides detailed information about the disorder and its impact. The second paragraph is more concise and direct in presenting information. There are differences in sentence structure and quantitative features.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two texts differ, with the first paragraph adopting a more informative and formal tone, while the second paragraph seems to be more critical or skeptical. There are differences in narrative styles and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the texts are less likely to have been written by the same author. The punctuation style and lack of spelling errors provide some commonalities. The overall confidence score is moderate.",
+    "score": 0.64
+  }
+}

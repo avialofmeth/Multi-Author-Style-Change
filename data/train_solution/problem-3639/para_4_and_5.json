@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas appropriately, while Paragraph 2 does not use hyphens and commas in a similar manner.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes more formal language and structures, while Paragraph 2 contains more informal and emotional language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have varied sentence lengths and structures, but Paragraph 2 is slightly more concise and direct.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs express admiration and sentiment towards a person, but the tone and style differ significantly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

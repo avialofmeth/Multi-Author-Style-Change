@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a consistent punctuation style with commas separating items in a list and a colon for elaboration.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a noticeable difference in lexical and grammatical features between the two texts, with distinct word choices and grammatical structures.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures and quantitative features vary significantly, with Paragraph 1 focusing on a list of items in a humanitarian context, while Paragraph 2 discusses events in Syria and Iran with different sentence structures.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ greatly, with Paragraph 1 presenting a humanitarian narrative and Paragraph 2 discussing military actions and intelligence activities.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.48
+    }
+}

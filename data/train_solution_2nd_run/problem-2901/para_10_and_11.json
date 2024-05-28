@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use hyphens and commas for punctuation, although differently. Paragraph 1 uses more colons and commas, while Paragraph 2 has more hyphens and parentheses.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"Both texts exhibit some lexical variation and word choice differences. The word choices and sentence structures are distinct in each paragraph.",
+      "score":0.4
+   },
+   "feature3":{
+      "explanation":"The sentence structures and lengths vary between the two texts. Paragraph 1 has longer sentences with more complexity, while Paragraph 2 has shorter, more straightforward sentences.",
+      "score":0.5
+   },
+   "feature4":{
+      "explanation":"The narrative styles and tone differ significantly between the two texts. Paragraph 1 focuses on defining a term and discussing differences in understanding, while Paragraph 2 talks about personal choices and opinions on media networks.",
+      "score":0.3
+   },
+   "feature5":{
+      "explanation":"There are no noticeable spelling or typographical errors in either text.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the overall likelihood that the two texts were written by the same author is moderate.",
+      "score":0.56
+   }
+}

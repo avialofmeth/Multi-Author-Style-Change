@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas, periods, and quotation marks. There are no significant differences in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of formality and word choice, using straightforward language. They both lack complexity in lexical variation and word choice.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and direct. There is coherence within each text but no direct connection between the two texts.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both texts are different. The first text is neutral and informative, while the second text has a more opinionated and critical tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical features, and absence of spelling errors, the texts show some similarities. However, the differing tone and lack of direct textual connection lower the overall confidence in them being written by the same author.",
+        "score": 0.7
+    }
+}

@@ -1,0 +1,26 @@
+{
+feature1: {
+explanation: "Both texts use similar punctuation marks such as commas and quotation marks, but differ in their usage of hyphens and brackets.",
+score: 0.6
+},
+feature2: {
+explanation: "Both texts exhibit similarities in lexical choice and sentence structures, with a focus on technical language. However, the second text shows more complexity in grammar and vocabulary.",
+score: 0.5
+},
+feature3: {
+explanation: "Both texts have coherent sentence structures and are focused on conveying information. The second text contains longer and more complex sentences compared to the first.",
+score: 0.7
+},
+feature4: {
+explanation: "The first text has a more formal and informative tone, while the second text shows a slightly more technical and explanatory tone. Both texts lack personal or emotional expressions.",
+score: 0.6
+},
+feature5: {
+explanation: "Both texts are well-written with no spelling or typographical errors observed.",
+score: 1.0
+},
+overall: {
+explanation: "Considering the analysis of various linguistic features, there are similarities in punctuation, lexical choice, coherence, and lack of errors, but differences in sentence complexity and tone. The overall likelihood that the two texts were written by the same author is moderate.",
+score: 0.68
+}
+}

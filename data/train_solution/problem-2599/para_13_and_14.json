@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas and periods, while Paragraph 2 contains hyphens and parentheses. The punctuation styles are notably different.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 is formal and straightforward in word choice, while Paragraph 2 is more informal and includes slang terms like 'rly' and 'guy.' The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is concise and structured, with a clear purpose. In contrast, Paragraph 2 is more convoluted, with a mix of sentence lengths and structures. The sentence structure and quantitative features differ noticeably.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone, typical of automated responses. Paragraph 2, on the other hand, is opinionated and speculative, showing a different narrative style. The text and discourse features are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, showing consistency in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as text and discourse features, it is unlikely that the two texts were written by the same author. However, the consistency in spelling and typographical errors provides a slight commonality. The overall assessment leans towards low confidence in the texts being authored by the same person.",
+    "score": 0.36
+  }
+}

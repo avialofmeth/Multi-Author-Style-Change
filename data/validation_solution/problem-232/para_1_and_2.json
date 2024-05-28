@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of commas and parentheses for inserting additional information within sentences.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts display a similar level of lexical variation and word choice. There are no significant differences in grammatical categories and part of speech usage.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are different, with one being a longer, more complex sentence and the other being shorter and more straightforward. However, coherence and cohesion are maintained within each text.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "There are distinct narrative styles in the two texts - one providing practical advice and the other reporting on a government response. The tone and mood vary significantly between the texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in narrative styles and tone, as well as the varying sentence structures, the overall confidence level that these texts were written by the same author is moderate.",
+    "score": 0.66
+  }
+}

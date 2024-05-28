@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains formal punctuation like colons and proper comma usage. Paragraph 2 lacks formal punctuation and has a more casual tone.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and specific language related to subreddit guidelines. Paragraph 2 has a more casual and conversational tone with specific political references.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured in a more formal and organized manner. Paragraph 2 has shorter, more fragmented sentences with a conversational style.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a straightforward and informative tone regarding subreddit rules. Paragraph 2 has a more opinionated and politically charged tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the overall likelihood of the same author is moderate.",
+    "score": 0.46
+  }
+}

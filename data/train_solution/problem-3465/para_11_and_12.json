@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use punctuation marks like ellipses, commas, and periods, but there are differences in the specific punctuation used (e.g., colons in Paragraph 1).",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and grammatical structures between the paragraphs, such as the use of specific legal terms in Paragraph 1 and a focus on judges' qualities in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs vary, with differences in complexity and length. Paragraph 1 is more direct and concise, while Paragraph 2 has a more descriptive tone.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones differ between the paragraphs. Paragraph 1 is more assertive and directive, while Paragraph 2 discusses qualities of judges in a reflective manner.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structures, narrative styles, and tones, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

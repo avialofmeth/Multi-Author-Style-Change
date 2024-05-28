@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation, including commas, periods, and quotation marks, although the second text has more complex punctuation like colons and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show differences in lexical and grammatical features, with the second text containing more complex vocabulary and grammatical structures compared to the first text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts differ significantly, with the first text being more straightforward and concise, while the second text is more complex and contains longer sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts have distinct narrative styles and tones, with the first text being more neutral and informative as a bot message, while the second text is more opinionated and expressive.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical, grammatical features, sentence structures, and narrative styles, along with some commonalities in punctuation and absence of spelling errors, the overall confidence that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

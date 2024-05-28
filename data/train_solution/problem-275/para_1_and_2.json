@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas appropriately, but text 1 has more complex punctuation with the use of hyphens and colons, while text 2 lacks such complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in lexical choices and grammatical features, with different word choices and sentence structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences compared to text 2, which has shorter and more direct sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts discuss military actions but in different contexts, showing a similarity in narrative style and tone.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are notable differences in punctuation style, lexical and grammatical features, and sentence structure between the two texts, indicating a lower likelihood of being written by the same author.",
+        "score": 0.7
+    }
+}

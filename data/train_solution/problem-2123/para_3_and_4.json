@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, commas, and parentheses, while Paragraph 2 lacks these punctuations.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal and structured lexical and grammatical style compared to the informal and less structured language of Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a more organized sentence structure and coherence compared to the fragmented and less cohesive structure of Paragraph 2.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both paragraphs address different topics and have different tones, making it difficult to assess commonalities in narrative styles and expressions.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The overall confidence score is moderate, indicating that the two texts are unlikely to be written by the same author due to notable differences in punctuation, lexical and grammatical features, sentence structure, and discourse style.",
+    "score": 0.4
+  }
+}

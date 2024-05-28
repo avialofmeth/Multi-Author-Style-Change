@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 and Paragraph 2 both use hyphens and parentheses, but the usage and frequency are different.",
+      "score": 0.5
+   },
+   "feature2": {
+      "explanation": "Both paragraphs display variations in lexical choices and word usage, but the syntactic structures differ significantly.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "Sentence structures vary between the two paragraphs, with Paragraph 2 having more complex and lengthy sentences compared to Paragraph 1.",
+      "score": 0.4
+   },
+   "feature4": {
+      "explanation": "The narrative styles and tone differ significantly between the two paragraphs.",
+      "score": 0.1
+   },
+   "feature5": {
+      "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+      "score": 0.46
+   }
+}

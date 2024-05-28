@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas appropriately, but only Paragraph 1 includes a dash (hyphen) and a comma splice. The punctuation style varies slightly between the two paragraphs.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs contain a mix of formal and informal language. Paragraph 1 uses more complex language due to the topic discussed, while Paragraph 2 is more straightforward as it is an automated response. Some lexical and grammatical features overlap, but distinctions exist.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. The sentence structures and quantitative features differ significantly between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and critical tone discussing political events, while Paragraph 2 has a neutral and informative tone as it is an automated response. The text and discourse features show clear differences.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, maintaining a standard level of accuracy in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence score is moderate, indicating that the two texts are not likely written by the same author.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods mainly for punctuation while Paragraph 2 includes hyphens, apostrophes, and vulgar language. Different punctuation styles indicate potential differences in writing style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and descriptive tone with words like 'complete control' and 'survival.' In contrast, Paragraph 2 has a more informal and colloquial tone with phrases like 'giving a fuck' and 'poor girl.' The lexical and grammatical choices differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively short sentences, but Paragraph 1 is more coherent and structured. Paragraph 2 shows abrupt changes in tone and topic. This difference affects the overall flow and coherence of the texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a consistent narrative style in discussing a topic, while Paragraph 2 shifts focus abruptly to a personal opinion about Hitler. The tone and narrative style are not consistent between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a basic level of writing proficiency. This feature does not contribute significantly to distinguishing the author's style.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, coherence, and narrative styles, as well as the presence of some commonalities in spelling and typographical errors, the overall confidence score for the likelihood that the two texts were written by the same author is moderate to low.",
+    "score": 0.28
+  }
+}

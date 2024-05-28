@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas appropriately for listing items and to separate clauses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and descriptive language, while paragraph 2 is more direct and informative. Both paragraphs show variation in word choice and grammatical structures.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain relatively short and straightforward sentences. They are coherent and cohesive in presenting information.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral tone, focusing on actions taken by migrants and charity vessels. Paragraph 2 has a slightly more critical tone towards the situation in Tunisia. Both paragraphs differ in mood and narrative style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. While there are some similarities in punctuation, sentence structure, and absence of errors, the differences in lexical choice, tone, and narrative style suggest potential different authors.",
+    "score": 0.7
+  }
+}

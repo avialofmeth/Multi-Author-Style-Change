@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation, including colons, commas, and periods. However, the presence of specific punctuation marks like hyphens, brackets, quotation marks, or parentheses may differ between the two texts.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with a focus on clear communication. Lexical variation and word choice may differ based on the subject matter. Grammatical categories and part of speech usage are likely consistent across both texts.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are straightforward and direct, aiming for clarity. While the sentence complexity and length may vary slightly, the overall coherence and cohesion are maintained.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts follow a professional and informative tone. They provide instructions or guidelines without using informal language. The discourse features are similar in terms of conveying rules or criteria.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Spelling and typographical errors are not considered in this assessment as they are not significant indicators of writing style similarity.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the lack of significant spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.81
+    }
+}

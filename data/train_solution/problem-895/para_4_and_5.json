@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods for punctuation, but only paragraph 2 includes colons and parentheses. This difference in punctuation style may suggest different authors.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more informal language and slang ('bullshit'), while paragraph 2 is more formal and robotic in nature. This disparity in lexical and grammatical features indicates different writing styles.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with a negative tone, while paragraph 2 is short, direct, and neutral. The distinct sentence structures and quantitative features imply different authors.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a critical and informal tone, using expressive language, whereas paragraph 2 is formal and informative. The stark contrast in narrative styles and tone suggests different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of writing correctness.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and narrative styles, the likelihood of the two texts being written by the same author is low. The overall confidence score reflects the variations observed across multiple linguistic dimensions.",
+        "score": 0.42
+    }
+}

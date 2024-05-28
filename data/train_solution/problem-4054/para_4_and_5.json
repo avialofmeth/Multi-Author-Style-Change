@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and quotation marks to indicate direct speech and punctuation style is consistent.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a similarity in lexical choice and word usage in both texts, indicating a common author.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence structure and length are moderately similar, showing some coherence in writing style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Tone and mood differ slightly, affecting the overall writing style, but there are some common expressions present.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the features, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, colons, and periods. However, Paragraph 1 includes more complex punctuation like slashes and ellipses, while Paragraph 2 uses parentheses and hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. Paragraph 1 uses more formal language and specific terms related to rules and behaviors. In contrast, Paragraph 2 is more straightforward and uses simpler language related to media outlets.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features differ in the texts. Paragraph 1 has longer sentences with more complex structures, while Paragraph 2 consists of shorter and more direct sentences. Both paragraphs maintain coherence and clarity.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary significantly. Paragraph 1 focuses on etiquette and behavior guidelines, employing a formal and instructive tone. In contrast, Paragraph 2 addresses specific questions about media outlets in a more informational and procedural manner.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a good level of proofreading and attention to detail.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mixed similarities and differences in the linguistic features analyzed, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

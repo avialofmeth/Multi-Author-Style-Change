@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas to separate clauses and list items. However, Text 1 also includes a hyphen for a compound adjective.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more formal language with words like 'Hopefully' and 'trade war' compared to Text 2 with phrases like 'stock market' and 'make their money'. Word choice differs significantly.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have simple sentence structures with straightforward statements. Text 1 has longer sentences compared to Text 2. Text 2 has more concise statements.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more opinionated and reflective tone discussing past events. In contrast, Text 2 provides a more factual and informative tone about current situations.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts show some similarities in punctuation style and absence of spelling errors, but they differ significantly in word choice, sentence structure, and tone. The overall confidence score is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens, quotation marks, and ellipses for stylistic effect and to convey informal tone.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 uses informal language and slang ('homie', 'af'), while text 2 employs more formal language and structured sentences. The lexical and grammatical features differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Text 1 consists of short, conversational sentences with informal language. Text 2 contains longer, more structured sentences discussing a specific topic.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text 1 reflects a casual, conversational tone with slang and colloquial expressions. Text 2 presents a more formal, informational tone discussing drug policies.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in lexical and grammatical features, the texts are less likely to be written by the same author. However, the presence of common punctuation style and minimal errors slightly increases the likelihood of a shared authorship.",
+    "score": 0.52
+  }
+}

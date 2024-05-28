@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods. However, the presence of specific punctuation like colons and quotation marks differs between the texts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are similarities in the lexical choices and grammatical structures used in both texts. However, the specific words and expressions vary, impacting the overall lexical and grammatical coherence.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts exhibit differences in complexity and length. While both show coherence and cohesion, the quantitative features like sentence length and arrangement differ significantly.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts share a common theme of authority and control, but their narrative styles and tone are distinct. One text focuses on past actions, while the other emphasizes the manipulation of truth.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate, with variations in punctuation, lexical choices, sentence structures, narrative styles, but a consistent absence of spelling errors.",
+        "score": 0.62
+    }
+}

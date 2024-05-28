@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation, such as lack of proper capitalization and inconsistent use of punctuation marks. Paragraph 2 demonstrates more formal punctuation with proper capitalization and punctuation.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show some similarities in lexical and grammatical features, such as the use of informal language and informal word choices. However, Paragraph 2 shows slightly more formal language compared to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and more fragmented sentences, while Paragraph 2 contains longer and more structured sentences. This reflects a difference in sentence complexity and arrangement.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both paragraphs exhibit a casual tone and mood, but Paragraph 1 is more conversational and informal compared to the slightly more formal tone in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, showing a similar level of accuracy in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features collectively, there are notable differences in punctuation style, sentence structure, and formality level between the two texts. However, there are also commonalities in lexical and grammatical features, tone, and absence of spelling errors. The overall assessment suggests a moderate confidence level that the two texts were not written by the same author.",
+    "score": 0.6
+  }
+}

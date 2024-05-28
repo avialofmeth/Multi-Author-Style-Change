@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar punctuation style with the use of colons, commas, and periods. However, the second text contains more complex punctuation like hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is some similarity in lexical and grammatical features such as the use of legal terms and proper nouns. However, the second text shows a higher complexity in vocabulary and sentence structures.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts have elements of coherence and cohesion, but the second text is more detailed and includes specific timelines and legal procedures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The texts differ in narrative styles and speech events. The first text is more generic and informative, while the second text is focused on legal proceedings and specific events.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, there are noticeable differences in the writing style between the two texts, particularly in terms of complexity, vocabulary, and narrative style. Therefore, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.62
+    }
+}

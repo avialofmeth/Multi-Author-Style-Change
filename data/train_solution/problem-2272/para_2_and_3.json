@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas, but only the first text uses colons and parentheses.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal language, but the second text contains more informal language due to the use of terms like 'GOP' and 'white supremacist'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward with simple sentence structures.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text is more informational and directive in tone, while the second text is more opinionated and critical.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.58
+  }
+}

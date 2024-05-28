@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "The punctuation styles in both texts include colons, commas, and quotation marks, but differ in the use of hyphens and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual tone and use informal language, suggesting a similar writing style. However, the first text contains more specialized vocabulary related to podcasts.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are concise and straightforward, with similar sentence lengths and structures. They lack complexity in sentence arrangement.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "The first text has a more conversational tone with informal language, while the second text is more formal and automated.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the shared punctuation styles, lexical features, sentence structure, and lack of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

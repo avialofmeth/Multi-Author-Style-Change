@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and currency symbols, while Paragraph 2 includes hyphens, brackets, and informal punctuation like ellipsis. Both paragraphs show variation in punctuation usage.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of formal and informal lexical choices. Paragraph 1 includes formal economic terms, whereas Paragraph 2 has informal expressions like 'boomers' and 'eat their kids.' There is some commonality in word choice but also noticeable distinctions.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more structured sentences related to economic analysis. In contrast, Paragraph 2 has shorter, more colloquial sentences with a critical tone. The sentence structures and lengths differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a formal, informative tone discussing economic changes, while Paragraph 2 takes on a more informal, critical tone addressing political choices. The narrative styles and tones are distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are devoid of spelling or typographical errors, indicating a level of care in writing. There are no observable mistakes in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combined analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the likelihood of the two texts being written by the same author is moderate, as there are both similarities and distinguishing factors in the writing styles.",
+        "score": 0.54
+    }
+}

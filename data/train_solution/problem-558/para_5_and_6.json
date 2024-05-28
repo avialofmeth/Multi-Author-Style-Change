@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as periods and commas appropriately, but differ in the use of specific punctuation like hyphens, colons, and quotation marks. The first text has colons and quotation marks, while the second text lacks these specific punctuation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts display a formal style with proper grammar and word choice. However, the first text includes specific political references ('Democrats') not present in the second text, which affects the lexical variation.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are simple and straightforward, lacking complexity or variation. Both texts are concise and to the point without elaborate sentence arrangements.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While the first text expresses a specific sentiment related to politics, the second text is more generic in nature, indicating a difference in narrative style and tone. The first text conveys a sense of frustration, whereas the second text is neutral and informative.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, demonstrating a similar level of attention to detail in terms of written accuracy.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences in narrative style, topic specificity, and punctuation usage that suggest potential variation in authorship. The overall confidence score, taking into account these factors, is moderate.",
+        "score": 0.62
+    }
+}

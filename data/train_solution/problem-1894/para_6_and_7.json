@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, quotation marks, and periods consistently. However, Paragraph 1 lacks some standard punctuation marks like commas and periods.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual and conversational tone with similar lexical choices. However, Paragraph 1 shows more informal language and abbreviations compared to Paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and simpler sentences compared to the more complex and varied sentence structures in Paragraph 2. The coherence and cohesion differ significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts share a direct and informal narrative style. The common expression 'I mean like' in Paragraph 1 contrasts with the more formal language used in Paragraph 2, indicating a difference in tone and mood.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, there are notable differences in punctuation style, sentence structure, and tone between the texts. While some lexical and grammatical features align, the overall writing styles differ, leading to a moderate confidence that the texts were not written by the same author.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens and commas, although in different contexts. Text 1 shows a consistent use of hyphens in phrases like 'Austro-Hungarian' and 'sea access,' while Text 2 lacks such examples. Commas are used in both texts but with different frequencies and contexts.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Text 1 demonstrates a formal and historical lexicon with terms like 'Austro-Hungarian empire' and 'Treaty of Trianon,' indicating a specific focus on historical events and details. In contrast, Text 2 employs more colloquial language with words like 'yea' and 'sad,' reflecting a different lexical choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts vary in sentence complexity and length. Text 1 contains longer and more complex sentences with historical context and details, while Text 2 features shorter and simpler sentences conveying emotional content. The arrangement and coherence differ significantly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts are distinct. Text 1 adopts a formal and informative tone discussing historical events and power dynamics. In contrast, Text 2 presents a more emotional and reflective tone with personal opinions. The speech events and expressions vary significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and typographical accuracy without errors. There are no spelling mistakes or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall likelihood that the two texts were written by the same author is low. The differences in writing style, tone, vocabulary, and sentence structure suggest distinct authorship.",
+        "score": 0.5
+    }
+}

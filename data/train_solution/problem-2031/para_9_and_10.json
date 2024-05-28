@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and parentheses for punctuation, while Paragraph 2 lacks these features.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit informal language and lack of formal lexical variation, with informal word choices and lack of grammatical complexity.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs are relatively simple and lack coherence in terms of flow. Both paragraphs exhibit similar sentence length and lack of quantitative variation.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts share a similar tone of casual conversation and express opinions in an informal way, although the topics differ.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the shared informal language, sentence structure, and tone, along with the absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.56
+  }
+}

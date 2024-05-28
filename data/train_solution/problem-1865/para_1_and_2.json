@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the presence of commas, quotation marks, and periods. However, the first text includes more hyphens and colons compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two texts. The first text contains more industry-specific terms and demonstrates a more formal tone, while the second text is more casual and conversational.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly. The first text has longer and more complex sentences, while the second text is composed of shorter, more straightforward sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first text discusses business and economic trends, while the second text focuses on climate change and long-term considerations. The tone and mood differ between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the likelihood that the two texts were written by the same author is moderate, with some commonalities but notable distinctions.",
+        "score": 0.48
+    }
+}

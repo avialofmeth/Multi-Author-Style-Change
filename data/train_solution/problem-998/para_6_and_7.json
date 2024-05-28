@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a hyphen in the word 'dogshit' and 'hellscape', while Paragraph 2 uses hyphens in 'Allie's'. Both paragraphs lack consistent use of punctuation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs contain informal language and lack complex lexical choices. However, Paragraph 2 displays slightly more grammatical errors.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and lack complex sentence structures. Paragraph 1 is slightly more coherent in its expression.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs have a negative tone and informal style. The use of historical references in Paragraph 2 distinguishes it from Paragraph 1.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs lack major spelling or typographical errors.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the similarities in informal language, lack of complex structure, and the absence of significant spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.54
+    }
+}

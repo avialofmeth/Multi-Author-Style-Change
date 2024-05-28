@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas in a non-standard way, while paragraph 2 demonstrates more conventional punctuation usage.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal and casual word choices. However, paragraph 1 shows more variation and informal grammar compared to paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains shorter and less complex sentences compared to paragraph 2, which has more varied sentence structures and lengths.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar informal tone and mood, using idiomatic expressions and a casual style.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in punctuation style, lexical and grammatical features, and sentence structures, there is moderate evidence to suggest that the texts may not have been written by the same author.",
+        "score": 0.58
+    }
+}

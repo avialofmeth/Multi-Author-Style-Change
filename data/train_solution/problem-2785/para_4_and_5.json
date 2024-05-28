@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and a period, while Paragraph 2 only uses periods. The presence of different punctuation styles may indicate a difference in writing style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses informal language with phrases like 'stupid shenanigans', while Paragraph 2 is more formal and technical in nature ('I am a bot, and this action was performed automatically'). The lexical and grammatical features show a significant difference.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and direct. While Paragraph 1 expresses an opinion, Paragraph 2 is a simple statement. There are no significant differences in sentence structure and quantitative features.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a casual tone expressing skepticism, while Paragraph 2 is formal and automated. The text and discourse features differ significantly in tone and style.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, showing no distinction in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.38
+    }
+}

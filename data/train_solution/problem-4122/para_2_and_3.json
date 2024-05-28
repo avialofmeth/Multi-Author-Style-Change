@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation like colons and parentheses, while Paragraph 2 includes more casual punctuation like hyphens and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of vocabulary but differ in the tone and formality of word choices.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured with clear sentences, while Paragraph 2 contains more complex sentences and a slightly different arrangement.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal tone related to providing information while Paragraph 2 shows a more casual and narrative style.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, word choice, sentence structure, and tone, there are notable distinctions in the writing styles of the two paragraphs. However, the lack of spelling errors increases the possibility of a similar author, though with some variability in writing style.",
+        "score": 0.54
+    }
+}

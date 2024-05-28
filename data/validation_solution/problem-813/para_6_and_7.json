@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit consistent comma usage and sentence structure.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Distinct lexical choices in each paragraph may indicate different authors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have similar sentence complexity and length.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Different topics can lead to varied narrative styles, affecting authorship assessment.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of all features, the likelihood of the same authorship is moderate.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains a lack of commas in the first sentence, while Paragraph 2 demonstrates proper comma usage. Both paragraphs use quotation marks appropriately.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits informal language and contractions, while Paragraph 2 is more formal and technical in nature. Different lexical choices and word usage are observed.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences and a more conversational tone, while Paragraph 2 is structured with longer sentences and a formal tone. The coherence and sentence length differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is more confrontational and informal in tone, using colloquial expressions like 'take care bud', while Paragraph 2 is informative and technical, focusing on clarity of language.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate good spelling and no typographical errors, indicating a similar level of attention to detail in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the similarity in spelling and lack of typographical errors, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, colons, and commas. Text 1 uses commas to separate clauses and list items. Text 2 also utilizes commas for separation. Both texts exhibit consistent punctuation usage.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 includes terms like 'outspent,' 'odd,' 'under,' 'some odd days,' which show a unique lexical choice. Text 2 includes phrases like 'un-American monsters,' 'hoping,' 'in office,' showcasing different lexical choices. Both texts display variation in word choice.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Text 1 has shorter sentences with a more straightforward structure. Text 2 uses longer sentences and a slightly more complex sentence structure. However, both texts maintain coherence and cohesion within their respective structures.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more factual and informative tone. Text 2 shows a slightly more emotional tone. Both texts exhibit differences in narrative styles and mood.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts appear to be free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall likelihood that the texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

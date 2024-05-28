@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including hyphens, commas, and quotation marks. However, there are differences in the use of parentheses and colons.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical choices and word usage, such as 'Russia,' 'NATO,' and 'conflict.' However, there are differences in the specific vocabulary and grammatical structures used.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit varying sentence lengths and structures, with some complexity in arrangement. However, there are differences in coherence and cohesion due to differing topics and contexts.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ between the two texts. While both discuss geopolitical issues, the overall expression and mood vary significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the combination of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

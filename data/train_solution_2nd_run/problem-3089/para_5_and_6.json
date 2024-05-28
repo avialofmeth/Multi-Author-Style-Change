@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods. However, the first text includes more complex punctuation like colons and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices between the texts, with the first text containing more formal language and specific terms related to historical events, while the second text is more informal and mentions a specific source (Guardian article by Timothy Snyder).",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text features longer and more complex sentences compared to the second text, which is more straightforward and concise in structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts convey a serious tone, but the first text discusses historical and political events with a more reflective mood, while the second text mentions a specific personal experience in a more factual manner.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and grammar without typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices and sentence structures, along with some similarities in punctuation and tone, there is moderate confidence that the two texts were not written by the same author.",
+    "score": 0.64
+  }
+}

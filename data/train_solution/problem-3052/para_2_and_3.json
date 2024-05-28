@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and ellipses, while paragraph 2 uses commas and periods. Different punctuation style indicates a potential difference in the writing style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes a mix of informal and technical language, with phrases like 'render all of their nuclear weapons useless' and 'facing the entire globe with their F35s and HIMARS'. Paragraph 2 has a more straightforward tone with phrases like 'show Russia gaining ground' and 'how many Russians died'. Lexical and grammatical features suggest a difference in writing style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of relatively short sentences with straightforward structures. However, the content and coherence differ significantly between the two paragraphs, affecting the overall text and discourse features.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more aggressive and confrontational tone compared to the more neutral tone of paragraph 2. The narrative styles and speech events differ significantly, indicating a potential mismatch in authorship.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph. Both demonstrate proper spelling and punctuation, showing consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, narrative styles, and coherence between the two paragraphs, the overall confidence in the texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

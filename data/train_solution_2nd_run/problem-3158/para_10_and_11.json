@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens, commas, and question marks, although inconsistently. Paragraph 1 has more varied punctuation marks including periods, while Paragraph 2 lacks periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal language with some unique word choices. Paragraph 1 discusses technical aspects more explicitly, while Paragraph 2 contains more guesses and assumptions.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have varying sentence lengths and structures. Paragraph 1 has longer and more complex sentences, while Paragraph 2 is slightly simpler and more fragmented.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack formal narrative styles and use colloquial expressions. Paragraph 1 has a more explanatory tone, while Paragraph 2 is more inquisitive and speculative.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively free from spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the features, there are similarities in punctuation usage, informal language, and lack of significant errors. However, the differences in sentence complexity and tone suggest potential variation in authorship.",
+        "score": 0.66
+    }
+}

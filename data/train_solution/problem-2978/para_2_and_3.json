@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal style with appropriate use of punctuation marks such as periods, commas, and apostrophes. In contrast, Paragraph 2 contains a more casual and informal writing style with the use of abbreviations like 'lol' and lack of proper punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical terms related to medical conditions and structured sentences. Paragraph 2, on the other hand, includes informal language and colloquial expressions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to the shorter and simpler sentences in Paragraph 2. The coherence and cohesion are stronger in Paragraph 1 due to the logical flow of information.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a serious and informative tone discussing medical conditions, while Paragraph 2 is more conversational and includes references to popular culture. The narrative styles and speech events differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, maintaining a consistent level of accuracy in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author. The spelling and typographical accuracy is the only common feature between them.",
+    "score": 0.42
+  }
+}

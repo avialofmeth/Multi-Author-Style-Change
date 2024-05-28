@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and apostrophes, while Paragraph 2 uses hyphens, periods, and commas.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use a mix of informal and formal vocabulary, but Paragraph 1 is more colloquial with contractions like 'ain't' and 'they've been' while Paragraph 2 is more formal with phrases like 'arguably the second most important.'",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter sentences with a more conversational tone, while Paragraph 2 uses longer sentences with a more formal structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss geopolitical topics, but Paragraph 1 has a more casual and critical tone towards the subject matter, while Paragraph 2 maintains a more neutral and informative tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, vocabulary choice, sentence structure, and tone, there are notable distinctions that suggest different authors. However, the absence of spelling errors increases the likelihood of a shared authorship.",
+    "score": 0.64
+  }
+}

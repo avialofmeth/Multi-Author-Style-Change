@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both paragraphs use similar punctuation marks such as parentheses and commas. However, the presence of hyphens in Paragraph 1 but not in Paragraph 2 indicates a slight difference in punctuation style.",
+		"score": 0.6
+	},
+	"feature2": {
+		"explanation": "Both paragraphs exhibit a formal tone with complex vocabulary and sentence structures. However, the word choice and sentence construction vary slightly between the two paragraphs.",
+		"score": 0.5
+	},
+	"feature3": {
+		"explanation": "Both paragraphs are coherent and exhibit a similar level of sentence complexity. However, Paragraph 1 contains a longer sentence with more quantitative details compared to Paragraph 2.",
+		"score": 0.7
+	},
+	"feature4": {
+		"explanation": "Both paragraphs convey opinions and perspectives on a particular topic. However, the tone and mood differ slightly, with Paragraph 1 having a more critical tone compared to the more neutral tone of Paragraph 2.",
+		"score": 0.4
+	},
+	"feature5": {
+		"explanation": "There are no evident spelling or typographical errors in either paragraph.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+		"score": 0.64
+	}
+}

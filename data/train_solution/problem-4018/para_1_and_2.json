@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses but do not share other common punctuation styles such as hyphens, brackets, colons, commas, or quotation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features with a focus on legal and formal language, suggesting a shared writing style.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and straightforward, lacking complexity or varied arrangement.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and formal tone, discussing legal matters and personal autonomy, which aligns in terms of narrative style and tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a shared attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall assessment suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

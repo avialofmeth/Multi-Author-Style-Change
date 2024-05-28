@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use parentheses and percentages, but the first paragraph includes an em dash while the second paragraph does not. Overall, there is some similarity in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit formal language with a focus on political terms. The first paragraph uses more technical terms related to redistricting, while the second paragraph contains specific voting data. There is consistency in lexical and grammatical features.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "The first paragraph is longer and more complex, discussing a process and its impact. The second paragraph is shorter and more straightforward, presenting election results. The sentence structures and quantitative features differ in complexity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey factual information with a formal tone. The first paragraph discusses a political event, while the second paragraph reports election results. There is consistency in text and discourse features.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph. Both texts are well-written in terms of spelling and typographical accuracy.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods in a conventional manner, while Paragraph 2 shows a lack of proper punctuation and uses informal language markers like 'cuz' and 'ton'.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more standard lexical and grammatical style with coherent sentences, while Paragraph 2 contains informal and slang words and lacks grammatical precision.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear sentences and maintains coherence, whereas Paragraph 2 has shorter and less structured sentences with a more casual tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a narrative style discussing a travel experience, while Paragraph 2 expresses a personal opinion in a more informal and colloquial manner.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts do not contain spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the linguistic features analyzed, there are significant differences in punctuation style, lexical and grammatical features, sentence structure and discourse features between the two texts, indicating a low likelihood of being written by the same author.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens in compound words (e.g., 'random-ass' and 'DIY').",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts feature informal language and colloquial expressions. The first text uses slang terms like 'random-ass' and 'stuff', while the second text employs more formal language with terms like 'media outlets' and 'outlet criteria'.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The first text consists of a single long sentence with a list of activities, whereas the second text is a more formal call to action sentence. Both texts lack complexity and use simple sentence structures.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a casual and conversational tone with the use of personal pronouns ('Joe Rogan', 'Benny Shapiro'). The second text is formal and directive, addressing a specific audience.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style and absence of spelling errors, alongside some differences in lexical and grammatical features, sentence structure, and text discourse, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.68
+  }
+}

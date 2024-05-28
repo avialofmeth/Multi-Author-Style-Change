@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks to indicate direct speech. However, the first text includes a wider variety of punctuation marks such as colons and parentheses, while the second text mainly relies on commas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some differences. The first text includes specific terms like 'Wagner' and 'mercenaries', while the second text uses more general terms like 'Rybar' and 'Ukrainian offensives'. This indicates a variation in word choice.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure and quantitative features. The first text contains a longer and more complex sentence about a specific incident, whereas the second text is more straightforward and focused on a general strategy. This impacts coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts convey serious matters but in different contexts. The first text reports a specific event with a serious tone, while the second text discusses a deceptive strategy with a slightly informal tone. This indicates some variation in narrative styles and tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors identified in either text. Both texts appear to be well-written in terms of spelling and grammar.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of various linguistic features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features. However, the absence of spelling and typographical errors increases the likelihood that the texts were written by different authors. The overall confidence score is moderate due to the significant differences observed.",
+        "score": 0.64
+    }
+}

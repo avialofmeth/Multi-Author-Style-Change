@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods in a standard manner, while Paragraph 2 has a more informal and conversational tone with the use of hyphens and informal expressions.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexicon and grammar compared to Paragraph 2, which includes colloquialisms and less formal language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with a focus on sharing knowledge, while Paragraph 2 has shorter sentences and a more casual narrative style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a serious and contemplative tone, whereas Paragraph 2 has a more casual and conversational tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

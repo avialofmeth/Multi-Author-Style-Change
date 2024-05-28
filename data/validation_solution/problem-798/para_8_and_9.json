@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a hyphen for a compound word ('clackin''), while Paragraph 2 does not use hyphens in a similar way.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with no significant differences observed.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter sentences with more casual language, while Paragraph 2 has longer, more complex sentences with a formal tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both paragraphs differ significantly, with Paragraph 1 being more conversational and Paragraph 2 more formal and analytical.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, sentence structure, and narrative styles, as well as the similarities in lexical features and lack of errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

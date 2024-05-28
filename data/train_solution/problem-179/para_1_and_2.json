@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas, parentheses, and hyphens, though in different contexts. The first text focuses more on setting rules with colons and semicolons, while the second text includes brackets for additional information.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. The first text is more formal and rule-oriented, using specific terms related to behavior. The second text is more informal, with a focus on personal experiences and storytelling.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two texts vary significantly. The first text contains longer sentences with complex ideas, while the second text is more straightforward and narrative-driven.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text conveys a serious and instructive tone, emphasizing the importance of respectful communication. In contrast, the second text adopts a more casual and descriptive tone, focusing on a personal anecdote.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests that the two texts are unlikely to be written by the same author due to significant differences in writing style.",
+        "score": 0.46
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens correctly in '15 football fields by 15 football fields' and 'night and day'. Paragraph 2 lacks hyphens and uses brackets instead.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is more technical in nature with terms like 'propellers' and 'rudder'. Paragraph 2 discusses satellites and balloons in a more casual manner.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of more descriptive and detailed sentences. Paragraph 2 has shorter, more straightforward sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 provides factual information in a formal tone. Paragraph 2 has a conversational tone and includes opinions.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

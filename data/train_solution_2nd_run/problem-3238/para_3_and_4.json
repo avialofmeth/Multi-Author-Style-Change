@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 primarily uses commas and colons for punctuation, while Paragraph 2 also includes commas and hyphens. Both texts show a tendency for using punctuation marks for clarity and structure.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and informal word choices. Paragraph 2 includes specific political terms like 'blue dog democrats' and 'Independent Democrat,' while Paragraph 1 uses more general language related to media outlets.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, direct sentences focused on providing information. In contrast, Paragraph 2 has longer sentences with a mix of past actions and political stances.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, focusing on subreddit guidelines. Paragraph 2 adopts a more narrative style discussing the political journey of an individual.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the identified features, the likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation style and absence of spelling errors, but notable differences in terms of lexical choices, sentence structure, and narrative tone.",
+    "score": 0.64
+  }
+}

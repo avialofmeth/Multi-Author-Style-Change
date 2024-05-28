@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and an expletive (censored) to express emotion and convey a casual tone. Paragraph 2 uses commas and apostrophes in contractions for informal style.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit informal language with slang terms ('kid'), simple sentence structures, and colloquial expressions. They both use similar word choices and conversational tone.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs feature short to medium-length sentences with straightforward structures. They lack complexity in syntax and follow a narrative style with clear coherence.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts share a casual, conversational tone with expressions of frustration or annoyance towards a particular individual. They convey personal experiences in a direct manner.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text. Both show consistent use of standard spelling and punctuation.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the consistency in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as the absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author in terms of writing style.",
+        "score": 0.82
+    }
+}

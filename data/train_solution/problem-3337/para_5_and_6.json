@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use brackets and quotation marks, but only the second text includes hyphens and parentheses.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. The first text uses technical terms like 'action was performed automatically,' while the second text uses a more casual and profane expression 'seriously dangerous shit.'",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward in structure. They lack complexity in sentence structure and do not show significant differences in quantitative features.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts provide information or explanation with a neutral tone and do not contain distinct narrative styles or speech events.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features, the texts show some similarities in punctuation style and lack of errors. However, differences in lexical and grammatical features and the use of informal language may suggest different authors. The moderate level of alignment in sentence structure and text features indicates a moderate level of confidence in the texts being written by the same author.",
+        "score": 0.7
+    }
+}

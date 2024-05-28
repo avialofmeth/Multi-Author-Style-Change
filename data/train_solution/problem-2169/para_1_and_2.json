@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a lack of proper punctuation, such as missing periods, commas, and apostrophes. Paragraph 1 has more varied punctuation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show some lexical variation and word choice. However, Paragraph 1 includes specific terms related to Iran and football, while Paragraph 2 mentions Vouria and regime. The grammatical structures differ slightly between the texts.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to the shorter and straightforward sentences in Paragraph 2. The coherence and cohesion differ significantly between the texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are distinct in the two texts. Paragraph 1 conveys a strong opinion and directive, while Paragraph 2 presents a matter-of-fact statement.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.56
+  }
+}

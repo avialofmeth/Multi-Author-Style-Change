@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks like commas and periods. However, the presence of quotation marks in one text and their absence in the other indicates a difference in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with no significant lexical or grammatical variations. The word choice and grammatical structures are consistent between the two texts.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are straightforward and lack complexity. The sentences are relatively short and follow a clear pattern of expression.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The first text contains a narrative style discussing a political topic, while the second text is more of an automated response. The tone and mood vary between the two texts.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the texts show similarities in punctuation, lexical and grammatical features, sentence structure, and absence of spelling errors. However, differences in punctuation style and narrative style lower the overall confidence score slightly.",
+        "score": 0.76
+    }
+}

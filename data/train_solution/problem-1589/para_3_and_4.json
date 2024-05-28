@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas and have a similar punctuation style with no significant differences.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Both texts show a similarity in lexical choices and word usage, such as the use of specific terms like 'missiles', 'vehicles', and 'Australia'. Some differences exist in the terms used, but overall, the style is somewhat consistent.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structure and complexity vary slightly between the two paragraphs. Paragraph 1 contains a more complex sentence compared to the more straightforward sentences in Paragraph 2. However, both paragraphs maintain coherence and cohesion in their respective contexts.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ between the two paragraphs. Paragraph 1 seems to discuss military technology, while Paragraph 2 focuses on countries and vehicles. However, both maintain a neutral tone and factual mood.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, indicating a consistent level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, and absence of spelling errors, the texts show moderate consistency in writing style, despite some differences in content and sentence structure. The overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.74
+  }
+}

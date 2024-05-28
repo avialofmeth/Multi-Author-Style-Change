@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and commas appropriately in a structured manner. Paragraph 2 lacks this punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical lexicon related to electric vehicles. Paragraph 2 contains informal language and stronger emotional descriptors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, structured sentences discussing technical details. Paragraph 2 has shorter, more informal sentences focusing on personal opinions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral to positive tone discussing EV features and market competition. Paragraph 2 has a negative tone and personal attack.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexicon, sentence structure, and tone, the texts likely have different authors.",
+        "score": 0.42
+    }
+}

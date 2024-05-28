@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use a variety of punctuation marks such as hyphens, brackets, colons, commas, parentheses, and quotation marks, showing similarity in punctuation style.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and straightforward lexical and grammatical style, while Paragraph 2 includes informal language, slang, and a more conversational tone. This divergence in lexical and grammatical features suggests differences in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a clear and structured sentence formation, while Paragraph 2 contains fragmented and disjointed sentences. This disparity in sentence structure and coherence indicates a notable difference in writing style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a professional and informative tone, typical of automated responses, whereas Paragraph 2 conveys a more casual, expressive, and slightly chaotic tone. The dissimilarity in narrative styles and tone suggests divergent authorship.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.95
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles between the two texts, along with the similarities in punctuation style and the absence of spelling errors, the overall confidence in the likelihood of the same authorship is moderate.",
+        "score": 0.55
+    }
+}

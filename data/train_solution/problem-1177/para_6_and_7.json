@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation, including commas, periods, and apostrophes. However, the first text includes more complex punctuation like colons and quotation marks, while the second text relies more on hyphens and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The first text shows a preference for informal language and slang like 'stupid shit' and 'brain disease,' while the second text contains more formal language with terms like 'reconstruction' and 'white supremacy.' There are differences in lexical choices and word usage.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have varied sentence lengths and structures, but the first text includes more complex sentences with multiple clauses, while the second text has shorter, more straightforward sentences with less complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The first text has a more conversational and opinionated tone, using phrases like 'I can guarantee you' and 'They don't care why people are talking about them.' In contrast, the second text adopts a more historical and analytical tone, discussing events like the Civil War and white supremacy.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The two texts show similarities in punctuation usage and lack of spelling errors, but they diverge in lexical choices, sentence complexity, and tone. The differences in these aspects suggest that the texts were likely not written by the same author.",
+        "score": 0.62
+    }
+}

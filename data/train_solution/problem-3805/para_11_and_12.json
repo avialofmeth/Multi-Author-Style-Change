@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as periods, commas, and apostrophes. Paragraph 2 contains a hyphen and commas.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a mix of complex and simple sentences with a good range of vocabulary. Paragraph 2 is straightforward and focuses on conveying information.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with more complex structures. Paragraph 2 consists of shorter sentences with a simpler structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a reflective and explanatory tone. Paragraph 2 is more factual and descriptive.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence complexity, vocabulary range, and tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.48
+    }
+}

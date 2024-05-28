@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains formal punctuation marks like colons and commas. Paragraph 2 lacks these formal punctuation marks and uses a more casual style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal and technical language related to media outlets and subreddit rules. Paragraph 2 has a more informal tone with phrases like 'normal people' and 'extremists rattling their sabers'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure, but Paragraph 1 is more structured due to its formal nature compared to the more casual tone of Paragraph 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and instructional in nature, focusing on guidelines. Paragraph 2 expresses a personal opinion and desire, indicating a different discourse style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and discourse features, along with the similarity in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

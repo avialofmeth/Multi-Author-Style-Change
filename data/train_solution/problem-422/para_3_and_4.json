@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and commas more frequently compared to Paragraph 2, which uses fewer punctuation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of formal and technical vocabulary, but Paragraph 1 discusses military authorization and intervention, while Paragraph 2 focuses on legal implications regarding immunity and court proceedings.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences, with a focus on legislative processes, whereas Paragraph 2 consists of shorter sentences detailing legal consequences and actions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more formal and informative tone discussing political decisions, while Paragraph 2 adopts a legal and procedural tone related to a specific case.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary focus, sentence structure, tone, and the absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

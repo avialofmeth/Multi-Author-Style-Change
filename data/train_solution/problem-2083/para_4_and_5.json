@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain similar punctuation styles with the use of hyphens, colons, and parentheses. However, one text uses quotation marks while the other does not.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. One text includes specific terms related to Reddit ('Redditdotlimo'), while the other uses more general terms related to article submission.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively simple and straightforward. However, one text is more informative and direct in content, while the other is more formal in tone.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts share a formal and informative tone, typical of written announcements. However, one text is more direct and instructional, while the other includes a reference to a specific subreddit.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, as well as the variations in tone and content specificity, there is moderate confidence that these texts were not written by the same author.",
+    "score": 0.66
+  }
+}

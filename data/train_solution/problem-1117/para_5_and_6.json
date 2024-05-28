@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation, including hyphens, commas, and quotation marks. There is consistency in the overall punctuation style.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Both texts show a preference for more formal and technical vocabulary, indicating a similarity in lexical choice. Grammatical structures and part of speech usage are also comparable.",
+        "score": 0.85
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively complex with varying lengths. There is coherence and cohesion within each text. The quantitative features such as word length and frequency show similarities.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and informative tone, focusing on factual information rather than expressive or emotional language. They share a formal narrative style.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of care in proofreading.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the consistency in punctuation style, lexical choices, sentence structures, narrative tone, and absence of spelling errors, there is a strong likelihood that the two texts were written by the same author.",
+        "score": 0.86
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses and a comma, while paragraph 2 uses hyphens, commas, and question marks. There is some divergence in punctuation style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal tone with terms like 'automatically' and 'concerns', while paragraph 2 is more informal with phrases like 'at least we stave off fascism a little longer'. The word choices and styles differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of one simple sentence, while paragraph 2 has a more complex structure with varying sentence lengths and a mix of clauses. There is notable dissimilarity in sentence structure and length.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone, typical of automated responses. In contrast, paragraph 2 is more conversational and expressive, focusing on personal opinions and hypothetical scenarios. The narrative styles and speech events differ significantly.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in terms of spelling and grammar.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Taking into account the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score is moderate, suggesting that the two texts are likely not written by the same author.",
+    "score": 0.38
+  }
+}

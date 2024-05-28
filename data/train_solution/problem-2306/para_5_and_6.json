@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of hyphens, colons, and commas to enhance clarity and structure. Paragraph 2 lacks such punctuations and uses a more straightforward style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a richer lexicon and more complex grammatical structures compared to the simpler language and grammar in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more complex sentences with cohesive structures. Paragraph 2 has simpler and shorter sentences with less cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a more narrative and detailed style, discussing specific instances and viewpoints. Paragraph 2 is more direct, focusing on seeking clarification.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts appear to be free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and narrative tone, there are notable distinctions between the two texts. However, the absence of spelling and typographical errors contributes to a moderate likelihood of the same author.",
+    "score": 0.48
+  }
+}

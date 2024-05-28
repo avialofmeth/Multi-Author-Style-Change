@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles, including commas, periods, and slashes, though they differ in the specific usage of punctuation marks like colons, brackets, and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some overlap, such as the use of formal language and specific terms related to rules and guidelines. However, there are differences in the complexity and formality of the language used.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "While both texts exhibit a similar level of sentence complexity and coherence, there are differences in sentence length and arrangement, as well as word frequency and distributions.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "The texts share a common discourse feature of providing instructions or guidelines, but they differ in the tone and mood conveyed. One text is more formal and directive, while the other is informative.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in the identified features, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.69
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of brackets, quotation marks, and commas, although in different contexts and frequencies.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 shows informal language with contractions and slang, while Text 2 is more formal and structured.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer and more complex sentences with informal phrasing, while Text 2 is more straightforward and concise.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more conversational and informal tone with expressive language, whereas Text 2 is more informational and direct.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mix of informal vs. formal language, sentence complexity, and tone differences, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.56
+    }
+}

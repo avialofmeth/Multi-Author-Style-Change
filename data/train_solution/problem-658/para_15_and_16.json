@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain similar punctuation features such as question marks, commas, and periods. However, Paragraph 1 includes more complex punctuation like colons and parentheses compared to the direct and simplistic punctuation in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit a formal tone with complex sentence structures. Paragraph 1 shows a more technical vocabulary related to processes and IT, while Paragraph 2 is more conversational with simpler word choices.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are varied with some complexity. Paragraph 1 includes longer sentences and more quantitative references, while Paragraph 2 consists of shorter, direct sentences. Both texts maintain coherence and cohesion within their respective contexts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ significantly between the two paragraphs. Paragraph 1 discusses a technical topic with a serious and analytical tone, while Paragraph 2 is more casual and conversational, focusing on a specific individual.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the likelihood that the two texts were written by the same author is moderate, as there are notable differences in punctuation style, lexical and grammatical features, and text and discourse features. However, the absence of spelling errors contributes to a slightly higher overall confidence score.",
+        "score": 0.62
+    }
+}

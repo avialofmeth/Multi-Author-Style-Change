@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as ellipsis, commas, and periods, while Paragraph 2 mainly relies on periods and commas. The punctuation style differs significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choice and word usage. Paragraph 1 contains more religious and cultural references, whereas Paragraph 2 focuses on an online interaction context. The lexical and grammatical features diverge substantially.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a more elaborate sentence structure with varying lengths and complexity, whereas Paragraph 2 consists of shorter, more direct sentences. The sentence structures and quantitative features are notably dissimilar.",
+    "score": 0.15
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two paragraphs. Paragraph 1 adopts a persuasive and forceful tone related to cultural imposition, while Paragraph 2 employs a critical and direct tone regarding a title correction. The text and discourse features are markedly divergent.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors are evident in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a low likelihood that the two texts were written by the same author.",
+    "score": 0.31
+  }
+}

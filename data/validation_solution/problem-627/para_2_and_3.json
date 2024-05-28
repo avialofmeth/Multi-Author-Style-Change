@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use colons and parentheses for clarification and additional information.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit formal language with specific terminology and a slightly academic tone.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraphs differ in structure and complexity, with the first being more straightforward and the second containing more detailed information and clauses.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly, with the first paragraph being instructional and the second paragraph discussing a specific political topic.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were present in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all the features collectively, there are notable differences in narrative style and sentence structure, while similarities are observed in punctuation style, lexical features, and absence of spelling errors. The overall confidence score is moderate.",
+    "score": 0.6
+  }
+}

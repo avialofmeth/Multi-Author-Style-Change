@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit inconsistent and erroneous punctuation usage, such as missing periods and misspelled words ('polices' instead of 'police').",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in lexical variation and vocabulary choices, with informal language ('druggies', 'failing the bar exam'), indicating a potential common author.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are simple and contain errors in coherence and cohesion, suggesting a potential similarity in writing style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a casual tone and narrative style, with informal expressions ('figured', 'finally passed after taking the test 10 times').",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Spelling errors are present in both texts ('assoHole' instead of 'asshole'), indicating a possible commonality in typographical mistakes.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, as well as spelling and typographical errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

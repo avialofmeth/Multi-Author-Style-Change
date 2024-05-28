@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses a variety of punctuation marks like ellipsis, periods, commas, and parentheses. It also includes hyphens and colons for clarity and organization.",
+		"score": 0.8
+	},
+	"feature2": {
+		"explanation": "Both paragraphs exhibit a formal tone with specific word choices and grammatical structures. They maintain a consistent level of formality and vocabulary.",
+		"score": 0.7
+	},
+	"feature3": {
+		"explanation": "The sentences in both paragraphs are moderately complex and well-structured. They are coherent and maintain a similar length and arrangement.",
+		"score": 0.6
+	},
+	"feature4": {
+		"explanation": "While Paragraph 1 conveys information and describes actions, Paragraph 2 is a disclaimer or automated response. However, both maintain a neutral tone and are written in a factual manner.",
+		"score": 0.5
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either paragraph. The writing is consistent in terms of accuracy and correctness.",
+		"score": 1.0
+	},
+	"overall": {
+		"explanation": "Based on the analysis of the five linguistic features, there are notable similarities in punctuation style, lexical and grammatical features, sentence structure, and absence of spelling errors. Despite differences in content and purpose, the writing style across both paragraphs suggests a moderate likelihood that they were written by the same author.",
+		"score": 0.72
+	}
+}

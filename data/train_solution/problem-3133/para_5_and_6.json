@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods for punctuation while Paragraph 2 includes hyphens, quotation marks, and parentheses. The punctuation styles differ significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses simpler language with straightforward sentences, while Paragraph 2 includes more complex language with detailed descriptions. The lexical and grammatical features show notable differences.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, direct sentences, while Paragraph 2 has longer and more elaborate sentences. The sentence structure and quantitative features vary significantly.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more formal and straightforward in tone, while Paragraph 2 adopts a more informal and conversational tone. The text and discourse features exhibit distinct styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similarity in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, along with the similarity in spelling and typographical errors, the overall confidence score suggests a low likelihood that the two texts were written by the same author.",
+    "score": 0.42
+  }
+}

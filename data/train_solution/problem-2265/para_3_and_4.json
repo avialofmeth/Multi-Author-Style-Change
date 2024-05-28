@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as question marks, commas, and periods. However, the first text uses an ellipsis, while the second text uses a question mark and exclamation mark.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use informal language and contractions. They also both contain interrogative sentences. However, the first text is more formal due to the use of 'censures' compared to the more colloquial 'is going to do something' in the second text.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and direct. They consist of simple sentences without complex structures. The first text has a slightly more formal tone due to the vocabulary used.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts express uncertainty and doubt. However, the first text is more reserved in tone, while the second text expresses skepticism and disbelief.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, sentence structure, and lack of errors, along with some distinctions in tone and formality, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

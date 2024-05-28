@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, commas, and periods. However, Paragraph 2 also includes punctuation like commas and periods but lacks the complexity seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a focus on formal language with terms like 'courteous,' 'violations,' and 'permanent ban.' Paragraph 2 uses more informal language with terms like 'Republican-controlled' and 'Wednesday.' There is a contrast in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs display relatively similar sentence structures in terms of length and complexity. However, Paragraph 1 emphasizes a general rule with a list of prohibited actions, while Paragraph 2 reports a specific event. The coherence and cohesion differ due to the nature of the content.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a neutral and instructive tone regarding rules and consequences. In contrast, Paragraph 2 presents a news report on a legislative decision, reflecting a different narrative style and tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit correct spelling and typographical accuracy, indicating a similarity in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there are notable distinctions between the two texts. However, the absence of spelling and typographical errors aligns them to some extent. The overall confidence score in the likelihood of the same authorship is moderate.",
+    "score": 0.6
+  }
+}

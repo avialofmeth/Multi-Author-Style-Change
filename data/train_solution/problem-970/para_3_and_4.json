@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation usage with hyphens and colons present in both.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features such as word choice and grammatical structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts show coherence and similar sentence structures in terms of complexity and length.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Text 1 has a narrative style with a tone of speculation, while Text 2 is more formal and informative as seen in bot-generated messages.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, lexical and grammatical features, sentence structure, and absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.75
+    }
+}

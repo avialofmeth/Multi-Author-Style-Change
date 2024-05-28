@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 does not use any hyphens, brackets, colons, or parentheses, while Paragraph 2 uses colons and parentheses. Both paragraphs use commas and quotation marks, but the patterns and frequency differ.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses simpler language and more straightforward word choices compared to Paragraph 2. Both paragraphs exhibit some variation in lexical choices, but the overall complexity differs.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, more direct sentences, while Paragraph 2 includes longer, more complex sentences. The coherence and cohesion also vary between the two paragraphs.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs present information in a factual manner without much narrative style. However, the tone and mood differ between the two texts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and lack of spelling errors, the likelihood that these texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

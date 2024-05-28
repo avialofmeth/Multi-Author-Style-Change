@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both paragraphs use commas and full stops appropriately. Paragraph 1 also includes a colon, while paragraph 2 has a hyphen. Overall, punctuation styles are similar.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"Both texts exhibit a similar level of lexical variation and word choice. They both use formal language and contain similar grammatical categories and part of speech usage.",
+      "score":0.9
+   },
+   "feature3":{
+      "explanation":"The sentence structures in both paragraphs are comparable in terms of complexity and coherence. Both paragraphs are well-structured and demonstrate similar word and sentence lengths.",
+      "score":0.85
+   },
+   "feature4":{
+      "explanation":"While the topics differ, both texts maintain a serious and informative tone. They do not contain common expressions or idioms, focusing more on conveying information.",
+      "score":0.75
+   },
+   "feature5":{
+      "explanation":"No spelling or typographical errors were noted in either paragraph.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the overall writing style, punctuation, lexical and grammatical features, sentence structure, discourse features, and absence of spelling errors, there is a high likelihood that the two texts were written by the same author.",
+      "score":0.86
+   }
+}

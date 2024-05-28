@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, colons, and parentheses to convey additional information or clarify points.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show a preference for informal language and unique word choices, suggesting a similar lexical style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts display a mix of complex and straightforward sentence structures, contributing to a moderate level of coherence.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts differ significantly in terms of tone and mood, with one expressing confusion or frustration while the other hints at a solution. This contrast lowers the likelihood of a shared author.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text, indicating a consistent level of attention to detail.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical features, and sentence structure, the texts are moderately likely to have been written by the same author. However, the differing tones in the discourse features suggest some divergence.",
+        "score": 0.68
+    }
+}

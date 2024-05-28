@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, colons, commas, and parentheses in a similar manner, indicating a consistent punctuation style.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "While the lexical and grammatical features differ significantly due to the content mismatch, the overall word choice and grammatical structures do not show significant similarities.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features in the two texts differ greatly, with varying sentence lengths and coherence levels, indicating a lack of consistency in this aspect.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features also differ substantially, with one text focusing on political content and the other on automated responses, leading to a distinct narrative style and tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text, indicating a commonality in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the five features, the likelihood that the two texts were written by the same author is low due to significant differences in lexical and grammatical features, sentence structures, and text and discourse features.",
+        "score": 0.52
+    }
+}

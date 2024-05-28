@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles, including commas and periods, but differ in the use of hyphens and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical choices and word usage, such as informal language and profanity, but differences exist in the specific terminology used.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit relatively simple sentence structures with coherence, but differ in terms of sentence length and arrangement.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey a similar tone of skepticism and informal speech events, but differ in the specific expressions and idioms used.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "After considering all the features and their individual scores, the overall likelihood that the texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

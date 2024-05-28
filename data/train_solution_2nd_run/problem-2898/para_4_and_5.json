@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with periods and commas, while Paragraph 2 lacks punctuation in places where it should be used.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style, whereas Paragraph 2 contains informal language and lacks coherence in word choice.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is well-structured with clear sentence arrangements, while Paragraph 2 has shorter and more fragmented sentences leading to lower coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informational tone typical of automated responses, in contrast to Paragraph 2's conversational tone with expressive language.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two texts, suggesting they are likely not written by the same author.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon to introduce an explanation or list, while Paragraph 2 uses a comma for a conditional statement.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use formal language and proper grammar with no obvious lexical or grammatical variations.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward, lacking complexity in sentence structure.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal and conversational tone, while Paragraph 2 is more formal and instructional.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, tone, and sentence structure, there are some notable distinctions that suggest different authors. However, the lack of spelling errors and the use of formal language provide some common ground. The overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

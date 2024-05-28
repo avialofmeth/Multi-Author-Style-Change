@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, parentheses, and periods correctly and consistently. However, the first text includes hyphens and quotation marks, while the second text does not use these punctuation marks. This difference may indicate a slight variance in punctuation style.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and structured language style with a moderate level of lexical variation. The first text includes technical terms related to projects, while the second text is more general in nature. This slight difference in vocabulary may suggest a slight variation in writing style.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text consists of longer sentences with complex structures and a narrative style. In contrast, the second text is concise and straightforward, typical of automated responses. This difference in sentence complexity and length indicates a notable contrast in writing style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The first text contains a narrative style with a personal reflection, while the second text is impersonal and formal, characteristic of automated responses. The difference in tone and mood suggests a divergence in writing style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, displaying a high level of accuracy in writing mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the variations in punctuation style, lexical features, sentence structure, discourse style, and the absence of spelling errors, there are noticeable differences in writing style between the texts. The overall confidence score is moderate, indicating a likelihood of different authors.",
+        "score": 0.6
+    }
+}

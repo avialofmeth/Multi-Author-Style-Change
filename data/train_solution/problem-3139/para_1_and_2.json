@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more hyphens and colons compared to Paragraph 2. Paragraph 2 has a more straightforward punctuation style with fewer special characters.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more casual and opinionated tone with phrases like 'in cahoots with Russia' compared to the more formal and neutral tone of Paragraph 2. Lexical variation and word choice differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences, while Paragraph 2 is structured with simpler sentences that are easier to read and follow.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 exhibits a more aggressive and accusatory tone, using phrases like 'trying to destroy America' and 'enemy of US'. In contrast, Paragraph 2 maintains a more professional and informative tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Overall, the texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, suggesting a low likelihood of being written by the same author.",
+    "score": 0.34
+  }
+}

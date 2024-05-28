@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation marks such as colons, commas, and question marks. However, text 1 uses semicolons while text 2 uses hyphens. This slight difference may indicate a variation in punctuation style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts show a similar level of lexical and grammatical features, with a mix of formal language and contractions. Text 1 includes phrases like 'put too much stock' while text 2 uses phrases like 'Seems like a pretty accurate description'. This suggests some variation in word choice and formality.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences compared to text 2. Additionally, text 1 uses more varied sentence structures. This indicates a difference in sentence complexity and length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a conversational tone and informal style. Text 1 appears more analytical and reflective, while text 2 is more questioning and engaging. These differences in tone may suggest varied narrative styles.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing. Both texts are well-written in terms of spelling and typos.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the variations in punctuation style, word choice, sentence complexity, tone, and narrative style, there are enough differences to suggest that the texts may not have been written by the same author. However, the absence of spelling and typographical errors aligns with a similar writing style. The overall confidence score for the likelihood that the texts were written by the same author is moderate.",
+    "score": 0.66
+  }
+}

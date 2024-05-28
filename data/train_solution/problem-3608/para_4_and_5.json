@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of commas and apostrophes for contractions. However, the second text exhibits a higher frequency of commas and lacks other punctuation marks like hyphens, colons, and parentheses seen in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical variation and word choice differ significantly between the texts. The first text is more formal and straightforward, while the second text includes informal language, repetitions, and slang.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure and complexity are notably different between the texts. The first text consists of shorter, more cohesive sentences, while the second text is characterized by longer, less coherent sentences with repeated phrases.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features such as narrative style, idioms, and tone are distinct in the two texts. The first text is informative and formal, while the second text is more expressive and includes a reference to a song.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, it is unlikely that the two texts were written by the same author. The overall confidence score is 0.5.",
+        "score": 0.5
+    }
+}

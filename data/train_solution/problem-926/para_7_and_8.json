@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use ellipses for emphasis, quotation marks, and hyphens. However, only text 1 uses ellipses and colons, while text 2 uses hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice, with a mix of formal and informal language. Grammatical categories and part of speech are used effectively in both texts.",
+        "score": 0.75
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more fragmented sentences with emotional intensity. Text 2 contains longer, more structured sentences with a focus on societal issues. Both texts maintain coherence and cohesion in their respective styles.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more expressive and emotional tone, using phrases like 'rage, anger, hatred, fear'. Text 2 adopts a more reflective and somber tone, discussing societal challenges. Both texts exhibit distinct narrative styles and speech events.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the texts were written by the same author is moderate.",
+        "score": 0.74
+    }
+}

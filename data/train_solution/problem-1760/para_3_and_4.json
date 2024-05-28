@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation marks such as colons and commas, while paragraph 2 lacks these standard punctuation marks and includes informal punctuation like parentheses and hyphens.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, with specific terms related to media outlets and subreddit guidelines. Paragraph 2 showcases a more informal and conversational word choice with phrases like 'reduced to a seething puddle of umbrage.'",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a higher level of sentence complexity and cohesion related to the topic of media outlets and subreddit policies. Paragraph 2 has shorter, more fragmented sentences that lack coherence and organization.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and instructive tone suitable for providing information. Paragraph 2 conveys a more confrontational and critical tone towards the recipient.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts show no significant spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone between the two texts, the likelihood of them being written by the same author is low.",
+    "score": 0.46
+  }
+}

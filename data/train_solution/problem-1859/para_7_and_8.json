@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and semicolons, while Paragraph 2 does not exhibit such punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate a similar level of lexical variation and word choice, suggesting a potential common authorship.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit coherence and cohesion in their sentence structure, with no significant differences in complexity or arrangement.",
+        "score": 0.9
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in both texts are distinct, with Paragraph 1 focusing on political analysis and Paragraph 2 on a hypothetical scenario.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall confidence score is moderately high, suggesting a likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

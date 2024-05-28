@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use proper punctuation such as colons, commas, and periods. However, the first text has more diverse punctuation usage with parentheses and hyphens, while the second text is more straightforward with limited punctuation variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit formal language and proper grammar. However, the lexical choices in the first text are more specialized due to the technical terms used, while the second text is more general in vocabulary.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Regarding sentence structure and quantitative features, the first text is longer and more complex, with multiple clauses and technical language. In contrast, the second text is shorter and more straightforward, focusing on a single idea.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first text has a more formal and instructional tone, typical of informational content. The second text has a more casual and conversational tone, common in news reporting.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, sentence structure, and text discourse features, while similarities exist in lexical and grammatical features as well as spelling and typographical accuracy. Therefore, the overall confidence score of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

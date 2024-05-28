@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of hyphens, ellipses, and commas in a complex manner reflecting a conversational tone. Paragraph 2 lacks such punctuation complexity.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses informal language and contractions, while Paragraph 2 is more formal and straightforward due to its automated nature. This difference in lexical and grammatical features suggests a distinct authorship.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with a narrative style, while Paragraph 2 is brief and more direct in line with automated responses. The sentence structure and coherence differ significantly.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 carries a specific tone of fear and concern regarding politics, contrasting with the neutral and detached tone of Paragraph 2 as an automated response. The difference in narrative styles and mood is evident.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of care in writing. However, this feature alone cannot strongly suggest the same authorship.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence in the two texts being written by the same author is low due to substantial differences in multiple linguistic aspects.",
+    "score": 0.28
+  }
+}

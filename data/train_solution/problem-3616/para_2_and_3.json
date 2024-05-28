@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles including commas and periods. However, Paragraph 1 uses more hyphens and colons compared to Paragraph 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. Paragraph 1 focuses on technical terms related to online access, while Paragraph 2 discusses political and cultural topics.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structures and quantitative features vary significantly between the two paragraphs. Paragraph 1 contains shorter, more fragmented sentences compared to the longer, more complex sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features diverge as well. Paragraph 1 is more technical and straightforward, while Paragraph 2 has a more narrative tone discussing political and generational aspects.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse, there is a moderate likelihood that the two texts were not written by the same author.",
+        "score": 0.52
+    }
+}

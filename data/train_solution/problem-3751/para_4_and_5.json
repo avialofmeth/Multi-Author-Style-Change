@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses for additional information, while Paragraph 2 uses slashes and hyphens for separation and emphasis.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display a formal tone with grammatically correct structures. However, Paragraph 2 shows more variation in word choice and sentence complexity.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of short and straightforward sentences, whereas Paragraph 2 contains longer sentences with detailed information and analysis.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey information efficiently and maintain a factual tone, but Paragraph 2 exhibits a more analytical and critical perspective.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and discourse features, the texts show moderate similarity in writing style, indicating a potential common author.",
+        "score": 0.6
+    }
+}

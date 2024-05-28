@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts exhibit similar punctuation styles with the use of commas, slashes, and periods. However, Paragraph 1 includes a wider variety of punctuation marks than Paragraph 2.",
+      "score":0.7
+   },
+   "feature2":{
+      "explanation":"There are differences in lexical and grammatical features between the two texts. Paragraph 1 focuses on setting rules and guidelines, using more formal language, while Paragraph 2 addresses specific instructions and criteria, using a slightly more informal tone.",
+      "score":0.4
+   },
+   "feature3":{
+      "explanation":"In terms of sentence structure and quantitative features, both texts are relatively concise and straightforward. However, Paragraph 1 contains longer sentences with more complex structures compared to Paragraph 2.",
+      "score":0.6
+   },
+   "feature4":{
+      "explanation":"The text and discourse features in both paragraphs indicate a formal, instructional tone. While Paragraph 1 emphasizes rules and consequences, Paragraph 2 provides guidance on a specific topic.",
+      "score":0.5
+   },
+   "feature5":{
+      "explanation":"Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+      "score":1.0
+   },
+   "overall":{
+      "explanation":"Considering the overall assessment of the five features, the likelihood that the two texts were written by the same author is moderate.",
+      "score":0.64
+   }
+}

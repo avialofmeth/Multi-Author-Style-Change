@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain standard punctuation marks such as commas and periods. However, there is a lack of consistency in the use of more complex punctuation like colons, parentheses, and quotation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical variation and word choice between the two texts, indicating a potential difference in authorship.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively simple and straightforward. There are no significant differences in sentence complexity or length.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a similar tone of casual conversation and informal writing style. However, the specific content and expressions differ, suggesting a potential difference in authorship.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the linguistic features, the texts show some commonalities in punctuation and text/discourse features, but significant differences in lexical and grammatical features. The overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

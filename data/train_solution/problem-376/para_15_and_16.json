@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as hyphens, brackets, colons, and parentheses. However, the frequency and placement of these punctuation marks may differ slightly.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show some similarities in terms of word choice and part of speech usage. However, there are differences in the specific vocabulary and sentence structures used.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts exhibit similarities in terms of complexity and coherence. However, there are differences in sentence length and arrangement that may suggest varying writing styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts differ significantly, with one focusing on military tactics and the other on historical comparisons. This divergence in content may indicate different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text, suggesting a certain level of attention to detail in the writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the five features, the likelihood of the two texts being written by the same author is moderate, with some similarities in punctuation and sentence structure but notable differences in narrative style and content.",
+        "score": 0.62
+    }
+}

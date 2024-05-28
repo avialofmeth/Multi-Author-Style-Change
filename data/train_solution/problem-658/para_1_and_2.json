@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks such as commas and periods, while Paragraph 2 lacks any punctuation marks. This is a significant difference in punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit different lexical and grammatical features, with Paragraph 1 focusing on rules and guidelines, and Paragraph 2 discussing a specific individual. This indicates a difference in word choice and grammatical structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two paragraphs vary greatly, with Paragraph 1 containing longer sentences with multiple clauses related to rules, while Paragraph 2 consists of shorter, direct sentences about a person. This difference in sentence complexity and length is notable.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal, instructional tone focused on guidelines and rules, while Paragraph 2 adopts a more informal tone to express an opinion about an individual. The narrative styles and tone differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either paragraph, indicating a similarity in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the overall confidence score that the two texts were written by the same author is low, as there are significant differences in punctuation style, lexical and grammatical features, sentence structures, and narrative styles. The only commonality is the absence of spelling or typographical errors.",
+        "score": 0.44
+    }
+}

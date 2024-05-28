@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit informal punctuation styles with the use of commas, question marks, and periods. However, the first text includes more complex punctuation like colons, hyphens, and parentheses, while the second text has a simpler structure with less varied punctuation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts show a casual and conversational tone with colloquial language and informal expressions. However, the first text demonstrates more lexical variation and word choice diversity compared to the second text, which is more straightforward and less varied.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, the first text displays longer and more complex sentences with multiple clauses and ideas. On the other hand, the second text consists of simpler and shorter sentences with a more direct arrangement. There is a difference in coherence and cohesion between the texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a critical and somewhat negative tone, discussing geopolitical concerns and financial issues. However, the first text delves into hypothetical scenarios and geopolitical musings, while the second text focuses on a specific prediction about foreign debt in Ukraine. There is a slight difference in narrative styles and speech events.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five linguistic features, there are notable similarities in punctuation, coherence, and lack of spelling errors between the texts. However, differences in lexical diversity, sentence structure, and narrative focus suggest some variation in writing style. The overall confidence score is moderate, leaning towards the texts potentially being written by different authors.",
+        "score": 0.36
+    }
+}

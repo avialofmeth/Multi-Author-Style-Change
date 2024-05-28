@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses but in different contexts and for different purposes. Paragraph 1 uses parentheses for a side comment while Paragraph 2 uses parentheses to provide additional information.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts differ significantly. Paragraph 1 has a more casual tone with phrases like 'get off their asses', whereas Paragraph 2 is formal and structured with terms like 'approved domains list'. The word choice and grammatical categories are distinct.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features vary between the texts. Paragraph 1 has a shorter, more conversational sentence structure, while Paragraph 2 is more formal and organized. The coherence and cohesion differ based on the intended purpose of each text.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features show clear differences. Paragraph 1 has a more casual and sarcastic tone, while Paragraph 2 is formal and informative. The narrative styles and speech events are distinct between the two texts.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is low.",
+    "score": 0.34
+  }
+}

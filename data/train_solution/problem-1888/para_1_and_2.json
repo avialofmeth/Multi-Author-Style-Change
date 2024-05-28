@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit inconsistent punctuation usage with errors like missing spaces after commas and using a comma before 'and' in the first text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show some similarities in lexical choices and grammatical structures, such as using informal language and contractions.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts vary in complexity and length, with some shorter and direct sentences present in both.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the texts, with one focusing on a specific scenario involving a taxi driver, while the other introduces a different scenario regarding the driver's reasons for not driving certain passengers.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either text that could suggest a distinctive pattern.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, there is moderate confidence that the two texts were not written by the same author.",
+    "score": 0.66
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, parentheses, and commas for listing and adding extra information. However, text 1 uses more parentheses and colons compared to text 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a more casual and informal word choice and structure, using slang and informal expressions. Text 2 is more formal and direct in its word choice and structure.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have varied sentence lengths and structures, with text 1 having more complex and longer sentences compared to text 2, which is more straightforward.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more casual and opinionated tone with specific references to political events and individuals. Text 2 is more factual and explanatory in tone, focusing on achievements.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, word choice, sentence structure, and tone, there are notable distinctions between the two texts. While they share some similarities in terms of punctuation and absence of spelling errors, the overall writing style and tone differ significantly, suggesting they may not have the same author.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and parentheses, while Paragraph 2 does not contain any of these punctuations. The use of punctuation differs significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language and contractions like 'whatnot', while Paragraph 2 uses more formal language and references to specific sources. The lexical and grammatical features vary greatly between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences with multiple clauses, while Paragraph 2 contains shorter, more straightforward sentences. The sentence structure and quantitative features are notably different.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a critical and negative tone towards tourism in Amsterdam, while Paragraph 2 takes a more neutral or positive stance based on referenced research. The text and discourse features demonstrate contrasting viewpoints.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

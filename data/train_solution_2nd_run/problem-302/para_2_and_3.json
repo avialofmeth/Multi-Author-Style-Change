@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use standard punctuation marks such as commas and periods. However, the first paragraph includes a dash (hyphen) to connect phrases, while the second paragraph includes a colon and no hyphens.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs display a level of formality in word choice and grammar. The first paragraph uses informal language ('Seems like'), while the second paragraph is more technical ('tooth to tail ratio').",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences, with a conversational tone. In contrast, Paragraph 2 contains longer, more technical sentences related to military terminology.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two paragraphs differ significantly. The first paragraph expresses personal opinions and emotions, while the second paragraph presents factual information in a neutral tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Taking into account the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a standard punctuation style with periods, commas, and hyphens. Paragraph 2 contains exclamation marks and quotation marks. There is a difference in punctuation style between the two texts.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal tone with specific vocabulary related to war and politics. Paragraph 2 uses informal language with colloquial expressions. There is a notable difference in lexical and grammatical features.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer, more complex sentences with detailed information. Paragraph 2 has shorter, more straightforward sentences with a dismissive tone. There is a contrast in sentence structure and quantitative features.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses political events in a factual manner. Paragraph 2 is dismissive and sarcastic. The narrative styles and tone differ significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors. There are no differences in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative style, along with the consistent absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

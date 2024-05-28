@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more commas and periods for sentence structure, while Paragraph 2 includes fewer commas and a more direct, straightforward style.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone with specific terminology related to energy generation, but Paragraph 2 introduces more complex vocabulary and critical language about nuclear power.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 presents shorter, more concise sentences compared to Paragraph 2, which has longer and more complex sentence structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both paragraphs maintain a serious and informative tone, but Paragraph 2 expresses a more critical viewpoint on nuclear power, introducing a slight difference in mood and tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate correct spelling and typographical accuracy, showing consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and tone, along with the consistency in spelling and typographical errors, the texts show moderate similarities in writing style, suggesting a moderate likelihood of being written by the same author.",
+        "score": 0.58
+    }
+}

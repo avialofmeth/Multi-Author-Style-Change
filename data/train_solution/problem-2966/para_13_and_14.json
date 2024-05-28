@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use emojis and hyphens in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Similar use of technical terms and numbers in discussing election statistics. Some lexical variation but overall consistent style.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are concise and to the point, focusing on specific details. Sentence structure is direct with quantifiable information.",
+    "score": 0.9
+  },
+  "feature4": {
+    "explanation": "Both texts discuss election scenarios with a somewhat informal tone. Common expressions used in election-related discussions.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors observed in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, technical content, sentence structure, and lack of errors, there is a moderate level of likelihood that the two texts were written by the same author.",
+    "score": 0.8
+  }
+}

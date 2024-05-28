@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas, periods, and apostrophes. Paragraph 2 lacks proper punctuation and uses informal language like 'oh why' and 'shit'.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style, with specific references to political structures and governmental knowledge. On the other hand, Paragraph 2 contains informal language, slang, and lacks specific references to topics like politics or journalism.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2, which consists of shorter and more fragmented sentences. The coherence and cohesion in Paragraph 1 are higher due to the structured presentation of information.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a professional and informative tone typical of journalistic writing, while Paragraph 2 exhibits a more casual and conversational style with expressions like 'oh why' and 'looks tough'. The narrative styles and speech events are distinct between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of care in writing. Both texts maintain proper spelling and typographical conventions.",
+        "score": 0.4
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical errors, the overall likelihood of the two texts being written by the same author is low.",
+        "score": 0.24
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of colons, commas, and periods. However, the presence of hyphens, brackets, and parentheses in the first text is not observed in the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts display a variation in vocabulary and word choice. The second text showcases more informal language and contractions compared to the formal tone of the first text.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "There is a notable difference in sentence structure and quantitative features between the two texts. The first text is more concise and direct, while the second text contains longer and more complex sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Regarding text and discourse features, the first text presents an informative and directive tone, focusing on subreddit guidelines. In contrast, the second text reflects a more conversational and opinionated style discussing election tactics.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall likelihood that the two texts were written by the same author is moderate, indicating some similarities but also notable differences in writing styles.",
+        "score": 0.64
+    }
+}

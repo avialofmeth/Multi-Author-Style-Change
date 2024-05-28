@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas, periods, and a colon to separate ideas. Paragraph 2 lacks proper punctuation and uses a casual tone with no clear structure.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and courteous word choice with clear grammar. Paragraph 2 has a more informal and confrontational tone with slang and less formal language.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has clear and well-structured sentences with a focus on etiquette and rule enforcement. Paragraph 2 has shorter, fragmented sentences with a focus on criticizing an individual.",
+    "score": 0.1
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a professional and neutral tone in discussing behavioral guidelines. Paragraph 2 adopts a sarcastic and accusatory tone in criticizing a specific individual.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is free of spelling and typographical errors. Paragraph 2 contains no spelling errors but includes a few typographical errors like 'gonna' instead of 'going to'.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood that the two texts were written by the same author is low due to significant differences in tone, formality, and structure.",
+    "score": 0.2
+  }
+}

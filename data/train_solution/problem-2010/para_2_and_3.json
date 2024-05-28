@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with colons and commas for clarity and structure. Paragraph 2 lacks proper punctuation and contains run-on sentences.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal tone with specific vocabulary related to media outlets. Paragraph 2 includes informal language, slang, and derogatory terms.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and focused on providing information. Paragraph 2 is lengthy and includes repetitive phrases and exaggerations.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral tone and informative style. Paragraph 2 is opinionated, aggressive, and uses hyperbole.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts do not contain spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

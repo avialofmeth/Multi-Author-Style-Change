@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas for punctuation. Paragraph 1 uses more commas compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical and grammatical features. Paragraph 1 uses more formal and technical language related to proteins and receptors, while paragraph 2 includes informal terms like 'OG Covfefe' and 'droplets'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have varied sentence structures, with paragraph 1 having longer sentences compared to paragraph 2. Both maintain coherence within their respective contexts.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more formal and explanatory tone, while paragraph 2 has a more casual and descriptive tone. The narrative styles differ significantly between the two.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors identified in either of the texts.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, narrative styles, and tone, along with some similarities in punctuation and sentence structure, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

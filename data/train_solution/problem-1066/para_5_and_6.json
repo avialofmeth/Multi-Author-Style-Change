@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and periods effectively. However, paragraph 1 uses multiple hyphens and lacks quotation marks, while paragraph 2 does not use hyphens and includes quotation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a direct and somewhat informal tone with a focus on conveying information. Paragraph 1 uses more colloquial language and includes slang ('bullshit'), whereas paragraph 2 is more formal due to its automated response nature.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, complex sentences with varying structures, while paragraph 2 consists of shorter, straightforward sentences typical of automated responses. The cohesion and coherence are different due to the nature of the content.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 exhibits a negative, critical tone with strong emotions, while paragraph 2 maintains a neutral, informative tone consistent with automated messages. The narrative styles and expressions differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical features, sentence structure, text discourse, and spelling errors, the likelihood that the two texts were written by the same author is moderate, but not highly confident due to differences in tone and narrative styles.",
+        "score": 0.5
+    }
+}

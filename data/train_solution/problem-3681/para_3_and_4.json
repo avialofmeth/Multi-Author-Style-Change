@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon to introduce a list, while Paragraph 2 uses a comma. Both paragraphs use commas for listing items.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use informal language and contractions. Paragraph 1 uses simpler vocabulary compared to Paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. Paragraph 1 has a slightly higher sentence complexity with longer sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs express opinions and thoughts, but the tone differs slightly. Paragraph 1 seems more factual while Paragraph 2 is more speculative.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens, colons, and quotation marks, though in different contexts. Paragraph 1 uses hyphens for compound words, brackets for additional information, and quotation marks for direct quotes. Paragraph 2 mainly uses colons for introducing a list of prohibited behaviors.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more elaborate and varied lexical and grammatical style with phrases like 'influence the curriculum of high-end business schools' and 'grind the mechanisms of government to a halt'. In contrast, Paragraph 2 is more straightforward and direct in its word choice and sentence structures, focusing on clear instructions without intricate language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with detailed explanations and connections between ideas. In comparison, Paragraph 2 consists of shorter and simpler sentences, emphasizing clarity and direct communication.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style with a critical tone towards political influence and manipulation. On the other hand, Paragraph 2 follows a more formal and instructional discourse style, maintaining a neutral and rule-oriented tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style and absence of spelling errors, but noting the distinctions in lexical complexity, sentence structure, and discourse style, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

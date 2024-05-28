@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and ellipsis. However, the first text includes more complex punctuation like brackets and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text contains more informal language and specific references, while the second text is more general and formal in tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts show variation in sentence length and complexity. The first text has longer sentences and more complex arrangements, while the second text is more straightforward and concise.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts differ in narrative styles and discourse features. The first text is more conversational and expressive, using idiomatic expressions, while the second text is instructional and rule-oriented.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no visible spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, as well as the similarities in punctuation style and lack of spelling errors, the overall confidence score is moderate.",
+        "score": 0.62
+    }
+}

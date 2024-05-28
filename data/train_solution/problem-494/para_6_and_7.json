@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and ellipses, while Paragraph 2 uses slashes and hyphens. Both paragraphs contain punctuation marks, but the specific usage differs.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display a formal tone with complex sentences and specialized vocabulary. However, the focus on different topics may lead to some variation in lexical and grammatical features.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer sentences with a focus on technical information, while Paragraph 2 contains shorter, more direct sentences related to geopolitical scenarios. Sentence structure and quantitative features differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a serious tone, but the narrative styles and speech events vary due to the different contexts presented in each text.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and discourse features, along with some lexical variation, the likelihood that the two texts were written by the same author is relatively low.",
+        "score": 0.56
+    }
+}

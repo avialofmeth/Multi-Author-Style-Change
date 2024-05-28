@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods. However, the second paragraph uses more informal punctuation like ellipses and expletives.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some differences. The first paragraph uses technical terms like 'C2' and 'copium' while the second paragraph contains more informal and explicit language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structure and quantitative features. The first paragraph is more structured and formal, while the second paragraph is characterized by shorter, fragmented sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two paragraphs. The first paragraph is more analytical and critical, while the second paragraph is emotionally charged and opinionated.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the presence of some shared features like punctuation and lack of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.5
+  }
+}

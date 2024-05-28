@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display a lack of proper punctuation, with missing commas, periods, and proper spacing. However, Text 1 shows more consistent issues with punctuation compared to Text 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit non-standard lexical choices and grammatical errors. Text 1 has more informal language and spelling errors, while Text 2 includes more technical terms related to military actions.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Text 1 has shorter and less coherent sentences with frequent errors in structure and cohesion. Text 2, on the other hand, contains longer, more complex sentences that are better connected.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 has a more casual and colloquial tone with fragments and abrupt statements. Text 2 conveys a more formal and descriptive tone with explicit details about a specific event.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts contain spelling mistakes and typographical errors, but Text 1 shows more consistent errors in spelling and formatting compared to Text 2.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are notable differences in punctuation, coherence, and tone between the two texts, suggesting they may not be written by the same author.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as colons, commas, and quotation marks. However, the first text uses fewer punctuation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The second text includes specific lexical choices and terms like 'tokkies', 'neo-Nazis', 'Telegram groups', 'Mark Rutte', and 'Sigrid Kaag', which are not present in the first text. The grammatical structures in both texts are relatively similar.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit varied sentence structures and lengths. The first text includes shorter sentences while the second text has longer and more complex sentences. Overall, there is some difference in sentence structure but not significantly distinct.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The tone and mood in both texts differ significantly. The first text seems more general and informative while the second text adopts a more critical and judgmental tone. This difference in tone and narrative style may indicate different authors.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, showing a similar level of attention to detail in terms of language accuracy.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in tone and specific lexical choices, the overall confidence that the two texts were written by the same author is moderate. While there are some similarities in punctuation, sentence structure, and absence of spelling errors, the divergence in tone and vocabulary lowers the overall confidence level.",
+    "score": 0.58
+  }
+}

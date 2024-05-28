@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like colons, commas, and periods with standard usage. Paragraph 2 also includes punctuation marks like colons, commas, and periods, but with a slightly different style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show differences in lexical and grammatical features, with distinct word choices and sentence structures. They use different vocabulary and sentence constructions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs vary in complexity and length. While both exhibit coherence and cohesion, the overall quantitative features differ in terms of sentence length and arrangement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The text and discourse features in the paragraphs differ significantly in terms of narrative style, tone, and mood. Paragraph 1 focuses on general guidelines with a neutral tone, while Paragraph 2 adopts a more opinionated and critical tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and the absence of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.52
+  }
+}

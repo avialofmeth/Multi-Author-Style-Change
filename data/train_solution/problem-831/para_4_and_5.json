@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the consistent use of hyphens and commas for punctuation, while Paragraph 2 lacks this consistency and uses more informal punctuation like ellipses.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a formal and structured use of language with specific terminology related to political discourse, whereas Paragraph 2 is more informal and personal in word choice with references to pop culture.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is characterized by longer and more complex sentences related to political argumentation, while Paragraph 2 has shorter and more conversational sentences discussing personal experiences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and formal tone related to political discourse, while Paragraph 2 has a casual and humorous tone discussing personal regrets.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, and tone, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

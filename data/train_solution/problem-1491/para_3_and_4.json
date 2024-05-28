@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and spaces between words more frequently than Paragraph 2, which tends to use commas and parentheses instead.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with no distinct differences in grammatical categories or part of speech usage.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are somewhat different, with Paragraph 1 having longer and more complex sentences compared to the more concise sentences in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two paragraphs differ significantly, with Paragraph 1 focusing on a specific issue while Paragraph 2 discusses a different topic with a different tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

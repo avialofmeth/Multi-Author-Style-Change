@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation like colons and commas in a structured manner. Paragraph 2 uses an emoticon, which is informal and not present in the first text.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit some lexical variation with different word choices. Paragraph 1 uses more technical terms related to military activities, while Paragraph 2 is more general with words like 'good' and 'evil'.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both paragraphs vary, with Paragraph 1 having longer and more complex sentences due to technical content. Paragraph 2 has shorter, simpler sentences with a direct appeal. Both paragraphs exhibit coherence and cohesion within their respective contexts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a factual and informative tone discussing military movements, while Paragraph 2 has a motivational and supportive tone urging action. The narrative styles differ significantly in terms of content.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choices, and narrative tone, it is unlikely that the two texts were written by the same author despite sharing coherence and lack of errors.",
+        "score": 0.6
+    }
+}

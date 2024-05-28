@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit similar punctuation styles with the use of commas, periods, and apostrophes. However, the first paragraph lacks some of the more advanced punctuation like colons and parentheses seen in the second paragraph.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two paragraphs. The first paragraph contains more informal language and lacks the specific vocabulary related to political events and countries seen in the second paragraph.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both paragraphs are relatively short and straightforward. The second paragraph has slightly more complex sentences due to the inclusion of additional information about Cambodia's actions.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two paragraphs. The first paragraph is more observational and lacks the depth of analysis seen in the second paragraph. Additionally, the tone and mood in the two texts vary, with the first being more casual and the second more informative.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, narrative styles, and tone between the two paragraphs, the likelihood that they were written by the same author is low. However, the presence of shared punctuation styles and absence of spelling errors provide some common ground.",
+    "score": 0.6
+  }
+}

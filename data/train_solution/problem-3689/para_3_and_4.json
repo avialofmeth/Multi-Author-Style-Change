@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as question marks, commas, and periods. However, the first text shows a higher frequency of question marks and exclamation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts display a casual and conversational tone with relatively simple vocabulary and sentence structures. However, the first text includes more direct questions and a sense of urgency compared to the second text.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text consists of longer sentences with multiple clauses, indicating a more detailed and narrative style. In contrast, the second text is more concise and focused on conveying a specific point.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts show a conversational tone and informal language use. However, the first text expresses curiosity and prompts action ('do some sleuthing'), while the second text discusses a potential consequence without personal involvement.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, and text and discourse features, along with the minor differences in sentence structure and tone, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.68
+    }
+}

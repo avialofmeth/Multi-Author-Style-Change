@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses colons and commas for listing items and separating clauses. Paragraph 2 uses hyphens and commas for listing items and providing additional information.",
+		"score": 0.5
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 consists of straightforward and neutral language with no strong emotions conveyed. Paragraph 2 includes more descriptive language and negative opinions.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 is concise and to the point with short sentences. Paragraph 2 contains longer and more complex sentences with multiple clauses.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 has a formal and polite tone suitable for automated responses. Paragraph 2 has a more casual and critical tone expressing personal views.",
+		"score": 0.2
+	},
+	"feature5": {
+	"explanation": "Both texts are free of spelling and typographical errors.",
+	"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+		"score": 0.48
+	}
+}

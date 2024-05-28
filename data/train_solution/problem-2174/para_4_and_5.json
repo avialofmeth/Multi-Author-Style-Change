@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks, while Paragraph 2 lacks these punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes informal language and contractions, which are absent in Paragraph 2. Both paragraphs lack complexity in lexical variation.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure. They lack significant differences in sentence complexity or arrangement.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a casual tone and includes informal language, while Paragraph 2 is more formal and robotic in tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are noticeable differences in punctuation style, lexical and grammatical features, and tone between the two paragraphs, while similarities in sentence structure and absence of spelling errors. The overall confidence score is moderate.",
+    "score": 0.5
+  }
+}

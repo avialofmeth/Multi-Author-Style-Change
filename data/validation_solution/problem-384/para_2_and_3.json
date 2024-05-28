@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and slashes for punctuation, while Paragraph 2 uses standard commas and periods. This difference in punctuation style indicates a potential divergence in writing style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more formal and technical vocabulary related to economics and regulations, while Paragraph 2 focuses on familial and financial pressures with simpler language. The lexical and grammatical features suggest a notable difference in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured around the comparison of Qatar's income and labor laws, with longer and more complex sentences. In contrast, Paragraph 2 presents a straightforward argument about familial pressure with simpler sentence structures. The sentence structure and quantitative features highlight a significant contrast in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more analytical and critical tone, discussing the discrepancies in Qatar's situation. In contrast, Paragraph 2 conveys a sense of urgency and emotional pressure in South Asia. The text and discourse features point to a difference in narrative styles and tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate proper spelling and typographical accuracy without errors. There are no apparent discrepancies in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there is a notable divergence in writing style between the two texts, suggesting they may not have the same author. However, the consistent accuracy in spelling and typographical errors provides some common ground. The overall confidence score leans towards low confidence in the texts being written by the same author.",
+        "score": 0.44
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal punctuation like emojis and winky face. It also includes a mix of different punctuation marks such as question mark, comma, and semicolon. Paragraph 2 contains more formal punctuation marks like colons and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has informal language with misspellings ('religon', 'spagetthi') and a more casual tone. Paragraph 2 is more formal and uses proper grammar and vocabulary related to political events.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter sentences with a conversational style. Paragraph 2 has longer sentences with more complex structures related to reporting events.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a light-hearted and playful tone with the mention of 'spaghetti monster'. Paragraph 2 is more serious and focuses on political unrest in Iran.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are minor spelling errors in Paragraph 1 ('religon', 'spagetthi') while Paragraph 2 is well-spelled and structured.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, text and discourse features, and spelling errors, it is unlikely that the two texts were written by the same author.",
+        "score": 0.36
+    }
+}

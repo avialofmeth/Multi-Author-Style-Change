@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit consistent use of punctuation marks such as commas, quotation marks, and hyphens. However, there are differences in the frequency of certain punctuation marks like colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical choices and grammatical structures, such as the use of technical terms related to military operations. However, there are noticeable differences in the narrative styles and word choices.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs demonstrate a mix of sentence structures with varying lengths and complexity. Coherence and cohesion are present, but there are differences in the distribution of sentence types.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While both texts discuss military events, the tones and moods differ significantly. One text focuses on specific incidents and casualties, while the other delves into broader impacts and consequences.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas in a similar manner, but differences in other punctuation styles exist.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical variation and word choice, such as the use of terms like 'millennials' and 'war'. However, differences in word choice and grammatical categories are present.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Texts differ in sentence structure, length, and coherence. Paragraph 1 is more fragmented and less cohesive compared to Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts share a critical tone and discuss societal issues, but the focus and narrative style vary significantly.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There is no evidence of spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of each feature, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

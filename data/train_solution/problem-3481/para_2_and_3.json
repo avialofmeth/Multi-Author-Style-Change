@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, colons, and periods correctly. However, the first text has more complex punctuation with hyphens and parentheses, while the second text lacks such complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text contains more formal and structured language, while the second text has a more casual and conversational tone. There are differences in lexical choices and grammatical structures between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is more cohesive and structured in terms of sentence complexity and length, while the second text appears more fragmented in its sentence structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text has a serious and analytical tone, focusing on geopolitical issues, while the second text seems more relaxed and observational in nature. There is a clear difference in narrative styles and tone between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the texts show noticeable disparities, suggesting they are unlikely to be written by the same author.",
+        "score": 0.6
+    }
+}

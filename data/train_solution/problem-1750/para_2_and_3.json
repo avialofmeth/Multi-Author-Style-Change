@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens, colons, and quotation marks, indicating a similarity in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The texts share similarities in lexical choice and grammatical structure, such as the use of specific terms like 'Iron Dome' and 'Palestinians', and the consistent use of certain grammatical structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structure and length, with the first paragraph being more complex and longer than the second, which affects the coherence and cohesion between the texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a serious and informative tone, discussing a specific topic with a sense of urgency, which suggests a similarity in narrative style.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text, indicating a similarity in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, narrative style, and absence of spelling errors, while acknowledging some differences in sentence structure and length, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

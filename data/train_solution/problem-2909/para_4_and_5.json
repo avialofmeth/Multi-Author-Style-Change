@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon to introduce an explanation, while Paragraph 2 uses hyphens and commas for listing items.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit variation in word choice and part of speech usage, with different lexical and grammatical features.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to the shorter and less complex sentences in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 discusses strategic planning, while Paragraph 2 talks about production and consumption, differing in narrative style and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.54
+  }
+}

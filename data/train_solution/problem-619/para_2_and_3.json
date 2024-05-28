@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as colons, commas, and periods, but the first text has a more formal and structured punctuation style compared to the second text which includes informal punctuation like the use of periods within words ('there's.really') and lack of proper punctuation in certain places.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. The first text uses more formal language and specific terminology related to media outlets and subreddit guidelines. In contrast, the second text includes informal language, slang terms, and opinionated statements about political figures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text is more structured and coherent, with clear organization and formal language. In comparison, the second text has shorter, more fragmented sentences, and a less cohesive structure due to the informal tone and abrupt transitions between ideas.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts differ significantly in text and discourse features. The first text is formal and informative, focusing on guidelines and criteria. The second text adopts a more informal and opinionated tone, using expressive language and making direct appeals to the audience.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of accuracy. Both texts demonstrate a basic level of proficiency in spelling and grammar.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features between the two texts. However, the absence of spelling errors contributes to a higher overall confidence score in the texts having been written by the same author.",
+        "score": 0.54
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes hyphens, commas, and periods, while Paragraph 2 does not contain any punctuation marks. The presence of punctuation in Paragraph 1 is a notable distinction from Paragraph 2.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a mix of word choices and grammatical structures, whereas Paragraph 2 is more straightforward and lacks variation in lexical and grammatical features. This difference in complexity suggests different authors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more complex sentences compared to the short and simple sentences in Paragraph 2. The disparity in sentence structure and length indicates a divergence in writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a serious and analytical tone discussing political maneuvering, while Paragraph 2 is a generic automated response with no emotional or narrative elements. The tone and content disparity implies different authors.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no obvious spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of correctness.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood of the two texts being written by the same author is low. However, the absence of spelling errors suggests some consistency in writing mechanics. The average confidence score for all features is moderate, indicating a moderate likelihood that the texts were written by different authors.",
+    "score": 0.4
+  }
+}

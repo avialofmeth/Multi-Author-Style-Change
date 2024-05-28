@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as commas and apostrophes, although the first text includes more informal punctuation like contractions ('y'all).",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal language and word choice, with some regional dialect features like 'y'all'. The second text shows a more assertive tone compared to the first text.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively similar sentence lengths and structures. The first text includes a request ('Bring water down here while you’re at it!'), while the second text expresses a personal hope.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "The first text displays a more casual and conversational tone, whereas the second text conveys a stronger opinion. Both texts express personal viewpoints.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation, informal language, sentence structures, and lack of spelling errors, along with some differences in tone and word choices, there is moderate confidence that the texts were written by the same author.",
+    "score": 0.76
+  }
+}

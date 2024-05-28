@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for introducing information, while Paragraph 2 uses a comma before an introductory phrase. Both paragraphs use appropriate punctuation, but with slight differences in style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains words like 'volunteer,' 'martial arts,' and 'poor kids,' while Paragraph 2 includes terms like 'executions,' 'reported,' and 'normalized.' There is a variation in lexical choices between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of relatively simple sentence structures. Paragraph 1 has a shorter sentence, while Paragraph 2 is slightly longer. There is coherence within each paragraph, but with some differences in sentence length.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more narrative tone, describing a specific event, while Paragraph 2 adopts a more informative tone, presenting a general statement. There are differences in narrative styles and expressions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the slight differences in punctuation style, lexical choices, sentence structure, narrative tone, and some commonalities in spelling and typographical accuracy, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.58
+  }
+}

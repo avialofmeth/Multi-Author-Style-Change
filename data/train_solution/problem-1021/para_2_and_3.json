@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation, although Text 1 has more complex punctuation with brackets and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts display a mix of formal and informal language, with Text 1 using specific terms related to finance and politics, while Text 2 focuses on general communication guidelines.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 contains shorter, more fragmented sentences compared to Text 2, which has longer and more coherent sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a more critical and questioning tone towards political figures, while Text 2 emphasizes courteous behavior and rule adherence.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, tone, and lexical choices, the texts exhibit some distinct variations that suggest different authorship.",
+        "score": 0.68
+    }
+}

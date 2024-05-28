@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, colons, and periods, while Paragraph 2 only includes commas and periods.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more complex and varied lexical and grammatical style with phrases like 'the overwhelming bulk of his career' and 'there's a vote against social progress with his name on it,' whereas Paragraph 2 is more straightforward and informational.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with multiple clauses, while Paragraph 2 has shorter, more direct sentences focused on providing information.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a critical and opinionated tone with phrases like 'pretending he doesn't have a senate record' and 'there's a vote against social progress with his name on it,' whereas Paragraph 2 has a more formal and neutral tone addressing subreddit guidelines.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and tone, the texts are less likely to be written by the same author. However, the absence of spelling errors suggests a higher overall similarity.",
+    "score": 0.46
+  }
+}

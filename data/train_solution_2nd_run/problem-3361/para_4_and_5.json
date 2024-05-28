@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens and commas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts display a similar level of lexical variation and word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structure and length in both texts are somewhat different.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two texts vary significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

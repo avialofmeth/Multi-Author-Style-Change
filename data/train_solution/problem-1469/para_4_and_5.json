@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and quotation marks. However, the first text includes more varied punctuation marks such as exclamation points and question marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The first text includes more informal language and slang, while the second text contains more complex vocabulary and structured sentences.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ significantly between the two texts. The first text consists of shorter, more direct sentences, while the second text contains longer, more elaborate sentences with varied structures.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a critical and accusatory tone. However, the first text is more focused on personal attacks, while the second text criticizes based on the upbringing of an individual.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences observed in punctuation, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

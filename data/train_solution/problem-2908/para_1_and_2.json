@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a casual style with the use of informal punctuation like hyphens and parentheses, albeit in different contexts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in lexical choices and grammatical structures, indicating a less formal writing style.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts differ significantly in complexity and length, suggesting a potential difference in writing styles.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone of the texts are distinct, with one being more technical and the other more casual, indicating potential different authors.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are spelling and typographical errors in the second text ('fuel oul' and 'sketch af'), which are absent in the first text, suggesting a difference in attention to detail.",
+        "score": 0.4
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different linguistic features, there is moderate confidence that the texts were written by different authors.",
+        "score": 0.48
+    }
+}

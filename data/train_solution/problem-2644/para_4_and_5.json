@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a hyphen to connect two related independent clauses, while Paragraph 2 uses a colon for emphasis and clarity.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and legalistic language related to tenure and authority, while Paragraph 2 uses more colloquial language related to a specific scenario involving pharmacists and customers.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is a complex sentence with a clear statement, while Paragraph 2 is a complex sentence with a conditional statement.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a formal tone but discuss different topics, which may indicate a difference in narrative styles and speech events.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.48
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas, periods, and quotation marks. However, the presence of colons in Paragraph 1 and hyphens in Paragraph 2 could be considered a slight distinction.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are lexical and grammatical differences between the two texts, such as the vocabulary used and sentence structures. While both texts show variation in word choice, the grammatical structures differ significantly.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The texts vary in sentence structure and coherence. Paragraph 1 consists of shorter and more fragmented sentences compared to the more complex and cohesive sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ between the two texts. Paragraph 1 has a conversational tone with expressions like 'AMA' and 'thanks for being so welcoming.' In contrast, Paragraph 2 adopts a more formal and descriptive tone discussing political events.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is relatively low due to significant differences in lexical and grammatical features, sentence structure, and narrative styles.",
+        "score": 0.5
+    }
+}

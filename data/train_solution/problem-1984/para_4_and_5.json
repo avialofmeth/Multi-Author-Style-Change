@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as colons, commas, and parentheses.",
+    "score": 0.75
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features as the first text is more formal with specific terminology, while the second text includes informal language and slang.",
+    "score": 0.25
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary significantly between the two texts - the first text is more structured and formal, whereas the second text contains shorter, more fragmented sentences.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The first text is more informative and instructional in tone, while the second text includes informal language and colloquial speech.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and tone between the two texts, the overall confidence score that they were written by the same author is moderate.",
+    "score": 0.48
+  }
+}

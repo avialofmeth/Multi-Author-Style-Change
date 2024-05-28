@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains a variety of punctuation marks such as exclamation points, commas, and hyphens. Paragraph 2 also uses punctuation marks like periods and commas, but lacks the same variety as in Paragraph 1.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in word choice and sentence structure. Paragraph 1 uses more formal language and complex sentences compared to the more casual and simpler language used in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with varied structures. In contrast, Paragraph 2 consists of shorter and simpler sentences with a more straightforward structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both paragraphs differ significantly. Paragraph 1 discusses military operations and civilian casualties, while Paragraph 2 focuses on personal safety and healthcare, showcasing distinct narrative styles and speech events.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively free of spelling and typographical errors, indicating a similar level of care in writing. However, no direct evidence suggests they are written by the same author based on this feature alone.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of strong evidence in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.4
+    }
+}

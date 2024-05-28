@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for listing and structuring information, while Paragraph 2 uses hyphens and commas for introducing additional information and clauses.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language with technical terms related to media outlets and subreddit guidelines. Paragraph 2 includes more informal language with specific political references.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a concise and direct sentence for providing information. Paragraph 2 has longer, complex sentences with embedded clauses and descriptive details.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and directive, lacking emotional tone. Paragraph 2 has a critical and opinionated tone towards political figures.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts show accurate spelling and proper typographical usage without errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The overall likelihood that the two texts were written by the same author is moderate, as there are some shared punctuation styles and absence of spelling errors, but noticeable differences in language formality, sentence structure, and tone.",
+        "score": 0.5
+    }
+}

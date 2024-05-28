@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods, but the second text has more informal punctuation like contractions and lack of proper capitalization.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The first text uses more formal language and grammatical structures, while the second text has a more casual tone with simpler vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text is a complete sentence with a formal structure, while the second text is fragmented and lacks coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Both texts express opinions, but the first text is more neutral and informative compared to the emotional and informal tone of the second text.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and coherence, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

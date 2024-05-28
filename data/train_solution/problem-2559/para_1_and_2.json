@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, parentheses, and quotation marks in a similar manner. However, text 1 includes more hyphens and colons compared to text 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 showcases a more formal and structured lexical and grammatical style with specific terminology related to legal matters. Text 2, on the other hand, contains more informal language and a different tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit variability in sentence structures and lengths, but text 1 is more coherent and focused on presenting information logically. Text 2 seems to be more conversational and less organized.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 adopts a serious and informative tone, while text 2 leans towards a more personal and reflective style. The narrative styles and speech events differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two texts, indicating a lower likelihood of being written by the same author.",
+    "score": 0.58
+  }
+}

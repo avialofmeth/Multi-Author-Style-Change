@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts exhibit a casual and informal punctuation style with the use of hyphens, commas, and periods. Both lack formal punctuation such as semicolons or em dashes.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"The lexical and word choice in both texts are different - one is more informal and aggressive while the other is formal and informative. Grammatical categories and part of speech usage also differ significantly.",
+      "score":0.2
+   },
+   "feature3":{
+      "explanation":"The sentence structures in the two texts are quite distinct. One text has short, fragmented sentences with informal language, while the other is more structured and coherent.",
+      "score":0.3
+   },
+   "feature4":{
+      "explanation":"The narrative styles and tone are vastly different between the two texts, with one being aggressive and opinionated, while the other is neutral and informative.",
+      "score":0.2
+   },
+   "feature5":{
+      "explanation":"There are no obvious spelling or typographical errors in either text.",
+      "score":1.0
+   },
+   "overall":{
+      "explanation":"Considering the analysis of the five features, there are significant differences in lexical and grammatical features, sentence structures, and narrative styles between the two texts, indicating low likelihood of being written by the same author.",
+      "score":0.5
+   }
+}

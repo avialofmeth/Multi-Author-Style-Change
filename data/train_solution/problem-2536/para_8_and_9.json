@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain a mix of punctuation marks such as commas, periods, and quotation marks. However, the first text uses hyphens, colons, and parentheses while the second text does not use these punctuation marks.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts exhibit variation in word choice and use different grammatical categories. The second text includes more complex vocabulary related to political issues, while the first text is more straightforward in language use.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structures in both texts vary; the second text contains longer and more complex sentences compared to the first text. Additionally, the first text is more focused and coherent in its organization, while the second text jumps between various ideas.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones differ significantly between the two texts. The first text is more informative and neutral, discussing the definition of a corporation, while the second text is emotional and accusatory, discussing political issues and violence.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood of the two texts being written by the same author is moderate. The overall confidence score is 0.52.",
+    "score": 0.52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens to connect words and indicate ranges. However, only paragraph 1 includes hyphens for numerical expressions (e.g., 51 now).",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone with grammatically correct sentences. Paragraph 1 shows a mix of lexical variation and specific terminology related to legislation, while paragraph 2 is more general in content.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to the straightforward and concise sentence in paragraph 2. Both texts demonstrate coherence and cohesion in their structures.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more informative and serious tone with a focus on political processes, while paragraph 2 is brief and directly informative about being automated. Both exhibit a formal style but in different contexts.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in the linguistic features assessed, there is a moderate level of confidence that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

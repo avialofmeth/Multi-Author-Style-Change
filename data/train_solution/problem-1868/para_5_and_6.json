@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as periods and question marks. However, paragraph 2 includes a question mark at the end, while paragraph 1 does not. Both texts contain commas for listing items.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language typical of automated responses, while paragraph 2 uses informal language with slang ('wasting their time', 'producing more children'). The lexical variation and word choice differ significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single sentence with a formal structure, typical of automated responses. Paragraph 2 is a longer, more complex sentence with informal structure and a sarcastic tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a neutral and informative tone, characteristic of automated responses. In contrast, paragraph 2 has a sarcastic and judgmental tone, questioning the actions of others.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and tone, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

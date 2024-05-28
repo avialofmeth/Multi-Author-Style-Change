@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as commas and periods consistently.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Texts exhibit differences in lexical choice and tone, with one being more formal (Paragraph 1) and the other more informal and emotive (Paragraph 2).",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly in complexity and tone between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are distinct, with one text being informational (Paragraph 1) and the other expressing strong opinions (Paragraph 2).",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "The texts show differences in lexical choice, sentence structure, and narrative style, indicating a lower likelihood of being written by the same author.",
+    "score": 0.56
+  }
+}

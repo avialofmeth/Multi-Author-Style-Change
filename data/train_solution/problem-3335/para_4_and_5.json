@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as commas and periods. However, Paragraph 1 includes colons and parentheses, which are absent in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts exhibit differences. Paragraph 1 uses specific vocabulary related to societal issues, while Paragraph 2 is more general due to its nature as a bot response.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features vary significantly between the two texts. Paragraph 1 has longer and more complex sentences, while Paragraph 2 is concise and straightforward.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features are distinct in the two texts. Paragraph 1 has a narrative style with a critical tone, focusing on societal issues. In contrast, Paragraph 2 is a standard bot response devoid of emotional or opinionated content.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts are likely written by different authors. The similarity in spelling and typographical errors is not sufficient to outweigh the other discrepancies.",
+    "score": 0.46
+  }
+}

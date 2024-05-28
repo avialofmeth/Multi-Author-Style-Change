@@ -1,0 +1,26 @@
+{
+feature1: {
+explanation: "Paragraph 1 uses colons and commas for list items, while Paragraph 2 includes hyphens and parentheses for additional information.",
+score: 0.4
+},
+feature2: {
+explanation: "Paragraph 1 contains more formal language related to discussing guidelines, while Paragraph 2 has a more informal and critical tone with specific references like 'orange turd.'",
+score: 0.3
+},
+feature3: {
+explanation: "Paragraph 1 is structured more for information delivery with clear sentences, while Paragraph 2 includes longer, more complex sentences with emotional expressions.",
+score: 0.5
+},
+feature4: {
+explanation: "Paragraph 1 is informative and directive in style, while Paragraph 2 is opinionated and critical.",
+score: 0.4
+},
+feature5: {
+explanation: "Both texts are free of spelling and typographical errors.",
+score: 1
+},
+overall: {
+explanation: "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts display notable distinctions in writing styles. However, the absence of spelling and typographical errors indicates a common level of attention to detail.",
+score: 0.52
+}
+}

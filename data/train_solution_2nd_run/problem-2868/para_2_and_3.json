@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks like commas and periods. However, Paragraph 1 includes more diverse punctuation marks such as brackets, colons, and quotation marks, while Paragraph 2 utilizes hyphens and a greater focus on quotations.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal and structured lexical and grammatical style. However, Paragraph 1 includes more technical language related to media outlets, while Paragraph 2 focuses on legal and humanitarian terminology.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more direct sentences, whereas Paragraph 2 contains longer, more complex sentences. The quantitative features differ significantly in terms of sentence length and complexity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts are distinct. Paragraph 1 is more instructional and informative, while Paragraph 2 adopts a more explanatory and legal tone. The text and discourse features are notably different in style and purpose.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no observable spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall confidence score is moderate. While some aspects suggest a potential common author, the distinctive narrative styles and sentence structures lower the overall likelihood.",
+    "score": 0.58
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks in a conventional manner for punctuation. Paragraph 2 lacks proper punctuation, with a lack of commas and inconsistent use of hyphens and quotation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and professional lexical and grammatical style with specific terminology related to energy provision. Paragraph 2 contains informal language with slang and derogatory terms.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of clear and coherent sentences with a focus on providing instructions. Paragraph 2 has shorter, fragmented sentences that lack cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a serious and informative tone related to energy outage preparations. Paragraph 2 adopts a highly critical and accusatory tone towards political figures.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the different punctuation style, lexical and grammatical features, sentence structure, and tone of the two texts, it is unlikely that they were written by the same author.",
+        "score": 0.42
+    }
+}

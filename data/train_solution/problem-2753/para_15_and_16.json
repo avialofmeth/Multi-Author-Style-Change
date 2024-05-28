@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles such as parentheses, commas, and periods, although the use of colons and quotation marks differs.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are notable differences in lexical and grammatical features between the texts, including word choice, sentence structures, and grammatical categories.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The texts exhibit differences in sentence structure, coherence, and word distributions. Paragraph 1 is more concise and straightforward compared to the more elaborate style of Paragraph 2.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "While both texts discuss energy-related topics, the tone, narrative styles, and overall discourse features differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and discourse styles, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.46
+  }
+}

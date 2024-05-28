@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas for listing items and separating clauses, as well as periods to end sentences. However, Paragraph 1 uses more varied punctuation like slashes, colons, and parentheses, while Paragraph 2 does not have such variety.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs employ formal language and avoid slang or informal terms. They also use similar grammatical structures with clear subject-verb agreement. However, Paragraph 1 includes terms like 'shill' and 'troll' which are not present in Paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with more complex structures compared to Paragraph 2, which has shorter and more straightforward sentences. Additionally, Paragraph 1 includes a list of rule violations, adding to its quantitative features.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both paragraphs exhibit a formal and instructional tone. However, Paragraph 1 focuses on setting rules and consequences, while Paragraph 2 addresses a specific query related to media outlets. The overall discourse features and narrative styles differ slightly in purpose but maintain a formal tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing. Both texts are well-edited and conform to standard spelling conventions.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in formal language, punctuation style, and absence of spelling errors, as well as the distinctions in terms of sentence complexity and specific vocabulary usage, there is a moderate likelihood that the two texts were written by different authors.",
+    "score": 0.76
+  }
+}

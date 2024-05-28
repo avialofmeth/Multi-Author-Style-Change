@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with clear placement of commas, periods, and hyphens for clarity and coherence. Paragraph 2 lacks proper punctuation in some instances, affecting readability.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal language with a focus on conveying information rather than elaborate vocabulary. While there are differences in content and tone, the general lexical and grammatical features are somewhat consistent.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 features structured sentences with a clear progression of ideas and cohesive language. In contrast, Paragraph 2 lacks coherence and has abrupt shifts in topic and length, impacting the overall text structure.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts maintain a formal tone and convey information rather than emotions. However, Paragraph 1 focuses on rules and guidelines, while Paragraph 2 presents a specific finding. The narrative styles differ, affecting the overall discourse features.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating attention to detail in writing. However, Paragraph 2 contains errors in verb agreement and sentence structure, affecting overall readability.",
+        "score": 0.7
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score in determining whether the texts were written by the same author is moderately low.",
+        "score": 0.62
+    }
+}

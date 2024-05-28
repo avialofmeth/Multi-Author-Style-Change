@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as hyphens, brackets, colons, commas, and parentheses. The use of /S and (if anyone were in doubt) in the first text and the use of parentheses and commas in the second text show some similarity in punctuation style.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. The first text includes more informal language and sarcasm, while the second text is more formal and informative. Word choice and tone vary significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structures and quantitative features. The first text contains longer and more complex sentences, while the second text has simpler and more concise sentences. The coherence and cohesion of the texts also differ due to the varying narrative styles and tones.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts differ in text and discourse features. The first text adopts a more confrontational and sarcastic tone, using expressions like 'invading, sorry...' and '/S (if anyone were in doubt)'. In contrast, the second text maintains a more neutral and informative stance, discussing the importance of embassies and ambassadors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text that would indicate a common author. Both texts appear to be well-written in terms of spelling and grammar.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text and discourse features, along with some commonality in punctuation style and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.54
+    }
+}

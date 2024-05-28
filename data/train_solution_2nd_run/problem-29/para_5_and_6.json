@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and multiple commas for listing items, while Paragraph 2 uses hyphens and slashes for separation.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more common language and simpler word choices compared to the technical terms and variations in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences with a narrative style, while Paragraph 2 has shorter sentences with technical details.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack idioms and express matter-of-fact statements, but the tone in Paragraph 2 is more formal and technical.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse style, the likelihood of both texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

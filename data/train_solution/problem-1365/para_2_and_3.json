@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and colons, but only the second text includes an exclamation mark.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a straightforward and direct style with minimal lexical variation. They both use simple language and have a similar tone.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short sentences and express a sense of urgency or frustration.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts convey a tone of anger and defiance towards the system or authority.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.83
+    }
+}

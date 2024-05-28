@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, parentheses, and ellipses, while Paragraph 2 uses hyphens and quotation marks. There are differences in punctuation style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words like 'shitholes,' 'warlords,' 'dictators,' which have a unique tone. Paragraph 2 has a different lexical style. There are differences in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is longer and more complex in sentence structure. Paragraph 2 is more concise and direct. There are differences in sentence structure and quantitative features.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more critical and argumentative tone, focusing on a specific issue. Paragraph 2 is more focused on an individual's actions. There are differences in text and discourse features.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No significant spelling or typographical errors were detected in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.46
+  }
+}

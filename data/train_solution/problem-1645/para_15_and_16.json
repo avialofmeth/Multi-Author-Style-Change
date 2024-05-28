@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks including commas, periods, and a colon. Paragraph 2 only uses periods and commas.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes specific terms like 'GOP', 'presidency' which show a certain level of lexical variation. Paragraph 2 is more straightforward with basic vocabulary.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences with a mix of sentence types. Paragraph 2 is short and direct with simple sentence structures.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses a political opinion and plan of action. Paragraph 2 is an automated response devoid of opinion or narrative style.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the texts show some disparities. However, the lack of spelling errors is a commonality. The overall confidence score is moderate.",
+        "score": 0.52
+    }
+}

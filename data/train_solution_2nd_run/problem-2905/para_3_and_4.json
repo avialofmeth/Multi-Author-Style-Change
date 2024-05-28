@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods in a formal manner. Paragraph 2 contains ellipses and informal language with a lack of proper punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style with coherent word choices. Paragraph 2 exhibits informal language, slang, and a more chaotic word selection.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has well-structured sentences with a clear narrative style. Paragraph 2 lacks coherence and cohesion, with a more disjointed and random sentence structure.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone related to current events. Paragraph 2 has a sarcastic and mocking tone, diverging significantly in narrative style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors. ",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, it is unlikely that the two texts were written by the same author. The similarity in spelling and lack of typographical errors provide some common ground but are not sufficient to outweigh the significant stylistic disparities.",
+    "score": 0.36
+  }
+}

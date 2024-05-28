@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use similar punctuation styles such as commas and quotation marks. However, the first paragraph includes more varied punctuation like colons and hyphens, while the second paragraph lacks this variety.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is some consistency in lexical and grammatical features in terms of word choice and sentence structure. Both paragraphs exhibit a level of formality in language use. However, the second paragraph contains more informal language compared to the first.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure is somewhat similar in both paragraphs, with a mix of complex and simple sentences. However, the second paragraph is more fragmented and lacks cohesion compared to the first paragraph.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs share a serious tone and discuss controversial topics. However, the first paragraph is more direct and focused on a specific issue, while the second paragraph is more speculative and discusses potential consequences.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is moderate. While there are similarities in punctuation, lexical features, and absence of spelling errors, the differences in sentence structure, tone, and formality suggest some stylistic variance.",
+        "score": 0.64
+    }
+}

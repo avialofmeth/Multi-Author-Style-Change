@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and a hyphen, while Paragraph 2 uses parentheses and brackets. Both paragraphs demonstrate a variety of punctuation styles.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use formal language and specific terms related to legal matters (e.g., 'death penalty,' 'treason'). However, Paragraph 1 focuses on Russia's military actions, while Paragraph 2 discusses global practices.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 includes a longer sentence with complex structure, while Paragraph 2 consists of shorter and more straightforward sentences. The overall coherence and cohesion differ due to the distinct topics.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and factual tone, discussing a specific event, while Paragraph 2 provides a general statement about global practices with a more informative tone. The narrative styles do not align completely.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis reveals some commonalities in punctuation and formal language usage. However, differences in sentence structure, narrative styles, and tone suggest that the two texts may not have been written by the same author.",
+    "score": 0.66
+  }
+}

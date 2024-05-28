@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a hyphen for compound words (e.g., 'fucking floodlights'), while Paragraph 2 uses hyphens for clarity and to separate phrases (e.g., 'media outlets'). Both paragraphs use appropriate punctuation marks within sentences.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more informal and aggressive tone with strong language (e.g., 'fucking floodlights'), while Paragraph 2 maintains a formal and informative tone (e.g., 'approved domains list'). However, both paragraphs exhibit a command of grammar and varied vocabulary.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter and more direct sentences, focused on urgency and impact. In contrast, Paragraph 2 has longer sentences due to providing detailed information and guidelines. Both paragraphs demonstrate coherence and clear communication.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 displays a confrontational and forceful narrative style, while Paragraph 2 is more instructional and formal. Despite the difference in tone, both texts convey a sense of purpose and clarity in their communication.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of multiple linguistic features, the likelihood that the two texts were written by the same author is moderate. While there are differences in tone and style due to the differing contexts of the texts, the consistent use of proper punctuation, grammar, sentence structure, and absence of errors suggest a common writing style.",
+    "score": 0.64
+  }
+}

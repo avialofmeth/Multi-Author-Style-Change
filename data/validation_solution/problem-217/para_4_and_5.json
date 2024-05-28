@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both paragraphs use commas and period for punctuation, but no other punctuations are mentioned in the texts.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "There is some similarity in lexical and grammatical features such as word choice and sentence structure in terms of complexity.",
+      "score": 0.5
+   },
+   "feature3": {
+      "explanation": "There are differences in sentence structure and quantitative features, with varying sentence complexity and length.",
+      "score": 0.3
+   },
+   "feature4": {
+      "explanation": "The narrative style and tone differ significantly between the two paragraphs.",
+      "score": 0.2
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were identified in either text.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the analysis of individual features, the overall confidence score that the two texts were written by the same author is moderate.",
+      "score": 0.52
+   }
+}

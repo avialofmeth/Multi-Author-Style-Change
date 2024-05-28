@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like hyphens, commas, and periods. It also includes parentheses and quotation marks. Paragraph 2 lacks this variety, only using a colon and period.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and complex lexical and grammatical style with phrases like 'fragmentary approach' and 'patchwork of restrictions'. In contrast, Paragraph 2 is more direct and simplistic in its word choice with phrases like 'frivolous lawsuits'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer, more complex sentences with multiple clauses. Paragraph 2 consists of shorter, more straightforward sentences. The coherence and cohesion in Paragraph 1 are stronger due to the development of ideas within sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and formal tone discussing political issues. Paragraph 2 appears to be a direct statement aimed at a specific political party, reflecting a more confrontational tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, the likelihood that the two texts were written by the same author is low. However, the absence of spelling and typographical errors provides a slight boost to the overall confidence score.",
+        "score": 0.48
+    }
+}

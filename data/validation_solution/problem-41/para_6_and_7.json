@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains multiple hyphens, commas, and a colon, while Paragraph 2 only includes a comma. This difference in punctuation style suggests a potential variation in writing habits.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more technical language related to the conflicts in Israel, while Paragraph 2 focuses on goodwill and self-defense. This lexical difference indicates a divergence in word choice and subject matter.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences with detailed information, whereas Paragraph 2 is shorter and more straightforward. This disparity in sentence structure suggests a difference in writing styles.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more formal and informative tone, discussing recent events, while Paragraph 2 conveys a hopeful and empathetic tone. The contrast in tone indicates a potential discrepancy in authorship.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors. This similarity suggests a level of proficiency in writing, but does not strongly indicate the same author.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as spelling and typographical errors, there are notable differences that suggest the texts were likely written by different authors.",
+    "score": 0.5
+  }
+}

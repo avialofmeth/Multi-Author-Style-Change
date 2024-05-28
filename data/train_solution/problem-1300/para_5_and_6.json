@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize punctuation marks such as slashes, commas, and periods, but the first paragraph lacks specific punctuation like colons, brackets, and quotation marks that are present in the second paragraph.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is some consistency in the lexical and grammatical features in terms of formal language use, but the second paragraph exhibits more technical terms related to oil trade while the first paragraph is more general.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are relatively straightforward, but the second paragraph has longer sentences due to technical details, contrasting with the shorter sentences in the first paragraph.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey factual information without distinct narrative styles or tone. However, the second paragraph has a more informative tone compared to the slightly opinionated tone in the first paragraph.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of various linguistic features, the likelihood that the two texts were written by the same author is moderate, as there are some similarities in punctuation, grammar, and spelling, but noticeable differences in technicality and tone.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and parentheses, while Paragraph 2 has quotation marks. There is some variation in punctuation style.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains technical terms related to medical care for transgender individuals, while Paragraph 2 is more focused on a specific event (Florida medical board). There is a difference in lexical and grammatical features based on topic.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences discussing medical care timelines, while Paragraph 2 is more concise and direct about a current event. There is a difference in sentence structure and quantitative features.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal, informative tone discussing medical procedures, while Paragraph 2 is reporting on a news event. The narrative styles and tone differ.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, narrative styles, and tone, the texts show notable variations that suggest they may not be written by the same author.",
+    "score": 0.5
+  }
+}

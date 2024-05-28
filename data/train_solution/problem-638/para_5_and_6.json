@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, the first text includes more complex punctuation like hyphens and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The first text shows a higher level of lexical variation and word choice compared to the more straightforward and direct language used in the second text.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts display relatively simple sentence structures and coherence. The first text contains longer sentences compared to the second text.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first text exhibits a more informal and conversational tone with expressions like 'Maybe I'm just psychic.' The second text is more formal and robotic in nature.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the linguistic features, there are noticeable differences in writing style between the two texts, particularly in lexical choice, sentence structure, and tone. While there are some commonalities in punctuation and absence of errors, the differences in style suggest a lower likelihood of the same author.",
+        "score": 0.66
+    }
+}

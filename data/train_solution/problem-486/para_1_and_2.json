@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of various punctuation marks such as commas, periods, question marks, and exclamation marks. However, the first text uses fewer types of punctuation marks compared to the second text, which includes hyphens, parentheses, and ellipses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text contains more formal language related to work scenarios, while the second text uses more informal and personal language discussing medical experiences.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts display varied sentence structures and lengths. The first text includes shorter and more straightforward sentences, while the second text contains longer and more complex sentences with detailed explanations.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in the two texts differ significantly. The first text focuses on employment practices and fairness, whereas the second text is emotional and discusses medical concerns with a more personal tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

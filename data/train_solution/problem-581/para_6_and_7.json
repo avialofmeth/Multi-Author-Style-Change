@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize commas for listing items and separating clauses. However, only the first text uses a colon to introduce a condition. The presence of different punctuation usage suggests a distinction in writing style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The first text is more formal with the use of 'residents' and 'citizenship', while the second text is more informal with terms like 'corporations' and 'greed'. This difference in lexical choice indicates a variation in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts consist of short and straightforward sentences. However, the second text is more emotive in tone compared to the first. This emotional variance affects the cohesion and coherence between the texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text adopts a more neutral and factual tone, while the second text expresses strong opinions and sentiments. The different narrative styles suggest a divergence in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text. The absence of errors does not provide a basis for determining shared authorship.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across punctuation, lexical choices, emotional tone, and narrative styles, the average confidence score for the likelihood of the same authorship of the two texts is moderate.",
+        "score": 0.42
+    }
+}

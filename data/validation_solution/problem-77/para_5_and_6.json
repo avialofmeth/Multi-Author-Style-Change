@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a period for punctuation. Paragraph 2 uses periods and misplaced spaces between words like 'ther ebeing'. Overall, both paragraphs display inconsistencies in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use simple language with straightforward word choice and grammar. They both lack complexity in vocabulary and sentence structure.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences and more direct statements. Paragraph 2 contains longer sentences with some errors like 'ear marked'. The overall structure differs slightly in length and complexity.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack distinct narrative styles or idiomatic expressions. The tone in both is informational and matter-of-fact.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are minor spelling errors in Paragraph 2 like 'ladt' and 'ther'. Paragraph 1 has no evident mistakes. The presence of such errors slightly affects the similarity in writing style.",
+        "score": 0.4
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

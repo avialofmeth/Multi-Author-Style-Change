@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, colons, and periods in a clear and organized manner. Paragraph 2 lacks proper punctuation and shows a more erratic style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured use of language with clear distinctions between different parts of speech. Paragraph 2 contains more informal language and shows less grammatical precision.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences with a focus on clarity and coherence. Paragraph 2 features shorter sentences that lack cohesion and flow.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone, while Paragraph 2 exhibits a more emotive and opinionated style.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs do not show significant spelling or typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show notable disparities that suggest different authors. However, the absence of spelling errors indicates some commonality in writing proficiency.",
+    "score": 0.48
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas effectively to provide clarity and structure to the sentences. Paragraph 2 lacks proper punctuation and uses run-on sentences.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical choice, while paragraph 2 contains informal language, slang, and grammatical errors.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows a consistent use of sentence structure with varying lengths for emphasis. Paragraph 2 contains long, convoluted sentences with inconsistent structure.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral tone and presents information objectively. Paragraph 2 uses casual language, opinions, and negative assessments, deviating from a neutral tone.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both paragraphs exhibit proper spelling and no typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low due to significant stylistic disparities.",
+    "score": 0.32
+  }
+}

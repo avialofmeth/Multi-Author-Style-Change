@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas for punctuation. However, only text 1 uses a colon, which is a distinguishing factor.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features with consistent word choice and grammatical structures.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences compared to text 2. This is a notable difference in sentence structure.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts discuss demographic trends but in different contexts. However, the tone and mood appear consistent.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable similarities in writing style indicating a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

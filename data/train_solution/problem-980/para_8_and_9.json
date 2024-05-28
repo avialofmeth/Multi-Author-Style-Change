@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and quotation marks, but in different contexts and with different frequencies.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Distinct differences in lexical choices and grammatical structures between the two texts.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Varied sentence structures and lengths with different coherence and cohesion levels.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Narrative styles, tone, and mood are significantly different in each text.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors noted in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.38
+    }
+}

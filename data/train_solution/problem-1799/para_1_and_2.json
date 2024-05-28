@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains a formal and structured punctuation style with the use of periods, commas, and colons. Paragraph 2 includes ellipses and the use of a sarcastic marker (/s), which adds a casual and informal tone.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and informational lexical and grammatical style with technical terms like 'metered paywall' and 'flaired'. Paragraph 2 utilizes slang ('Musk'), informal language ('at least'), and sarcasm (/s).",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured in a formal and informative manner, with clear guidelines and instructions. Paragraph 2 is more conversational, with a sarcastic tone and a humorous remark.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a professional and informative discourse style suitable for a moderator's message. Paragraph 2 employs a more casual and conversational tone, including a sarcastic remark.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The linguistic features analyzed suggest that the two texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, indicating potential stylistic disparities. However, the absence of spelling and typographical errors contributes to a slightly higher likelihood of a common author. The overall confidence score leans towards low to moderate, indicating a possibility of different authors.",
+    "score": 0.46
+  }
+}

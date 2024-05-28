@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and hyphens, but Paragraph 1 includes colons and Paragraph 2 uses brackets and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone and use specialized vocabulary, but Paragraph 2 has a more conversational and informal tone with slang (e.g., 'Btw').",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more structured and direct in its sentence construction, while Paragraph 2 includes more complex sentence structures and varied sentence lengths.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey information, but Paragraph 2 has a more argumentative and confrontational tone compared to the informational tone of Paragraph 1.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, tone, and sentence structure, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes well-structured sentences with appropriate punctuation and quotation marks. Paragraph 2 lacks proper punctuation and uses informal language.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a formal tone with specific vocabulary related to historical events. Paragraph 2 contains informal language and slang terms.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences that contribute to a formal tone. Paragraph 2 uses shorter sentences with a more casual style.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone discussing historical conflicts. Paragraph 2 has a more casual and opinionated tone with modern political references.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical errors, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas in a specific style, while Paragraph 2 also employs these punctuation marks but with different frequency and placement.",
+      "score": 0.5
+   },
+   "feature2": {
+      "explanation": "Both paragraphs exhibit variations in lexical and grammatical features, with distinct word choices and grammatical structures, indicating potential differences in authorship.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "The sentence structures in the two paragraphs vary significantly in terms of length, complexity, and coherence, suggesting a notable difference in writing style.",
+      "score": 0.2
+   },
+   "feature4": {
+      "explanation": "The narrative styles and tone in the two paragraphs differ substantially, with one focusing on historical reflections and the other on a current event, indicating potential different authors.",
+      "score": 0.8
+   },
+   "feature5": {
+      "explanation": "There are no apparent spelling or typographical errors in either paragraph, showing consistency in this aspect.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable differences in writing style between the two paragraphs, suggesting they are likely written by different authors. The overall confidence score is moderate.",
+      "score": 0.56
+   }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, colons, and parentheses to structure the text. Paragraph 2 also displays a consistent use of punctuation marks, albeit in a different context.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a mix of formal and informal language with specific references to income levels and financial situations. Paragraph 2 uses a more formal tone with rules and guidelines. The lexical variation and word choice differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains various sentence lengths and structures, including complex and compound sentences. Paragraph 2 consists of shorter, more direct sentences with clear rules. The sentence structure and quantitative features are notably different.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a reflective and personal narrative style discussing income and perceptions. Paragraph 2 adopts a directive tone for setting rules. The narrative styles and speech events are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are well-written without obvious spelling or typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, along with the similarity in punctuation and lack of spelling errors, the overall confidence score for the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

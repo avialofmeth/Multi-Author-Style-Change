@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar patterns of punctuation usage, including commas, periods, and quotation marks. However, there are differences in the usage of specific punctuation marks such as hyphens and colons.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical variation, word choice, and grammatical features between the two texts. The first text contains more informal language and specific vocabulary related to the housing crisis, while the second text focuses on legal processes and citizenship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts vary in complexity, length, and coherence. The first text has longer and more complex sentences, while the second text is more concise and straightforward.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles, speech events, and tone in the two texts differ significantly. The first text adopts a more informal and emotional tone, expressing frustration and concern, while the second text is more factual and informational in nature.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking into account the differences and similarities in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate, with some notable distinctions in writing style.",
+        "score": 0.52
+    }
+}

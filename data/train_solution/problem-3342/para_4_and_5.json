@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses and hyphens, while Paragraph 2 uses colons and ampersands. There is some punctuation variation between the two texts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two paragraphs differ significantly due to the varying topics discussed, impacting word choice and grammatical structures.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures in Paragraph 1 focus on historical events and information dissemination, whereas Paragraph 2 discusses geopolitical relations. The sentence complexity and length differ, affecting coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts present different narrative styles and speech events related to distinct topics, leading to varied expressions, idioms, and tones.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either of the paragraphs.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

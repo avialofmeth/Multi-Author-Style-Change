@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation with commas and periods. Paragraph 2 lacks proper punctuation and has run-on sentences.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical and grammatical sophistication compared to Paragraph 2. The vocabulary and sentence structures in Paragraph 1 are more refined.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is well-structured with coherent sentences. Paragraph 2 lacks structure and coherence, with fragmented thoughts and unclear expressions.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a reflective and thoughtful tone, while Paragraph 2 expresses anger and disgust. The narrative styles and mood differ significantly.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a basic level of adherence to language conventions in terms of spelling.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are notable differences in punctuation style, lexical sophistication, coherence, and narrative tone between the two texts. However, the absence of spelling errors provides a slight commonality. Based on the assessment, the overall confidence score is moderate, indicating a likelihood that the two texts were not written by the same author.",
+    "score": 0.46
+  }
+}

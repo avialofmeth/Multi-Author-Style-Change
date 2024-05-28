@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a variety of punctuation marks such as commas, quotation marks, and hyphens. However, the use of colons and brackets is only present in the second paragraph.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "There is a similarity in the lexical choices and word usage in both texts. However, the second paragraph includes more specific terms related to corruption and propaganda, not present in the first paragraph.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit similar sentence structures in terms of complexity and coherence. However, the second paragraph contains longer sentences on average compared to the first paragraph.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "The tone and style of both texts differ slightly due to the specific content discussed. The first paragraph has a more cautious and general tone, while the second paragraph is more specific and critical.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are similarities in writing style indicating a possible common author, but some differences exist, especially in tone and specificity of content.",
+    "score": 0.72
+  }
+}

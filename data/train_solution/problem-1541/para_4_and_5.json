@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 predominantly uses hyphens and exclamation marks, while Paragraph 2 contains mostly commas and periods.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes more formal and archaic language compared to the more casual tone of Paragraph 2. The lexical choices and word usage differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and more straightforward sentences, whereas Paragraph 2 has longer and more complex sentences with a conversational style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and historical tone due to the mention of the Inquisition office, while Paragraph 2 adopts a more laid-back and opinionated tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.2
+  }
+}

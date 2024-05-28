@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles with the presence of colons, quotation marks, and question marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more formal and structured language with specific terms related to subreddit guidelines. Text 2 has a more informal tone with profanity and slang.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short with straightforward sentence structures. Text 1 includes more clauses due to additional details.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 is more formal and instructional in nature, focusing on guidelines. Text 2 is casual and expresses frustration.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the features, the likelihood that the two texts were written by the same author is moderate, considering the differences in tone and formality.",
+        "score": 0.66
+    }
+}

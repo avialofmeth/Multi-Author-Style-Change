@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods accurately, but differ in the use of punctuation like hyphens, brackets, colons, and quotation marks. Text 1 uses hyphens and quotation marks, while Text 2 does not. This difference may indicate a divergence in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with varied vocabulary and complex sentence structures. However, the lexical choices and grammatical structures differ significantly. Text 1 is more informal and uses simpler language compared to the formal and complex language in Text 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 comprises shorter, more straightforward sentences with a focus on direct communication. In contrast, Text 2 contains longer, more elaborate sentences that convey complex ideas. This disparity in sentence structure may indicate different writing styles.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a serious and analytical tone but differ in narrative styles. Text 1 is more direct and opinionated, while Text 2 adopts a more explanatory and descriptive approach. This difference in narrative style suggests potential authorial divergence.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two texts, the overall likelihood of them being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

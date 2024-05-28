@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas to separate ideas and list items, while Paragraph 2 lacks these punctuation marks. However, both texts employ commas appropriately for sentence structure.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a strong, emotionally charged word choice with terms like 'dead' and 'threat,' whereas Paragraph 2 maintains a neutral, technical vocabulary more typical of automated responses.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 features longer, more complex sentences compared to the shorter, simpler sentences in Paragraph 2. The coherence and cohesion differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a serious, passionate tone with a clear stance on a social issue, while Paragraph 2 adopts a detached, impersonal tone typical of automated messages.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit correct spelling and no typographical errors, maintaining a standard level of language proficiency.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choice, sentence structure, and tone, it is unlikely that the two texts were written by the same author despite both displaying correct spelling and punctuation usage.",
+        "score": 0.44
+    }
+}

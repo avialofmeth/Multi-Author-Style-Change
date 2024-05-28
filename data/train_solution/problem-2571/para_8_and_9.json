@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and parentheses for clarification and organization. Paragraph 2 lacks such punctuations and relies more on commas for separation.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more technical and economic-specific terms, while Paragraph 2 discusses historical events and societal progress. The lexical and word choice differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured around presenting economic data and comparisons with consistent sentence lengths. Paragraph 2 is more narrative-driven with varied sentence structures and lengths.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and analytical tone related to economic growth, while Paragraph 2 adopts a more conversational and reflective tone discussing historical contexts and societal values.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors, suggesting a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and tone between the two texts, the likelihood of them being written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, parentheses, colons, and commas. Paragraph 2 lacks these complex punctuation styles.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains specific lexical choices related to military and geopolitical terms like 'troops,' 'build-up,' 'assault,' and 'Navy missiles.' Paragraph 2 lacks such specialized vocabulary.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with detailed geopolitical scenarios. Paragraph 2 is short and straightforward, indicating a difference in sentence structure and complexity.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a serious and urgent tone, discussing potential military actions and alliances. Paragraph 2 is a generic error message with no tone or mood elements.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, so this feature does not provide a distinguishing factor.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.24
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates the use of hyphens, ellipses, and quotation marks for direct quotes. Paragraph 2 lacks similar punctuations and uses a more simplistic style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and complex lexical and grammatical style with specific terminology related to medical and political contexts. In contrast, Paragraph 2 includes informal language and slang.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more structured sentences with detailed explanations. Paragraph 2 consists of shorter, fragmented sentences lacking cohesion.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious, emotive tone discussing a sensitive topic. Paragraph 2 exhibits a more casual, dismissive tone towards political figures.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone between the two texts, the likelihood of the same authorship is low.",
+    "score": 0.44
+  }
+}

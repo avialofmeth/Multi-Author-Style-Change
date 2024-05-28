@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks such as commas and periods consistently, while Paragraph 2 includes ellipses and a period at the end.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and straightforward lexical and grammatical style, whereas Paragraph 2 includes informal language and unconventional word choices.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more structured sentences with a focus on military and technology, while Paragraph 2 has shorter, fragmented sentences related to drones and airspace.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys confidence and assertiveness in discussing military prowess, while Paragraph 2 speculates about ownership of airspace with a suspicious tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

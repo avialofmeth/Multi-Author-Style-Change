@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display a casual, conversational style with the use of ellipses, lack of proper capitalization, and informal language.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar choice of words, such as 'steal,' 'rich,' 'poor.' Grammatical errors are present in both texts.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short and simple sentences. They lack complexity and exhibit a direct, straightforward style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have a tone of criticism and disapproval towards financial misconduct. They share a negative perspective.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "Both texts contain no spelling or typographical errors. The language used is consistent in terms of spelling and punctuation.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, word choice, sentence structure, tone, and error-free text, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

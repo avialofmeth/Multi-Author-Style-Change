@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and commas more frequently compared to Paragraph 2. The punctuation style in Paragraph 2 is more varied with the use of brackets, colons, and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, Paragraph 1 shows a more informal and conversational tone with phrases like 'I’m loving it', while Paragraph 2 includes more formal language and references to specific individuals.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit varied sentence structures and lengths. However, Paragraph 1 has longer sentences with more complex arrangements compared to the more straightforward sentences in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 reflects a more intense and opinionated tone with phrases like 'I hope it’s making the formerly comfortable Russian forces scramble'. In contrast, Paragraph 2 has a more descriptive and reflective tone discussing the history of Newsweek.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, there are noticeable distinctions between the two texts. However, the absence of spelling errors contributes to a moderate level of similarity in writing style.",
+        "score": 0.6
+    }
+}

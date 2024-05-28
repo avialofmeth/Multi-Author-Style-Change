@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and a period for punctuation, while Paragraph 2 uses commas and a period. Both include punctuation marks typical in English writing.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes technical terms like 'bot' and 'automatically', while Paragraph 2 contains more conversational language with contractions like 'don't'. Both paragraphs exhibit variation in lexical and grammatical features.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter sentences with simpler structure, while Paragraph 2 has a longer, more complex sentence. Both paragraphs have coherence and cohesion within themselves.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal, procedural tone, whereas Paragraph 2 has a more assertive and opinionated tone. However, both maintain a clear communication style.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, text and discourse features, and absence of spelling errors, there is moderate confidence that the two texts share a similar writing style indicative of the same author.",
+        "score": 0.76
+    }
+}

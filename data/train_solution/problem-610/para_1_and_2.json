@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of hyphens and colons. The first text uses hyphens for compound words, while the second text includes colons for enumeration and emphasis.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the texts. The first text includes metaphorical language and historical references, while the second text focuses on providing guidelines and rules.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two texts are distinct. The first text contains longer, more complex sentences with analogies, whereas the second text has shorter, straightforward sentences for clarity.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events vary greatly. The first text is metaphorical and uses historical references, while the second text is more direct and instructional.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate good spelling and typographical accuracy without errors or mistakes.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, the texts are unlikely to have been written by the same author solely based on writing style.",
+        "score": 0.48
+    }
+}

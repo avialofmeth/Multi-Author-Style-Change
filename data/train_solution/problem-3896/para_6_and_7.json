@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use brackets and quotation marks, but only the second text includes hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language, with the second text containing more informal language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is fairly straightforward with some complexity in the second text. The coherence is clearer in the first text.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions, but the first text is more neutral and informative, while the second text is more assertive and opinionated.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.72
+    }
+}

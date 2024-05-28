@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas for listing items and question marks for interrogative sentences. However, text 1 uses double question marks for emphasis, which is not present in text 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 includes more informal language with contractions like 'weren't' and 'ust', while text 2 has a more formal tone with phrases like 'the government does not buy'. This difference in formality suggests a variation in the lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts consist of relatively short and straightforward sentences. However, text 2 includes more quantitative information and a clearer structure compared to the slightly fragmented structure of text 1.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more argumentative tone with rhetorical questions, while text 2 adopts a more explanatory and informative style. This difference in narrative styles indicates a divergence in text and discourse features.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the variations in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

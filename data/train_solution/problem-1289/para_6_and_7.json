@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and question marks. However, the first text contains more varied punctuation marks like hyphens, parentheses, and ellipses, while the second text includes more explicit language with minimal punctuation variety.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts show differences in word choice and tone. The first text uses more formal language and references to specific subjects like business law classes, while the second text uses informal language and expresses strong opinions about social media companies.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly. The first text contains longer, more complex sentences with a focus on uncertainty and personal reflection. In contrast, the second text is more straightforward and direct in conveying the author's opinions.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ notably between the two texts. The first text adopts a more contemplative and questioning tone, while the second text displays a more assertive and critical attitude towards social media companies.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, suggesting a similar level of attention to detail in writing. However, the informal language and profanity in the second text may indicate a more casual writing style compared to the first text.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the analysis of linguistic features, the likelihood that the two texts were written by the same author is moderate, with noticeable differences in lexical choices, sentence structures, and text tones. The similarities in punctuation and spelling suggest some shared writing style elements, but the overall differences in content and style reduce the confidence in authorship similarity.",
+        "score": 0.5
+    }
+}

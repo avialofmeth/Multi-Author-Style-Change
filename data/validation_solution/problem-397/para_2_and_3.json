@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including commas, periods, and colons. However, the first text includes more varied punctuation such as brackets and greater use of hyphens, while the second text contains more specialized punctuation related to survey data reporting.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text is more straightforward and directive, using common language for instructions. The second text is more technical and detailed, utilizing specific survey methodology terms and reporting language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text consists of shorter sentences and simpler structures, focusing on conveying information concisely. In contrast, the second text is more complex with longer sentences due to the detailed explanation of survey methodology and results.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a formal tone, but the first text is more instructional and informative, while the second text is more analytical and factual, typical of survey reporting.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors, demonstrating a similar level of attention to detail and proofreading.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five linguistic features, there are noticeable similarities in punctuation usage, formal tone, and absence of errors. However, differences in lexical features, sentence complexity, and content specificity suggest a moderate similarity in writing style, indicating a possibility of the same author.",
+    "score": 0.56
+  }
+}

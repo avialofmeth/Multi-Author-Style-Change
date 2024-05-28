@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like colons and commas, while Paragraph 2 contains fewer punctuation marks and focuses more on sentence structure.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a mix of formal and technical vocabulary related to electricity supply and demand, indicating a similarity in lexical and grammatical features.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more direct sentences compared to the longer and more descriptive sentences in Paragraph 2. This difference in sentence structure lowers the similarity score in this feature.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal tone and discuss technical aspects related to energy supply, suggesting a commonality in text and discourse features.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similarity in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are notable similarities in lexical and grammatical features, text and discourse features, and absence of spelling errors. However, differences in punctuation style and sentence structure reduce the overall confidence slightly.",
+    "score": 0.68
+  }
+}

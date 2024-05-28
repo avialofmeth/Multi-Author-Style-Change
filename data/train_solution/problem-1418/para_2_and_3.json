@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, the first text includes a forward slash and the second text includes a colon and periods within abbreviations.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a more informal and expressive word choice with phrases like 'Blood will run in the streets' and 'Mass hysteria'. Text 2, on the other hand, uses formal and technical language such as 'media outlets' and 'approved domains'. This indicates a difference in lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are relatively short and straightforward. However, Text 1 has slightly more complexity with the use of metaphors and idiomatic expressions compared to the more direct nature of Text 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more dramatic and expressive tone with phrases like 'Blood will run in the streets' and 'Mass hysteria', while Text 2 maintains a neutral and informative tone. This difference in narrative styles and tone suggests distinct writing styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, showing a similar level of accuracy in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, along with the commonality in punctuation and error-free text, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.48
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation with commas and parentheses present in both.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features, such as vocabulary and sentence structure, indicating potential different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts display coherence and similar sentence complexity, but differences in specific quantitative features suggest possible different authors.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ significantly between the two texts, pointing to potential different authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the different authors' indications in lexical and grammatical features, narrative styles, and tone, the overall confidence score is moderate.",
+        "score": 0.58
+    }
+}

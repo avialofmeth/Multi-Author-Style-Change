@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and a hyphen in a conventional manner, while Paragraph 2 contains informal punctuation like ellipsis and lacks the hyphen seen in Paragraph 1.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a mix of simple and complex sentences with varied vocabulary. Paragraph 2 demonstrates a more informal and colloquial style with certain Brazilian-specific language choices.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a mix of sentence lengths and structures, providing a balanced flow. Paragraph 2 exhibits shorter, more straightforward sentences with direct expression.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a narrative style with a descriptive element. Paragraph 2 adopts a conversational tone and expresses personal opinion.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, there is moderate evidence to suggest that the texts might not be written by the same author.",
+    "score": 0.54
+  }
+}

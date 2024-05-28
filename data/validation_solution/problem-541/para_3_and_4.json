@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, and parentheses for punctuation. However, the first text includes more diverse punctuation marks like colons and quotation marks compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical variation and word choice in the two texts differ significantly. The first text uses more complex vocabulary and addresses global political issues, while the second text focuses on a specific legal case in Israel.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary in complexity and length. The first text contains longer and more complex sentences, whereas the second text is structured more straightforwardly with shorter sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone differ between the two texts. The first text adopts a critical and encompassing tone towards political matters, while the second text presents a more personal and analytical tone focusing on a specific legal situation.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and no typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarity in spelling and typographical errors, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

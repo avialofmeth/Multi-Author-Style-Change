@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of non-standard punctuation marks, such as hyphens, brackets, and quotation marks, although in different contexts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts, with varying word choice, grammatical structures, and part of speech usage.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "There is a clear distinction in sentence structure and quantitative features, with Text 1 being more fragmented and lacking coherence compared to the structured and organized nature of Text 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text 1 displays a more informal, aggressive tone with profanity, while Text 2 adopts a formal and informative tone discussing the importance of the scientific method.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.5
+    }
+}

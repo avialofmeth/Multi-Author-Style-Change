@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses appropriate punctuation marks such as commas and ellipses to separate ideas and create pauses. Paragraph 2 lacks proper punctuation marks and relies more on informal language.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with informal language and colloquial expressions present in both. Grammatical structures are simple and direct in both cases.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences with coherent ideas expressed. Paragraph 2 is shorter and more fragmented, lacking in cohesion and coherence.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs share a similar tone of informal discussion or debate. They both express opinions and thoughts in a conversational manner, with rhetorical questions and expressions of doubt.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual linguistic features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.58
+    }
+}

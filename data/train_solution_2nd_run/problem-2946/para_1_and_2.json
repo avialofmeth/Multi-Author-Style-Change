@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks appropriately whereas Paragraph 2 lacks proper punctuation and includes informal language like 'fucks' and 'fuckwits'.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates formal and structured language with appropriate word choices, while Paragraph 2 contains informal and colloquial language with profanity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has well-structured and coherent sentences, whereas Paragraph 2 has fragmented and disjointed sentences with a lack of coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, while Paragraph 2 adopts a confrontational and informal tone with offensive language.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 is free of spelling errors, while Paragraph 2 contains spelling mistakes ('thr' instead of 'the') and typographical errors ('Twitter' is not capitalized).",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, language style, sentence structure, tone, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.24
+  }
+}

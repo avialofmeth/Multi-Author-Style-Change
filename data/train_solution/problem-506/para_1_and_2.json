@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and colons appropriately, while Paragraph 2 uses colons and quotation marks in a conversational manner.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates more formal and technical language related to industry and government tasks, while Paragraph 2 uses informal language related to work environments.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain relatively simple sentence structures with clear coherence, but Paragraph 1 is more structured due to its informational nature compared to the conversational tone of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 focuses on a factual account of events without engaging in direct dialogue, whereas Paragraph 2 involves direct speech and speculation.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were observed in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in formality, tone, and content specificity between the two paragraphs, there is moderate confidence that they were not written by the same author.",
+        "score": 0.56
+    }
+}

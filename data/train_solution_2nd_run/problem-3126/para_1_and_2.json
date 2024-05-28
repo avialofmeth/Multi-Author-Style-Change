@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts use similar punctuation styles, including commas, periods, and slashes. However, Paragraph 1 has more varied punctuation with colons and parentheses, while Paragraph 2 only includes a comma and a period.",
+      "score":0.6
+   },
+   "feature2":{
+      "explanation":"Both texts exhibit a formal and instructional tone with clear and straightforward language. However, Paragraph 1 shows more lexical variation and word choice compared to the more straightforward language in Paragraph 2.",
+      "score":0.4
+   },
+   "feature3":{
+      "explanation":"Paragraph 1 has longer sentences and more complex sentence structures compared to the shorter and simpler sentences in Paragraph 2. Paragraph 1 also displays better coherence and cohesion in the flow of ideas.",
+      "score":0.7
+   },
+   "feature4":{
+      "explanation":"Both texts maintain a formal and instructional tone, focusing on rules and guidelines. However, Paragraph 1 displays a more serious and authoritative tone compared to the more neutral tone in Paragraph 2.",
+      "score":0.5
+   },
+   "feature5":{
+      "explanation":"Both texts are well-edited and free from spelling or typographical errors.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the overall confidence score is moderate, suggesting a likelihood that the two texts were written by different authors.",
+      "score":0.64
+   }
+}

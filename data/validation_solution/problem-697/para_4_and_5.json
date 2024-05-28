@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use ellipses (...) and question marks (?) in a similar manner. However, the first text uses more diverse punctuation marks like brackets, colons, and quotation marks, while the second text is more straightforward with its punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text shows a more informal tone with contractions (it's) and colloquial abbreviations (tbh), while the second text is formal and robotic in nature. There are differences in lexical variation and word choice between the two texts.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are concise and straightforward in sentence structure. The first text contains more casual language and sentence fragments, while the second text is more direct and uniform in sentence length.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text reflects a conversational style with informal expressions like 'I could be wrong' and 'Would have been cooler if.' The second text is more formal and automated in its speech event. There are differences in narrative styles and tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall confidence in the texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and parentheses, maintaining consistency in punctuation choices.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the texts. Text 1 includes terms like 'Ukrainian,' 'Russian,' and 'Soviet,' while Text 2 uses terms like 'western,' 'Patriot,' and 'C-RAM.' These differences in word choice suggest variability in the author's lexical preferences.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts exhibit similar lengths and complexity. They maintain coherent and cohesive structures with no significant differences in word, clause, or sentence length and frequency.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "The texts differ in their text and discourse features. While both texts express opinions and discuss military technology, Text 1 focuses on a specific incident and acknowledges Ukraine's right to defend itself, while Text 2 emphasizes the need for advanced anti-air systems without referencing a particular event. These differences in narrative styles and speech events suggest varying tones and focuses.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a consistent level of attention to detail in terms of language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is moderate, with some shared characteristics in punctuation style, sentence structure, and absence of spelling errors, but notable distinctions in lexical choices and discourse features.",
+    "score": 0.68
+  }
+}

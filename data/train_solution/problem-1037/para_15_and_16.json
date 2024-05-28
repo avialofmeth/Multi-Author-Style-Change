@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens but in different contexts. Paragraph 1 uses a hyphen in 'helicopter ride', while Paragraph 2 uses hyphens in 'upper immediate command'. Different usage may indicate different writing styles.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit varied vocabulary and word choice, with 'Belarus', 'training mission' in Paragraph 1 and 'Putin', 'FSB', 'pissed' in Paragraph 2. The lexical differences suggest potential different authors.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a longer sentence with more complexity compared to the shorter, simpler sentences in Paragraph 2. This difference in sentence structure may point to different authors.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey information in a direct, matter-of-fact style without much expressive narrative or tone. The similar tone suggests a commonality in writing style.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either paragraph, indicating a common level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks and hyphens, while Paragraph 2 uses parentheses and colons. Both texts display a variety of punctuation marks, indicating a moderate similarity.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes colloquial language with phrases like 'Dude' and 'you were in charge', whereas Paragraph 2 uses more formal language with phrases like 'please click to review'. The lexical and grammatical features differ significantly.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter sentences with direct statements. Paragraph 2 consists of more complex sentences with instructions. The sentence structure and quantitative features are quite distinct.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 exhibits a more conversational and informal tone, reflecting frustration or criticism. Paragraph 2 maintains a formal and informative tone for instruction. The text and discourse features differ notably.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, showing a commonality in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse style, along with the moderate similarity in punctuation and shared absence of spelling errors, the overall confidence score is moderate.",
+    "score": 0.48
+  }
+}

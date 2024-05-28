@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and commas appropriately in their sentences.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The first text uses more formal language and structured sentences. The second text contains more informal language and colloquial expressions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences compared to Paragraph 2, which has shorter and simpler sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two texts differ significantly. The first text is more serious and strategic, while the second text is informal and conversational.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text discourse, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

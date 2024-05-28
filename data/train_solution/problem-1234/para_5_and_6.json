@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and parentheses, while Paragraph 2 lacks any of these specific punctuation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone and employ specific vocabulary, suggesting a similarity in lexical and grammatical features.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more complex in terms of sentence structure and length compared to the straightforward and shorter sentences in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ significantly between the two paragraphs, with one being philosophical and the other being informative and procedural.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and narrative style, along with the commonalities in lexical and grammatical features and absence of spelling errors, the likelihood of the two texts being authored by the same person is moderate.",
+        "score": 0.58
+    }
+}

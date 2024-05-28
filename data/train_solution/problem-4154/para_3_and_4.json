@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation with proper use of colons and commas. Paragraph 2 has a more informal punctuation style with the use of hyphens, ellipses, and colloquial language.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured lexicon suitable for official communication. Paragraph 2 uses informal language with colloquial expressions and slang.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 exhibits a straightforward and informative sentence structure. Paragraph 2 is more expressive with varied sentence lengths and informal tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone suitable for official instructions. Paragraph 2 has a more opinionated and casual tone with expressive language.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs demonstrate accurate spelling and no typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and tone between the two paragraphs, the likelihood of them being written by the same author is low.",
+        "score": 0.4
+    }
+}

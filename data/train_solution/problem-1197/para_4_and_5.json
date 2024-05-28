@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation including commas and parentheses, while Paragraph 2 lacks proper punctuation and includes informal abbreviations like 'stfu' and 'gfys'.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal tone with appropriate word choices related to food items, whereas Paragraph 2 includes informal language and abbreviations.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has structured sentences with coherent content, while Paragraph 2 has shorter and disjointed sentences lacking cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone regarding lunch items, while Paragraph 2 displays a dismissive and confrontational tone.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 is free of spelling or typographical errors, while Paragraph 2 contains informal language like 'stfu' and lacks proper spelling.",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, language formality, sentence structure, tone, and spelling errors, it is unlikely that the two texts were written by the same author.",
+        "score": 0.18
+    }
+}

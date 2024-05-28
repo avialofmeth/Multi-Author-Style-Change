@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit irregular punctuation usage with missing commas, lack of proper capitalization, and inconsistent use of periods.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts display unconventional word choices and phrasing, such as 'lambaste' and 'just lack words for it', suggesting a similarity in lexical and grammatical features.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short and simple sentences with occasional lack of clarity and coherence, indicating some similarity in sentence structure and quantitative features.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 2 exhibits a more formal and persuasive tone compared to the informal and critical tone of Text 1, indicating a difference in discourse features and narrative styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts contain some spelling errors and lack of proper punctuation, suggesting a similarity in spelling and typographical errors.",
+    "score": 0.7
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, and spelling errors, along with some differences in sentence structure and discourse features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

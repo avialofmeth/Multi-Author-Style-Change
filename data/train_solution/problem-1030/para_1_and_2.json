@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and brackets, while Paragraph 2 does not. The presence of these punctuation marks is a distinguishing factor.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more informal and expressive language compared to the formal tone of Paragraph 2. The lexical variation and word choice differ significantly between the two texts.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences with a narrative style, whereas Paragraph 2 is brief and straightforward with a directive tone. Sentence structure and coherence are notably different.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more casual and anecdotal tone, using idiomatic expressions and a specific narrative style. In contrast, Paragraph 2 is formal and informational. The discourse features and tone vary significantly.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the notable differences in punctuation style, lexical choices, sentence structure, and discourse features, alongside the lack of spelling errors, the overall confidence score in the texts being written by the same author is moderate.",
+        "score": 0.34
+    }
+}

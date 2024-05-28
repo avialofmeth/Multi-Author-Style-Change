@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like periods and commas, while Paragraph 2 also includes hyphens and quotation marks. These differences in punctuation style suggest a slight variance in writing style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There are significant differences in lexical choice and word usage between the two paragraphs. Paragraph 1 is formal and straightforward, while Paragraph 2 contains informal language and slang. This indicates a notable discrepancy in writing style.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit varied sentence structures and lengths, but Paragraph 2 appears more fragmented with abrupt shifts. This disparity suggests a divergence in writing style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the two paragraphs differ greatly. Paragraph 1 is informative and neutral, whereas Paragraph 2 is emotive and dramatic. This contrast indicates a clear distinction in writing style.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a level of consistency in this aspect of writing style.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, alongside the consistency in spelling and typographical errors, the overall confidence score suggests a low likelihood that the two texts were written by the same author.",
+    "score": 0.38
+  }
+}

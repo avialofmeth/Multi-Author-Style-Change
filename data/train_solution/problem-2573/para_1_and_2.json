@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of informal punctuation styles such as hyphens, commas, and ellipses, albeit in different contexts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in the lexical and grammatical features used in the two texts. Paragraph 1 displays a more informal and colloquial tone compared to the formal and instructive tone of Paragraph 2.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures in Paragraph 1 are varied, with a mix of short and long sentences, while Paragraph 2 contains shorter and more direct sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and discourse features differ significantly between the two texts, with Paragraph 1 focusing on personal experiences and opinions, while Paragraph 2 provides general instructions.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, along with some similarities in punctuation styles and absence of spelling errors, the overall confidence score of the two texts being written by the same author is moderately low.",
+    "score": 0.46
+  }
+}

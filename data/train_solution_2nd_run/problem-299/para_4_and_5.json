@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and quotation marks, while Paragraph 2 does not contain any of these punctuation marks. The difference in punctuation style between the two texts is evident.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more varied lexical and grammatical choice with terms like 'stochastic terrorism' and 'drag queens.' In contrast, Paragraph 2 is straightforward and lacks such diverse vocabulary. This difference suggests distinct writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences compared to the shorter and simpler sentences in Paragraph 2. The sentence structures and lengths diverge significantly between the two texts, indicating a disparity in style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a confrontational and accusatory tone, evident in phrases like 'Tucker Carlson tells fans to arm themselves against drag queens' and 'stochastic terrorism is terrorism.' Paragraph 2, as a bot message, lacks this tone and content, showcasing a stark contrast in narrative styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling and typographical errors, maintaining a level of correctness in written language.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative style, the likelihood that the two texts were written by the same author is low. The absence of spelling errors is the only commonality in writing style.",
+    "score": 0.44
+  }
+}

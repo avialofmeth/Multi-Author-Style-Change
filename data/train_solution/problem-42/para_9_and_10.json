@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas in a consistent manner. However, the first text uses hyphens to connect words like '60's', while the second text uses hyphens in compound adjectives like 'wheelchair accessible'.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices between the two texts. The first text uses phrases like 'one of the poorest countries', while the second text includes terms like 'wheelchair accessible'. The grammatical structures also vary with different sentence constructions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly. The first text has longer, more complex sentences, while the second text is more straightforward and concise. Additionally, the coherence and cohesion of the texts display distinct patterns.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone of the texts are notably different. The first text focuses on historical context and poverty, while the second text discusses contemporary housing accessibility regulations. The idiomatic expressions and mood vary between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and narrative styles, along with the consistent use of punctuation and absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

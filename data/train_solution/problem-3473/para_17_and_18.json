@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use similar punctuation marks such as commas, parentheses, and quotation marks. However, the presence of hyphens in Paragraph 1 and the absence of hyphens in Paragraph 2 indicate a slight difference in punctuation style.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit formal language with technical terms related to military exercises and geopolitical events. While Paragraph 1 focuses more on alliance and readiness, Paragraph 2 discusses missile launches and military drills. This difference in content affects the lexical and grammatical features, but overall, the writing style in terms of word choice and grammatical categories is somewhat consistent.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences compared to Paragraph 2, which has shorter sentences with a more direct style. The coherence and cohesion in Paragraph 1 are related to military cooperation, while Paragraph 2 emphasizes recent events. The quantitative features show some divergence in sentence length and complexity.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ between the paragraphs, with Paragraph 1 presenting a formal announcement tone, while Paragraph 2 adopts a more urgent and reactive tone. This distinction in tone and mood indicates a potential difference in the writing style related to the narrative styles and speech events.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs appear to be free of spelling and typographical errors, indicating a consistent level of attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, there are notable similarities in punctuation, lexical and grammatical features, and absence of spelling errors. However, differences in sentence structure, narrative styles, and tone suggest some divergence in writing style. Therefore, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

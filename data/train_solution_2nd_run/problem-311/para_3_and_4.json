@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation, including commas and periods, while Paragraph 2 lacks proper punctuation and uses ellipsis instead.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal language and structured sentences, while Paragraph 2 has informal language and lacks coherence.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is coherent and structured, while Paragraph 2 lacks clear sentence structures and coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a somewhat neutral tone, while Paragraph 2 displays a confrontational and dismissive tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, language, coherence, and tone, and the absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation usage with consistent use of commas and periods.",
+        "score": 0.85
+    },
+    "feature2": {
+        "explanation": "There is variation in lexical choices and word usage between the two texts, indicating potential differences in authors.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths differ slightly between the texts, suggesting a possible difference in authorship.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts convey a similar tone and mood, focusing on geopolitical events and implications.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering all features collectively, there are notable differences in lexical choices and sentence structures that suggest potential different authors, despite similarities in punctuation and tone.",
+        "score": 0.72
+    }
+}

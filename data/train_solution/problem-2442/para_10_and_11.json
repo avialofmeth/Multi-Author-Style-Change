@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits the use of hyphens and quotation marks, while Paragraph 2 does not contain these specific punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a specific focus on political terms and names like 'McCarthyites,' 'Ukraine aid,' 'Hunter Biden,' 'Joe Biden,' 'pro-Putin oligarchs,' and 'Hunter Biden's job.' Paragraph 2, on the other hand, discusses media outlets and subreddit guidelines using more general language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and straightforward in structure. Paragraph 1 has longer sentences with more complex information, while Paragraph 2 is shorter and more direct.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal and opinionated tone discussing political matters, while Paragraph 2 takes a formal and informational tone discussing subreddit guidelines.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and some commonalities in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.48
+  }
+}

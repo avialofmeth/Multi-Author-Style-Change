@@ -1,0 +1,24 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as commas, parentheses, and hyphens. However, the first text shows a higher frequency of punctuation usage compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show differences in word choice, sentence structures, and grammatical categories. The first text contains more technical and complex language related to military and economic aspects, while the second text is more general and straightforward.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text is longer, more complex, and contains technical details related to military and economic analysis. The second text is shorter, simpler, and focuses on historical events and outcomes.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features show that the first text is more analytical and detailed in discussing economic and military aspects, whereas the second text is more narrative and descriptive about historical events. The tone and mood differ significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of care in writing. The texts do not differ significantly in this aspect.",
+    "score": 0.8
+  },
+  "overall_explanation": "Considering the analysis of the five linguistic features, the likelihood that the two texts were written by the same author is moderate. While there are some similarities in punctuation style and lack of spelling errors, significant differences in lexical, grammatical, and discourse features suggest distinct authorship.",
+  "overall_score": 0.5
+}

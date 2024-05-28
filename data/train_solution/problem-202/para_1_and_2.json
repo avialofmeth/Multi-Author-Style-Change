@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and parentheses more frequently than hyphens, brackets, or colons. While both texts use punctuation marks, the distribution and type vary slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit differences in lexical choices and word usage, reflecting distinct topics. However, grammatical categories and part of speech usage show some similarities in sentence structure.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Sentence structure in both texts differs significantly due to the content and purpose of each paragraph. Paragraph 1 contains longer and more complex sentences compared to the direct and clear sentences in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two texts are distinct, with Paragraph 1 focusing on personal experiences and emotions, while Paragraph 2 outlines general guidelines without personal anecdotes.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate a similar level of spelling and typographical accuracy, with no evident errors in either paragraph.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, the texts show variations that suggest different authors. However, the similarity in spelling and typographical accuracy slightly increases the likelihood of a shared author. Therefore, the overall confidence score is moderate, indicating a cautious assessment.",
+    "score": 0.54
+  }
+}

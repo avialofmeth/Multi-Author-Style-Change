@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon for emphasis and clarity, while Paragraph 2 lacks such punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains formal language related to subreddit rules, while Paragraph 2 is more informal and colloquial in discussing personal opinions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have similar sentence lengths and structures, with clear coherence and cohesion within each text.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and procedural, while Paragraph 2 is opinionated and speculative, showing different narrative styles.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, text and discourse features, and spelling, the overall likelihood of the same authorship is low.",
+        "score": 0.54
+    }
+}

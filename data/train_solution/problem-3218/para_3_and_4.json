@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and periods, but differ in the use of brackets, colons, and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual tone with informal language and similar word choices, indicating a potential similarity in authorship.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts are short and straightforward without significant complexity in sentence structures or arrangement.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text expresses personal opinions and political preferences, while the second text seems to be an instruction or guideline, indicating a difference in narrative style and speech events.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the commonalities in punctuation style, lexical features, and sentence structure, along with the absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

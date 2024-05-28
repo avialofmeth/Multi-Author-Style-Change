@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain informal language with the use of hyphens, commas, and casual expressions.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show a mix of technical terms in the first text and specific aircraft names in the second text, indicating some variation.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures differ with the first text having longer, complex sentences compared to the shorter, more direct sentences in the second text.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a casual tone with references to military aircraft, but the contexts and expressions vary significantly.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structures, lexical choices, and overall tone, there is moderate evidence to suggest that the two texts were not written by the same author.",
+        "score": 0.66
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal and profane language with swearing, while paragraph 2 maintains a formal and respectful tone. This indicates a significant difference in punctuation style.",
+    "score": 0.1
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more aggressive and confrontational lexical choice compared to the polite and neutral tone of paragraph 2. This suggests a notable contrast in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and more straightforward sentences, whereas paragraph 2 has longer and more complex sentence structures. This difference in sentence structure and coherence indicates a significant contrast.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a confrontational and accusatory tone, while paragraph 2 emphasizes the importance of respectful communication. The differing narrative styles and speech events suggest a marked disparity.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either paragraph, indicating consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two paragraphs, the overall confidence in them being written by the same author is low.",
+    "score": 0.36
+  }
+}

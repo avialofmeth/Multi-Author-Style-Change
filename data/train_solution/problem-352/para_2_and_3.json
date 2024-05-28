@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks and include punctuation like hyphens, commas, and periods in a conventional manner.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. The first paragraph is more formal in tone, while the second paragraph contains more informal language.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are varied, with a mix of complex and simple sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first paragraph is more formal and informative, focusing on subreddit guidelines. The second paragraph is more casual and opinionated, discussing media behavior.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, sentence structures, and absence of spelling errors, along with some differences in lexical choices and tone, there is moderate confidence that the texts were written by the same author.",
+        "score": 0.72
+    }
+}

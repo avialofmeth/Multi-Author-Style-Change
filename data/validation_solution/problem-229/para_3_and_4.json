@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with a colon and period. Paragraph 2 lacks proper punctuation, using no colons or periods.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit differences in word choice and style. Paragraph 1 focuses on technical terms related to satellite activities, while paragraph 2 is more diplomatic in language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences and more technical language compared to the shorter and more straightforward sentences in paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more factual and informative tone, while paragraph 2 is more opinionated and critical. Both exhibit different narrative styles.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.46
+    }
+}

@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use commas, periods, and parentheses in a similar manner. However, the first text has more instances of exclamation marks and lacks the use of quotation marks compared to the second text.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "The first text contains more informal and emotionally charged language with phrases like 'pull your heads out of your butts' and 'they are the enemy.' The second text, on the other hand, maintains a more formal and polite tone throughout.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "Both texts exhibit varying sentence lengths and structures. The first text has longer and more complex sentences, while the second text consists of shorter and more straightforward sentences.",
+      "score": 0.7
+   },
+   "feature4": {
+      "explanation": "The first text adopts a confrontational and aggressive tone, using strong language to convey a sense of urgency and warning. In contrast, the second text promotes courteous behavior and emphasizes respectful communication.",
+      "score": 0.2
+   },
+   "feature5": {
+      "explanation": "There are no apparent spelling or typographical errors in either text.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the differences in tone, language style, and sentence structure between the two texts, the likelihood of them being written by the same author is moderate.",
+      "score": 0.56
+   }
+}

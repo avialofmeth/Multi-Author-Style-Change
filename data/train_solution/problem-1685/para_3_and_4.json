@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas, question marks, and periods. However, the first text includes more formal punctuation like colons and parentheses, while the second text includes non-standard spellings like 'qonceive' and 'qomprehend'.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The first text uses more formal and standard vocabulary and grammar, while the second text includes non-standard spellings and word choices ('Qrowd', 'Qonceive', 'qomprehend'). This indicates a difference in lexical and grammatical features.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward. However, the first text is more coherent and structured, while the second text seems to lack coherence and uses non-standard spellings. The sentence complexity in the first text is higher than in the second text.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text has a formal tone and provides clear instructions, while the second text has a more informal and possibly sarcastic tone. This difference in narrative styles and tone indicates a distinction between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "The second text includes intentional misspellings ('Qrowd', 'Qonceive', 'qomprehend'), which suggests a deliberate stylistic choice or a possible attempt at humor. The first text does not contain such spelling errors.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, coherence, narrative style, and spelling errors, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.44
+  }
+}

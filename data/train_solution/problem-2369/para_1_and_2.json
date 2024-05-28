@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation marks such as hyphens, commas, and quotation marks. They both display consistent punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. The first text shows a more formal and structured language with specific healthcare-related terms, while the second text is informal and technical with industry jargon.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both texts varies, with the first text containing longer and more complex sentences related to healthcare issues, while the second text has shorter, more direct sentences about technical matters.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the two texts differ significantly. The first text is informative and opinionated, discussing healthcare policies, while the second text is more casual and skeptical, related to web app industry language.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, as well as the distinct narrative styles and tones, it is unlikely that the two texts were written by the same author.",
+    "score": 0.58
+  }
+}

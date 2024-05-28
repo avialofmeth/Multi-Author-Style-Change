@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons to introduce lists. However, only the first text uses periods to separate sentences.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of formality in word choice and sentence structure.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have a similar sentence structure with concise and straightforward expressions.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts share a serious and factual tone, focusing on conveying information rather than expressive language.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in word choice, sentence structure, and tone, coupled with the absence of spelling errors, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

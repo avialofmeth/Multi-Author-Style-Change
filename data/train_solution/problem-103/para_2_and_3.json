@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use mostly standard punctuation marks such as commas and periods. However, the first text includes a colon and two sets of parentheses, while the second text includes a question mark and an exclamation point.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts exhibit differences in word choice and complexity. The first text contains more formal language related to guidelines and criteria, while the second text uses more informal and colloquial language related to arguing and Twitter.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The first text is longer and more structured, with clear sentence arrangements. In contrast, the second text is shorter and lacks cohesive sentence structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts have different narrative styles and tones. The first text adopts a formal and informative tone, while the second text conveys a more casual and argumentative tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts exhibit differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, suggesting potential different authors. However, the absence of spelling errors increases the likelihood of a shared author. The overall confidence score is moderate.",
+        "score": 0.5
+    }
+}

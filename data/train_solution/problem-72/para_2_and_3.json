@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal language with profanity ('fucked up'), while Paragraph 2 maintains a more formal tone and does not contain any profanity.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs demonstrate a similar level of vocabulary and grammar complexity, with no significant differences in lexical choices or grammatical structures.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in sentence structure, lacking complexity or extensive elaboration.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a more emotional and informal tone, while Paragraph 2 adopts a more objective and factual tone, showing a divergence in narrative styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a consistent level of accuracy in written expression.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, narrative tone, and the presence of profanity in Paragraph 1, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.58
+    }
+}

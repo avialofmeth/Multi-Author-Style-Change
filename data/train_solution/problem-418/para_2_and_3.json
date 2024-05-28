@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon for introducing additional information, whereas Paragraph 2 lacks this punctuation style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language related to media outlets and subreddit guidelines, while Paragraph 2 contains more aggressive and informal language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured as a formal announcement with clear sentence arrangements, while Paragraph 2 is a more emotional and expressive statement lacking clear coherence and structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, typical of official announcements, while Paragraph 2 expresses strong emotions and a different tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the texts show significant differences in terms of language use, tone, and structure, suggesting they are unlikely to be written by the same author.",
+        "score": 0.46
+    }
+}

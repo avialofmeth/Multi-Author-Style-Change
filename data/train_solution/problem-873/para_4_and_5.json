@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and quotation marks, while Paragraph 2 uses commas and quotation marks. Both paragraphs exhibit the use of punctuation marks, but the specific types differ.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more complex vocabulary and phrases like 'heart-wrenching' compared to the more straightforward language in Paragraph 2. This difference in lexical complexity suggests a variance in word choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more structured sentences, while Paragraph 2 is more concise and straightforward. The sentence structures and length vary significantly between the two texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a more emotional tone with phrases like 'heart-wrenching,' whereas Paragraph 2 maintains a neutral tone in its delivery. The narrative styles and tone differ between the two paragraphs.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either paragraph, indicating consistency in this aspect.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and narrative tone, along with the consistent absence of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

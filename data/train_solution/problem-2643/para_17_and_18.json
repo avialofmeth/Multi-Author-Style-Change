@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses commas and dash for punctuation, while Paragraph 2 includes a comma and a period. Different punctuation styles can indicate different writing habits or preferences.",
+      "score": 0.4
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 contains more formal language with words like 'minorities rights' and 'misinformation.' Paragraph 2 uses informal language with terms like 'comrade.' The lexical and grammatical features show some variation.",
+      "score": 0.6
+   },
+   "feature3": {
+      "explanation": "Both paragraphs have similar sentence lengths and structures. They are coherent and cohesive in their expression. The quantitative features align well.",
+      "score": 0.8
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 discusses European countries and rights, while Paragraph 2 refers to Russia and uses the term 'comrade.' The text and discourse features indicate different topics and tones.",
+      "score": 0.2
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were observed in either paragraph. Both texts are correctly spelled and free of errors.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, it is less likely that the two texts were written by the same author. However, the coherence in sentence structure and absence of spelling errors increase the likelihood slightly.",
+      "score": 0.6
+   }
+}

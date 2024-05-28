@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation such as colons and commas in a structured manner, while Paragraph 2 includes informal punctuation like ellipses and lacks structured use of commas.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical and grammatical complexity with specific terms related to legislation and environmental issues. Paragraph 2 contains more informal language and a mix of technical terms and colloquial expressions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, structured sentences with clear connections between ideas. Paragraph 2 features shorter, fragmented sentences with abrupt transitions and a less coherent structure.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal, informative tone focused on environmental policies and progress. Paragraph 2 adopts a more conversational, alarmist tone discussing a specific environmental threat.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical complexity, sentence structure, and tone, along with the similarity in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is relatively low.",
+    "score": 0.44
+  }
+}

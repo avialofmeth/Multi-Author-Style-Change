@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use different punctuation styles, with Paragraph 1 employing formal punctuation such as colons and commas, while Paragraph 2 uses more informal punctuation with run-on sentences and lack of commas.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "There is a stark contrast in lexical and grammatical features between the two texts. Paragraph 1 contains formal language related to media outlets and subreddit guidelines, while Paragraph 2 uses informal and colloquial language discussing conspiracy theories and political corruption.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Sentence structures in the two texts differ significantly. Paragraph 1 consists of concise and structured sentences, whereas Paragraph 2 has longer and less organized sentences with informal language.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the narrative styles and speech events are distinct. Paragraph 1 is more informative and formal, while Paragraph 2 expresses strong opinions and conspiratorial ideas in an informal tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structures, and text discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.36
+  }
+}

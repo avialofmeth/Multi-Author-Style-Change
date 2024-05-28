@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, colons, and informal punctuation like ellipses. However, the first text uses more informal punctuation like swear words and lacks proper capitalization in some instances.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts use a similar informal and conversational tone. However, the first text contains more informal expressions and stronger language compared to the second text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and express strong opinions. The first text is more fragmented and less structured compared to the second text.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts discuss political issues and express opinions rather than providing factual information. The tone of the first text is more emotional and intense compared to the second text, which is more matter-of-fact.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features, there are notable similarities in informal tone and political discussion style between the two texts, but differences in intensity and structure. The average confidence score is 0.72, indicating a moderate likelihood that the texts were written by the same author.",
+        "score": 0.72
+    }
+}

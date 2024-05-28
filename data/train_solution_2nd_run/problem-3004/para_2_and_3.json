@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and parentheses, while paragraph 2 contains informal punctuation like quotation marks and dashes.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 is more formal and technical in word choice, while paragraph 2 is informal and uses more slang.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features vary significantly between the two paragraphs. Paragraph 1 is more structured and coherent, while paragraph 2 is more fragmented and lacks cohesion.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features like narrative style and tone are distinct in the two paragraphs. Paragraph 1 is informative and guidelines-oriented, while paragraph 2 is opinionated and expressive.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features.",
+    "score": 0.44
+  }
+}

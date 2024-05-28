@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation such as colons and quotation marks, while Paragraph 2 uses informal punctuation like ellipses and slang terms like 'Whelp'.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choice and word usage between the two paragraphs, with Paragraph 1 using more standard vocabulary compared to the informal language and slang in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have similar sentence complexity and structure, with coherent flow and average sentence lengths. However, Paragraph 2 shows a slightly more casual tone.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs exhibit a pessimistic tone, but the narrative styles differ with Paragraph 1 discussing a broader time frame while Paragraph 2 focuses on specific countries.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and narrative styles, as well as the similarity in sentence structure and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.5
+  }
+}

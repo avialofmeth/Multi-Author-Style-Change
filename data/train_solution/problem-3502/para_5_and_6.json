@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Text 1 and Text 2 both use commas appropriately in their sentences for listing items and separating clauses. However, Text 2 uses more parentheses and Text 1 includes a colon.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical choices and word usage. Text 1 includes phrases like 'major props' and 'behind enemy lines' which are absent in Text 2. Text 2, on the other hand, uses economic and business-related vocabulary not present in Text 1.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, more direct sentences compared to the longer, more complex sentences in Text 2. Text 1 is more straightforward in structure, while Text 2 contains more varied sentence lengths and structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have different narrative styles and topics, with Text 1 discussing military actions and attacks while Text 2 focuses on economic impacts of war and sanctions. The tone and mood also differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, it is unlikely that the two texts were written by the same author. The presence of distinct vocabulary, sentence structures, and narrative focuses suggests different writing styles.",
+        "score": 0.6
+    }
+}

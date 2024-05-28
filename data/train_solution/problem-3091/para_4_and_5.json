@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features are different due to the nature of the content; however, both texts display a certain level of formality in language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features differ significantly as one is a statement while the other is an automated response.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary greatly due to the context and purpose of each text.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in content and purpose, the texts exhibit some similarities in punctuation and formality but diverge in other linguistic features, leading to a low likelihood of being written by the same author.",
+        "score": 0.62
+    }
+}

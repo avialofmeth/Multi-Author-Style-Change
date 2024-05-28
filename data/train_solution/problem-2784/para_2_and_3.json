@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation such as colons and parentheses, while Paragraph 2 lacks such formal punctuation and uses more informal punctuation like commas and quotation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more formal and structured lexical and grammatical style, with specific terminology related to media outlets. Paragraph 2, on the other hand, has a more informal and emotive word choice with terms like 'desperately' and 'exploit'.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of more complex and structured sentences, focusing on providing information. Paragraph 2, in contrast, has shorter and more emotionally charged sentences, lacking the complexity seen in the first paragraph.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more neutral and informative tone, typical of informational texts. Paragraph 2, however, displays a more opinionated and accusatory tone, indicating a shift in narrative style and speech events.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not show spelling or typographical errors, indicating a shared attention to detail in terms of accuracy.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the shared lack of spelling errors, the likelihood of the two texts being written by the same author is relatively low.",
+    "score": 0.44
+  }
+}

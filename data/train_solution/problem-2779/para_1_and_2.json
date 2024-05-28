@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of colons, commas, and quotation marks. However, the first text shows a more formal and structured punctuation style with the use of hyphens, parentheses, and brackets, whereas the second text is more conversational and lacks these additional punctuations.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text demonstrates a more formal and complex lexical and grammatical style with a focus on specific terms related to war and politics. In contrast, the second text is simpler and more conversational, using common language and expressions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text is characterized by longer and more complex sentences with a focus on coherence and cohesion to convey detailed arguments. On the other hand, the second text consists of shorter, more straightforward sentences that lack the same level of depth and complexity.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a serious and formal tone, reflecting a similar narrative style. However, the first text leans towards a more authoritative and commanding tone, while the second text adopts a slightly more sarcastic and informal tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of written language.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the different features, there are notable similarities in punctuation style, formality, and lack of spelling errors between the two texts. However, differences in lexical complexity, sentence structure, and tone suggest some variance in writing style, leading to moderate confidence in the texts being written by the same author.",
+    "score": 0.64
+  }
+}

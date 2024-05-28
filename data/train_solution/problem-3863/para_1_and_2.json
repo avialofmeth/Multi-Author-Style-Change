@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, slashes, and periods, while Paragraph 2 lacks the same diversity in punctuation usage.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a formal tone with a focus on rule violations and bans, using more complex lexical and grammatical structures. In contrast, Paragraph 2 has a more casual tone and simpler lexical choices.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences focusing on rules and consequences, whereas Paragraph 2 consists of shorter and simpler sentences discussing gambling in a more direct manner.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more instructional and formal style, emphasizing guidelines and consequences. In contrast, Paragraph 2 takes on a conversational tone discussing gambling practices.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts do not exhibit spelling or typographical errors, maintaining a standard level of correctness in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show distinct writing styles. However, the absence of spelling and typographical errors provides a slight commonality. The overall confidence score is moderately low.",
+        "score": 0.5
+    }
+}

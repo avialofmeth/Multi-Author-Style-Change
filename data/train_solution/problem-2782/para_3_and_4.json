@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain standard punctuation marks such as commas and periods. While the first text includes more formal punctuation like colons and parentheses, the second text lacks these formal punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts differ significantly. The first text is more formal and informational, using specific terminology related to media outlets. In contrast, the second text is more casual and opinionated, with a focus on political figures and actions.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary in complexity and length. The first text is more structured and formal with longer sentences, while the second text contains shorter, more direct sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the first text adopts a professional and directive tone, providing guidelines and information. The second text has a more conversational and opinionated tone, expressing irony and political viewpoints.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, the two texts show differences in punctuation style, lexical and grammatical features, sentence structures, and text/discourse features, indicating a low likelihood of being written by the same author.",
+    "score": 0.44
+  }
+}

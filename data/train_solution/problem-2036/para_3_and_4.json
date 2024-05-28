@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons and quotation marks, showing some similarity in punctuation style.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts due to the content mismatch, making it hard to assess similarity accurately.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structure and quantitative features are different due to the content mismatch, making it challenging to determine author similarity based on this feature.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles, tone, and mood vary greatly between the two texts, indicating a low likelihood of being written by the same author.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, showing consistency in this aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the mixed results in different features, with some showing similarity (punctuation and spelling) and others showing significant differences (lexical, grammatical, and narrative style), the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.46
+    }
+}

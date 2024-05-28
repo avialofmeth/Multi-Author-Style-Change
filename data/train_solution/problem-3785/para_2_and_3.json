@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens, colons, and commas in a similar manner. However, there are differences in the use of parentheses, brackets, and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical choices and word usage in the two paragraphs differ significantly. One paragraph discusses fear of Putin, while the other mentions support for a megalomaniac leader.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure and complexity vary between the two paragraphs. One paragraph is more straightforward, while the other is more detailed and descriptive.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The tone and mood of the two paragraphs differ greatly. One conveys fear and apprehension, while the other expresses criticism and condemnation.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structure, and tone, along with the similarities in punctuation usage and lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.52
+    }
+}

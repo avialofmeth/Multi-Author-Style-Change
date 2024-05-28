@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show a similar use of punctuation marks such as commas and periods. However, there are differences in the use of specific punctuation like hyphens, brackets, colons, parentheses, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The two texts exhibit differences in lexical choices and word usage, indicating potential variation in the writing style. Grammatical features also vary, with differences in sentence structures and part of speech usage.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence complexity, length, and coherence between the texts. Quantitative features like word and sentence length also vary, suggesting potential differences in writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly between the two texts. The narrative styles, speech events, tone, and mood are distinct, indicating a divergence in writing styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts do not exhibit spelling and typographical errors, showing consistency in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, it appears that the two texts are likely written by different authors due to significant differences in lexical and grammatical features, sentence structures, and discourse features. However, the consistent absence of spelling and typographical errors increases the confidence slightly.",
+    "score": 0.48
+  }
+}

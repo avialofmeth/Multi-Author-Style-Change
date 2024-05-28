@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of ellipses, commas, and periods. However, the presence of specific punctuation marks like colons, brackets, and quotation marks may differ.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are some similarities in lexical and grammatical features such as informal language and sentence structures. However, differences in word choice and grammatical constructions may suggest variations in authorship.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "While both texts show similarities in sentence length and coherence, there are differences in the descriptive nature and narrative styles. Sentence complexity and arrangement also vary between the two paragraphs.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ significantly between the texts. One text discusses future plans while the other describes a physical space. Tone and mood are distinct in each paragraph.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were noted in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the individual features, the overall confidence score that the two texts were written by the same author is moderate. While there are some shared characteristics in punctuation styles and absence of errors, differences in lexical choices, narrative styles, and tone suggest potential variations in authorship.",
+        "score": 0.54
+    }
+}

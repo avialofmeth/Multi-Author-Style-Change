@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks like commas and periods. However, paragraph 1 includes a hyphen and paragraph 2 uses parentheses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs display similar lexical and grammatical features with clear and concise language. However, paragraph 1 includes more informal language compared to the more formal tone of paragraph 2.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both paragraphs are relatively short and straightforward. Paragraph 1 contains a simile for illustration while paragraph 2 is a direct statement.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "There is a difference in text and discourse features as paragraph 1 presents a casual comparison related to gaming, while paragraph 2 provides a formal statement as an automated response.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the collective analysis of the linguistic features, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

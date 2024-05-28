@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of standard punctuation marks like periods, commas, and question marks.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "While the lexical and grammatical features differ greatly due to the different topics and purposes of the texts, there are some commonalities in terms of simplicity and directness in language use.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Sentence structure and length vary significantly between the two texts, with the first being shorter and more concise compared to the second, which is more elaborate and persuasive.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ substantially as one text is informative and the other is urging action. The narrative styles and speech events are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in content and purpose, the punctuation style and lack of spelling errors suggest some consistency in the writing style, even though lexical, structural, and discourse features vary significantly.",
+    "score": 0.64
+  }
+}

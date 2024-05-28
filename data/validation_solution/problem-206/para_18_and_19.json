@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas, quotation marks, and question marks.",
+    "score": 0.85
+  },
+  "feature2": {
+    "explanation": "Both texts show some differences in lexical and grammatical features, such as formality and word choice.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more concise and straightforward, while Paragraph 2 is more conversational and informal.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone, whereas Paragraph 2 is casual and includes informal speech events.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the mix of similarities and differences in the linguistic features analyzed, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.73
+  }
+}

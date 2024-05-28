@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks like commas and question marks. However, there are differences in the use of specific punctuation marks like colons and parentheses.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are similarities in the lexical choices and word usage in both texts, indicating a potential overlap in the author's style. However, there are also notable differences in the overall tone and vocabulary.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts show some similarities in terms of complexity and coherence. However, there are variations in sentence length and arrangement.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Both texts share a common theme of discussing Putin's actions, but the tone and mood differ slightly. One text focuses on geopolitical strategies, while the other delves into Putin's personal motivations.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text, indicating a consistent level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. While there are notable similarities in punctuation style, sentence structure, and absence of spelling errors, differences in lexical features and tone suggest some variation in writing style. The overall confidence score is 0.73.",
+        "score": 0.74
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and parentheses, but only the first text includes colons and brackets.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone with a mix of complex and simple sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The first text is more structured and directive in nature, while the second text is more descriptive.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey information in a factual manner, but the second text has a more negative tone due to the content.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in the linguistic features analyzed, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.64
+  }
+}

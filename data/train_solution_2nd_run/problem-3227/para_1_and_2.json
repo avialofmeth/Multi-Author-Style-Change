@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as hyphens, parentheses, and quotation marks. However, Text 1 uses colons more frequently compared to Text 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual tone with informal language and expressions. Lexical variation and word choice differ slightly due to the different topics discussed.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts feature relatively short and straightforward sentences with a conversational style. The sentence structures are similar in terms of simplicity and coherence.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts display a critical and questioning tone towards the subject matter. While Text 1 presents a more formal critique, Text 2 adopts a more sarcastic and dismissive tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, sentence structure, and absence of spelling errors, along with the differences in tone and lexical choices, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

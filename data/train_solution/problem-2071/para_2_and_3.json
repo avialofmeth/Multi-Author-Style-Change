@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks for direct speech and colons for emphasis. However, only the first text uses quotation marks around 'requested immunity'.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual, conversational tone with some lexical variation. The second text has a more informal style with phrases like 'Missing the point here guy', which is not present in the first text.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively simple and direct. Both texts are coherent in their arguments. However, the second text has slightly longer sentences compared to the first.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts express strong opinions and use informal language. However, the first text uses more direct criticism ('That is a lie'), while the second text uses a more anecdotal style ('Used to be legal to beat your wife in the US').",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities and distinctions in writing style, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.7
+  }
+}

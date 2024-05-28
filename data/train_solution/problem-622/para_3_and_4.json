@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles with the presence of hyphens, commas, and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical choices and grammatical structures between the texts, such as the use of technical terms like 'F-35s', 'Patriot missile systems', 'F-16s', and consistent grammar throughout.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are comparable in terms of complexity and coherence. Both texts present coherent arguments with varying sentence lengths.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar formal and technical tone focusing on military strategy and equipment, indicating a shared discourse style.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the alignment in punctuation, lexical choices, sentence structure, discourse style, and absence of errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.82
+    }
+}

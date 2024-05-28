@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, while Paragraph 2 uses quotation marks. The use of punctuation differs significantly.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains a negative sentiment with words like 'disaster', while Paragraph 2 is more positive using words like 'scenic' and 'marveling'. The lexical and grammatical features show a contrast in tone and word choice.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is a short sentence expressing a negative opinion. Paragraph 2 is longer and descriptive. The sentence structure and quantitative features vary significantly.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more critical tone, whereas Paragraph 2 is more descriptive and positive. The text and discourse features indicate a difference in narrative styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.44
+  }
+}

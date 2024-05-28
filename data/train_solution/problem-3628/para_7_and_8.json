@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as ellipses, colons, and quotation marks to convey emphasis and structure the text. Paragraph 2 lacks such diversity and uses simpler punctuation marks like periods and commas.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and elevated lexical and grammatical style with words like 'abject terror' and structured sentences. In contrast, Paragraph 2 has a more informal and straightforward word choice with phrases like 'paycheck to paycheck' and simpler sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences that flow cohesively to convey a distinct tone and mood. Paragraph 2 has shorter, fragmented sentences that lack the same level of coherence and depth.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in Paragraphs 1 and 2 differ significantly. Paragraph 1 focuses on bravery, battle, and violence, while Paragraph 2 discusses poverty, work, and societal systems. The tone, mood, and expressions used are dissimilar.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, and narrative styles between the two texts. The presence of spelling and typographical errors is the only strong commonality. Therefore, the overall confidence in the likelihood of the two texts being written by the same author is low.",
+        "score": 0.42
+    }
+}

@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses colons, single quotes, and hyphens in a specific manner, while Paragraph 2 includes commas and quotation marks differently.",
+      "score": 0.3
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 shows lexical variation with terms like 'EXCLUSIVE:' and 'HOT:', while Paragraph 2 uses more straightforward language.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 has short and declarative sentences, focusing on rules. Paragraph 2 contains longer, descriptive sentences about a specific event.",
+      "score": 0.2
+   },
+   "feature4": {
+      "explanation": "Narrative styles differ significantly; Paragraph 1 is informative and instructional, while Paragraph 2 presents a specific event with a narrative touch.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "Both texts seem to be free of spelling and typographical errors based on the provided excerpts.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and narrative styles, along with the commonality in lack of spelling errors, the likelihood of the same author is moderate.",
+      "score": 0.44
+   }
+}

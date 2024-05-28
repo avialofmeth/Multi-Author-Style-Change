@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and question marks. However, there are differences in the use of hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in the lexical choices and word usage in terms of formal language. Both texts use formal language and political terms. However, there are differences in the tone and specific vocabulary used.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts consist of short to medium-length sentences with clear coherence. The sentence structure is direct and to the point in both cases. However, there are variations in sentence complexity and arrangement.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts convey opinions and critical viewpoints. However, the tone and mood differ between the two texts. One text is more neutral in tone while the other expresses strong disapproval.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the overall confidence score for the likelihood that the two texts were written by the same author is moderate. While there are similarities in punctuation use and sentence structure, there are notable differences in lexical choices, tone, and discourse features.",
+        "score": 0.64
+    }
+}

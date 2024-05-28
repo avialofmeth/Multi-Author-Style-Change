@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, periods, and hyphens. Paragraph 2 lacks diverse punctuation marks, mostly relying on commas and periods.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 is more formal and structured, while Paragraph 2 includes informal language and slang.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences with a formal tone. Paragraph 2 has shorter sentences and a more conversational style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a diplomatic and polite tone. Paragraph 2 conveys a sense of anger and frustration.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, along with the similarities in spelling and typographical accuracy, the likelihood of the two texts being written by the same author is low. The overall confidence score is 0.44.",
+        "score": 0.44
+    }
+}

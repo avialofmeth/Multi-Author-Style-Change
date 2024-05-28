@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas appropriately within the sentence structure. Paragraph 2 includes a comma before 'Bernie' which is not necessary.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses specific terms like 'White Christian Nationalism' whereas Paragraph 2 uses more general terms like 'Bernie' and 'Biden'. This indicates a difference in lexical choices.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have similar sentence lengths and coherence. However, Paragraph 1 has a more complex sentence structure compared to the simpler sentences in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and critical tone discussing a sensitive topic, while Paragraph 2 expresses a more casual and appreciative tone. This difference in tone suggests a lack of similarity in narrative styles.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structure, and narrative tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

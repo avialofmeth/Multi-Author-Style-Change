@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and commas, while Paragraph 2 uses slashes and parentheses. There is some variation in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts contain technical terms related to data collection and tracking. However, the lexical variation and word choice differ slightly.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is longer and more complex in sentence structure compared to Paragraph 2. There are differences in coherence and cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey information in a formal tone. However, the narrative styles and speech events differ due to the different contexts.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

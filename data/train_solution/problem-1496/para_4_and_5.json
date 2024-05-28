@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, quotation marks, and commas.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and sentence structures between the two texts, which may indicate different authors.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures and coherence show some differences in style, suggesting potential different authors.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the two texts differ, indicating a variance in authorship.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the different features, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.64
+  }
+}

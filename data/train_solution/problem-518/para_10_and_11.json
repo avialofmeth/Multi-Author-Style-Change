@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and conjunctions to form longer, complex sentences, while Paragraph 2 features shorter, more fragmented sentences with fewer punctuations.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit lexical variation and use different word choices, indicating a difference in writing styles.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows a higher level of sentence complexity and coherence compared to the simpler structure and lack of cohesion in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two paragraphs differ significantly; Paragraph 1 has a more formal and analytical tone, while Paragraph 2 is more informal and conversational in nature.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative style, the overall confidence score in the two texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

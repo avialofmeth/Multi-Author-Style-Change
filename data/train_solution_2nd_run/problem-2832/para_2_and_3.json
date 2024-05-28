@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with the presence of commas, quotation marks, and periods. However, Paragraph 1 lacks the specific punctuation elements mentioned in Paragraph 2 such as colons and hyphens.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There is some consistency in lexical and grammatical features as both texts contain technical vocabulary related to military systems. However, the word choice and sentence structures differ slightly between the two paragraphs.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts exhibit complexity, but the arrangement and coherence differ. Paragraph 1 has shorter, fragmented sentences compared to the more cohesive and detailed sentences in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, both paragraphs convey a formal tone and discuss military technology. However, the narrative styles and expressions used vary between the two texts.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall likelihood that the two texts were written by the same author is moderate, with some similarities in punctuation style and lexical features but noticeable differences in sentence structure and discourse features.",
+    "score": 0.58
+  }
+}

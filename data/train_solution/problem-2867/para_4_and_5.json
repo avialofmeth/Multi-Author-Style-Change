@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas to separate clauses and phrases, while Paragraph 2 lacks punctuation except for the final period.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a mix of complex and simple sentences with varied word choices. Paragraph 2 is straightforward and lacks lexical variation.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more complex structures. Paragraph 2 is brief and direct.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a narrative style with a tone of analysis. Paragraph 2 is a standard bot response.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.46
+  }
+}

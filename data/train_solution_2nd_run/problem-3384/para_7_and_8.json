@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style with commas and periods, but differ in the use of hyphens, brackets, colons, parentheses, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The two texts exhibit some similarities in lexical and grammatical features such as sentence structure and word choice, but also have differences in terms of formality and specific vocabulary used.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively simple sentence structures and similar coherence, but differ in terms of sentence length and arrangement.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The two texts have different narrative styles and speech events. One is more formal and information-oriented, while the other is more personal and specific to a subreddit.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "After considering all features, the average confidence score of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

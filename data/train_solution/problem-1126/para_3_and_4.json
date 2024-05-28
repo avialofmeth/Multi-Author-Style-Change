@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation marks such as commas and question marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features, with variations in word choice and sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures and quantitative features differ significantly between the texts in terms of complexity and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features vary notably, with one text discussing investment firms and the other focusing on companies involved in a mess.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text discourse features, the overall confidence in the texts being written by the same author is low.",
+        "score": 0.48
+    }
+}

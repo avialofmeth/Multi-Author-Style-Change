@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a lack of standard punctuation with missing commas, periods, and inconsistent capitalization. It also includes informal language with profanity, which is not present in Paragraph 2.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses informal language, slang, and lacks grammatical accuracy with errors in subject-verb agreement. Paragraph 2, in contrast, maintains a more formal and structured language with correct grammar.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is characterized by longer sentences, repetition, and lack of coherence. In contrast, Paragraph 2 features shorter, more concise sentences with clear coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a strong emotional tone with accusations and profanity, while Paragraph 2 maintains a neutral and formal tone. The narrative styles and speech events differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 contains several typographical errors and misspellings, which are absent in Paragraph 2.",
+    "score": 0.2
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors between the two texts, the overall likelihood that they were written by the same author is low.",
+    "score": 0.24
+  }
+}

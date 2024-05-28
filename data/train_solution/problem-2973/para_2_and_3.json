@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more diverse punctuation marks such as colons and parentheses, while Paragraph 2 has a simpler punctuation style with ellipses and question marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show variation in word choice and sentence structure, but Paragraph 1 exhibits a more formal and structured lexical and grammatical style compared to the more informal tone of Paragraph 2.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with a focus on cohesive arguments, while Paragraph 2 consists of shorter, more fragmented sentences with a conversational tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and analytical tone discussing societal issues, whereas Paragraph 2 has a more casual and colloquial tone focusing on wealth and power distribution.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the similarities in spelling and typographical accuracy, the overall confidence score is moderate.",
+    "score": 0.52
+  }
+}

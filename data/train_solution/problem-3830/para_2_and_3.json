@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of colons and commas for enumeration and separation of ideas.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly in terms of vocabulary and tone, with the second text displaying more informal language and specific political references.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both texts vary in sentence complexity and structure, with the second text containing more complex sentence patterns.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The texts differ in narrative style and tone, with the second text being more opinionated and critical.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different linguistic features, the overall confidence in the texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

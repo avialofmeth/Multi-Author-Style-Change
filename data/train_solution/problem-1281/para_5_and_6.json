@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, Text 1 includes a colon, while Text 2 includes a question mark and an exclamation mark.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. Text 1 uses more formal language with phrases like 'action was performed automatically,' while Text 2 has a more conversational tone with phrases like 'What risk exactly?'",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 consists of a single short sentence, whereas Text 2 contains a longer, more complex sentence with multiple clauses. This indicates a difference in sentence structure and complexity.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 has a neutral and informative tone, typical of automated messages. In contrast, Text 2 conveys a more opinionated and conversational tone with phrases like 'watch cancer rates sky rocket in Ohio.'",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score for the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

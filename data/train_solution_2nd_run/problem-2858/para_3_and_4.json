@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, colons, and commas to separate clauses and phrases. However, only text 1 utilizes parentheses and quotation marks.",
+    "score": 0.75
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone with complex sentence structures. They use varied vocabulary and maintain grammatical accuracy.",
+    "score": 0.85
+  },
+  "feature3": {
+    "explanation": "Text 1 is longer and more detailed, with a mix of sentence lengths. Text 2 is short and direct. Both maintain coherence and clarity.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Text 1 has a serious tone discussing political strategy, while text 2 is automated and neutral in nature.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, and absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.75
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks such as periods and commas without any unique or distinctive styles. In contrast, Paragraph 2 includes more informal punctuation like the use of asterisks for emphasis and a swear word, indicating a different style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a formal and straightforward lexical and grammatical style with no distinctive word choice. Paragraph 2, on the other hand, shows a more informal and emotive word choice with phrases like 'terrifying' and 'fuckers,' suggesting a divergence in writing style.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have a similar sentence structure in terms of length and complexity, with straightforward and coherent expressions. This similarity in sentence structure contributes to a higher likelihood of being written by the same author.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and formal tone typical of automated responses, while Paragraph 2 conveys a more personal and emotional tone. This difference in tone and narrative style indicates a potential variance in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, demonstrating a consistent level of attention to detail in writing. This similarity in error-free text contributes positively to the likelihood of the same author.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering all the features analyzed, the overall confidence score of the two texts being written by the same author is moderate, with notable divergences in punctuation style, lexical and grammatical features, and narrative tone. However, the consistency in sentence structure and absence of spelling errors suggest a partial alignment in writing style.",
+        "score": 0.52
+    }
+}

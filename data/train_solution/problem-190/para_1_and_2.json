@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and periods in a structured manner for punctuation. Paragraph 2 lacks similar structured use of punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a more formal and technical lexical and grammatical style. Paragraph 2 uses simpler language and lacks technical terms.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both texts have similar sentence structures with coherent ideas. Paragraph 1 has longer sentences compared to Paragraph 2.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more analytical tone with planned ideas. Paragraph 2 has a more emotional and descriptive tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the different features analyzed, there are notable differences in punctuation style, lexical and grammatical features, and tone between the two texts. However, the coherence in sentence structure and absence of spelling errors indicate some commonality in writing style. The average confidence score is moderate.",
+    "score": 0.52
+  }
+}

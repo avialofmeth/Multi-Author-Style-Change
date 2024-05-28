@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and quotation marks, while Paragraph 2 uses commas and quotation marks as well. Both texts exhibit similar punctuation styles.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes formal language with words like 'men, women, children, Islamic Regime.' Paragraph 2 uses more colloquial language with phrases like 'Sick to my back teeth, local population, we need the money.' There is a notable difference in lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more complex sentences compared to Paragraph 2 which has shorter, more straightforward sentences. The sentence structure and quantitative features vary significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and grave tone discussing killings, while Paragraph 2 has a more casual and disappointed tone regarding a deal and money. The narrative styles and tone are dissimilar.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, it is unlikely that the two texts were written by the same author.",
+        "score": 0.54
+    }
+}

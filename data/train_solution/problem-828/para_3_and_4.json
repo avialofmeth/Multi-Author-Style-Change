@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as hyphens, colons, and commas. However, the second text lacks the variety of punctuation found in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text uses formal language and specific terms related to rules and guidelines, while the second text is more informal and conversational.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and straightforward. However, the first text contains longer sentences with clear organization, whereas the second text is more fragmented and lacks cohesion.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a formal and instructive tone, emphasizing guidelines and rules. In contrast, the second text adopts a casual and conversational tone, expressing personal opinions and frustrations.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and tone between the two texts, there are notable discrepancies that suggest they may not have been written by the same author. However, the absence of spelling and typographical errors provides some common ground. The overall confidence score reflects the mixed evidence from the five features.",
+        "score": 0.56
+    }
+}

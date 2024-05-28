@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, periods, and slashes. It also includes brackets for additional information. Paragraph 2 uses commas, periods, and question marks with some informal language.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a more formal style with complex sentences and a mix of vocabulary. Paragraph 2 has a more informal tone with simpler sentence structures and colloquial language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with more complex structures. Paragraph 2 has shorter sentences with a more straightforward composition.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses societal issues with a critical tone towards a specific group. Paragraph 2 focuses on technological advancements with a positive outlook on the future.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical features, sentence structures, and discourse styles, there is moderate evidence to suggest that the texts were not written by the same author.",
+        "score": 0.5
+    }
+}

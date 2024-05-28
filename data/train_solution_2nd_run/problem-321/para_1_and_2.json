@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including parentheses, commas, and colons. However, paragraph 1 contains more complex punctuation usage compared to paragraph 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similarities in lexical and grammatical features with a focus on formal language and legal terminology. However, paragraph 1 shows more diverse vocabulary and complex sentence structures compared to paragraph 2.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 displays a higher level of sentence complexity and quantitative features, including longer sentences and detailed explanations compared to paragraph 2. Paragraph 2 is more straightforward and direct in its sentence structure.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts share a similar discourse feature in expressing dissatisfaction with political situations. However, paragraph 1 uses a more analytical tone, questioning the legitimacy of financial claims, while paragraph 2 is more emotional and calls for action.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood of the two texts being written by the same author is moderate, as they share similarities in punctuation, lexical and grammatical features, and discourse style, but also exhibit differences in sentence complexity and tone.",
+    "score": 0.76
+  }
+}

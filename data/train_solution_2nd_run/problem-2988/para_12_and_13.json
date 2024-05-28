@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs exhibit similar punctuation usage, including commas and colons. However, there are differences such as the use of hyphens in Paragraph 1 and the absence of quotation marks in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical choices and grammatical structures, such as the use of informal language and political terminology. However, there are also differences in the level of formality and specific vocabulary used.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have a similar sentence structure in terms of complexity and coherence. However, Paragraph 1 is slightly longer and contains more detailed information compared to the more concise Paragraph 2.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey a similar tone related to political analysis. However, Paragraph 2 has a more opinionated and personal tone compared to the more objective tone of Paragraph 1.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the similarities and differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, it is moderately likely that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

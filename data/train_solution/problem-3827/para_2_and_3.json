@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for emphasis and separation, while paragraph 2 uses quotation marks for direct speech.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal language related to media outlets, while paragraph 2 uses legal terminology. Different lexical and grammatical features are present.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured as a directive or announcement, while paragraph 2 is a direct quote. Sentence length and complexity differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative, while paragraph 2 is a direct quotation with legal implications. Tone and style vary widely.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were noted in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, indicating a low likelihood of being written by the same author.",
+        "score": 0.4
+    }
+}

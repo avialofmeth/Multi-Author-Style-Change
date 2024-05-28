@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses contractions ('I'm', 'y'all') and informal language, while Paragraph 2 uses more formal language without contractions.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a casual tone with slang ('y'all', 'TMZ'), while Paragraph 2 mentions a specific book title and contains a spoiler warning, demonstrating a different level of formality and lexical choice.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured as a single sentence with a casual and conversational tone. Paragraph 2 contains a sentence mentioning a book title and a spoiler tag, indicating a different structure and content.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a playful and boastful tone about filming family events for fame. Paragraph 2 discusses finishing a book and includes a spoiler warning, showing different narrative styles and speech events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were present in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

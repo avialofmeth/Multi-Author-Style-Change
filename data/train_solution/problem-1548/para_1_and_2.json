@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains multiple punctuation errors such as missing spaces after periods and inconsistent use of commas. In contrast, Paragraph 2 demonstrates more consistent punctuation usage.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit unique lexical choices and word usage, with distinct styles apparent in each. Paragraph 1 employs more informal language and includes non-standard terms like 'ruzzian'. In contrast, Paragraph 2 displays a more formal tone with specific references like 'Putin'.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures differ significantly between the two paragraphs. Paragraph 1 features longer and more complex sentences compared to the shorter and more direct sentences in Paragraph 2. Additionally, Paragraph 1 lacks clear coherence and cohesion in its content flow.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both texts convey differing narrative styles and tones. Paragraph 1 adopts a more narrative-focused approach with historical references and a critical tone towards 'ruzzians'. In contrast, Paragraph 2 adopts a direct and assertive tone focused on current political events with a specific mention of 'Putin'.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are spelling errors in both texts, with Paragraph 1 containing more frequent errors like 'russian' misspelled as 'ruzzian'. Paragraph 2 contains fewer spelling errors overall.",
+    "score": 0.3
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.32
+  }
+}

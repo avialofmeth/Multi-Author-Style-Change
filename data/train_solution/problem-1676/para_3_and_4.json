@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display the use of commas, quotation marks, and hyphens, showcasing a similar punctuation style.",
+        "score": 0.85
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts. Paragraph 1 contains formal language related to financial matters, while Paragraph 2 uses informal, conversational language.",
+        "score": 0.25
+    },
+    "feature3": {
+        "explanation": "Sentence structures in the two texts vary greatly. Paragraph 1 comprises longer, complex sentences, whereas Paragraph 2 consists of shorter, simpler sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ notably between the texts. Paragraph 1 is more formal and serious in tone, discussing financial matters, while Paragraph 2 is casual and conversational.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, and text and discourse features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.56
+    }
+}

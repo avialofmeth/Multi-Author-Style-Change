@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons and commas, although their placement and usage differ slightly.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical variation and word choice between the two texts, leading to a lower score.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths in the two texts vary significantly, impacting the likelihood of the same authorship.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones differ between the two texts, suggesting a lower likelihood of the same author.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical variation, sentence structures, and narrative styles, along with the presence of similarities in punctuation and absence of spelling errors, the overall confidence in the same authorship is moderate.",
+        "score": 0.56
+    }
+}

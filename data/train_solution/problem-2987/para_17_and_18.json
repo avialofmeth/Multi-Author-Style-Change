@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, commas, and parentheses, while Paragraph 2 mainly uses commas and quotation marks. There is some variation in punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical and grammatical features, such as vocabulary choice and sentence structures. There are noticeable distinctions in word choice and grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more complex structures compared to the simpler sentences in Paragraph 2. There are differences in sentence length and complexity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two paragraphs are distinct. Paragraph 1 discusses the pros and cons of hydro energy, while Paragraph 2 focuses on a different topic related to renewable energy and carbon capture.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

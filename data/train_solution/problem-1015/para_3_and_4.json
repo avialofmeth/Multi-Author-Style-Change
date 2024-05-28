@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, parentheses, and quotation marks, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone and vocabulary, but there are variations in the topics discussed.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is longer and more complex in structure compared to the straightforward nature of Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack clear narrative styles, with Paragraph 1 expressing strong opinions while Paragraph 2 is an automated message.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and narrative tone, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

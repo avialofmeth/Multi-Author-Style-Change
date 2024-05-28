@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as commas, quotation marks, and colons. However, the first text uses more formal and structured punctuation compared to the second text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts exhibit differences. The first text uses more formal and specific language related to media outlets and subreddit guidelines, while the second text expresses personal opinions with informal language related to gun control.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Regarding sentence structure and quantitative features, the first text is more structured and formal with clear sentences. In contrast, the second text contains more casual language and shorter, fragmented sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the first text adopts a more informative and directive tone related to subreddit rules, while the second text reflects a conversational and opinionated style discussing gun control laws.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the different writing styles, topics, and tones between the two texts, the overall confidence in them having the same author is moderate.",
+    "score": 0.54
+  }
+}

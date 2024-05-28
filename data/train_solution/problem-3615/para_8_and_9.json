@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, commas, and periods to separate ideas and clauses. Paragraph 2 contains a colon and a period for sentence structure.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more complex lexical and grammatical features with phrases like 'below poverty lines' and 'evolution and gravitational theory'. Paragraph 2 is simpler in terms of word choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences and a more detailed narrative style compared to the concise and straightforward sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more serious and critical tone discussing societal issues, while Paragraph 2 is more casual and directly addresses a practical problem.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts show no spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are some similarities in punctuation and absence of errors, but the differences in complexity, tone, and sentence structure suggest a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.58
+    }
+}

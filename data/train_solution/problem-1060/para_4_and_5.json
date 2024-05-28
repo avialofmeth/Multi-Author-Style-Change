@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of hyphens, brackets, colons, and quotation marks. Commas are used in both texts, although with different patterns.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts. Paragraph 1 focuses on geopolitical issues with specific terminology, while Paragraph 2 delves into the definition and explanation of hypocrisy with more formal language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts vary in complexity and length, with Paragraph 1 consisting of longer, more elaborate sentences compared to the concise and explanatory nature of Paragraph 2. There are differences in coherence and cohesion as well.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two texts are distinct. Paragraph 1 adopts a critical and accusatory tone, while Paragraph 2 takes on an informative and neutral tone. The tone and mood are different.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structures, narrative styles, and tone, it is unlikely that the two texts were written by the same author despite sharing some punctuation similarities. The presence of spelling and typographical errors is consistent across both texts.",
+        "score": 0.46
+    }
+}

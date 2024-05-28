@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles, including question marks, commas, and periods. However, they differ in the use of quotation marks and hyphens.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are variations in lexical choices and word usage between the two texts. The first text includes terms like 'annexed' and 'psychotic madman' while the second text uses phrases like 'self reliance' and 'humanitarian crisis.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are somewhat different. The first text contains longer and more complex sentences, whereas the second text has shorter sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "While both texts express opinions and ideas, the tone and mood vary. Text 1 is more assertive and confrontational, while Text 2 is more contemplative and reflective.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score for the likelihood of the same authorship is moderate.",
+    "score": 0.56
+  }
+}

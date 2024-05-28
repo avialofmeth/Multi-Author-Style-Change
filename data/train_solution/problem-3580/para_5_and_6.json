@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas for separations within the sentences.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses more formal language related to political processes, while paragraph 2 is more informal and opinionated.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences compared to paragraph 2 which is more straightforward.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack common expressions or idioms, making them somewhat similar in this aspect.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style and lack of spelling errors, but differences in language formality and sentence complexity, there is moderate confidence that the texts were written by the same author.",
+        "score": 0.72
+    }
+}

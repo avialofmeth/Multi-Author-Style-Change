@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and a period. Paragraph 2 lacks proper punctuation and ends with a question mark.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language with phrases like 'too damn expensive' and 'scholarships and such.' Paragraph 2 uses more formal language with phrases like 'fellow dutch redditors always perpetuating this same lie.'",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward. Paragraph 1 contains shorter sentences compared to Paragraph 2. Paragraph 2 has more complex sentence structures.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses frustration and emphasis. Paragraph 2 expresses skepticism and questioning.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

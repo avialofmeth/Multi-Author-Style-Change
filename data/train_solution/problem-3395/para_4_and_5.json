@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more varied punctuation marks such as commas, colons, and periods, while Paragraph 2 has a more informal tone with the use of abbreviations like 'lol' and 'Thx.'",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features, with Paragraph 1 using more formal language and Paragraph 2 containing informal abbreviations and a more conversational tone.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 showcases longer and more complex sentences compared to the shorter and simpler sentences found in Paragraph 2. The coherence and cohesion also differ significantly between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two paragraphs vary, with Paragraph 1 discussing skepticism towards surveys on Putin's approval, while Paragraph 2 mentions the US coming out stronger after major events. The tone and mood are distinct in each paragraph.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the overall confidence score is moderate, suggesting that the two texts likely have different authors due to noticeable differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, and narrative styles. The absence of spelling errors contributes to a minor increase in the overall score.",
+    "score": 0.56
+  }
+}

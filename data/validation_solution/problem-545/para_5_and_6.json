@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with colons and commas, while Paragraph 2 lacks proper punctuation and contains multiple run-on sentences.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal tone with coherent word choice, while Paragraph 2 contains informal language and insults.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has clear sentence structures and coherence, whereas Paragraph 2 lacks cohesion and contains fragmented sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a serious tone discussing nations, while Paragraph 2 is confrontational and insulting, showing different narrative styles.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Neither text contains spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, tone, coherence, and sentence structure, and the lack of lexical consistency, it is unlikely that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

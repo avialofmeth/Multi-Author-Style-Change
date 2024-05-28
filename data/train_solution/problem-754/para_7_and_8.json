@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods consistently. However, text 1 includes more diverse punctuation marks like colons, parentheses, and hyphens, whereas text 2 mainly relies on periods and commas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 demonstrates a higher level of lexical variation with more diverse word choices and grammatical structures compared to text 2, which appears more straightforward and less varied.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 shows a higher level of sentence complexity and length variation, using longer sentences with diverse structures. In contrast, text 2 consists of shorter, more direct sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar tone of criticism and urgency, focusing on legal matters. However, text 1 is more forceful and emotionally charged compared to the slightly more neutral tone in text 2.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there are noticeable differences in lexical variation and sentence complexity that suggest a potential difference in authors. However, the consistent punctuation style and tone similarity indicate a moderate likelihood of the same author.",
+        "score": 0.7
+    }
+}

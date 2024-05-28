@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "The punctuation style in both texts includes the use of commas and quotation marks. However, the first text also includes hyphens, while the second text features colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit a formal tone with varied vocabulary. The first text focuses more on political discourse, while the second text leans towards religious themes.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary between the texts, with the first text containing shorter, more fragmented sentences, while the second text has longer, more descriptive sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ significantly, with the first text being more direct and argumentative, while the second text adopts a more informative and narrative tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. While there are some shared punctuation and lexical features, the differences in sentence structure and narrative style suggest potential different authors.",
+        "score": 0.52
+    }
+}

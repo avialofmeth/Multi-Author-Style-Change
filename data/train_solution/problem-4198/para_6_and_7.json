@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Text 1 uses commas and periods for punctuation, while Text 2 also uses commas and periods but adds dashes for additional information. They both have a similar style in using punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate an informal tone and lexical choices. The word choice and sentence structures are relatively similar, with a mix of longer and shorter sentences.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Text 1 and Text 2 both contain a mix of sentence lengths and structures. They exhibit coherence and cohesion in presenting information.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Both texts have a narrative style discussing personal experiences. They share a similar tone of reflection on past events.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as the absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.81
+    }
+}

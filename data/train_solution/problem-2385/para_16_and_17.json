@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas for punctuation, while Paragraph 2 uses commas and a colon. Different punctuation style observed.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical language related to internet regulations, while Paragraph 2 discusses a community moderator application. Different lexical and grammatical features due to varying topics.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences discussing a regulatory issue, whereas Paragraph 2 has shorter, direct sentences related to a community announcement. Differences in sentence structure and quantitative features due to context.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and informative tone regarding internet regulations, while Paragraph 2 has a more inviting and community-oriented tone. Different text and discourse features based on the nature of the content.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts appear free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, the texts show significant divergence in writing style, possibly indicating different authors. The absence of spelling and typographical errors is noted.",
+    "score": 0.36
+  }
+}

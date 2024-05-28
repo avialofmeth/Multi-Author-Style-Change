@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and commas for additional information within sentences. However, only the first text uses an exclamation mark, which is a distinctive punctuation feature.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit different lexical and grammatical features. The first text is more formal and emphasizes community involvement, while the second text uses simpler language and focuses on a political critique.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structure and quantitative features vary significantly between the texts. The first text has shorter, more direct sentences, while the second text contains longer, more complex sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone are distinct in the two texts. The first text is neutral and informative, while the second text adopts a more critical and sarcastic tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the five features, the likelihood that the two texts were written by the same author is low.",
+        "score": 0.5
+    }
+}

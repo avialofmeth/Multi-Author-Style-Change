@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use proper punctuation, including commas and periods. However, there are no specific unique punctuation patterns that suggest the same author.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "The texts share a similar level of formality and vocabulary, such as 'regime' and 'conflicts', indicating a potential common author. However, there are minor differences in word choice that slightly lower the likelihood.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts display similar sentence structures with moderate complexity. They are coherent and cohesive, maintaining a consistent tone and mood. However, there are slight variations in sentence length and arrangement.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts convey a serious and analytical tone, discussing political and historical topics. However, the specific expressions and idioms used differ slightly, affecting the likelihood of the same author.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a level of care in writing. This commonality slightly supports the possibility of a shared authorship.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the collective analysis of punctuation, lexical features, sentence structure, text/discourse features, and spelling, there are notable similarities in writing style that suggest a moderate likelihood of the same author. However, some subtle differences lower the overall confidence.",
+    "score": 0.64
+  }
+}

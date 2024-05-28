@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and parentheses for additional information within sentences, while Paragraph 2 primarily uses commas for listing and separating clauses.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone and vocabulary level suitable for professional or official communication, suggesting a similar lexical and grammatical style.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 demonstrates longer sentences with multiple clauses, whereas Paragraph 2 consists of shorter, more direct sentences. The sentence complexity and length differ significantly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 focuses on a specific legislative ask related to railroads, while Paragraph 2 provides general guidelines on respectful communication. The narrative styles and speech events are distinct.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a common attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure and narrative style, alongside the shared attention to detail in punctuation and language correctness, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

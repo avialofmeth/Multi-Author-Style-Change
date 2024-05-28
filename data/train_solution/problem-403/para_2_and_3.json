@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and parentheses for punctuation, while Paragraph 2 uses hyphens and commas. Both texts exhibit a mix of punctuation marks, but the presence of parentheses in Paragraph 1 distinguishes it slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on formal language related to media outlets and subreddit guidelines. Paragraph 2 contains informal and aggressive language with military references. The lexical and grammatical features differ significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a straightforward sentence structure with clear coherence. In contrast, Paragraph 2 has longer and more complex sentences, lacking coherence due to abrupt shifts in topic. The sentence structure and quantitative features are notably different.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Narrative styles and speech events vary greatly between the two texts. Paragraph 1 adopts a formal and informative tone, while Paragraph 2 uses a confrontational and assertive tone. The text and discourse features are strikingly dissimilar.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate correct spelling and typographical accuracy with no errors detected. The spelling and typographical errors feature shows no significant discrepancies.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features. However, they align in terms of spelling and typographical accuracy. The overall confidence score is moderate, indicating a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

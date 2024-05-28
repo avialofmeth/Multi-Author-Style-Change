@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and question marks appropriately.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 is more straightforward and formal with simple vocabulary, while Text 2 has a more complex sentence structure and includes statistical language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has short and direct sentences, whereas Text 2 has longer sentences with statistical information.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 is more neutral and informative, while Text 2 has a slightly opinionated and critical tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling errors and typographical mistakes.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in vocabulary and tone, the overall confidence score is moderate.",
+        "score": 0.7
+    }
+}

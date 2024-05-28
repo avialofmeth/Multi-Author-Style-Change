@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and a period for punctuation, while Paragraph 2 uses commas and question marks. Both paragraphs have some punctuation marks in common but differ in question marks vs. periods.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes words like 'unofficial' and 'disconnected' while Paragraph 2 contains words like 'Information' and 'capacity'. They showcase different lexical choices and word types.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, fragmented sentences while Paragraph 2 has longer, more complex sentences with a question structure. They differ in sentence complexity and length.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informal, narrative tone discussing aid and political discourse. Paragraph 2 has a more formal inquiry tone asking for specific information. Tone and mood are distinct between the paragraphs.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are devoid of spelling or typographical errors, indicating good attention to detail in terms of language mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts exhibit varied writing styles suggesting different authors. However, the absence of spelling errors aligns with a similar level of language proficiency. Therefore, the overall confidence score leans towards the texts being written by different authors.",
+    "score": 0.48
+  }
+}

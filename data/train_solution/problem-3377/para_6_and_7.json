@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas, periods, and a dollar sign. Paragraph 2 lacks proper punctuation and includes informal language such as 'my guy'.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates formal word choice and grammatical structure. Paragraph 2 contains informal language and lacks formal grammar.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has structured sentences with clear organization. Paragraph 2 has fragmented sentences and lacks coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents a formal narrative style. Paragraph 2 has a conversational tone and informal expressions.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, grammar, sentence structure, and narrative style, it is unlikely that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

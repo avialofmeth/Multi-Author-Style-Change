@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses parentheses, hyphens, and brackets, while Paragraph 2 does not contain these punctuation marks. However, both paragraphs use commas and colons.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a focus on technical terms like 'wind and solar' and 'grid balance', indicating a specific domain knowledge. Paragraph 2, on the other hand, discusses broader concepts such as 'renewables' and 'SMRs'. There is a variation in lexical choice between the two paragraphs.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with technical details, while Paragraph 2 contains shorter sentences with a more general tone. The sentence structures differ in complexity and length.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a factual statement with a confident tone, while Paragraph 2 expresses uncertainty and a speculative outlook. The narrative styles and moods in the two paragraphs are distinct.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation styles, including the use of commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in word choice and lexical variation between the two paragraphs, indicating a potential distinction in writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures and lengths differ between the two paragraphs, suggesting a variance in writing style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events in the two paragraphs differ significantly, pointing towards a divergence in writing style.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

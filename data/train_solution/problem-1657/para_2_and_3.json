@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods, with no significant differences in punctuation style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. Paragraph 1 uses formal political language, while Paragraph 2 employs informal and colloquial terms related to sports. The word choice and grammatical structures are distinct.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structures and quantitative features also vary greatly. Paragraph 1 contains a formal announcement with longer sentences, while Paragraph 2 has shorter, more conversational sentences. The overall arrangement and coherence differ substantially.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features diverge significantly. Paragraph 1 adopts a formal, informative tone related to politics, while Paragraph 2 has a casual, opinionated tone related to sports. The narrative styles and speech events are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in lexical, grammatical, sentence structure, and discourse features, along with the consistent punctuation and absence of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

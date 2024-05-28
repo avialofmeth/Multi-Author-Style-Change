@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured use of punctuation with colons, parentheses, and proper placement of commas to separate clauses and phrases. Paragraph 2 lacks this level of punctuation complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses a more diverse range of vocabulary and exhibits a higher level of grammatical complexity compared to the simpler and more straightforward language in Paragraph 2.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is characterized by longer and more complex sentences with detailed descriptions and cohesive structure. In contrast, Paragraph 2 consists of shorter and more fragmented sentences focused on immediate actions.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style with a historical and informative tone, focusing on rituals and traditions. Paragraph 2 adopts an informal and conversational tone discussing stargazing plans. The narrative styles and speech events differ significantly.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate accuracy in spelling and lack typographical errors, indicating a similar attention to detail in written expression.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary complexity, sentence structure, and narrative tone, along with the consistent accuracy in spelling, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

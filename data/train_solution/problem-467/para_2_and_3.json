@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with commas and colons for clarity, while Paragraph 2 lacks proper punctuation and has a more informal style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a formal tone with specific lexical choices related to media outlets and subreddit guidelines. On the other hand, Paragraph 2 contains informal and derogatory language with different lexical choices.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is structured in a formal and informative manner with clear sentence arrangement. In contrast, Paragraph 2 has shorter, more fragmented sentences with emotional content.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone related to subreddit guidelines. Paragraph 2 displays a critical and emotionally charged tone towards an individual, showing a distinct difference in narrative style and tone.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts do not contain spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

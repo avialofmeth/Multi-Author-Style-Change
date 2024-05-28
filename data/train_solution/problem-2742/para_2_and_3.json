@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 mainly uses colons and commas for punctuation, while Paragraph 2 utilizes hyphens, commas, and parentheses. Both texts demonstrate a varied use of punctuation.",
+		"score": 0.5
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 has a formal and informational tone with technical language, whereas Paragraph 2 adopts a more explanatory and descriptive style with specific details. The word choice and grammatical features differ significantly.",
+		"score": 0
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 consists of short, straightforward sentences, while Paragraph 2 contains longer and more complex sentences. The sentence structures and lengths vary considerably.",
+		"score": 0.3
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 is instructional and directive, focusing on guidelines and criteria, while Paragraph 2 presents a scenario and provides analysis. The narrative styles and speech events differ substantially.",
+		"score": 0
+	},
+	"feature5": {
+		"explanation": "Both texts are free of spelling and typographical errors.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author. The presence of spelling and typographical errors is the only commonality.",
+		"score": 0.36
+	}
+}

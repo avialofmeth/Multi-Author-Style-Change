@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, colons, and periods appropriately.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 contains more formal language and specific terminology related to media outlets, while Text 2 is more informal and conversational.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 is more structured with clear sentences, while Text 2 is slightly more casual with shorter sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a formal tone related to guidelines or instructions, while Text 2 expresses a personal opinion.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the mixed results across different features, the overall confidence score is moderate.",
+        "score": 0.7
+    }
+}

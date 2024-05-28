@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas frequently for listing items and separating clauses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a neutral and formal tone with similar word choices.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are straightforward in sentence structure and length, lacking complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The first text discusses polling data while the second text provides automated assistance, indicating a difference in narrative styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the similarity in punctuation style, lexical and grammatical features, and lack of spelling errors suggest a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.68
+  }
+}

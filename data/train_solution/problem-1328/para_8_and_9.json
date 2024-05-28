@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use standard punctuation marks such as commas, periods, and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The word choices and lexical variation in the two paragraphs differ significantly, indicating a potential difference in authorship.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the paragraphs are distinct, with one being more declarative and the other more speculative.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone are different between the paragraphs, suggesting a likely difference in authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, along with the similarities in punctuation and lack of errors, the overall confidence score for the likelihood of the same author is moderate.",
+        "score": 0.54
+    }
+}

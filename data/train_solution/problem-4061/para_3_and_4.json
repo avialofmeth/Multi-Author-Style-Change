@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "The texts both use parentheses, colons, and commas but differ in the use of hyphens. Paragraph 1 uses hyphens in the name while Paragraph 2 does not use them extensively.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with technical terms, but the lexical choices differ due to the nature of the content.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is shorter and more direct in sentence structure compared to the more detailed and nuanced reporting style of Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts differ significantly - Paragraph 1 is a factual report of an event, while Paragraph 2 is a news analysis. The tones are distinct due to the different contexts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author. However, the absence of spelling errors increases the overall confidence slightly.",
+        "score": 0.6
+    }
+}

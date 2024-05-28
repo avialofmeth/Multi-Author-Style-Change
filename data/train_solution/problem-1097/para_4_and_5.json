@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the consistent use of commas and periods. Paragraph 1 uses more commas compared to Paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features such as the use of specific terms like 'grand jury' and 'take the 5th'. However, the word choice and sentence structures differ slightly.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit some similarities in sentence complexity and length, maintaining a relatively similar level of coherence. However, Paragraph 1 shows slightly more varied sentence structures.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ between the two texts. Paragraph 1 has a more speculative and emotive tone, while Paragraph 2 is more direct and informative.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of each feature, the likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.67
+    }
+}

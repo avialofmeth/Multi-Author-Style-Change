@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs contain informal punctuation styles with lack of proper punctuation in some instances.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar informal and colloquial word choice. They also share grammatical errors such as missing articles and run-on sentences.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both paragraphs show a lack of coherence and structure, with abrupt shifts in topics and disjointed sentences.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts have a similar tone of informality and crudeness, using derogatory language and making personal attacks.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both paragraphs contain spelling and typographical errors, indicating a lack of attention to detail.",
+    "score": 0.6
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in informal punctuation, word choice, lack of coherence, tone, and spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.64
+  }
+}

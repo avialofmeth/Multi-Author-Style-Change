@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons, commas, and periods consistently for punctuation. However, the second text contains more hyphens and lacks parentheses and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts show some differences. The first text uses more diverse vocabulary and complex sentence structures compared to the second text.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text has longer and more complex sentences compared to the second text, which is more straightforward and concise.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone in the two texts differ significantly. The first text discusses social activism, while the second text seems to refer to political decision-making in a futuristic context.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, it is less likely that the two texts were written by the same author. The presence of common spelling and typographical accuracy slightly increases the likelihood.",
+        "score": 0.52
+    }
+}

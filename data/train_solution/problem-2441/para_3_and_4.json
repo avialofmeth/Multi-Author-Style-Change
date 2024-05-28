@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods, with no significant differences in punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in word choice and tone between the texts, such as 'atrocities en masse' in one text and 'smashing up against each other' in the other. Additionally, the use of informal language like 'littledick' in one text contrasts with the more neutral tone of the other.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has a more formal and structured sentence style compared to Text 2, which contains more colloquial language and shorter sentences. These differences in sentence complexity and coherence suggest potential divergent writing styles.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles differ significantly between the texts. Text 1 discusses a general scenario, while Text 2 expresses a specific opinion with strong emotions. This divergence in tone and narrative approach indicates possible different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text, indicating consistent attention to detail in terms of spelling and typing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in word choice, sentence structure, and narrative style between the texts, there is a moderate likelihood that they were written by different authors.",
+        "score": 0.58
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 and Paragraph 2 both exhibit consistent use of commas and periods for punctuation.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 and Paragraph 2 show differences in lexical and grammatical features like formal vs. informal language and technical vs. general vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more direct sentences, while Paragraph 2 has longer sentences with more descriptive details.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and direct tone, while Paragraph 2 has a more conversational and descriptive tone.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Overall, there are notable differences in lexical and grammatical features, sentence structure, and tone between the two paragraphs, indicating a lower likelihood of being written by the same author.",
+    "score": 0.64
+  }
+}

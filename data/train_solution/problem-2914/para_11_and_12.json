@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, periods, and apostrophes. Paragraph 2 also includes punctuation marks like commas and periods, but lacks the complexity and diversity seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and detailed lexical and grammatical style, with specific terms related to legal proceedings and investigation. Paragraph 2 is straightforward and focused on providing instructions, using simpler vocabulary.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit coherent sentence structures and clarity in their presentation. Paragraph 1 contains longer and more complex sentences, whereas Paragraph 2 consists of shorter and direct sentences.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal narrative style with a news reporting tone. In contrast, Paragraph 2 uses a more instructional and informative tone suitable for a subreddit guideline.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, the overall confidence score is moderate, suggesting that while there are some similarities in writing style such as correct spelling and sentence coherence, the differences in punctuation usage, lexical complexity, and narrative tone indicate potential different authors.",
+    "score": 0.62
+  }
+}

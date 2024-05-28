@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for introducing a list, while paragraph 2 uses a hyphen to connect two related clauses.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on media-related terms and criteria, while paragraph 2 discusses political figures and actions. Different lexical and grammatical features are present due to the distinct topics.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively simple sentence structures without significant complexity, but the coherence and cohesion differ due to the topics being unrelated.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is more formal and informative, while paragraph 2 involves a suggestion or opinion related to political actions. Tone and mood vary significantly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in topics and content, the writing style in terms of punctuation style and lack of spelling errors show some similarities, but variations in other features indicate potential different authors.",
+    "score": 0.5
+  }
+}

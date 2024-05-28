@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of quotation marks, commas, and an expletive, while Paragraph 2 displays a lack of punctuation variety.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains a more informal and emotionally charged vocabulary compared to the neutral and technical language in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a strong opinionated tone. In contrast, Paragraph 2 consists of short, simple sentences with a robotic, informative tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a confrontational and aggressive tone, using profanity, while Paragraph 2 maintains a detached and helpful tone as expected from a bot response.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, vocabulary, sentence structure, and tone, the overall score suggests a low likelihood of the two texts being written by the same author.",
+        "score": 0.42
+    }
+}

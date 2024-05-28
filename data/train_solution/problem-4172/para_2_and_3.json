@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon and comma for punctuation, while Paragraph 2 uses commas and periods. Different punctuation styles may indicate a difference in writing style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs show a mix of formal and informal language, with varying sentence structures. The lexical and grammatical features do not strongly indicate a common author.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs contain relatively short sentences with clear coherence. However, the sentence structures and lengths show some variation, suggesting a potential difference in writing style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and warning tone, while Paragraph 2 discusses a different topic with a more informative tone. The text and discourse features indicate potential differences in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph, which suggests a similar level of attention to detail in writing. This feature does not provide strong evidence for or against a common author.",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, the likelihood that the two texts were written by the same author is low to moderate. While some features show similarities, such as the lack of spelling errors, differences in punctuation style, lexical choices, sentence structures, and tone suggest potential distinct authorship.",
+        "score": 0.36
+    }
+}

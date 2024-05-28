@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and conjunctions in a straightforward manner, while Paragraph 2 contains a mix of punctuation marks including hyphens and parentheses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a preference for longer, complex sentences with varied vocabulary, while Paragraph 2 uses simpler language and shorter sentences.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more cohesive with clear connections between ideas, whereas Paragraph 2 appears less structured and more fragmented.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs exhibit a similar narrative style and tone, showing curiosity and interest in historical subjects.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and coherence in sentence structure, along with the shared narrative style and absence of errors, the overall likelihood of the same author is moderate.",
+    "score": 0.64
+  }
+}

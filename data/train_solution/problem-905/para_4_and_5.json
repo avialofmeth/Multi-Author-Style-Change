@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas, quotation marks, and periods. However, the first text contains more typographical errors with misspelled words like 'redicalous' and lacks proper punctuation in 'Nobel prize.'",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices between the texts. The first text includes informal language like 'redicalous' and 'got nothing,' while the second text maintains a more formal tone with terms like 'overstating' and 'normalizing relations.' Additionally, the second text demonstrates a higher level of grammatical accuracy.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit varying sentence structures and lengths. The first text has shorter and simpler sentences, whereas the second text contains more complex sentences with varied lengths. However, both texts display coherence and cohesion in presenting their arguments.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "In terms of discourse features, both texts discuss political matters with differing viewpoints. The first text expresses a more opinionated and assertive tone, while the second text adopts a more analytical and critical perspective. Despite the differing tones, both texts maintain a formal register.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "The first text contains spelling errors like 'redicalous,' which are absent in the second text. The second text demonstrates better spelling and typographical accuracy overall.",
+        "score": 0.3
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. While there are some commonalities in punctuation style and discourse features, the differences in lexical and grammatical features, sentence structures, and spelling errors suggest potential distinct authorship.",
+        "score": 0.5
+    }
+}

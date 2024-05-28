@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a more formal and structured punctuation style with the proper use of colons and commas, while Paragraph 2 contains a more informal and erratic use of punctuation marks like question marks and ellipses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, Paragraph 1 shows a more formal and professional tone with specific language related to media outlets and criteria. In contrast, Paragraph 2 includes informal language, such as references to Cthulhu and nurses bleeding from their eyes.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Regarding sentence structure and quantitative features, Paragraph 1 is structured and coherent, focusing on providing information. Paragraph 2, on the other hand, is fragmented and lacks cohesion due to its abrupt topic shift and informal tone.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, Paragraph 1 follows a formal and informative style appropriate for a subreddit announcement. However, Paragraph 2 veers into a different narrative style with references to supernatural entities and bizarre events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a similar level of attention to correctness in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the varied writing styles, formal vs. informal tone, coherence, and narrative focus, the likelihood of both texts being written by the same author is low. The differences in punctuation, lexical choices, sentence structure, and discourse features contribute to this assessment.",
+    "score": 0.42
+  }
+}

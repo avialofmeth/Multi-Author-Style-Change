@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as periods, commas, and apostrophes, but only the second text includes hyphens and numbers.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a conversational tone and informal word choice, but the second text includes more specific historical references.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts consist of relatively short and straightforward sentences, lacking complexity or intricate structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "While both texts express opinions and attitudes, the first text focuses on political dissatisfaction, while the second text references historical events.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the linguistic features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

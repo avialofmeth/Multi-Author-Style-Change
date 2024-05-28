@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons, quotation marks, and commas, but the first text contains more punctuation marks overall.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with specific terminology used in each. The second text has more specialized vocabulary related to politics.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and to the point with a clear call to action. Paragraph 2 is more descriptive and narrative, providing detailed information.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey information in a straightforward manner without expressive narrative styles or idioms.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the different levels of formality, specificity of vocabulary, and narrative style, the texts show moderate similarities in writing style, indicating a moderate likelihood of being written by the same author.",
+        "score": 0.64
+    }
+}

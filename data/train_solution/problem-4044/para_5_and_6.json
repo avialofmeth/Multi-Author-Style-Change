@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and periods in a similar manner. However, text 1 uses more formal punctuation like colons, while text 2 uses more informal punctuation like apostrophes and periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical and grammatical features. Text 1 uses more formal and technical language related to legislation and investments, while text 2 employs more colloquial and emotive language focusing on Wall Street and ethical investing.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer and more complex sentences with varied structures, reflecting a formal tone. In contrast, text 2 consists of shorter sentences with a more casual tone, lacking the complexity seen in text 1.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative style and tone differ significantly between the two texts. Text 1 presents a neutral, informative tone, while text 2 adopts a more critical and accusatory tone towards Wall Street and the wealthy.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis, the texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone. However, the absence of spelling and typographical errors suggests a moderate level of similarity in writing style. Therefore, the likelihood that the two texts were written by the same author is moderately low.",
+        "score": 0.5
+    }
+}

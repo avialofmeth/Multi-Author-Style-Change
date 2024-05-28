@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of hyphens, commas, and periods.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "The first text uses formal language and specific terms related to a news report, while the second text uses informal language and slang. The word choice and lexical variation are distinct between the two texts.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The first text contains longer and more complex sentences typical of a news report, whereas the second text consists of shorter, more straightforward sentences. Sentence structure and length vary significantly between the texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text maintains a serious and factual tone appropriate for a news report, while the second text conveys a more casual, emotional, and opinionated tone. The narrative styles and mood differ substantially.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering all the linguistic features analyzed, the likelihood that the two texts were written by the same author is low due to significant differences in lexical choices, sentence structures, narrative styles, and tones.",
+    "score": 0.56
+  }
+}

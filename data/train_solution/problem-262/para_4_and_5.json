@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar use of punctuation such as commas and quotation marks. However, there is a distinct lack of hyphens in both texts.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show lexical and grammatical features that include political terms and informal language. The second text uses a specific political term 'woke' which is not present in the first text.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are relatively short and direct. However, the first text contains longer sentences compared to the second text.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text and discourse features indicate a political tone in both texts. The first text focuses on Republican political stances, while the second text addresses a distinction in political terminology.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

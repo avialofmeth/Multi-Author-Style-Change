@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens and commas for punctuation, but only paragraph 1 includes specific instances like the en dash in 'June 1' and '2038'.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 is more formal and technical in its word choice and grammar compared to the straightforward and simple language in paragraph 2.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences, while paragraph 2 is brief and direct in its structure.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts lack narrative styles and idiomatic expressions, maintaining a neutral tone. However, paragraph 1 is focused on a specific event, while paragraph 2 is a generic automated message.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in word choice, sentence structure, and focus of the texts, there is moderate confidence that they were not written by the same author.",
+        "score": 0.56
+    }
+}

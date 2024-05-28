@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 contains proper punctuation with commas, slashes, and periods. Paragraph 2 lacks proper punctuation in some instances and uses more informal language.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses formal and courteous language with a focus on rules and consequences. Paragraph 2 is more informal and emotionally charged, using stronger language.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of clear, concise sentences with a formal tone. Paragraph 2 has more emotional and fragmented sentences with varying lengths.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone with a focus on guidelines. Paragraph 2 conveys a more emotional and accusatory tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The overall confidence score is moderate, indicating some similarities in punctuation and absence of typographical errors, but notable differences in language formality, sentence structure, and tone.",
+        "score": 0.58
+    }
+}

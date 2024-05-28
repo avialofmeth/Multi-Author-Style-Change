@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and parentheses, while Paragraph 2 uses parentheses. Both texts use punctuation marks for emphasis and additional information.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs display a formal tone and use complex vocabulary. Paragraph 1 is more technical in nature due to the subject matter, while Paragraph 2 is more critical in tone.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of a clear and direct sentence structure with a focus on conveying information efficiently. Paragraph 2 has shorter, more fragmented sentences that aim to make a strong point.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone typical of formal communication. Paragraph 2 adopts a more critical and opinionated tone, targeting a specific audience.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a good level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

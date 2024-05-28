@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods. However, the first text shows a higher frequency of hyphens and parentheses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text uses more informal and emotive language with specific references to political figures and actions. In contrast, the second text is more formal and focused on setting rules and guidelines. There are differences in lexical choice and word usage between the two texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts contain varying sentence lengths and structures, with the first text demonstrating more complex and longer sentences. However, the second text exhibits a more consistent and structured presentation in line with setting rules.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a critical and accusatory tone, criticizing specific actions and individuals. In contrast, the second text maintains a neutral and instructive tone when outlining rules and potential consequences.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors, indicating a similar level of attention to detail in terms of written accuracy.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "The analysis reveals some commonalities in punctuation and accuracy but notable differences in language style, tone, and structure between the texts. The moderate confidence score suggests a mix of similarities and distinctions, making it challenging to definitively attribute both texts to the same author.",
+        "score": 0.52
+    }
+}

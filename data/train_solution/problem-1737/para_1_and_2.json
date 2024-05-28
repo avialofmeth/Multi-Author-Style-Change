@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and parentheses while Paragraph 2 does not. Both paragraphs have colons but in different contexts.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more informal and emotionally charged language compared to the more formal and neutral tone of Paragraph 2. This difference in word choice indicates a variation in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more complex in sentence structure and contains a mix of sentence lengths, while Paragraph 2 is simpler and more direct. There is a difference in coherence and sentence length between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a narrative and emotional tone, while Paragraph 2 is more instructional and informative. The tone and mood differ significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the writing styles of the two paragraphs show significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features. While there are some similarities in spelling and typographical accuracy, the overall writing styles differ substantially, suggesting a low likelihood that the two texts were written by the same author.",
+    "score": 0.48
+  }
+}

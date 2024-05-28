@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains more formal punctuation such as colons and parentheses, while Paragraph 2 lacks such formal punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and structured language related to media outlets, while Paragraph 2 has a more informal and colloquial tone discussing control and manipulation.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a longer and more complex sentence structure compared to the simpler and shorter sentences in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two texts are significantly different, with Paragraph 1 being more informative and Paragraph 2 being more opinionated.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles between the two texts, the overall confidence in them being written by the same author is low.",
+    "score": 0.4
+  }
+}

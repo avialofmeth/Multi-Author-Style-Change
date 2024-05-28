@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for emphasis and organization, while Paragraph 2 lacks this type of punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both texts show some lexical variation and word choice, but the grammar in Paragraph 2 is notably less structured compared to Paragraph 1.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with better coherence, while Paragraph 2 has shorter and less coherent sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts lack common expressions, idioms, or distinctive narrative styles that could link them as written by the same author.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the linguistic features, the texts show some similarities in lexical variation and punctuation style, but the differences in grammar, sentence structure, and narrative style suggest a lower likelihood of being written by the same author.",
+    "score": 0.48
+  }
+}

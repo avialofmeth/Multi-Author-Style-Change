@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon for introducing a list and a comma for separation within the list, while Paragraph 2 does not use any colons but uses a comma for separation.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal and structured language related to guidelines and criteria, while Paragraph 2 contains more informal language discussing a legal case.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence structures with clear coherence and cohesion. However, Paragraph 2 has slightly longer sentences compared to Paragraph 1.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a formal and informative tone, focusing on subreddit rules. In contrast, Paragraph 2 adopts a more conversational and anecdotal tone discussing a legal scenario.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, there are notable differences in some aspects but similarities in others. The overall confidence score indicates a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.54
+  }
+}

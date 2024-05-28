@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a similar use of punctuation such as commas, periods, and apostrophes. However, there are differences in the specific punctuation marks used (e.g., hyphens in Text 1).",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "While both texts show similarities in lexical and grammatical features like sentence complexity and word choice, there are distinctions in the tone and vocabulary used.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts differ significantly in terms of topic and coherence. However, they share similarities in sentence length and arrangement.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text 1 conveys a specific narrative style and tone, while Text 2 lacks these elements as it is a generic informational message. This difference affects the overall discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are significant differences in punctuation style, lexical and grammatical features, sentence structure and discourse features which indicate that the two texts may not have the same author. The absence of spelling errors is the only commonality. Thus, the overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

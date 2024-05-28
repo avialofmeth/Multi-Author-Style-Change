@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of multiple punctuation marks such as periods, commas, and a question mark. However, it lacks complex punctuation like hyphens, brackets, colons, parentheses, and quotation marks. On the other hand, Paragraph 2 uses mostly periods and commas with a more straightforward punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, Paragraph 1 shows a more elaborate and descriptive writing style with phrases like 'fragile ego' and 'rewriting every last bit of his sensory input.' Paragraph 2, being a bot-generated response, is concise and uses technical language related to automated actions.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features in Paragraph 1 include longer, complex sentences with detailed descriptions. In contrast, Paragraph 2 is short and direct, typical of automated responses, lacking complexity.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features reveal a stark contrast between the two paragraphs. Paragraph 1 expresses a critical and opinionated tone towards a specific individual, while Paragraph 2 is neutral and purely informative as expected from a bot response.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is moderate, as there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features. The similarity in spelling and lack of typographical errors slightly boost the confidence level.",
+        "score": 0.4
+    }
+}

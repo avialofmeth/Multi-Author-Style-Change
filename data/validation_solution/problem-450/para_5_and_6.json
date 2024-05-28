@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show similar punctuation usage with the presence of question marks, commas, and periods. However, the first text uses a question mark at the end of a statement ('did you ask Mexico?') which is less conventional.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a casual tone with straightforward language. They both use simple sentence structures and everyday vocabulary. However, the first text includes more specific terms like 'Palestine' and 'Israel' compared to the hypothetical scenario in the second text.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts consist of short, direct sentences with a clear focus on the main idea. The first text raises a question, while the second text presents a hypothetical scenario. There is a difference in the narrative style and length of the texts.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The tone in both texts is slightly argumentative and questioning, focusing on political or social issues. They share a critical stance towards a specific situation. However, the first text is a direct query, while the second text sets up a comparison.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail. Both texts are well-written in terms of spelling and grammar.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, tone, and absence of spelling errors, there is a moderate likelihood that the texts were written by the same author, although the differences in topic and style suggest some variation.",
+        "score": 0.7
+    }
+}

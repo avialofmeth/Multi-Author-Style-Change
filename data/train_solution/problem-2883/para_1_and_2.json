@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, slashes, and periods to separate ideas.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts show similarities in lexical and grammatical features, such as formal and direct language usage.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "There are differences in the sentence structures and quantitative features of the texts, as one is more direct and rule-oriented while the other is informative about specific guidelines.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The texts differ in their text and discourse features, as one is focused on behavior guidelines while the other addresses a specific query about media outlets.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the texts show similarities in punctuation style and lexical/grammatical features, but significant differences in sentence structure, text/discourse features, and tone. The absence of spelling errors contributes to a higher overall confidence score.",
+    "score": 0.64
+  }
+}

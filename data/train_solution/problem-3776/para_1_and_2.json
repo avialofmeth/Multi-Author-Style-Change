@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 uses parentheses and brackets. There is variation in punctuation style between the two texts.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit lexical variation and unique word choices. Grammatically, both show a mix of complex and simple sentence structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with more descriptive elements, while Paragraph 2 has shorter, more fragmented sentences. The coherence and cohesion differ in terms of sentence length and arrangement.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a casual tone and use informal expressions. However, the topics and narrative styles vary significantly.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the 5 features, the likelihood that the two texts were written by the same author is moderate, as there are both commonalities and distinctions in writing style.",
+        "score": 0.58
+    }
+}

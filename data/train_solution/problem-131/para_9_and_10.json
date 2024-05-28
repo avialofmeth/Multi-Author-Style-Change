@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods in a straightforward manner, while Paragraph 2 includes more varied punctuation like hyphens, brackets, and colons.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a simple and direct language style with straightforward word choices. Paragraph 2 uses more formal language and specific terms related to media outlets.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of short and concise sentences, focusing on a clear point. Paragraph 2 contains longer sentences with more elaborate details and clauses.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral tone and presents information objectively. Paragraph 2 adopts a more formal and instructional tone, addressing readers directly.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit good spelling and punctuation without typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and tone, while noting the absence of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.48
+    }
+}

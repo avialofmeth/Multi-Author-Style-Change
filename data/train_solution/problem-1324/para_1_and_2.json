@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods. However, the first text includes more diverse punctuation like ellipses, slashes, and semicolons, while the second text mainly uses commas and periods.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first text uses formal language related to rules and bans, while the second text is more casual and personal, discussing tax breaks and states.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, the first text is more structured with clear rules and guidelines, while the second text is more conversational and anecdotal.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The narrative styles and speech events differ significantly between the texts. The first text is more directive and rule-oriented, while the second text is more descriptive and personal.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Overall, considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the lack of spelling errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.44
+    }
+}

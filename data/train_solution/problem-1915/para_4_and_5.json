@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 exhibits a consistent use of punctuation marks like colons, commas, and periods to structure the text. In contrast, Paragraph 2 lacks this structured use of punctuation and includes informal elements like Reddit jargon ('subreddit').",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more formal and descriptive lexical choice, emphasizing bravery and resilience. In contrast, Paragraph 2 contains more casual language with terms like 'Ran into' and 'karma.' Different grammatical structures are used in each text.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, complex sentences that contribute to a more narrative style. In contrast, Paragraph 2 is brief, with a more disjointed structure due to the mention of Reddit and the issue with links, lacking the narrative flow of the first paragraph.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a tone of admiration and pride for the actions described. In contrast, Paragraph 2 has a more technical tone, mentioning specific issues related to posting on Reddit. The narrative styles and speech events differ significantly.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the likelihood that the two texts were written by the same author is low.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with the use of hyphens, commas, and periods in a conventional manner. Paragraph 2 lacks proper punctuation and uses informal language with ellipses and exclamatory interjections.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and structured lexical and grammatical style with specific vocabulary related to legal proceedings and serious topics. Paragraph 2 uses informal language, contractions, and colloquial expressions.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, coherent sentences with a clear narrative structure. Paragraph 2 has shorter, fragmented sentences lacking coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and objective tone in discussing legal matters. Paragraph 2 conveys a more casual and emotional tone with expressions like 'disgusting' and 'utter nonsense'.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text/discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.44
+  }
+}

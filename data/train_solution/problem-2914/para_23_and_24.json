@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts display consistent punctuation usage with standard punctuation marks such as colons, commas, and quotation marks.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There is a difference in lexical and grammatical features, with the first text using more technical and descriptive language related to an investigation, while the second text includes more direct speech and personal statements.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The first text is more complex in sentence structure and uses detailed descriptions, while the second text is more straightforward with shorter sentences and direct statements.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ significantly between the two texts, with the first focusing on investigative reporting and the second on personal reaction and disappointment.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate due to differences in lexical and grammatical features, sentence structure, and narrative styles.",
+    "score": 0.64
+  }
+}

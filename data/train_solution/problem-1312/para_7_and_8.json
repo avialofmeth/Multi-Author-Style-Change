@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas in a formal and structured manner, while paragraph 2 lacks such punctuation marks and has a more informal style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and technical vocabulary related to media outlets and subreddit guidelines, while paragraph 2 has a more casual and politically charged language.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise and straightforward with a focus on providing information, whereas paragraph 2 is more complex, with longer sentences and a narrative style.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, typical of instructional text, while paragraph 2 has a more opinionated and critical tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and tone, as well as the similarities in lack of spelling errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.36
+    }
+}

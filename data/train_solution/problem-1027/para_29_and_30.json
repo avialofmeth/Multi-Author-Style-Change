@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of punctuation marks such as commas and quotation marks. However, the presence of emojis in Text 2 and the absence of certain punctuation marks like periods in Text 2 may indicate some differences.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 shows a more formal and structured use of language compared to the informal and somewhat fragmented language seen in Text 2. Different lexical choices and grammatical structures are present in both texts.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer and more complex sentences with a focus on conveying detailed information. Text 2, on the other hand, consists of shorter, simpler sentences with a more casual tone. The quantitative features vary significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a more formal and narrative style, while Text 2 is characterized by a more conversational and informal tone. The presence of emojis in Text 2 also sets it apart from the more straightforward style in Text 1.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors. However, the informal nature of Text 2 may allow for more leniency in this aspect compared to the stricter style of Text 1.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

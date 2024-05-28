@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation such as commas and periods. However, text 1 uses more colons and quotation marks compared to text 2.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, text 1 uses more varied vocabulary and complex sentence structures compared to text 2. Text 2 contains more straightforward language and simpler sentence structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 has longer and more complex sentences with better coherence and cohesion. Text 2, on the other hand, consists of shorter and less complex sentences that are more direct and to the point.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a formal narrative style, but the tone and mood differ. Text 1 discusses global conflicts with a more analytical tone, while text 2 focuses on historical events with a more descriptive tone.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical complexity, sentence structure, narrative style, and the absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

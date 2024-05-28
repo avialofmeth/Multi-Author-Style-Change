@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar use of punctuation with the presence of commas, periods, apostrophes, and capitalization.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and topics discussed, such as political beliefs and personal experiences, but the overall lexical and grammatical features show some consistency in style.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary due to the content differences, but both texts display coherent expression and similar sentence lengths.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ in terms of political views and personal experiences, but there is a shared tone of frustration and individuality in both texts.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors present in either text, indicating attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the consistency in punctuation, lexical and grammatical features, sentence structures, narrative tones, and absence of errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.76
+  }
+}

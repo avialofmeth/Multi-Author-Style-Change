@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a mix of punctuation marks such as commas, colons, and parentheses. However, the first text contains more technical and military-related punctuation marks like abbreviations and model numbers.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts differ significantly. The first text uses specialized military terminology and acronyms, while the second text focuses on political events and proper nouns.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, the first text is more detailed and descriptive, with longer sentences detailing military equipment. The second text is shorter and more direct, focusing on a statement.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Text and discourse features vary widely between the two texts. The first text is informative and technical, while the second text is more opinionated and quotes a specific individual.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, the texts show significant differences in lexical and grammatical features, sentence structure, and discourse features, indicating a low likelihood of being written by the same author. The punctuation style and lack of spelling errors provide some commonality but not enough to suggest the same author.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, parentheses, and parentheses, while Paragraph 2 lacks these punctuation marks. This difference suggests a divergence in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and structured lexical and grammatical style with phrases like 'regional power' and 'sphere of influence.' In contrast, Paragraph 2 has a more informal and colloquial tone with phrases like 'Look at what he’s done.' This indicates a notable difference in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit relatively similar sentence structures in terms of length and complexity, with a mix of longer and shorter sentences. However, the coherence and cohesion differ significantly due to the contrasting topics discussed.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two paragraphs diverge significantly: Paragraph 1 focuses on geopolitical matters, while Paragraph 2 discusses individuals like Elon Musk and Tesla. This difference in content affects the overall tone and mood of the texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a similar level of care in writing from a mechanical standpoint.",
+    "score": 0.8
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence in the likelihood that the two texts were written by the same author is moderate due to notable differences in punctuation style, lexical and grammatical features, and narrative styles.",
+    "score": 0.46
+  }
+}

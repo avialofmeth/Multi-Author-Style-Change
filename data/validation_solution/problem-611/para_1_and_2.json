@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods, but they differ in the type and frequency of punctuation marks used. Paragraph 1 includes a variety of punctuation marks like colons, hyphens, and parentheses, which are absent in paragraph 2. This difference in punctuation style suggests a potential variation in the author's writing habits.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, both texts demonstrate varied vocabulary and grammatical structures. However, the content and context of the texts differ greatly, leading to differences in word choice and sentence complexity. This suggests a potential difference in authorship due to the distinct writing styles observed.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary significantly, with paragraph 1 containing longer, more complex sentences compared to the shorter, more straightforward sentences in paragraph 2. Additionally, the coherence and cohesion differ due to the disparate topics discussed. These distinctions in sentence structure and quantitative features indicate potential differences in authorship.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text and discourse features, including narrative styles, speech events, and tone, are markedly different in the two texts. Paragraph 1 adopts a historical and informative tone, while paragraph 2 presents a more informal and opinionated style. These differences in narrative styles suggest dissimilar authorship.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text, indicating a consistent level of attention to detail in terms of writing mechanics. This similarity in error-free writing does not strongly support or refute the likelihood of the same author.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall assessment suggests a moderate likelihood that the two texts were not written by the same author. The differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features point towards distinct writing styles, despite the absence of spelling errors.",
+    "score": 0.36
+  }
+}

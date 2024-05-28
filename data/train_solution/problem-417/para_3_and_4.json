@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses consistent punctuation with hyphens, quotation marks, and colons. Paragraph 2 also includes punctuation marks like colons and quotation marks, but there are issues like missing commas and a lack of consistency.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style. In contrast, Paragraph 2 has more informal language and grammatical errors, suggesting a different writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains well-structured sentences with clear coherence and cohesion. Paragraph 2 shows somewhat erratic sentence structure and lacks coherence, indicating a difference in writing style.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a professional and informative tone. In contrast, Paragraph 2 has a more casual and conversational tone, which differs from the style of Paragraph 1.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are relatively error-free in terms of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the texts likely have distinct writing styles, leading to a lower confidence in them being written by the same author.",
+        "score": 0.64
+    }
+}

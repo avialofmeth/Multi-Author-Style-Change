@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as commas and exclamation points. However, there are differences in the specific punctuation used in each text.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical variation and word choice between the two texts. The first text uses more informal language and hashtags, while the second text is more formal in discussing moderator applications.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts are distinct. The first text contains shorter, more direct sentences, while the second text has longer sentences with more detailed information.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events in the two texts differ significantly. The first text expresses opinions on corrupt politicians, while the second text is a call to action for moderator applications.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

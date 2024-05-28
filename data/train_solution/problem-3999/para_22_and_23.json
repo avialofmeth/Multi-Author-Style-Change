@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use commas for punctuation, but the first paragraph also includes a dash and the second paragraph uses a colon. Overall, punctuation style shows some differences.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use relatively simple language and similar word choices. The grammatical structures are also similar. There is a moderate level of similarity in lexical and grammatical features.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have similar sentence lengths and coherence in their structure. They exhibit comparable levels of sentence complexity. There is a good level of similarity in sentence structure and quantitative features.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The tone and mood in both paragraphs differ, with the first paragraph sounding more casual and the second more formal. However, they both share a straightforward narrative style. There are some commonalities in text and discourse features.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph. Both are well-written in terms of spelling and typographical accuracy.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are notable similarities in lexical and grammatical features, sentence structure, and spelling accuracy. However, punctuation style and text discourse features show some differences. Overall, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.68
+    }
+}

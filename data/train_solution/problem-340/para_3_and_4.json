@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Both texts use similar punctuation marks like parentheses and commas.",
+		"score": 0.8
+	},
+	"feature2": {
+		"explanation": "The two texts exhibit comparable lexical and grammatical choices.",
+		"score": 0.75
+	},
+	"feature3": {
+		"explanation": "The sentence structures and lengths are quite different, impacting coherence.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Narrative styles and tone differ significantly between the two texts.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "No spelling or typographical errors were present in either text.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "While punctuation and lexical choices show similarity, the differences in sentence structure, narrative style, and tone suggest a lower likelihood of the same author.",
+		"score": 0.65
+	}
+}

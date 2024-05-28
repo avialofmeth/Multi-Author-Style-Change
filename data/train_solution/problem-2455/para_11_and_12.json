@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes hyphens, quotation marks, and colons for punctuation, while Paragraph 2 lacks such usage.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal and structured language related to concrete barriers and regional activities, while Paragraph 2 contains informal language and slang.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences related to the description of activities, whereas Paragraph 2 has shorter, direct sentences expressing an opinion.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more informative and formal style discussing regional developments, while Paragraph 2 is more opinionated and critical.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choice, sentence structure, and discourse style, the likelihood of both texts being written by the same author is low.",
+    "score": 0.38
+  }
+}

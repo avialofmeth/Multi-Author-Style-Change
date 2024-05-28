@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the presence of colons, commas, and parentheses. However, the second text also includes hyphens, which is not seen in the first text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "While both texts exhibit a critical tone and use strong language, the second text contains more informal and aggressive lexicon compared to the first text. This difference in word choice suggests a distinction in the lexical and grammatical features.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are fairly similar in terms of complexity and length. Both texts exhibit coherence and cohesion in presenting their arguments. However, the second text displays slightly more erratic sentence arrangement, impacting overall quantitative features.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts share a critical and accusatory tone towards red states and corporations, indicating a commonality in discourse features. However, the second text has a more aggressive and confrontational narrative style compared to the first text.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The linguistic analysis suggests that while there are some commonalities in punctuation style and discourse features, there are notable distinctions in lexical and grammatical features, sentence structure, and narrative style between the two texts. The presence of more informal and aggressive lexicon in the second text, along with differing sentence arrangements, indicates a lower likelihood of the same authorship.",
+        "score": 0.64
+    }
+}

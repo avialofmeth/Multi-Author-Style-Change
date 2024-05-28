@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with the presence of commas and question marks. However, the first text is more formal in punctuation use, while the second text includes more exclamation marks and capitalization for emphasis.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features differ significantly between the two texts. The first text is more formal and structured, using proper grammar and vocabulary typical of automated messages. In contrast, the second text is informal, using colloquial language and emotional expressions.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary widely between the two texts. The first text consists of a single, straightforward sentence, typical of automated responses. On the other hand, the second text is longer, more complex, and emotionally charged, reflecting human expression.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ significantly. The first text is neutral in tone, typical of automated responses, while the second text is opinionated, expressing strong emotions and viewpoints.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating attention to detail in writing. This similarity suggests a common level of care in composing the texts.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering all the features, the texts exhibit notable differences in lexical and grammatical features, sentence structure, and discourse style. While there are some similarities in punctuation and absence of spelling errors, the overall dissimilarity in writing style suggests that the two texts are unlikely to have been written by the same author.",
+        "score": 0.44
+    }
+}

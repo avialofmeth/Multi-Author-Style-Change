@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and hyphens, but differ in the use of brackets, colons, commas, and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There is variation in lexical choices and word usage between the two texts. They differ in the topics discussed and the specific vocabulary used.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are relatively simple and straightforward. They both express clear ideas without significant complexity.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The texts have different narrative styles and tones. One is more political in nature, while the other is discussing a specific issue related to Social Security.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.6
+  }
+}

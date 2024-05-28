@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods consistently and appropriately, while Paragraph 2 also has correct punctuation such as commas and periods. However, Paragraph 2 lacks the use of hyphens, which is present in Paragraph 1.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal and informative tone with a focus on rules and guidelines. Lexical variation is limited in both texts, and they both use technical language related to rules and guidelines. Grammatical structures are similar in terms of sentence construction and use of formal language.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are structured in a clear and organized manner, with a direct and informative style. They both contain straightforward sentences with a focus on conveying rules and instructions. The coherence and cohesion are maintained through the logical flow of information.",
+        "score": 0.9
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a formal and instructive tone, focusing on providing guidelines and instructions. While the topics differ, the overall tone and mood of both texts are similar in terms of being informative and directive.",
+        "score": 0.85
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free of spelling and typographical errors, demonstrating a high level of attention to detail and accuracy in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure and coherence, text and discourse features, and absence of spelling errors, there is a high likelihood that the two texts were written by the same author.",
+        "score": 0.85
+    }
+}

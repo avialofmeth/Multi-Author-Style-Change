@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, question marks, and commas, but they differ in the use of colons and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts show a mix of technical and colloquial language, but they differ in the specific technical terms used.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively complex sentences with technical content, but vary in sentence structure and length.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts involve discussing technical processes, but differ in the specific details and tone.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences and similarities in the identified features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.68
+  }
+}

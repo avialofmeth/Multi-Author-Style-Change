@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including commas, periods, question marks, and ellipsis. However, only the first text includes a forward slash and a period after it.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual tone with some informal language. They both question the decision-making process. The second text uses more abbreviations ('hrs' for hours) compared to the first.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts have relatively short sentences. The first text contains a sentence fragment ('/s.') at the end, while the second text asks a question and uses ellipsis for emphasis.",
+    "score": 0.8
+  },
+  "feature4": {
+    "explanation": "Both texts express confusion or disbelief regarding a decision made during a flight. The first text uses humor with the sarcasm indicator '/s', while the second text directly questions the logic of the decision.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, sentence structure, discourse features, and lack of spelling errors, with some distinctions in lexical choices and abbreviations, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.8
+  }
+}

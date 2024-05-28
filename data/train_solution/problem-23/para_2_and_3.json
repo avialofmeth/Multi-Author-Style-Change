@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and ellipses, while Paragraph 2 uses slashes and commas. The punctuation style differs in terms of specific marks used.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal language with contractions and abbreviations. However, Paragraph 1 includes more colloquial language ('y’all’s'), while Paragraph 2 is more formal ('Personal insults'). There are some lexical differences in tone and formality.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter sentences and uses more informal language. Paragraph 2 is more structured with clear rules and guidelines, reflected in longer sentences. There is a distinction in sentence structure and complexity.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have a conversational tone, but Paragraph 2 is more directive and formal compared to the more casual tone of Paragraph 1. The discourse features and tone differ slightly.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, the texts show some similarities but also notable distinctions. The overall assessment suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

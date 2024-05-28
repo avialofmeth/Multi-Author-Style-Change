@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts contain informal language with the use of profanity and insults. Punctuation is used in a similar informal and aggressive style, including ellipses, exclamation marks, and informal abbreviations like 'lol'.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a similar informal and derogatory word choice, including insults and offensive language. The grammar is simplistic and lacks formal structure, with short and direct sentences.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structure in both texts is straightforward and lacks complexity. They consist of short, direct statements with a lack of elaboration or nuanced expression.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood in both texts are aggressive, derogatory, and dismissive. The narrative style is confrontational and disrespectful, focusing on attacking the recipient.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in the texts. The writing is consistent in terms of spelling and formatting.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+    "score": 0.8
+  }
+}

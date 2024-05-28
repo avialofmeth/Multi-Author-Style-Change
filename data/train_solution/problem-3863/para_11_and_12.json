@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas, periods and question marks. However, the first text includes more informal punctuation like ellipses whereas the second text has a more standard punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variations in lexical and grammatical features. The first text uses more colloquial language and contractions, while the second text has a more formal tone with specific terms related to gambling.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are relatively straightforward and lack complexity. The sentences are mostly short and to the point, with no significant differences in structure.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The text and discourse features in both texts suggest a direct and informative style. However, the first text has a more persuasive tone with a call to action, while the second text is more descriptive and informative about the gambling landscape in Texas.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate, as there are both commonalities and distinctions in writing style.",
+        "score": 0.62
+    }
+}

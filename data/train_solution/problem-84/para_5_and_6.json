@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as hyphens, colons, and commas. However, the first text uses more informal punctuation like swear words and lacks certain punctuation marks seen in the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choice and word usage between the two texts. The first text contains more informal and aggressive language, while the second text is more diplomatic and formal in word choice.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures vary between the two texts. The first text has shorter, more direct sentences, while the second text shows more complex sentence structures and cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both texts convey a sense of urgency and a desire for change. However, the tone and mood differ significantly, with the first text being more aggressive and the second text more diplomatic.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text/discourse features, along with the similarity in lack of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

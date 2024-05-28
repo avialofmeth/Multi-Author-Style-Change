@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize a mix of punctuation marks such as commas, question marks, and exclamation points. However, the first text includes more formal punctuation like colons and parentheses, while the second text contains informal punctuation like ellipses and emoticons.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The first text uses formal language and specific terms related to media outlets and subreddit guidelines. The second text includes informal language, contractions, and slang terms related to social issues and personal opinions.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text consists of shorter, more structured sentences with clear organization. The second text has longer sentences with a more informal structure and less coherence.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text maintains a formal and neutral tone related to subreddit rules. The second text expresses strong personal opinions with a critical and emotional tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free from spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, along with the similarities in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

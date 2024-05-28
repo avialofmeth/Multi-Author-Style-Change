@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar punctuation styles including the use of commas, periods, and parentheses.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs demonstrate a formal writing style with specific terminology and structured sentences.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentences in both paragraphs are relatively short and straightforward, focusing on conveying information concisely.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts lack narrative elements or expressive language, maintaining a neutral and informative tone.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either of the texts.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, there is a moderate confidence that the two texts were written by the same author.",
+        "score": 0.77
+    }
+}

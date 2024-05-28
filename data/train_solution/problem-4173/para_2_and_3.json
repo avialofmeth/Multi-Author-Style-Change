@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation like colons and periods, while Paragraph 2 includes informal punctuation like ellipses and exclamation marks.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexicon, whereas Paragraph 2 contains informal language with abbreviations ('Wtf') and slang ('families of dead ruzzian soldiers').",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have similar sentence structures with short and direct sentences. However, Paragraph 2 uses more informal language and lacks coherence compared to Paragraph 1.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a serious and informative tone related to an information war and martial law, whereas Paragraph 2 conveys confusion and frustration regarding the treatment of soldiers' families.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The overall confidence score is moderate, indicating some similarities in punctuation and sentence structure, but notable differences in lexicon, tone, and coherence.",
+        "score": 0.5
+    }
+}

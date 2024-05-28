@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, colons, and parentheses for organization, while Paragraph 2 lacks these punctuations. However, both texts exhibit similar punctuation styles overall.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts show a mix of formal and informational lexical choices. Paragraph 1 focuses on media outlets and criteria, while Paragraph 2 discusses citizenship and marriage. Despite the topic differences, the lexical and grammatical features do not strongly suggest different authors.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter, more concise sentences related to providing instructions. In contrast, Paragraph 2 has longer sentences with more complex clauses. However, the sentence structures differ due to the content rather than a distinct authorial style.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and instructional tone, focusing on guidelines. Paragraph 2 uses a more speculative and narrative tone, discussing a person's potential citizenship. The differences in narrative style and tone may suggest different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively error-free in terms of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.58
+    }
+}

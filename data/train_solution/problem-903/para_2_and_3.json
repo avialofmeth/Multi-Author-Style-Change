@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and commas to separate clauses and phrases.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Text 1 contains more formal language related to subreddit guidelines, while Text 2 is more informal and news-oriented.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively simple sentence structures with clear communication.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Text 1 is instructional in tone while Text 2 is informative.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were identified in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are some commonalities in punctuation and sentence structure, but differences in lexical choice and tone. The overall confidence score is moderate.",
+        "score": 0.68
+    }
+}

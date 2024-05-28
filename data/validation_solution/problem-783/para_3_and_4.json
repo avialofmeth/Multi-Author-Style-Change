@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as colons, quotation marks, and commas to separate clauses and provide information. However, the first text has more diverse punctuation usage with hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features in terms of formal language use and complex sentence structures. However, the second text includes specific terms related to German politics and individuals, which differ from the first text's more general terms.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively complex with a mix of short and long sentences. They both maintain coherence and cohesion in presenting information. However, the first text seems to have slightly longer sentences on average compared to the second text.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts share a serious and informative tone, focusing on political events. They use formal language and present factual information. However, the second text includes specific references to individuals and events within Germany, distinguishing it from the first text.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, sentence structure, and lack of spelling errors, along with some differences in specific terms and references used, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and quotation marks, but differ in the use of other punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Distinctive word choice and grammatical structures are present in both texts, indicating some similarity.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts exhibit differences in sentence structure and length, affecting the overall coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The tone and mood are contrasting in the two texts, with one being informational and the other more opinionated.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the mix of similarities and differences across the features, the likelihood of the same author for both texts is moderate.",
+    "score": 0.6
+  }
+}

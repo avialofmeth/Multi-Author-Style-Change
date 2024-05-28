@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and no other punctuations, while Paragraph 2 includes hyphens and commas for punctuation. The styles are somewhat different, indicating a variation in punctuation usage.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical and grammatical features with a focus on military-related terminology. The word choices and grammatical structures are consistent, suggesting a shared style.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter sentences with a more direct narrative, whereas Paragraph 2 includes longer sentences with more detailed explanations. The quantitative features differ in terms of sentence complexity and length.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts share a common narrative style related to military tactics and strategies. The tone is informative and objective in both cases, indicating a similarity in discourse features.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph, demonstrating a consistent level of accuracy in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are similarities in lexical and grammatical features, text and discourse features, and absence of spelling errors. However, differences in punctuation style and sentence structure indicate some variability. The overall assessment suggests a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, and periods in a similar style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit similar lexical and grammatical features with a straightforward and concise writing style.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts have moderate sentence complexity and coherence, with a mix of short and medium-length sentences.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 2's content as a bot response introduces a different narrative style compared to the informative content of Paragraph 1, slightly reducing the likelihood of the same author.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the similarities in punctuation style, lexical and grammatical features, sentence structure, and the absence of spelling errors, the texts are likely written by the same author despite the difference in narrative style.",
+    "score": 0.7
+  }
+}

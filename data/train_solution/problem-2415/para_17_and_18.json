@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use hyphens, commas, and periods consistently. Both paragraphs also use abbreviations like 'mfgs' and 'clinician'.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use technical terms related to medical devices and implants. Both paragraphs also use similar sentence structures with informal language.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of relatively short sentences and direct statements. They lack complexity in sentence structure but maintain coherence within each paragraph.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both paragraphs discuss medical devices and procedures in an informative tone, focusing on technical details rather than personal opinions or emotions.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, technical vocabulary, sentence structure, discourse features, and absence of spelling errors, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.76
+    }
+}

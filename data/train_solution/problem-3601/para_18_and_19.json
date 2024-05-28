@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and periods correctly. However, the first text contains more complex punctuation like colons and parentheses, while the second text lacks such complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit differences in lexical choices and word usage. The first text includes phrases like 'war crime of settlers' and 'cleansing of Palestinians,' while the second text uses simpler language like 'illegally occupy their land.'",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is more complex in sentence structure and length, utilizing longer sentences with multiple clauses. In contrast, the second text is more straightforward with shorter sentences and simpler structures.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts have a critical tone towards Israel, but the first text presents a more detailed argument against Israel's actions, while the second text makes a straightforward accusation.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation complexity, lexical choices, sentence structures, and narrative styles, there are significant variations between the two texts, suggesting they might not be written by the same author.",
+        "score": 0.64
+    }
+}

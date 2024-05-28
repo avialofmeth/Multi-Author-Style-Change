@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of punctuation marks such as commas and periods. However, the first text includes quotation marks, which are absent in the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical and grammatical features with a mix of formal language and direct quotations. However, the second text includes more technical terms related to legal procedures.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts have a mix of complex and simple sentence structures. The first text has longer sentences compared to the second text, which is more concise and straightforward.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts convey a serious and informative tone, but the first text includes more narrative elements related to the event. The second text is more factual and procedural in nature.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.68
+    }
+}

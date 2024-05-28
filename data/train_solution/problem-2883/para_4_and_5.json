@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods correctly, but the first text contains more formal punctuation marks like colons and parentheses, while the second text has a more casual style with hyphens and lacks other formal punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "In terms of lexical and grammatical features, the first text uses more formal language and structured sentences, whereas the second text is more informal with slang ('bullshit') and a less formal style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure in the first text is more straightforward and formal, while the second text has shorter and more direct sentences with a conversational tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The first text has a formal and neutral tone, typical of automated responses, while the second text is more opinionated and expressive, indicating a different narrative style and tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical features, sentence structure, and narrative style, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

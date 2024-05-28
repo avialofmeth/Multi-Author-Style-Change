@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a lack of hyphens, brackets, colons, and parentheses. Paragraph 1 includes commas and quotation marks, while Paragraph 2 lacks these. There are some differences in punctuation style between the two texts.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language related to media outlets and subreddit rules. Paragraph 2 is more informal, with a focus on a specific individual and their actions. There are noticeable differences in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a clear directive sentence with technical terms. Paragraph 2 is a complex sentence expressing an opinion. The sentence structures and quantitative features are quite distinct.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 is informative and instructional in tone. Paragraph 2 is critical and opinionated. The narrative styles and tone vary significantly between the two texts.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors. There are no issues in this feature.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and text and discourse features, the likelihood of the two texts being written by the same author is low. However, the absence of spelling and typographical errors boosts the overall confidence score slightly.",
+    "score": 0.42
+  }
+}

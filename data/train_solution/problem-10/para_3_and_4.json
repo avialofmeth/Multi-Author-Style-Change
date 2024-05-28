@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods in a conventional manner. Paragraph 2 lacks punctuation marks such as commas and periods, possibly due to being a short automated response.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a mix of formal and informal language with complex sentence structures. Paragraph 2 is brief and lacks lexical variation or grammatical complexity typical of automated responses.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more detailed and has longer sentences. Paragraph 2 is short and lacks the complexity and coherence seen in human-generated text.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 expresses an opinion and discusses a specific topic. Paragraph 2 is a generic automated response lacking individualized expression or tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 has no spelling or typographical errors. Paragraph 2 is short and simple, making it less likely to contain errors typical of human-written text.",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical complexity, sentence structure, discourse features, and lack of errors, the overall confidence that the texts share the same author is low.",
+        "score": 0.24
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation such as commas and periods. However, Paragraph 1 includes more complex punctuation like colons, whereas Paragraph 2 does not contain any complex punctuation.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical and grammatical features between the two texts. Paragraph 1 uses more complex language and sentence structures compared to the simpler language used in Paragraph 2.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 features longer and more complex sentences with a higher level of coherence and cohesion, while Paragraph 2 consists of shorter, more straightforward sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal tone, but Paragraph 1 presents a more argumentative and explanatory style, whereas Paragraph 2 is more instructional in nature.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and discourse style, the overall confidence score is moderate.",
+    "score": 0.5
+  }
+}

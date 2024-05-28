@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation style with the use of commas, quotation marks, and periods. However, the presence or absence of specific punctuation marks may differ.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the texts show differences in word choice and grammatical structures. The first text uses more formal language related to historical events, while the second text focuses on a specific incident.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structure and quantitative features vary between the texts. The first text contains longer and more complex sentences compared to the second text, which is more straightforward.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ significantly in terms of content and tone. The first text discusses historical events and relations, while the second text mentions a specific incident involving women's fur coats.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate due to differences in lexical and grammatical features, sentence structure, and text and discourse features, despite some similarities in punctuation style.",
+    "score": 0.58
+  }
+}

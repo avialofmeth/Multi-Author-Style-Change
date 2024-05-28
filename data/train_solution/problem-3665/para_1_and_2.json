@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, periods, and well-structured sentences. However, Paragraph 2 lacks the variety of punctuation seen in Paragraph 1, such as colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is some consistency in the lexical and grammatical features between the texts. However, the vocabulary and sentence structures differ slightly, especially in the context and tone of the writing.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively straightforward. However, Paragraph 1 includes more complex sentences compared to the simpler sentences in Paragraph 2.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While both texts convey information in a formal tone, the content and style differ significantly. Paragraph 1 focuses on rules and guidelines, whereas Paragraph 2 discusses changes during the pandemic, leading to a difference in narrative styles.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as commas and ellipses, but differ in the usage of hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some differences in word choice and sentence structure, although there are similarities in tone and informal style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence complexity and structure, with the first text being more concise and direct compared to the second text.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text and discourse features such as narrative style and tone vary significantly between the two texts, indicating potential different authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text that could indicate a common author.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the overall likelihood of the two texts being written by the same author is low.",
+        "score": 0.5
+    }
+}

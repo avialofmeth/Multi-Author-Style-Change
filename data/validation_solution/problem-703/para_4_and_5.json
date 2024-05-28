@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas for listing items and separating clauses.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 2 includes more informal language and slang compared to the more formal tone of Text 1.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 is more structured with clear sentences, while Text 2 has a more conversational and fragmented structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 is informative and instructional in tone, while Text 2 is more opinionated and casual.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in formality, structure, and tone, there are notable distinctions in writing style that suggest different authors.",
+    "score": 0.66
+  }
+}

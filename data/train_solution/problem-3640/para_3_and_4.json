@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks like colons, commas, and quotation marks. However, the first text has more varied punctuation with hyphens and parentheses while the second text primarily uses emojis and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts contain informal language and abbreviations ('bc' for 'because'). The first text includes more slang ('mobiks,' 'main guy Sasha'), while the second text uses more formal terminology like 'mercenaries' and 'prisoner exchange.'",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are relatively simple and direct. The first text has shorter sentences compared to the second text, which includes longer sentences with more descriptive information.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts discuss events involving conflict and potential violence. The first text conveys a sense of urgency and direct action, while the second text presents a news-like report. The tones in both texts are serious and somewhat dramatic.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are some similarities in writing style, particularly in punctuation and tone. However, the differences in lexical choices and sentence structure suggest a moderate likelihood that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

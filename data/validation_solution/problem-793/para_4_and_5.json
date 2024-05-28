@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 contains a colon and a hyphen, while Paragraph 2 lacks these specific punctuation marks.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit similar lexical and grammatical features with some minor differences in word choice and sentence structures.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both paragraphs show coherence and similar complexity, although there are differences in sentence length and arrangement.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both texts have a similar informative tone and narrative style, focusing on legal scenarios, but with differences in specific details.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the five features, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.72
+  }
+}

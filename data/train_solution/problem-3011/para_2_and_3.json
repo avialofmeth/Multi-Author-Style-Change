@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses hyphens, commas, and parentheses, while Paragraph 2 uses only commas and parentheses. Both texts exhibit a similar usage of punctuation marks.",
+      "score": 0.8
+   },
+   "feature2": {
+      "explanation": "Both texts have a formal and instructional tone with a focus on rules and guidelines. They share a similarity in lexical and grammatical features with an emphasis on clarity and direct communication.",
+      "score": 0.7
+   },
+   "feature3": {
+      "explanation": "Paragraph 1 is more detailed and structured with clear rules and consequences, whereas Paragraph 2 is concise and straightforward, providing a specific instruction. There is a difference in sentence complexity and length between the two texts.",
+      "score": 0.5
+   },
+   "feature4": {
+      "explanation": "Both texts adopt an informational tone and provide guidance to the readers. They lack expressive or emotional language and focus on conveying instructions or rules.",
+      "score": 0.6
+   },
+   "feature5": {
+      "explanation": "There are no spelling or typographical errors in either of the texts, indicating a similar attention to detail in terms of language usage.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Based on the analysis of the linguistic features, there are similarities in punctuation style, lexical and grammatical features, text and discourse features, and spelling accuracy. However, differences in sentence structure and length slightly reduce the overall confidence in the texts being written by the same author.",
+      "score": 0.72
+   }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured punctuation style with the use of colons and commas. Paragraph 2 lacks proper punctuation and exhibits a more casual style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and specific terms related to media outlets. Paragraph 2 contains informal language and slang terms related to political parties.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has well-structured sentences with clear arrangements. Paragraph 2 has shorter and less coherent sentences with more colloquial expressions.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone. Paragraph 2 reflects a more opinionated and critical tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are relatively free of spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical features, sentence structure, tone, and the overall context, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.42
+  }
+}

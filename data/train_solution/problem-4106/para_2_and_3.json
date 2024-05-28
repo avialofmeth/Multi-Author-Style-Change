@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 predominantly uses commas for punctuation, while Paragraph 2 lacks commas and relies more on periods. Both texts use periods at the end of their sentences.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes technical terms like 'optics,' 'targeting systems sensors,' and 'Western tanks.' Paragraph 2, on the other hand, uses more casual language with phrases like 'It's cheaper' and 'why not.' There is a difference in lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs consist of relatively short sentences with straightforward structures. There is a lack of complexity and varied sentence structures in both texts.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more technical and informative tone, discussing features of modern vehicles. Paragraph 2 has a more casual, conversational tone discussing cost and decision-making. The narrative styles and tones differ significantly.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "After considering all the features, the overall likelihood that the two texts were written by the same author is low due to significant differences in lexical and grammatical features, as well as narrative styles and tones.",
+        "score": 0.48
+    }
+}

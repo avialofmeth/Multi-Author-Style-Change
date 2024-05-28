@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation styles like brackets, commas, and lack of proper capitalization. However, Paragraph 1 contains more informal punctuation marks like hyphens and lacks consistent punctuation usage.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit informal word choice and lack of complex grammar. The use of informal language is more prevalent in Paragraph 1, while Paragraph 2 is slightly more structured in terms of word choice.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer, more complex sentences with a mix of coherence and incoherence. Paragraph 2 consists of shorter sentences with clearer coherence. The quantitative features vary significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts express strong opinions and a casual tone, but the narratives differ in focus and expression. Paragraph 1 has a more intense and emotional tone, while Paragraph 2's tone is more suggestive and directive.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts contain spelling errors and informal language characteristics. Paragraph 1 has more typographical errors compared to Paragraph 2.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, there are notable similarities in punctuation style, informal language usage, and tone. However, differences in sentence structure, coherence, and word choice suggest a moderate likelihood that the texts were written by the same author.",
+    "score": 0.5
+  }
+}

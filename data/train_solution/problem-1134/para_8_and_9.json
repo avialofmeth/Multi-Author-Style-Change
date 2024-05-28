@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 includes proper punctuation such as quotation marks and commas, while Paragraph 2 lacks consistent punctuation and has multiple errors.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and word choice compared to the repetitive and simplistic language in Paragraph 2.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has more complex sentence structures and better coherence, while Paragraph 2 shows shorter, less coherent sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 exhibits a more formal tone and structured expression, while Paragraph 2 appears more casual and less organized.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts contain typographical errors, but Paragraph 2 has more spelling mistakes and inconsistencies.",
+        "score": 0.3
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical complexity, sentence structure, tone, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.28
+    }
+}

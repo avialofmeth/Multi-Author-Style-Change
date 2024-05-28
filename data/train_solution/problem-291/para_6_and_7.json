@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as commas and periods, but differ in the specific punctuation used (e.g., Paragraph 1 uses more commas while Paragraph 2 uses periods and ellipses).",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical choices (e.g., 'true', 'like', 'all'), but differences in word choice and style (e.g., 'intentional', 'Ukraine' in Paragraph 1 vs. 'serious', 'exposed' in Paragraph 2).",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both paragraphs exhibit similar sentence lengths and coherence, but differ in terms of sentence complexity and arrangement.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The tone and mood in both texts are somewhat similar (e.g., informal language, expressing opinions), but there are differences in narrative styles (e.g., discussing different topics).",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free from spelling and typographical errors.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the combination of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are moderate similarities but also notable differences, leading to a moderate confidence that the texts were written by the same author.",
+    "score": 0.56
+  }
+}

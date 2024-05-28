@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas, periods, and ellipses, but differ in the use of brackets and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts display a mix of formal and informal language, with differences in technical terminology.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "The sentence structures vary, with one text being more casual and the other more technical.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "While both texts convey a critical tone, one is more opinionated and direct, while the other is explanatory and neutral.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts show similarities in punctuation style and lexical features but differ significantly in sentence structure and discourse features, leading to a moderate likelihood of being written by the same author.",
+    "score": 0.64
+  }
+}

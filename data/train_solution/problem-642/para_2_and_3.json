@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and ellipses. However, the absence of hyphens, brackets, colons, and quotation marks in both texts suggests a lack of consistency in punctuation style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts exhibit differences in word choice and sentence structure. While both texts display a level of formality, the vocabulary and sentence construction vary significantly.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features differ between the texts. The first paragraph is more formal and structured, while the second paragraph is more casual and conversational with shorter sentences.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and discourse features in the two texts differ notably. The first paragraph adopts a more informative tone, whereas the second paragraph expresses opinions and critiques.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "The analysis indicates notable differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, and narrative styles between the two texts. However, the absence of spelling and typographical errors serves as a commonality. Therefore, the overall confidence score of the two texts being written by the same author is moderate.",
+        "score": 0.42
+    }
+}

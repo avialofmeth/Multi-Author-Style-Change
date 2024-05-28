@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of punctuation marks like colons and quotation marks, while Paragraph 2 lacks these specific punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical choices, with Paragraph 1 using more casual language and Paragraph 2 containing technical terms related to radiation.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more straightforward sentences, whereas Paragraph 2 includes longer, more complex sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more casual and conversational tone, while Paragraph 2 presents a more formal and technical tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs have proper spelling and no typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the presence of some commonalities in spelling and no typographical errors, the likelihood of both texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

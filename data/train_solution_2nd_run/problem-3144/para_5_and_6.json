@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods, but they differ in the use of hyphens and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show variation in word choice and grammatical categories but differ in sentence structure and part of speech usage.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The texts vary in sentence complexity and coherence, with differences in word, clause, and sentence length and arrangement.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "There are differences in narrative styles, speech events, tone, and mood between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall confidence in the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

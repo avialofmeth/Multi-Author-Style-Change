@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for sentence structuring, while Paragraph 2 uses commas and periods more prominently. The use of punctuation differs slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more complex vocabulary and structures compared to Paragraph 2, which is more straightforward in its lexical choices. The difference in word choice and complexity is evident.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer sentences with more complex structures, while Paragraph 2 has shorter, simpler sentences. The sentence length and complexity vary significantly.",
+    "score": 0.9
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more serious and critical tone, discussing political issues, while Paragraph 2 is more neutral and informative. The difference in tone and focus is noticeable.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts demonstrate proper spelling and punctuation without typographical errors. There are no observable spelling or typographical mistakes.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles, including the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some consistency in terms of formality and structure.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "There are differences in sentence structures and lengths, indicating some variation.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The texts differ in the discourse features such as tone and mood, suggesting potential differences in authorship.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The texts show moderate consistency in punctuation and lexical features but exhibit notable differences in sentence structure and discourse elements, leading to some uncertainty in authorship.",
+    "score": 0.64
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and brackets for additional information, as well as hyphens for compound words. Punctuation style is consistent across both texts.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "There are differences in word choice and lexical variation between the texts. For example, 'transmissible' vs. 'develop from eating'. Grammatical categories and part of speech usage show variations as well.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Sentence structures vary in complexity and length between the two texts. Text 1 has shorter, more concise sentences compared to Text 2, which includes longer sentences with more detail.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles differ, with Text 1 presenting information in a more objective tone, while Text 2 expresses a personal perspective with emotional emphasis. Common expressions and idioms also show distinctions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the mixed scores across various features, it is moderately likely that the two texts were written by different authors.",
+    "score": 0.64
+  }
+}

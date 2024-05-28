@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar punctuation style with the use of hyphens, commas, and period. However, the first text includes more formal punctuation like colons and parentheses, whereas the second text includes more informal punctuation like ellipses and exclamation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts use a varied vocabulary and show a level of sophistication in word choice. However, the first text displays a more formal tone and structured grammar compared to the second text, which has a more informal and conversational style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Regarding sentence structure and quantitative features, the first text is more structured with longer sentences and a formal tone. In contrast, the second text has shorter sentences, a more conversational tone, and a less organized structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first text is more formal and directive, focusing on subreddit guidelines. The second text is more informal, opinionated, and narrative-driven, expressing personal views on media outlets.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The analysis shows that while there are some shared linguistic features between the texts, such as the absence of spelling errors and the use of hyphens and commas, there are significant differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features. These differences suggest that the texts were likely written by different authors.",
+        "score": 0.54
+    }
+}

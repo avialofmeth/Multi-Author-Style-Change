@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses hyphens and commas for punctuation, while Paragraph 2 mainly uses commas. Both texts lack brackets, colons, parentheses, quotation marks.",
+		"score": 0.5
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 uses informal language with contractions like 'i'm', while Paragraph 2 is more formal and structured as it's likely a bot response. There are differences in lexical variation, word choice, and part of speech usage.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "Both texts are relatively short and straightforward. Paragraph 1 has longer sentences with more complex structure, while Paragraph 2 is concise and to the point. It lacks coherence due to being an automated response.",
+		"score": 0.4
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 has a casual and conversational tone, discussing a specific situation. Paragraph 2 is a standard automated response, lacking personal expression or tone.",
+		"score": 0.2
+	},
+	"feature5": {
+		"explanation": "There are no spelling or typographical errors in either text.",
+		"score": 1
+	},
+	"overall": {
+		"explanation": "The different punctuation styles, informal language in Paragraph 1, and the lack of coherence in Paragraph 2 indicate potential differences in authorship. However, the absence of spelling errors boosts the overall confidence score slightly.",
+		"score": 0.48
+	}
+}

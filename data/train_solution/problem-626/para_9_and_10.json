@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as commas, colons, and quotation marks. However, there is a notable difference in the use of hyphens and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical variation and word choice, especially in the use of specific terms like 'subjects' and 'hated'. Grammatical structures also show some consistency.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts exhibit some coherence and similar word distributions. However, there are differences in sentence complexity and length.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts discuss leadership and the perception of leaders, showing some commonality in narrative styles. However, the tone and mood differ significantly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all features, there are notable similarities in punctuation, lexical and grammatical features, and absence of spelling errors. However, differences in sentence structure, narrative style, and tone suggest some divergence in writing style.",
+        "score": 0.64
+    }
+}

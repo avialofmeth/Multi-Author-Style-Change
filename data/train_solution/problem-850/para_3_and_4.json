@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, commas, and parentheses for punctuation, but only the first text includes colons and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The second text has a more informal tone and simpler language compared to the first text, which uses more formal language and specific terminology.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text is more structured and formal in sentence construction compared to the second text, which has shorter and simpler sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a different narrative style and tone; the first text is more informative and instructional, while the second text is more personal and descriptive.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and narrative tone, the confidence in the texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

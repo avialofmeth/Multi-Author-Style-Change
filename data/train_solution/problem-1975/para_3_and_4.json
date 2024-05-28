@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas and periods correctly, but only the first text includes hyphens and mentions 'the other tab', indicating a slightly different punctuation style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts use straightforward language with no complex vocabulary. However, the first text includes more specific terms related to tuition waivers, while the second text is more general as it is a bot response.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both texts are concise and to the point, with a similar sentence length and structure. The first text provides more details about the topic compared to the second text which is a brief response.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text has a more informative and conversational tone, discussing a specific topic. The second text is robotic and formal, typical of automated responses.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation, sentence structure, and absence of spelling errors, along with the distinctions in lexical choices and tone, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.62
+  }
+}

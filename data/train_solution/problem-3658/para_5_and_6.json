@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar style of punctuation, including commas, quotation marks, and periods. However, the second text includes more informal punctuation like hyphens and offensive language.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the texts differ significantly. The first text is formal and straightforward, while the second text contains informal language, slang, and offensive terms.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the texts are notably different. The first text is concise and direct, while the second text is more complex and includes informal expressions.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The text and discourse features vary widely between the two texts. The first text is neutral and informative, whereas the second text is opinionated, critical, and uses informal tone and expressions.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical, grammatical, and discourse features, as well as the informal tone and structure of the second text, it is unlikely that both texts were written by the same author.",
+        "score": 0.44
+    }
+}

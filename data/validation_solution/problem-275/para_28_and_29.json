@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use quotation marks to denote direct speech, indicating a consistent punctuation style.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more formal language consistent with official statements, while paragraph 2 contains more informal language used in military contexts. However, both paragraphs display a certain level of lexical and grammatical consistency.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single complex sentence with formal structure, while paragraph 2 contains shorter, more fragmented sentences typical of a narrative style. Sentence lengths vary between the paragraphs, affecting coherence.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 exhibits a formal tone typical of official statements, while paragraph 2 conveys a more narrative style with a different tone. The narrative style and speech events differ between the two paragraphs.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the linguistic features, the likelihood that the two texts were written by the same author is moderate, as there are similarities in punctuation style and lexical consistency, but differences in sentence structure, tone, and narrative style.",
+    "score": 0.72
+  }
+}

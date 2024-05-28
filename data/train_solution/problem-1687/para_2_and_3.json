@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation like colons and commas in a structured manner, while Paragraph 2 lacks such formal punctuation and instead includes informal language with no structured use of punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style with specific terms related to media outlets and subreddit rules, whereas Paragraph 2 uses informal language with slang terms like 'Qimbeciles' and 'Fauci' that are not present in Paragraph 1.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has coherent and formal sentence structures with clear organization, while Paragraph 2 lacks coherence, containing fragmented and incoherent sentences. Paragraph 1 is more focused and structured in terms of sentence length and complexity compared to Paragraph 2.",
+    "score": 0.25
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone related to subreddit rules, whereas Paragraph 2 exhibits a more opinionated and critical tone towards political figures. The narrative styles and speech events differ significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts do not have spelling or typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling and typographical errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.33
+  }
+}

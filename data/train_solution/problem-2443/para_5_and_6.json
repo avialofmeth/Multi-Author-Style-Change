@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use commas for listing items and for separating clauses within sentences.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 contains more formal language related to location and distance, while text 2 has informal language and slang related to negative consequences. However, both texts exhibit a mix of complex and simple sentence structures.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward. Text 1 includes a specific distance measurement, while text 2 discusses potential consequences. Both texts are coherent within their respective contexts.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 has a descriptive and factual tone, focusing on a specific location and distance. In contrast, text 2 has a more speculative and critical tone discussing potential outcomes. Both texts present information in a narrative style.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, sentence structure, coherence, and lack of errors, along with some differences in lexical choice and tone, there is moderate confidence that the texts were written by the same author.",
+    "score": 0.72
+  }
+}

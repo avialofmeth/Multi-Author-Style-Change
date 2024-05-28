@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes commas and the word 'and' to separate elements in a list. Paragraph 2 uses commas to separate clauses and to set off nonessential information.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains informal language with words like 'stupid' and 'loudly'. Paragraph 2 uses more formal language with terms like 'media outlets' and 'approved domains'.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively simple sentence structures and similar lengths. The coherence and cohesion are decent in both texts.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more narrative style with a personal anecdote. Paragraph 2 is more informative and directive. The tone and mood differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, there are notable differences in punctuation style, lexical and grammatical features, and text and discourse features, while sentence structure and spelling are more aligned. This indicates a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.48
+  }
+}

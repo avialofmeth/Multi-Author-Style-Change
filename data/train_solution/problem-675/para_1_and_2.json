@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts display a similar use of punctuation, including hyphens, commas, and periods, although the first text also includes colons and parentheses which are absent in the second text.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with a focus on rules and guidelines. The word choices and lexical variation are limited, with a clear emphasis on conveying instructions or information.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and concise, with clear and direct sentence structures. They maintain coherence and cohesion within each paragraph, with a straightforward organization of ideas.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and instructional tone, providing guidelines or information to the reader. While the specific topics differ, the overall style and mood are consistent in terms of being informative and directive.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text, indicating a level of attention to detail and accuracy in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there is a moderate confidence that the two texts were written by the same author.",
+        "score": 0.76
+    }
+}

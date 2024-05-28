@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and question marks for emphasis, while Paragraph 2 does not exhibit similar punctuation patterns.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a more informal and expressive word choice and sentence structure, while Paragraph 2 is more formal and technical in its language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has varied sentence lengths and structures, with a mix of questions and statements, while Paragraph 2 consists of more straightforward and uniform sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a more passionate and opinionated tone, using rhetorical questions and exclamatory phrases, while Paragraph 2 adopts a neutral and factual tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences in writing style between the two texts, suggesting they were likely written by different authors.",
+        "score": 0.44
+    }
+}

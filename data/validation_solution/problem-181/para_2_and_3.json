@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas for punctuation, while Paragraph 2 includes brackets and commas. Both paragraphs demonstrate a moderate level of punctuation complexity.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a mix of lexical and grammatical features, with varied word choices and part of speech usage. There are no significant differences in this aspect.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer sentences with varied structures, while Paragraph 2 is more straightforward and direct. This difference in sentence complexity affects the overall coherence and cohesion.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a narrative style discussing a specific event, while Paragraph 2 has a formal tone providing instructions. The styles are distinct, affecting the overall narrative and discourse features.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs show no spelling or typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the five features, there are notable differences in sentence structure, narrative style, and tone, which lower the confidence in the texts being written by the same author. However, the consistent use of punctuation and absence of spelling errors provide some commonality.",
+    "score": 0.62
+  }
+}

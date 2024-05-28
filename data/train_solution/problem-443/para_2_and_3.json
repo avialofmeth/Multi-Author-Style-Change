@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and periods appropriately in the sentence structure, while Paragraph 2 lacks punctuation marks and contains a run-on sentence.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical usage with specific terms like 'deputy prime minister', 'gas deliveries', and 'Yamal pipeline'. Paragraph 2 appears more informal and conversational, with the use of contractions like 'I'm' and colloquial expressions like 'take up'.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer sentences with various clauses and a clear progression of ideas. Paragraph 2 is a shorter, more fragmented sentence that lacks coherence and structure.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a neutral and informative tone in reporting events. Paragraph 2 includes a personal opinion and a questioning tone, indicating a different narrative style.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph, indicating a similar level of accuracy in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the overall likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.54
+    }
+}

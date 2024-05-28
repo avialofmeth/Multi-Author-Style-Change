@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons, commas, and parentheses to provide additional information or clarify a point.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice, using technical terms or abbreviations.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures are different in complexity and length, with one text being more straightforward and the other more complex.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The texts have different tones and moods, with one being more informal and the other more technical.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure, tone, and mood, despite similarities in punctuation and lexical features, the likelihood of the same author is moderate.",
+        "score": 0.64
+    }
+}

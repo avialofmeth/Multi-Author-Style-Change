@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and a colon, while Paragraph 2 uses a comma.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains formal and philosophical language, while Paragraph 2 is more casual and straightforward.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is a complete quote with a coherent structure, while Paragraph 2 is a moderation notice with abrupt language.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a reflective and philosophical tone, while Paragraph 2 is informative and directive.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the overall assessment indicates a low likelihood that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

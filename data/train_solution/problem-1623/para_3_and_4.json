@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use parentheses and commas for additional information within the sentence.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Similarity in word choice and technical terminology related to hydrogen and energy.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts contain relatively short and straightforward sentences focused on conveying information.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Differences in tone and purpose - one discussing the use of green hydrogen and ammonia, the other focusing on the motives of the petrol industry.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No evident spelling or typographical errors present in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the linguistic features, there are notable similarities in punctuation style, lexical features, and some sentence structure. However, the differing tones and purposes in the texts lower the likelihood of being written by the same author.",
+    "score": 0.68
+  }
+}

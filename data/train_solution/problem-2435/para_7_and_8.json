@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including hyphens, commas, and periods. However, the first paragraph includes more complex punctuation like colons and parentheses.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some differences. The first paragraph contains more informal language and slang compared to the second paragraph, which is more formal and structured.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, both texts differ significantly. The first paragraph is longer, more complex, and contains more varied sentence structures compared to the second paragraph, which is shorter and more straightforward.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The text and discourse features in both texts indicate a difference in style and tone. The first paragraph has a more expressive and opinionated tone, while the second paragraph is neutral and automated.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, alongside the similarities in punctuation and absence of spelling errors, the likelihood of the two texts being written by the same author is low to moderate.",
+    "score": 0.6
+  }
+}

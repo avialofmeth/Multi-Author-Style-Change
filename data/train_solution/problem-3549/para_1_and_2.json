@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, quotation marks, and commas in a conversational manner, while Paragraph 2 lacks these features.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains informal language and colloquial expressions, whereas Paragraph 2 is more formal and follows standard grammatical rules.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is more complex with varying sentence lengths and structures, while Paragraph 2 is more structured and straightforward.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a conversational and informal tone, using slang and direct speech, while Paragraph 2 maintains a formal and courteous tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

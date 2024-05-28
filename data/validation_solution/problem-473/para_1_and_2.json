@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as ellipses, commas, and periods in a consistent manner.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Text 1 uses formal and technical language related to media outlets and subreddit guidelines, while Text 2 contains informal language with typos like 'Washinon' and lacks technical terms.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has structured sentences with clear information presentation, while Text 2 has a more fragmented sentence structure with ellipses indicating incomplete thoughts.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 has a formal and informative tone related to guidelines, while Text 2 expresses a critical opinion with a more casual tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Text 1 has correct spelling and grammar, while Text 2 contains a typo ('Washinon').",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and tone, along with the presence of a spelling error in Text 2, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.6
+  }
+}

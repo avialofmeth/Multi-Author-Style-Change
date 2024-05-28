@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses typical punctuation like periods and question marks, while Paragraph 2 includes hyphens, exclamation marks, and quotation marks. The variation in punctuation style indicates differences in writing style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more casual vocabulary and sentence structure, focusing on everyday topics. Paragraph 2 contains more formal language and political discourse-specific terms. The lexical and grammatical features differ significantly.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of relatively simple and straightforward sentences, whereas Paragraph 2 includes longer and more complex sentences with political rhetoric. The quantitative features show a notable contrast in sentence structure and complexity.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a conversational tone discussing personal experiences, while Paragraph 2 uses a persuasive and political tone. The discourse features exhibit distinct narrative styles and speech events.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors. The spelling and typographical features show consistency in accuracy.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, alongside the consistency in spelling and typographical errors, the overall likelihood of the texts being written by the same author is low.",
+        "score": 0.36
+    }
+}

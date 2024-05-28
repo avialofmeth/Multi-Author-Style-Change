@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal punctuation marks like hyphens and parentheses, but differ in their overall punctuation style, with Text 1 having a more varied use of punctuation compared to Text 2.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit similar lexical choices and grammar, using informal language and contractions. However, Text 2 contains more explicit profanity, which is a notable distinction.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts have a similar informal tone and sentence complexity. However, Text 1 is slightly more cohesive and organized in its argumentation compared to Text 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts share a common informal and conversational tone, but the use of profanity in Text 2 sets it apart from the slightly more restrained tone in Text 1.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in that aspect.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Taking into account the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

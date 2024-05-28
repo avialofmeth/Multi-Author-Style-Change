@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 displays standard punctuation usage with common marks such as commas and periods. Paragraph 2, on the other hand, uses more unconventional punctuation like hyphens and lacks proper punctuation in some instances.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a formal and structured lexical and grammatical style typical of informational content. Paragraph 2, however, employs more informal and colloquial language with slang and profanity.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of coherent and straightforward sentences with a focus on conveying information clearly. In contrast, Paragraph 2 features shorter and fragmented sentences with a more casual tone.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative discourse style. Paragraph 2, in contrast, adopts a more opinionated and irreverent tone, using sarcasm and provocative language.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features between the two texts. While there is consistency in the absence of spelling errors, the overall writing styles diverge significantly, leading to a low likelihood that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

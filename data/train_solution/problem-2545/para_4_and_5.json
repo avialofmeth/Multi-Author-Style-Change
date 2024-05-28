@@ -1,0 +1,26 @@
+{
+   "feature1":{
+      "explanation":"Both texts exhibit proper use of punctuation marks such as commas, parentheses, and quotation marks.",
+      "score":0.8
+   },
+   "feature2":{
+      "explanation":"Text 1 shows a formal and technical vocabulary related to medical research, while Text 2 uses more informal language and slang. This difference in lexical choice suggests a divergence in authorship.",
+      "score":0.3
+   },
+   "feature3":{
+      "explanation":"Text 1 has longer and more complex sentences compared to the simpler structure of Text 2. Sentence length and complexity vary significantly between the two texts.",
+      "score":0.5
+   },
+   "feature4":{
+      "explanation":"Text 1 has a formal and academic tone, while Text 2 is more casual and conversational. The narrative styles and tone differ, indicating different authorship.",
+      "score":0.4
+   },
+   "feature5":{
+      "explanation":"Both texts are free from spelling and typographical errors.",
+      "score":1
+   },
+   "overall":{
+      "explanation":"Considering all features, the likelihood of the two texts being written by the same author is low due to significant differences in lexical and grammatical features, sentence structure, and narrative tone.",
+      "score":0.6
+   }
+}

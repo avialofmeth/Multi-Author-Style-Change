@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of informal punctuation such as hyphens, commas, and expletives, although with different frequencies and contexts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 2 features a more informal and expressive choice of words compared to the formal and neutral language in Text 1.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts vary in sentence length and complexity; however, Text 2 shows more varied sentence structures and lengths compared to Text 1.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Text 2 conveys a strong opinion and tone, while Text 1 is more neutral and informational in nature.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and tone, the likelihood of both texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

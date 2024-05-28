@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and capitalization for emphasis, while Paragraph 2 focuses on setting rules and guidelines using capitalization and a list format.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains specific vocabulary related to teaching and compensation, while Paragraph 2 uses more general terms related to behavior and rules.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have clear and concise sentence structures but differ in complexity due to the nature of the content.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and descriptive, focusing on personal experience, while Paragraph 2 is instructive and rule-based.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the differences in content and tone, the writing style similarities in punctuation, sentence structure, and lack of errors suggest a moderate likelihood of the same authorship.",
+        "score": 0.5
+    }
+}

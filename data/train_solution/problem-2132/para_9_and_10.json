@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles including the use of commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features such as vocabulary and sentence structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Texts differ in sentence complexity and length, affecting coherence and cohesion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts share a similar tone of dissatisfaction and critique towards a service provider.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the combination of features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.68
+    }
+}

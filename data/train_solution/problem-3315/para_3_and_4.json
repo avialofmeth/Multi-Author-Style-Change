@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and commas for punctuation. Paragraph 2 lacks these punctuation marks and uses more informal punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language with specific terms related to media outlets. Paragraph 2 is more informal and uses simpler language with terms related to strikes, politicians, and workers.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has a complex sentence structure with clear coherence. Paragraph 2 has shorter sentences and a less organized structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal tone related to subreddit guidelines. Paragraph 2 has a more casual tone discussing strikes and politics.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text discourse features, the writing styles of the two texts are quite distinct, suggesting they may not be written by the same author.",
+    "score": 0.44
+  }
+}

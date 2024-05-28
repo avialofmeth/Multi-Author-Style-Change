@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts exhibit inconsistent punctuation usage with missing or incorrect punctuation marks.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "Both texts display unconventional word choices and grammatical errors, indicating a similar style.",
+      "score": 0.8
+   },
+   "feature3": {
+      "explanation": "The sentence structures in both texts are fragmented and lack coherence, suggesting a potential common authorship.",
+      "score": 0.7
+   },
+   "feature4": {
+      "explanation": "Both texts share a similar tone of frustration and criticism, aligning with a potential common author.",
+      "score": 0.75
+   },
+   "feature5": {
+      "explanation": "Both texts contain spelling and typographical errors, indicating a shared lack of attention to detail.",
+      "score": 0.65
+   },
+   "overall": {
+      "explanation": "Considering the collective analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, there is a moderate likelihood that the two texts were written by the same author.",
+      "score": 0.7
+   }
+}

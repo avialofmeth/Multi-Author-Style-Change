@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and commas, while Paragraph 2 has a more casual style with commas and no colons.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a formal and informational tone with technical terms, while Paragraph 2 has a mix of historical references and informal language.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear and direct sentences, while Paragraph 2 has longer, more descriptive sentences with varied structures.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both paragraphs have different narrative styles and tones, with Paragraph 1 being more instructional and Paragraph 2 being more descriptive and historical.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical features, and narrative styles, it is unlikely that the two texts were written by the same author.",
+    "score": 0.5
+  }
+}

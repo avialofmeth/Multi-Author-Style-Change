@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of hyphens and commas for punctuation. However, Text 1 includes more complex punctuation like parentheses and colons, while Text 2 does not show such complexity.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Text 1 shows a more informal and conversational style with phrases like 'can be dead for all we know' and 'puffy than Putin'. In contrast, Text 2 is more formal and structured with phrases like 'documented to a T without fail'. This difference in lexical and grammatical features suggests a distinction in writing styles.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts contain sentences of varying lengths and complexity. However, Text 1 appears to have longer sentences with more detailed descriptions compared to the more concise sentences in Text 2. This difference impacts the overall coherence and cohesion of the texts.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Text 1 adopts a more skeptical and critical tone towards the subject matter, while Text 2 takes on a factual and historical perspective. The differing narrative styles and tones contribute to the distinctiveness between the texts.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in terms of language mechanics.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the texts exhibit notable differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone. While there are some similarities in punctuation usage and the absence of spelling errors, the overall writing styles suggest different authors. The average score reflects a moderate confidence level in the texts being written by the same author.",
+    "score": 0.64
+  }
+}

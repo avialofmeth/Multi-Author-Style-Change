@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts show inconsistencies and errors in punctuation usage, such as missing commas and incorrect placement of parentheses and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts display variations in word choice and grammatical structures, indicating potential differences in the writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features differ significantly between the texts, with variations in sentence complexity, length, and coherence.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "The texts exhibit different narrative styles, tones, and moods, suggesting distinct authorial voices and expressions.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts contain spelling and typographical errors, indicating potential similarities in the level of care in proofreading.",
+    "score": 0.7
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the five features, the overall confidence score is moderate, suggesting a likelihood that the texts were not written by the same author.",
+    "score": 0.44
+  }
+}

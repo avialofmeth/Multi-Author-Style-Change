@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation like hyphens and apostrophes, while Paragraph 2 uses more formal punctuation like colons and commas.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains slang and informal language ('pussies', 'SMOKIN' hotties'), while Paragraph 2 is formal and robotic in language.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter, more casual sentences, while Paragraph 2 is concise and direct as expected from a bot response.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a conversational and informal tone, using slang, while Paragraph 2 is formal and impersonal.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, language style, sentence structure, and tone, the texts are likely not written by the same author.",
+    "score": 0.36
+  }
+}

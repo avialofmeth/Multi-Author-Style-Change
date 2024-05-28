@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods for punctuation, whereas Paragraph 2 primarily uses periods and a question mark. Both paragraphs lack complex punctuation marks like semicolons or colons.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both paragraphs use simple vocabulary and straightforward language without significant lexical variation. Both maintain a similar level of formality in word choice.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of shorter, simpler sentences compared to Paragraph 2, which has a slightly more varied sentence structure due to the inclusion of a question. Both paragraphs show coherence and cohesion within themselves.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both paragraphs lack distinct narrative styles or specific speech events. Neither paragraph contains idioms or unique expressions. Both maintain a neutral and informative tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, there are some similarities in punctuation style and lexical features, but differences in sentence structure and narrative style. The lack of distinctive elements connecting the texts reduces the confidence in them being written by the same author.",
+        "score": 0.64
+    }
+}

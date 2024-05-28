@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a colon and hyphen correctly, while Paragraph 2 uses hyphens and commas. Both paragraphs exhibit a mix of punctuation marks, but the specific usage differs slightly.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal word choice and grammatical structure related to the topic of destruction and misery. In contrast, Paragraph 2 has a more casual and optimistic tone with simpler language and shorter sentences.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with a focus on cohesive narrative structure. Paragraph 2 has shorter sentences and a less structured arrangement of ideas.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and concerned tone regarding the situation, while Paragraph 2 expresses confidence and future-oriented thoughts. The narrative styles and speech events differ significantly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of similarity in narrative styles, the overall confidence in the two texts being written by the same author is low.",
+    "score": 0.5
+  }
+}

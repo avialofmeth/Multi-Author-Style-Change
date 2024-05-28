@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks like colons, commas, and periods to structure the text. Paragraph 2 lacks this variety and mainly uses commas.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 shows a more formal and structured lexical and grammatical style with complex sentence structures. Paragraph 2 is more informal and conversational with simpler sentence structures.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with detailed explanations. Paragraph 2 consists of shorter and simpler sentences without much elaboration.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more informative and explanatory tone, focusing on providing reasons and explanations. Paragraph 2 is more direct and dismissive, avoiding detailed arguments.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there are notable distinctions in the writing style between the two texts. However, the absence of spelling and typographical errors suggests a common level of attention to detail in writing. The overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

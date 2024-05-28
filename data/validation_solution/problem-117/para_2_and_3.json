@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks such as colons and commas in a formal manner, while Paragraph 2 lacks proper punctuation and includes informal language.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical variation with formal word choices, while Paragraph 2 exhibits informal language and simpler vocabulary.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has more structured and coherent sentences with formal arrangements, while Paragraph 2 has shorter, fragmented sentences with informal language.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, contrasting with the informal and opinionated tone of Paragraph 2.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and tone, it is unlikely that the two texts were written by the same author.",
+    "score": 0.44
+  }
+}

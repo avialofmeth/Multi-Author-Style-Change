@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar punctuation style with commas, question marks, and periods being the primary punctuation marks used. However, the presence of colons in the first paragraph and the absence of any in the second paragraph is a notable difference.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit formal language use. However, the second paragraph displays more informal language with phrases like 'search his shit,' which contrasts with the formality of the first paragraph.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are relatively straightforward and lack complexity. The first paragraph is more coherent and cohesive due to its clear directive nature, while the second paragraph contains a more convoluted sentence that lacks clarity.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, the first paragraph adopts a formal and informative tone, typical of official communication. The second paragraph, on the other hand, employs a more casual and conversational tone with slang language, indicating a different style of writing.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and discourse features, there are noticeable distinctions in writing style between the two texts. While they share similarities in spelling and typographical accuracy, the overall analysis suggests a moderate likelihood that the texts were written by the same author.",
+        "score": 0.56
+    }
+}

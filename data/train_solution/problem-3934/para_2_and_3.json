@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language and punctuation marks like commas and parentheses to provide additional information or asides.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 uses a more formal tone when discussing a serious topic while Text 2 adopts a casual, colloquial style. However, both texts contain similar grammatical structures and word choice patterns.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts are relatively short and straightforward in structure. Text 1 introduces a fact about the president, and Text 2 provides an opinion about his leadership. Both maintain coherence and clarity.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 has a neutral tone when discussing the president's personal life, while Text 2 expresses a negative opinion about the president's leadership. However, both texts use direct language without many idiomatic expressions.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, sentence structure, and absence of errors, despite some differences in tone, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.72
+    }
+}

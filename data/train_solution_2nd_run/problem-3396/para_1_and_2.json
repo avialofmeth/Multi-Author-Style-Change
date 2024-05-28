@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit consistent use of punctuation marks such as hyphens, parentheses, colons, and quotation marks, contributing to a similar style.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and word usage between the two texts, indicating potential variation in writing styles.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structures in the two texts vary significantly, with differences in complexity, length, and coherence, suggesting differing writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tones in the texts differ, with one focusing on political criticism and the other on negotiation strategies, indicating distinct writing styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors evident in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical choices, sentence structures, and narrative styles, as well as the similarities in punctuation usage and absence of spelling errors, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.54
+  }
+}

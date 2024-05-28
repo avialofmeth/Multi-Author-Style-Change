@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods consistently. Paragraph 2 also demonstrates some punctuation usage but includes informal language like 'fuck' that may affect punctuation style.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit diverse lexical choices and word usage, with Paragraph 2 containing more colloquial language and informal expressions. Grammatical features vary in both texts.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Sentence structures differ between the paragraphs, with Paragraph 1 featuring more structured and formal sentences while Paragraph 2 contains shorter, more conversational sentences. The coherence and cohesion vary due to the different tones and styles.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, whereas Paragraph 2 has a more casual and conversational tone with elements of frustration. The narrative styles and speech events differ significantly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of informal language in Paragraph 2, the likelihood of both texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

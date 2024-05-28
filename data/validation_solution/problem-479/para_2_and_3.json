@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas correctly for list items and sentence structuring. Paragraph 2 lacks these punctuation marks, indicating a difference in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs use formal language and similar vocabulary, displaying some consistency in lexical and grammatical features.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Both texts are structured as coherent paragraphs with clear sentences. However, Paragraph 1 is more detailed and complex in content compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Both paragraphs discuss political processes and structures, maintaining a similar tone. However, the use of specific terms like 'gerrymandered' in Paragraph 1 differs from the more general language in Paragraph 2.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there is moderate evidence to suggest the two texts were not written by the same author.",
+    "score": 0.6
+  }
+}

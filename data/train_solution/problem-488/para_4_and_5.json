@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods, although the first text includes more complex punctuation like parentheses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show similarity in lexical and grammatical features with the use of formal language and varied vocabulary. However, the second text uses more specific terms like 'nukes' and 'Israeli nuke research' which are not present in the first text.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The sentence structure in both texts is relatively straightforward with clear coherence. Sentence lengths are moderate, with no significant variation in complexity between the texts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text and discourse features in both texts differ significantly. The first text conveys a more serious tone discussing historical events, while the second text introduces a specific example with a slightly informal tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate, as there are notable similarities in punctuation, sentence structure, and lexical features, despite some differences in text and discourse features.",
+        "score": 0.58
+    }
+}

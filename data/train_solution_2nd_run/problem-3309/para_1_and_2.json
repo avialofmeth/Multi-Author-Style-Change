@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of hyphens and dashes for punctuation.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Text 1 focuses on environmental issues and specific details related to wildlife, while Text 2 discusses personal emotions. Lexical and grammatical choices differ significantly between the two texts.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer, complex sentences with detailed information, while Text 2 has shorter, more straightforward sentences. The sentence structures and lengths vary significantly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a more informative and serious tone discussing environmental concerns, whereas Text 2 has a more casual and introspective tone. The narrative styles and mood differ greatly.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in lexical and grammatical features, sentence structure, and narrative styles, it is unlikely that the two texts were written by the same author.",
+        "score": 0.6
+    }
+}

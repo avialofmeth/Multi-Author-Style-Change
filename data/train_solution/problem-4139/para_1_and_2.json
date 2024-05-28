@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows the use of various punctuation marks like hyphens, commas, and parentheses in a structured manner. Paragraph 2 lacks this level of punctuation variety and complexity.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and detailed lexical and grammatical style with specific terms related to COVID testing and quarantine procedures. Paragraph 2 is less detailed and uses simpler language.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is longer and more detailed, with complex sentence structures and a cohesive narrative. Paragraph 2 is shorter and less complex in structure.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more serious and informative tone related to COVID protocols. Paragraph 2 has a more casual and conversational tone without specific COVID-related details.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.5
+    }
+}

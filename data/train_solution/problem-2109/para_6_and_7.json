@@ -1,0 +1,24 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for list separation and to provide additional information. Paragraph 2 lacks these specific punctuation features.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses specific vocabulary related to geopolitics and foreign relations. Paragraph 2 contains more general language and references to political figures like Romney and MAGA republicans.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are structured with clear main ideas and supporting details. Paragraph 1 has longer and more complex sentences compared to the simpler sentences in Paragraph 2.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone discussing international relations. Paragraph 2 has a more casual and opinionated tone focused on political figures.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were present in either paragraph.",
+    "score": 1.0
+  },
+  "overall_explanation": "Considering the analysis of the individual features, the overall confidence score in the likelihood that the two texts were written by the same author is moderate.",
+  "overall_score": 0.56
+}

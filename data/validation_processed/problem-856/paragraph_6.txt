@@ -1,0 +1,1 @@
+It's not like your usual login where password recovery simply means replacing your hashed password with a new hashed password. Replacing the hashed master password is useless if the old password wasn't used to decrypt the vault first.

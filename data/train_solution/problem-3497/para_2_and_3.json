@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts utilize hyphens to join words ('prior military', 'prior US military') and create compound adjectives ('biometrics screaming').",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The texts share a similar lexical style with terms like 'mercenary groups', 'prior military', 'biometrics', and 'border'. Both texts predominantly use nouns and adjectives with technical or specific meanings.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, both paragraphs consist of complex sentences with detailed explanations. The sentences are relatively concise and to the point, maintaining coherence.",
+        "score": 0.9
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a serious, matter-of-fact tone without much emotional expression. The narratives focus on conveying information rather than expressing feelings.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either text, indicating a consistent level of attention to detail.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, there is a moderate to high likelihood that the two texts were written by the same author.",
+        "score": 0.83
+    }
+}

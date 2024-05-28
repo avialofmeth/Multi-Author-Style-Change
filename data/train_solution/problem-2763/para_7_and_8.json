@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and quotation marks. The first text has hyphens and colons, while the second text lacks these specific punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There is a difference in lexical and grammatical features between the two texts. The first text discusses sports achievements, while the second text addresses background checks and political implications. This impacts the choice of words and grammatical structures used.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly. The first text provides straightforward information about medal counts and athlete affiliations. In contrast, the second text introduces a more complex argument regarding background checks and political connections.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Text and discourse features diverge as well. The first text conveys a factual report on Olympic results, while the second text engages in a nuanced discussion about the implications of sports club affiliations with the military.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.48
+    }
+}

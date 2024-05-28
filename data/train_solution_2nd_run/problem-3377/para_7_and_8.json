@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses informal punctuation with missing commas and periods. It includes informal language and lacks proper punctuation usage.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses informal and colloquial language with contractions like 'dont' and '$$'. The lexical choice is informal and lacks complexity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have a conversational tone with simpler sentence structures. Paragraph 1 has shorter sentences compared to Paragraph 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more casual tone with informal expressions like 'my guy'. Paragraph 2 is more formal in tone discussing the reliability of news sources.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no evident spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical choices, sentence structures, and tone between the two paragraphs, the likelihood of them being written by the same author is low.",
+    "score": 0.48
+  }
+}

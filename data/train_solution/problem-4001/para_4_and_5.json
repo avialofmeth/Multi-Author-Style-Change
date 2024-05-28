@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal punctuation with apostrophes, while Paragraph 2 lacks such informal elements.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit lexical variation and unique word choices, but the tone and vocabulary differ significantly.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are distinct in complexity and coherence.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones are contrasting, with one being casual and the other serious and formal.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no distinct spelling or typographical errors observed in either paragraph.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, narrative styles, and tone, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.26
+    }
+}

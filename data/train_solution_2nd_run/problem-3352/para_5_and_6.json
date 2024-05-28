@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a hyphen to connect 'money-losing,' while Paragraph 2 uses a hyphen in 'Jan-nov.' Both texts use commas appropriately for lists and parentheses for additional information.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical terms related to business and automotive industries, while Paragraph 2 includes specific numerical data related to sales. Both paragraphs demonstrate a formal tone in their word choices and constructions.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a single complex sentence, while Paragraph 2 is a shorter, straightforward statement. Both paragraphs are coherent and well-structured.",
+    "score": 0.65
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a factual event in a neutral tone, while Paragraph 2 conveys sales data with a somewhat neutral tone. Both texts lack expressive or emotional language.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, indicating attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, technical language usage, coherence, neutral tone, and lack of errors, there is a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.73
+  }
+}

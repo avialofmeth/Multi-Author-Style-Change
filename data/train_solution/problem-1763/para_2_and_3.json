@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks such as periods and commas, but differ in the use of hyphens and quotation marks. Paragraph 1 uses more formal punctuation compared to the informal punctuation style in Paragraph 2.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and technical lexicon with words like 'infrastructure' and 'barrages', while Paragraph 2 is more informal with phrases like 'Gov Abbott' and 'they thought it looked okay'. The difference in word choice and formality suggests a distinction in writing style.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences compared to the shorter, conversational sentences in Paragraph 2. This difference in sentence structure indicates a variation in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey information but in different tones. Paragraph 1 has a serious and informative tone regarding Russian attacks on infrastructure, while Paragraph 2 has a more casual and sarcastic tone discussing Texas energy experts. The contrasting tones suggest different writing styles.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of care in writing. However, the lack of errors does not necessarily indicate the same authorship.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and tones between the two texts, the overall assessment indicates a moderate likelihood that they were written by different authors.",
+    "score": 0.38
+  }
+}

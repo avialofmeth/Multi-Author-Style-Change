@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation styles including hyphens, colons, parentheses, and commas. However, there are differences in the types and frequencies of punctuation marks used.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are some similarities in lexical choices and grammatical structures between the two texts, but there are also noticeable differences in vocabulary and sentence constructions.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The texts exhibit differences in sentence structure and quantitative features such as sentence length and complexity. While there are some similarities in coherence, there are notable distinctions in word, clause, and sentence distributions.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "The texts differ in narrative styles, speech events, and tone. While both texts discuss nuclear topics, the overall style and mood vary significantly between the two.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the similarities in spelling and typographical accuracy, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.48
+  }
+}

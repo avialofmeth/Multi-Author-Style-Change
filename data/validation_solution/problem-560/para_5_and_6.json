@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as hyphens, parentheses, and colons. However, the presence and arrangement of these punctuation marks differ slightly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. The first paragraph contains more technical terms related to app stores and policies, while the second paragraph has a more political tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit coherent sentence structures and average sentence lengths. However, the second paragraph appears to have slightly shorter sentences compared to the first paragraph.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tones in the two texts differ significantly. The first paragraph focuses on app store policies and content, while the second paragraph is more politically charged and critical.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.6
+    }
+}

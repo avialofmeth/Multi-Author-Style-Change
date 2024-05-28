@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses formal punctuation with proper usage of colons and commas, while Paragraph 2 lacks proper punctuation and includes informal elements such as emojis and slang.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and structured lexical and grammatical style with specific terminology related to media outlets. In contrast, Paragraph 2 contains informal language, slang, and a lack of technical vocabulary.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is well-structured with clear sentences and coherence. Paragraph 2 lacks coherence, contains fragmented thoughts, and has a more disorganized structure.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and professional tone focused on guidelines and criteria. Paragraph 2 uses informal language, slang, and conveys a mocking or sarcastic tone.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 has proper spelling and no typographical errors. Paragraph 2 includes informal spellings like 'sonsabitches' and lacks proper spelling.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, text, and discourse features, as well as spelling and typographical errors, the likelihood of both texts being written by the same author is low.",
+    "score": 0.22
+  }
+}

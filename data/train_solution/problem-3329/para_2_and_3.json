@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, quotation marks, and periods appropriately. However, only Paragraph 2 contains a hyphen.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. While Paragraph 1 is more technical, Paragraph 2 has quotes and a more conversational tone.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise with a focus on providing information, while Paragraph 2 is more detailed and includes quotes. Sentence structures vary between the two.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is informative and instructional, lacking emotional tone. In contrast, Paragraph 2 contains a quote with a critical and opinionated tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

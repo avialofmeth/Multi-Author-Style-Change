@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use various punctuation marks such as commas, hyphens, and quotation marks. However, the first text includes more diverse punctuation marks like colons and parentheses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language, with the first text including more technical terms related to genetics and disorders. The second text is more focused on general concepts like mitochondrial rejuvenation and youth energy.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The first text contains longer and more complex sentences due to the detailed explanation of genetic conditions and personal history. In contrast, the second text consists of shorter, simpler sentences discussing a hypothetical scenario.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey a conversational tone, with the first text sharing personal experiences and seeking advice, while the second text presents a reflective and imaginative perspective on mitochondrial function. However, the first text contains more specific details about the author's background and health concerns.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, demonstrating a good level of writing proficiency.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation style, language variation, tone, and absence of errors, along with some distinctions in sentence complexity and topic specificity, there is a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

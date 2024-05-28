@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Paragraph 1 uses brackets and commas, while Paragraph 2 uses quotation marks and commas.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 contains more formal language with terms like 'media outlets' and 'approved domains list', while Paragraph 2 is more conversational with names and direct quotes.",
+      "score": 0.4
+   },
+   "feature3": {
+      "explanation": "Both paragraphs are relatively short and straightforward in structure, without complex sentences.",
+      "score": 0.7
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 has a more formal and instructional tone, while Paragraph 2 presents a specific news event.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were detected in either paragraph.",
+      "score": 1
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, there are notable distinctions that lower the likelihood of the same author. However, the absence of spelling errors increases the overall confidence slightly.",
+      "score": 0.6
+   }
+}

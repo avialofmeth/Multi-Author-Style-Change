@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and quotation marks, while Paragraph 2 lacks such formal punctuation.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a higher level of lexical variation and word choice compared to Paragraph 2, which relies more on straightforward language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits more complex sentence structures and cohesion, whereas Paragraph 2 has simpler sentences and lacks cohesion.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal narrative style, focusing on diplomacy, while Paragraph 2 adopts a more casual tone discussing intervention strategies.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure and coherence, text and discourse features, and spelling and typographical errors, the overall confidence score that the two texts were written by the same author is moderate.",
+    "score": 0.46
+  }
+}

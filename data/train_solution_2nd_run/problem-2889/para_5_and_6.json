@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas, while Paragraph 2 lacks any punctuation apart from periods. This difference in punctuation style indicates a lack of similarity.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes a wider range of vocabulary and more complex sentence structures compared to the straightforward and simple sentence structure of Paragraph 2. This difference in lexical and grammatical features suggests a lack of similarity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is longer and more complex in structure with multiple clauses, while Paragraph 2 is short and direct. This difference in sentence structure and quantitative features indicates a lack of similarity.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a casual, conversational tone, mentioning job-related activities, while Paragraph 2 is more formal and robotic in nature. This difference in text and discourse features further supports a lack of similarity.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and no typographical errors, showing consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the texts show significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, indicating a low likelihood that they were written by the same author.",
+    "score": 0.44
+  }
+}

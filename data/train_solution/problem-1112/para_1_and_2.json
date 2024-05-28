@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles including commas, periods, and slashes.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and informative tone with specific vocabulary related to rules and guidelines.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with more complex structures compared to the simpler sentences in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts have a formal and instructional tone, focusing on conveying rules and guidelines.",
+        "score": 0.8
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the features, there is moderate confidence that the two texts were written by the same author.",
+        "score": 0.76
+    }
+}

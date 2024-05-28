@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colloquial language with the abbreviation 'MFs' and a more informal tone, while Paragraph 2 is more formal due to its automated response nature.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits strong emotions and direct language, while Paragraph 2 is neutral and information-oriented.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are brief and to the point, but Paragraph 1 is more forceful and direct in its expression compared to the concise and neutral tone of Paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 reflects a confrontational and assertive tone, using slang and abbreviations, whereas Paragraph 2 is formal and devoid of emotional content.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in tone, emotion, and formality between the two paragraphs, the likelihood of them being written by the same author is low.",
+    "score": 0.4
+  }
+}

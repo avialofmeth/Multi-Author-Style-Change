@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens and quotation marks, but the first text includes a colon while the second text does not. Overall, punctuation style shows some commonalities but also some distinctions.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in the two texts demonstrate similarities in formal language use, with both texts containing professional terminology. However, the second text showcases a slightly more formal tone compared to the first text. There is a moderate level of similarity in word choice and grammar.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts exhibit a mix of shorter and longer sentences. While the first text is more straightforward, the second text includes a more complex sentence structure with multiple clauses. However, the coherence and cohesion in both texts are maintained. There is a moderate level of similarity in sentence structure and quantitative features.",
+        "score": 0.65
+    },
+    "feature4": {
+        "explanation": "Regarding text and discourse features, the narrative styles in both texts differ as the first text provides factual information while the second text expresses a call for action. The tone in the second text is more urgent and emotive compared to the first text. However, both texts maintain a formal tone overall. There are some commonalities but also significant distinctions in narrative styles and tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a high level of attention to detail in writing. Both texts demonstrate accuracy in spelling and typographical aspects.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are commonalities in punctuation style, lexical and grammatical features, sentence structure, and spelling accuracy. However, there are distinctions in narrative styles and tone. The overall confidence score, which is the average of the individual feature scores, indicates a moderate level of likelihood that the two texts were written by the same author.",
+        "score": 0.69
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation throughout with colons, commas, parentheses, and periods. Paragraph 2 contains a lack of proper punctuation, including missing periods and an expletive without proper punctuation.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and courteous tone with specific language related to rules and behavior. Paragraph 2 has an informal tone with emotionally charged language and a different focus on personal health needs.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 includes structured sentences with clarity and coherence. Paragraph 2 has shorter, more emotional sentences with less cohesion.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a professional and informative discourse style. Paragraph 2 reflects a more personal and expressive speech event.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "After evaluating the commonalities and distinctions in the writing style, the overall likelihood that the two texts were written by the same author is moderate. The differences in punctuation style, lexical and grammatical features, and sentence structure suggest some disparity in authorship, while the shared absence of spelling errors contributes to a slightly higher likelihood of a common author.",
+    "score": 0.58
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and commas, while Paragraph 2 uses commas and quotation marks. Both paragraphs demonstrate a mix of punctuation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show a straightforward and relatively simple lexical and grammatical style. Paragraph 1 includes informal language ('pee in cups'), while Paragraph 2 is more formal ('held accountable for their actions').",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and contain simple sentence structures. Paragraph 1 has a mix of sentence lengths, while Paragraph 2 is more uniform in sentence length.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more casual tone compared to the more serious tone of Paragraph 2. However, both demonstrate a narrative style discussing personal experiences.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.64
+  }
+}

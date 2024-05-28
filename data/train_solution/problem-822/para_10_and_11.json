@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks (commas) and do not exhibit any unusual or distinctive punctuation styles.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate a similar level of formality and technicality in word choice, such as 'adoption rates,' 'infrastructure,' 'batteries,' 'charging rates,' and 'concerns.'",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "Both texts exhibit relatively similar sentence structures with concise and technical language, though the first paragraph is longer and more detailed.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "The first text discusses a technical topic, while the second text indicates a more general nature. However, both maintain a formal tone indicative of automated responses.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, lexical and grammatical features, and absence of spelling errors, along with slight differences in sentence structure and discourse features, there is a moderate confidence that the two texts were written by the same author.",
+        "score": 0.8
+    }
+}

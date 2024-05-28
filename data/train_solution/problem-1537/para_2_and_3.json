@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of commas and periods for punctuation, while Paragraph 2 lacks any complex punctuation marks.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit different lexical and grammatical features. Paragraph 1 includes informal language and specific vocabulary related to a tragic event, whereas Paragraph 2 is more formal and technical due to its automated nature.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "In terms of sentence structure and quantitative features, Paragraph 1 contains longer and more complex sentences compared to the short and straightforward sentences in Paragraph 2. The coherence and cohesion in both texts are different due to the nature of the content.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone vary significantly between the two paragraphs. Paragraph 1 conveys a dramatic and emotional tone related to a specific event, while Paragraph 2 maintains a neutral and informative tone as expected from an automated response.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structure and quantitative features, as well as narrative style and tone.",
+    "score": 0.44
+  }
+}

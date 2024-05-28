@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 displays a lack of consistent punctuation usage, with missing commas and periods, while Paragraph 2 criticizes the use of insider lingo but does not exhibit significant punctuation issues.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs demonstrate different lexical and grammatical features. Paragraph 1 shows informal language with non-standard words like 'mayn' and 'jsut,' while Paragraph 2 uses more formal and precise language in discussing insider lingo and FIFA regulations.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary between the two paragraphs. Paragraph 1 has longer, more complex sentences with errors in coherence, while Paragraph 2 consists of shorter, clearer sentences focused on a specific topic.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ significantly. Paragraph 1 discusses general behavior and attitudes, while Paragraph 2 addresses a specific article and calls for expert input, showing distinct narrative styles and speech events.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.4
+    }
+}

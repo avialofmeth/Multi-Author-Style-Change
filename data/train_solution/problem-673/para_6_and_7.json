@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods. However, the first text uses a dash while the second text does not. This slight difference may indicate some variation in punctuation preference.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts contain informal language and lack complex vocabulary. The first text has some grammatical errors, such as 'facist' instead of 'fascist', which could be considered a distinctive feature.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structures in both texts are relatively simple and straightforward. However, the first text is slightly more complex due to the presence of a compound sentence. This difference in sentence complexity may suggest some variation in writing style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text and discourse features in both texts are limited, but the second text explicitly states it is written by a bot, indicating a different context or purpose than the first text. This distinction in narrative style and speech events might point to different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, which indicates a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structure, and text and discourse features, there are some indications that the texts may have been written by different authors. However, the lack of spelling and typographical errors suggests a consistent level of writing proficiency. Therefore, the overall confidence score is moderate, leaning towards the likelihood of different authors.",
+        "score": 0.56
+    }
+}

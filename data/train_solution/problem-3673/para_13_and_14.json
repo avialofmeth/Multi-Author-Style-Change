@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and quotation marks, but Paragraph 1 includes a colon while Paragraph 2 does not. Overall, punctuation style is somewhat consistent with minor differences.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "The texts exhibit differences in lexical choice and word usage, with distinct vocabulary and tone. Paragraph 1 mentions specific events and entities, while Paragraph 2 focuses on different topics and uses more informal language. However, both texts contain elements of critical language. The lexical and grammatical features show some divergence.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts display a mix of sentence lengths and complexity. Paragraph 1 has longer sentences with more varied structures, while Paragraph 2 consists of shorter, more fragmented sentences. The coherence and cohesion differ slightly in these texts.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The texts differ in their narrative styles and tone. Paragraph 1 presents a more reflective and historical perspective, mentioning specific events, while Paragraph 2 adopts a critical and dismissive tone towards a particular individual. The discourse features show notable distinctions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free of spelling and typographical errors, indicating a similar level of care in writing. There are no observable mistakes in spelling or punctuation in either text.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, there are both commonalities and distinctions between the texts. While there are similarities in punctuation style and absence of spelling errors, the differences in lexical and grammatical features, sentence structure, and discourse features suggest a lower likelihood of the same author. The average confidence score reflects moderate consistency but with noticeable discrepancies.",
+        "score": 0.58
+    }
+}

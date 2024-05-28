@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as periods, commas, and a question mark. Paragraph 2 also includes punctuation marks like question marks and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a formal tone with vocabulary like 'expanse' and 'exploit'. Paragraph 2 appears more casual with phrases like 'Can you explain' and 'everyone else'.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, complex sentences with varied structures. Paragraph 2 contains shorter sentences with simpler structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a serious tone discussing environmental issues. Paragraph 2 seems to reference a pop culture context with a more conversational style.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in tone, vocabulary, and sentence structure, the likelihood of the two texts being written by the same author is not very high.",
+        "score": 0.7
+    }
+}

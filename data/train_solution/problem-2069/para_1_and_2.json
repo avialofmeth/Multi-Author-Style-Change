@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses proper punctuation with periods, commas, and parentheses, while Paragraph 2 lacks proper punctuation and includes informal language like 'cookoo for cookoo puffs.'",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 maintains a formal tone and uses standard vocabulary, whereas Paragraph 2 contains informal language and colloquial expressions like 'cookoo for cookoo puffs.'",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a structured and coherent sentence arrangement, while Paragraph 2 has shorter, less structured sentences with informal language.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a formal and respectful tone, focusing on guidelines and rules. Paragraph 2 has a more casual and conversational tone discussing specific events.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structure, and tone, there are notable disparities in writing style between the two texts, suggesting they were likely written by different authors.",
+        "score": 0.56
+    }
+}

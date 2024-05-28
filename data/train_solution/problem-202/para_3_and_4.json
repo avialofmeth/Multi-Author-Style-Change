@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit a lack of consistent punctuation usage, with varying styles and errors present in both.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. The vocabulary, word choice, and grammatical structures are distinct.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structures and quantitative features vary greatly. One text is structured and coherent, while the other lacks coherence and contains fragmented sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ substantially. One text is informational and formal, while the other is informal, conversational, and lacks clarity.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Spelling and typographical errors are present in the second text, while the first text is relatively error-free.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the significant differences in lexical, grammatical, and text features, along with the varying punctuation and coherence, it is unlikely that the two texts were written by the same author.",
+    "score": 0.34
+  }
+}

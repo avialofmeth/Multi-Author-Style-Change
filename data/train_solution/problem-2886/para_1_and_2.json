@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, parentheses, and quotation marks. However, text 1 uses more colons while text 2 uses more commas.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit some lexical variations and word choices. Text 1 uses more technical terms related to military strategies. Text 2 has a more casual tone with phrases like 'Sounds like meat for me.'",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Text 1 consists of longer and more complex sentences compared to text 2. Text 2 has shorter and more straightforward sentence structures.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts convey a somewhat serious tone, but text 1 focuses on strategic planning while text 2 is more direct in expressing opinions.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the commonalities in punctuation style, some shared lexical features, and absence of spelling errors, along with the distinctions in sentence structure and tone, there is moderate confidence that the two texts were written by the same author.",
+    "score": 0.62
+  }
+}

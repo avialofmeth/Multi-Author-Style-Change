@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more formal punctuation including colons and hyphens. Paragraph 2 lacks these formal punctuation marks and uses more informal punctuation like ellipses and commas.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more formal and structured language typical of a rule or guideline. Paragraph 2 has a more informal and emotional tone with different lexical choices related to personal struggles.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is concise, with shorter sentences and a clear structure. Paragraph 2 is more lengthy and complex, reflecting a personal narrative with varied sentence lengths and structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone focused on guidelines. Paragraph 2 expresses emotional distress and personal struggles, creating a stark contrast in tone and discourse.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate correct spelling and punctuation, without any typographical errors observed.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts display notable distinctions in writing style, indicating they are less likely written by the same author.",
+        "score": 0.4
+    }
+}

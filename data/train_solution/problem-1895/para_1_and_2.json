@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for listing and separating information, while Paragraph 2 uses hyphens and quotation marks for emphasis and direct speech.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 employs formal language and technical terms related to media outlets and subreddit criteria. Paragraph 2 discusses a specific law and its consequences using more informal language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a short, direct sentence instructing readers. Paragraph 2 contains a longer, more complex sentence explaining a situation.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more instructional tone, guiding readers on subreddit rules. Paragraph 2 presents a factual scenario with a cause and effect relationship.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.56
+  }
+}

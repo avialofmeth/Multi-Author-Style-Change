@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons appropriately to introduce explanations or lists, while Paragraph 2 lacks colons entirely.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of formality in word choice and sentence structure.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer and more complex sentences compared to the shorter and more direct sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and formal tone discussing the rule of law, while Paragraph 2 has a more urgent and informal tone regarding indictment.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style and sentence structure, along with the similarities in lexical and grammatical features, text and discourse features, and absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.58
+    }
+}

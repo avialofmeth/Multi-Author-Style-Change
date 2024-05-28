@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses proper punctuation marks such as colons and commas. Paragraph 2 also uses commas appropriately, but lacks the same level of varied punctuation seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical choice and word usage. Paragraph 1 employs more formal language related to media outlets, while Paragraph 2 uses informal and emotional language about workplace issues.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is concise and structured, focusing on providing information. In contrast, Paragraph 2 is more emotional and contains longer sentences with tangents, reflecting a different writing style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, characteristic of official communication. Paragraph 2, on the other hand, expresses frustration and personal opinions in a more informal tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs do not contain any spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features.",
+    "score": 0.54
+  }
+}

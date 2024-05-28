@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses more varied punctuation marks such as hyphens, commas, and periods, while Paragraph 2 mainly uses commas and periods.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more diverse lexical range with phrases like 'conspiracy theories' and 'outright lies'. In contrast, Paragraph 2 is more straightforward with technical language like 'I am a bot'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences reflecting a more elaborate writing style. Paragraph 2 consists of shorter and simpler sentences typical of automated messages.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a strong opinion and critical tone towards societal issues. Paragraph 2 maintains a neutral and formal tone typical of automated responses.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the distinctive differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the texts are less likely to be written by the same author.",
+        "score": 0.46
+    }
+}

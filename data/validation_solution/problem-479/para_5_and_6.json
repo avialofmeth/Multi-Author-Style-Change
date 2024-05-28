@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use quotation marks for direct speech and hyphens for compound adjectives. However, paragraph 1 uses colons and parentheses for additional information, which are not present in paragraph 2.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a formal and structured lexical and grammatical style with specific terminology related to media outlets and subreddit guidelines. In contrast, paragraph 2 contains informal language with colloquial expressions related to political discourse.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer, more complex sentences with a focus on providing detailed information. Paragraph 2 has shorter sentences and a more conversational tone with fragmented thoughts.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts address different topics, with paragraph 1 adopting a formal, informative tone, while paragraph 2 expresses personal opinions and frustrations. They exhibit distinct narrative styles and speech events.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "No significant spelling or typographical errors are present in either text, indicating a similar level of attention to detail in terms of writing mechanics.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the linguistic features, there are noticeable differences in lexical and grammatical features, sentence structure, and narrative styles between the two texts, suggesting a lower likelihood of being written by the same author. However, the consistent use of punctuation and absence of spelling errors provide some commonality. The overall confidence score is moderate.",
+    "score": 0.52
+  }
+}

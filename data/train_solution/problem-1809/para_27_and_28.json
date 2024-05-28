@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks while Paragraph 2 uses brackets and slashes for emphasis. This inconsistency in punctuation style indicates a difference in writing style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and full sentences, while Paragraph 2 has a more casual tone with shortened phrases and lacks grammatical correctness (e.g., 'Ha?'). The word choices and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is a complete sentence with a clear argument, while Paragraph 2 seems fragmented and lacks coherence. The sentence structure and organization differ, affecting the overall flow of the texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a serious statement about Native Americans and colonizers, while Paragraph 2 seems to express confusion or disbelief through informal language ('Ha?'). The narrative styles and tone are distinct.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of care in writing. However, the style and content differences overshadow this commonality.",
+    "score": 0.5
+  },
+  "overall": {
+    "explanation": "The analysis of the linguistic features suggests that the two texts are unlikely to have been written by the same author, as they exhibit significant differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles. While the texts share a commonality in spelling and typographical accuracy, the overall writing styles diverge, leading to a low likelihood of a single author.",
+    "score": 0.26
+  }
+}

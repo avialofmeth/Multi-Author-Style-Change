@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, hyphens, and periods. However, there are differences in the use of parentheses and quotation marks. Text 1 uses parentheses and quotation marks, while Text 2 does not. This difference may indicate a slight inconsistency in punctuation style.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts show similarity in lexical and grammatical features with a focus on political terms and descriptive language. However, Text 1 is more descriptive and specific in terms of location details and characteristics, while Text 2 is more critical and opinionated. This difference in tone and focus may suggest some variance in lexical and grammatical choices.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts are relatively short and straightforward. Text 1 provides more detailed information in a descriptive manner, while Text 2 is more concise and direct in expressing opinions. This difference in sentence complexity and coherence may imply a slight divergence in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar narrative style in conveying information about a political figure. However, Text 2 introduces a more critical and negative tone towards the subject, while Text 1 maintains a neutral and descriptive tone. This difference in tone and mood may suggest variations in the author's writing style.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in terms of writing mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "The analysis of the five features suggests some commonalities in writing style, particularly in punctuation, spelling, and narrative style. However, differences in lexical choices, sentence structure, and tone indicate potential variations in authorship. The overall confidence score is moderate, reflecting a likelihood that the texts may have been written by different authors.",
+        "score": 0.64
+    }
+}

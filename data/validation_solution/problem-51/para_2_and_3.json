@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and commas for list items, while Paragraph 2 utilizes quotation marks for direct speech. This difference in punctuation style may indicate some variation in writing style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes formal language related to subreddit rules, while Paragraph 2 incorporates informal language and mentions specific individuals like Elon and Trump. The lexical and grammatical features differ significantly in terms of formality and content.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a longer and more structured sentence related to guidelines, whereas Paragraph 2 is a shorter, direct quote from a tweet. The sentence structure and quantitative features vary widely between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone regarding media outlets, while Paragraph 2 conveys a more casual and humorous tone in a tweet context. The narrative styles and speech events are distinct.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either text, indicating consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "The analysis reveals significant differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features between the two texts, suggesting a low likelihood of the same author. However, the absence of spelling or typographical errors contributes to a slightly higher overall confidence score.",
+    "score": 0.4
+  }
+}

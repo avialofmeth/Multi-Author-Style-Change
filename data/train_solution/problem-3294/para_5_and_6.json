@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a single quotation mark, while Paragraph 2 uses hyphens and no quotation marks. Punctuation style differs significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "There is some overlap in lexical and grammatical features, such as the use of technical terms like 'car parts' and 'foreign-made'. However, the choice of words and sentence structures vary enough to suggest different authors.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have relatively short and straightforward sentences. However, the first paragraph contains more detailed information and longer sentences compared to the second paragraph. This indicates some level of difference in sentence structure and quantitative features.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The text and discourse features also exhibit differences. The first paragraph focuses on a specific event (sending a list of car parts) and includes direct quotes, while the second paragraph discusses shortages in the airline and automotive industries in more general terms. The narrative styles and speech events are distinct.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the overall likelihood that the two texts were written by the same author is low to moderate, as there are notable differences across multiple linguistic aspects.",
+        "score": 0.5
+    }
+}

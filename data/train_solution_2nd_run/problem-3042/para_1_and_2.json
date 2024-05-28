@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses brackets and parentheses for additional information, while Paragraph 2 includes parentheses and quotation marks. Both paragraphs use punctuation marks for clarity and organization.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal tone with similar lexical choices relevant to the context. They both include technical terms (IDF, firing zone, satelite images), indicating a similarity in word choice.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of concise sentences providing factual information. In contrast, Paragraph 2 includes longer sentences with more detailed descriptions of events. The variance in sentence structure may suggest a difference in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs present information in a straightforward manner without extensive narrative elements or expressive language. The tone in both texts is informative and objective.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "There are no noticeable spelling or typographical errors in either paragraph. Both texts demonstrate a level of accuracy in terms of language mechanics.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence score is moderate, suggesting a likelihood that the two texts were written by the same author despite some differences in sentence structure.",
+    "score": 0.7
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a period correctly, while Paragraph 2 contains a colon and quotation marks.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a formal tone with specific terms like 'El Salvador' and 'gangs'. Paragraph 2 uses a more casual tone with phrases like 'rethink your choices' and 'god be with you'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, complex sentences with more details. Paragraph 2 has shorter, direct sentences with less elaboration.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 presents information in a factual manner. Paragraph 2 has a more dramatic and ominous tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, there are notable distinctions between the two texts. The moderate level of strictness in scoring indicates a moderate confidence level that the two texts were not written by the same author.",
+        "score": 0.44
+    }
+}

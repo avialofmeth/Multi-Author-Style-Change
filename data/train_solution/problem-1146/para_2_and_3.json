@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and a colon in a complex sentence structure. Paragraph 2 also utilizes commas and a colon in a more straightforward manner.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a formal tone with clear word choice. However, Paragraph 1 includes more emotionally charged language compared to the neutral tone of Paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer, more complex sentences with a strong opinionated narrative, while Paragraph 2 is shorter and more direct with a focus on guidelines.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a confrontational and accusatory tone, using strong language and making a bold assertion. Paragraph 2, on the other hand, maintains a calm and instructive tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Taking into account the differences in tone, sentence structure, and punctuation styles, there are notable disparities that suggest different authors. However, the consistent lack of spelling and typographical errors provides some commonality. Therefore, the overall confidence score is moderate.",
+        "score": 0.7
+    }
+}

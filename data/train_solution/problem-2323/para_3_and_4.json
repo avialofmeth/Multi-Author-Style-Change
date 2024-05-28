@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens, commas, and parentheses for punctuation, but only text 1 includes colons and quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a formal tone with specific terminology related to labor and workforce; however, text 2 includes more diverse word choice with terms like 'immigrant visa programs' and 'labor shortages.'",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Text 1 is structured in a more legislative and formal manner, with longer sentences and complex clauses. Text 2, while formal, has shorter sentences and simpler structures.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts discuss labor-related topics but in different contexts, with text 1 focusing on policy changes and text 2 on industry responses to labor shortages.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall assessment of the features, there are notable similarities in punctuation and lack of spelling errors, but differences in lexical diversity, sentence complexity, and topic focus. The writing styles are somewhat distinct, indicating a lower likelihood of being written by the same author.",
+    "score": 0.56
+  }
+}

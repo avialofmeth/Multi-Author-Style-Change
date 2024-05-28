@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as colons and commas.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts show similarities in lexical choices and grammatical structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts are different, with one being more informative and the other more opinionated.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "While one text is more instructional, the other is more expressive in tone.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in sentence structure and tone, there are some commonalities in punctuation and lexical choices that suggest a moderate likelihood of the same author.",
+        "score": 0.68
+    }
+}

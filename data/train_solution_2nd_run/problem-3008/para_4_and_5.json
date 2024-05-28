@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and capitalization consistently, while Paragraph 2 lacks hyphens and has inconsistent capitalization.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit informal language and use of strong opinions, aligning in terms of lexical choice and tone.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain short, direct sentences with straightforward structures, maintaining a similar level of complexity.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts express negative opinions and criticism, showing a shared tone of hostility towards the subject matter.",
+    "score": 0.9
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were identified in either paragraph, displaying consistency in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the linguistic features analyzed, there are notable similarities in lexical choice, tone, sentence structure, and absence of errors, indicating a moderate likelihood that both paragraphs were written by the same author.",
+    "score": 0.76
+  }
+}

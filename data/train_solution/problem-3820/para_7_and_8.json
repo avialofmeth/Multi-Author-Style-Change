@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a mix of punctuation marks such as commas and periods, but differ in the use of colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Lexical choice and word usage differ significantly between the two texts, indicating potential different authors.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts are notably different in complexity and arrangement.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The tone and mood in the two texts vary, suggesting a difference in authorship.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choice, sentence structure, and tone, along with some punctuation variations, the likelihood of the same authorship is low.",
+        "score": 0.5
+    }
+}

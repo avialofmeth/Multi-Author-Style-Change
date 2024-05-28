@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes the use of colons and commas for listing and separating information. Paragraph 2 uses commas for separating clauses and to set off nonessential information.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses technical language related to media outlets and subreddit guidelines. Paragraph 2 uses more casual language related to achievements and right-wing propaganda.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively simple sentence structures, but Paragraph 1 is more formal and informational while Paragraph 2 is more expressive and opinionated.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a formal and informative tone related to subreddit rules, while Paragraph 2 has a more passionate and opinionated tone about political communication.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure and text features, while noting the similarity in the absence of spelling errors, the overall confidence score is moderate.",
+    "score": 0.56
+  }
+}

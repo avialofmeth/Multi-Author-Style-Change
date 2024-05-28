@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs show consistent use of punctuation marks such as commas and periods. However, paragraph 1 includes more diverse punctuation like forward slashes and semicolons, while paragraph 2 mainly uses commas and periods.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and informational tone with specific vocabulary related to rules and guidelines. However, paragraph 1 uses more varied lexical choices compared to the more straightforward language in paragraph 2.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer and more complex sentences with a focus on providing detailed rules and consequences. In contrast, paragraph 2 is shorter and more direct, focusing on providing specific instructions.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and instructional style, emphasizing guidelines and rules. However, paragraph 1 has a more authoritative tone with explicit instructions on behavior, while paragraph 2 is more informative and directive.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no evident spelling or typographical errors in either paragraph, indicating a consistent level of attention to detail in both texts.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation usage, formal tone, and absence of spelling errors, along with the distinctions in lexical variety, sentence complexity, and tone, the overall confidence score is moderate.",
+        "score": 0.64
+    }
+}

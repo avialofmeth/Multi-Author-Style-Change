@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use a similar punctuation style, including commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show some differences in tone and vocabulary, such as 'fucked up' in Paragraph 2 which is not present in Paragraph 1.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features vary, with Paragraph 2 being more expressive and emotionally charged compared to the straightforward nature of Paragraph 1.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The text and discourse features differ significantly in terms of narrative style and tone. Paragraph 2 is more emotional and expressive compared to the neutral tone of Paragraph 1.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.6
+  }
+}

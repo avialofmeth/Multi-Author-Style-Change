@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles, including the use of commas, periods, and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features show some differences in terms of content but exhibit consistency in sentence structure and word choice.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both texts display coherence and cohesion in their structure and length of sentences, though the topics differ.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 has a narrative style discussing a personal experience, while Text 2 is an automated response, showing different speech events.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were present in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the identified features, the likelihood that the two texts were written by the same author is moderate, with an average confidence score of 0.68.",
+        "score": 0.68
+    }
+}

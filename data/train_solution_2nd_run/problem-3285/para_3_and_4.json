@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use colons, commas, and periods consistently. However, Paragraph 1 includes more complex punctuation like parentheses and semicolons, while Paragraph 2 lacks this complexity.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a more formal and academic tone with a wider range of vocabulary compared to the more informal and direct language in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a focus on historical events and analysis. In contrast, Paragraph 2 is shorter and more straightforward without as much depth.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts discuss historical events but have different tones. Paragraph 1 is more analytical and informative while Paragraph 2 has a more casual and conversational tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering all features, while there are some similarities in punctuation and lack of errors, the differences in vocabulary, sentence complexity, and tone suggest that the two texts were likely not written by the same author.",
+        "score": 0.58
+    }
+}

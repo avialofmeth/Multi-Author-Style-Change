@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as hyphens, commas, and periods, while Paragraph 2 lacks these punctuation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains specific vocabulary related to military service like 'military police officer,' 'vaccines,' and 'boosters,' whereas Paragraph 2 is more general in its word choice as it is a bot response.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences explaining a personal experience, while Paragraph 2 is brief and to the point as it is a standardized bot response.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a narrative style with personal details and a specific tone, while Paragraph 2 is a generic bot message with a neutral tone.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, vocabulary, sentence structure, and narrative style, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.36
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use punctuation marks such as commas and question marks, but the usage differs slightly. The first text uses hyphens and parentheses, while the second text includes question marks and ellipsis.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features vary significantly between the texts. The first text discusses climate protests and financial support, while the second text contains more informal language with terms like 'insane sociopathic' and 'selfish morons'. Word choice and tone differ widely.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Sentence structures and quantitative features also show major differences. The first text consists of longer, coherent sentences with a clear progression of ideas. In contrast, the second text is fragmented and includes abrupt, rhetorical questions.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The two texts exhibit distinct narrative styles and tones. The first text is explanatory and formal, discussing a topic in a straightforward manner. The second text is confrontational and critical, using harsh language and rhetorical questions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a consistent level of accuracy in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the substantial differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.48
+    }
+}

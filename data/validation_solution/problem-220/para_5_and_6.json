@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods, while Paragraph 2 uses commas, colons, and parentheses.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has simpler word choice and sentence structure compared to Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has shorter and simpler sentences compared to Paragraph 2.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a formal and informative tone, but with different contexts and purposes.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure and quantitative features, text and discourse features, and spelling and typographical errors, the likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.48
+  }
+}

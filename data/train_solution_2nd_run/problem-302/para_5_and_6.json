@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a colon to introduce an explanation, while paragraph 2 lacks any colon. Both paragraphs utilize commas appropriately.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of formality in word choice and sentence structure. However, there are distinct differences in the lexical features and tone.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer, more complex sentences compared to paragraph 2, which has shorter and more straightforward sentences.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Both paragraphs convey a somewhat serious and informative tone, but paragraph 2 introduces a speculative element not present in paragraph 1.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, as well as the distinct tone and speculative nature of paragraph 2, the overall likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.64
+    }
+}

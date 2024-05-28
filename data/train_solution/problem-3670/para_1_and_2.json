@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a dash for punctuation, while Paragraph 2 uses commas and periods primarily. The punctuation styles differ significantly.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on political and factual language, while Paragraph 2 contains historical and formal language. The lexical and grammatical features are distinct.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with more complex structures, while Paragraph 2 consists of shorter, more straightforward sentences. Sentence structures significantly differ.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 is more informative and analytical, whereas Paragraph 2 is descriptive and historical. The text and discourse features are notably different.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features between the two texts, the overall likelihood of them being written by the same author is low.",
+        "score": 0.32
+    }
+}

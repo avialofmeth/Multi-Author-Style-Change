@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates formal punctuation with the use of appropriate punctuation marks such as colons and commas. Paragraph 2 lacks proper punctuation and uses colloquial language with minimal punctuation.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains formal and professional language with specific terminology related to media outlets. Paragraph 2 uses informal language with slang terms and lacks specialized vocabulary.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured in a clear and organized manner with coherent sentences. Paragraph 2 contains fragmented and disjointed sentences with a lack of cohesion.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and informative tone suitable for professional communication. Paragraph 2 adopts a casual and opinionated tone, using colloquial expressions.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in this aspect.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the texts show significant disparities in writing style, suggesting they were likely written by different authors.",
+    "score": 0.38
+  }
+}

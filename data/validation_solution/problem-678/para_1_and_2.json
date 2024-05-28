@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 shows the use of various punctuation marks like commas, colons, and quotation marks to convey complex ideas and emotions. Paragraph 2 lacks such diverse punctuation usage.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 exhibits a specific word choice and lexical variation related to personal experiences and emotions. In contrast, Paragraph 2 uses more generic and neutral vocabulary.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with emotional depth, reflecting personal narrative. Paragraph 2 consists of shorter and more straightforward sentences focused on providing guidelines.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a narrative style with emotional tone and expressions related to personal experiences and political views. Paragraph 2 adopts a more formal and instructive tone.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all 5 features, there are notable differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, while similarities exist in the absence of spelling errors. The overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.66
+  }
+}

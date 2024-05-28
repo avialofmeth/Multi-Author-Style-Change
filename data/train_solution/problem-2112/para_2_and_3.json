@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use punctuation marks such as colons and commas, albeit with differing contexts. Paragraph 1 uses these marks in a formal, informational context, while Paragraph 2 lacks punctuation in some places and adopts a more casual tone.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "There is a notable difference in lexical and grammatical features between the texts. Paragraph 1 exhibits a more formal and structured choice of words and grammar, whereas Paragraph 2 contains more informal and colloquial language with grammatical errors like 'Isreal' instead of 'Israel'.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Sentence structure and length vary significantly between the two texts. Paragraph 1 consists of longer, structured sentences, typical of informational content, while Paragraph 2 has shorter, less complex sentences with a more conversational style.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Text and discourse features differ notably. Paragraph 1 maintains a formal and informative tone related to guidelines, whereas Paragraph 2 expresses a more opinionated and critical view with a casual tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are spelling errors in paragraph 2 with 'Isreal' instead of 'Israel', indicating a lack of attention to detail or potentially a different level of language proficiency.",
+    "score": 0.1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of various linguistic features, the likelihood of the two texts being written by the same author is low. The differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors contribute to a lack of consistency in writing style.",
+    "score": 0.24
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar hyphen usage, with no hyphens present in either paragraph.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "Both texts show differences in lexical and grammatical features, with varying word choices and structures.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts differ in sentence structure and quantitative features, with varying sentence lengths and coherence.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit differences in text and discourse features, showcasing distinct tones and narrative styles.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts do not contain spelling or typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and text discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.56
+    }
+}

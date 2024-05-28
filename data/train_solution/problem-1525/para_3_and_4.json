@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a similar use of punctuation marks such as commas and periods. However, the first text uses more formal punctuation like colons and parentheses, while the second text includes informal punctuation like hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, the first text demonstrates a more formal tone with specific terminology related to media outlets and subreddit guidelines. The second text is more conversational and includes informal language like 'on me' and 'everyone.'",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts show variation in length and complexity. The first text contains longer and more structured sentences, while the second text has shorter and more straightforward sentences.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a more informational and directive tone, focusing on rules and guidelines. In contrast, the second text has a more personal and reflective tone discussing a personal experience.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the varying degrees of similarity in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the perfect alignment in spelling and typographical errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

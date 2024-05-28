@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of proper punctuation with missing periods and apostrophes.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Texts display significant differences in lexical and grammatical features, with one being more formal and the other using informal language and slang.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "There are differences in sentence structure and quantitative features, with one text having longer, more coherent sentences and the other being fragmented and lacking cohesion.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Texts have contrasting narrative styles and speech events, with one being more informative and the other showing a casual, colloquial tone.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are spelling and typographical errors in both texts, but the nature of the errors differs, with one text having more consistent errors than the other.",
+        "score": 0.6
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is low due to significant differences in lexical, grammatical, and narrative styles.",
+        "score": 0.44
+    }
+}

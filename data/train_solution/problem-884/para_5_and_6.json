@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses quotation marks for direct speech, while Paragraph 2 does not include direct speech or quotation marks.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 includes specific terms like 'President Biden' and 'FEMA housing', while Paragraph 2 mentions 'governor' and 'constituents'. Different lexical choices indicate distinct topics and likely different authors.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Both paragraphs are relatively short and straightforward in structure. Sentence complexity and arrangement are not significantly different.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more urgent tone with residents needing help, while Paragraph 2 discusses inaction causing speculation. The narrative styles and expressions differ, suggesting potential different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were detected in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the overall confidence score indicates a low likelihood that the two texts were written by the same author.",
+        "score": 0.44
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as hyphens, quotation marks, and commas. However, there are differences in their usage and placement.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical choices and word usage between the two texts. Additionally, the grammatical structures vary in complexity and style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts show differences in complexity, length, and coherence. There are variations in word, clause, and sentence length and frequency.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles and tone differ between the two texts. One text discusses political events with a serious tone, while the other reflects on personal experiences and emotions.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there are notable differences in writing style suggesting the texts may not be written by the same author.",
+        "score": 0.56
+    }
+}

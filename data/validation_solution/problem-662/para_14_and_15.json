@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as semicolons, commas, and periods. However, the first text includes a colon, while the second text uses quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit formal language with specific terms related to legal definitions. However, the first text is more concise and direct in its wording, while the second text provides more explanation and clarification.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "The sentence structures in both texts are clear and straightforward. The first text is shorter and more direct, while the second text is slightly more complex with additional clauses.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Both texts have a formal and serious tone due to the subject matter. The first text is more declarative, while the second text introduces a more analytical approach.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "Both texts are devoid of spelling and typographical errors, indicating careful proofreading.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, there are similarities in punctuation usage, sentence structure, and absence of errors. However, differences in lexical choice, tone, and detail level suggest potential variation in authorship.",
+    "score": 0.66
+  }
+}

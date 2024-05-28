@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses informal language with profanity, while Paragraph 2 uses more formal language with a more neutral tone.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit varied lexical and grammatical features, such as different word choices and sentence structures.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter, more fragmented sentences compared to the longer, more structured sentences in Paragraph 2.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Both paragraphs discuss geopolitical issues but with different tones and perspectives.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, sentence structure, and tone, there is moderate evidence to suggest the texts were not written by the same author.",
+        "score": 0.48
+    }
+}

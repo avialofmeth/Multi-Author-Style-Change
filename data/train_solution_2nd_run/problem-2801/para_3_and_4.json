@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses quotation marks appropriately for direct speech, while Paragraph 2 uses informal language and does not feature any specific punctuation style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal tone with specific terminology related to human rights and complaints. Paragraph 2 features informal, colloquial language with a dismissive tone.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of more complex sentences with a focus on providing information. Paragraph 2 has shorter, more blunt sentences with a sarcastic tone.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a professional and informative discourse style. Paragraph 2 adopts a mocking and disrespectful tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, it is unlikely that the two texts were written by the same author.",
+    "score": 0.4
+  }
+}

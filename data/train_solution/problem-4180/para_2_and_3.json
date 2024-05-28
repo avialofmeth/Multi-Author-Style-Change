@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs exhibit similar use of punctuation marks such as colons, commas, and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses specific language related to politics and demographics, while Paragraph 2 focuses on general etiquette rules. However, both paragraphs demonstrate competent lexical and grammatical features.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit coherent and well-structured sentences. Paragraph 1 contains longer sentences due to the nature of its content, while Paragraph 2 is more concise and straightforward. Overall, the sentence structures show some similarities in complexity.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more serious and analytical tone discussing political demographics, whereas Paragraph 2 adopts a more instructive and rule-based tone. Despite the difference in topic and mood, the writing styles in terms of narrative styles and expressions do not strongly indicate a different author.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were observed in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are some similarities in writing style between the two paragraphs, despite differences in topic and content. The average confidence score indicates a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.72
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use similar punctuation marks such as apostrophes, quotation marks, and hyphens. However, the first text uses parentheses and colons, while the second text does not. There are differences in punctuation usage.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in the two texts show differences in word choice and complexity. The first text includes informal language and slang ('MAGA nutters'), while the second text uses more formal language ('sentiment,' 'analogy'). There are notable distinctions in lexical and grammatical features.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and straightforward. They exhibit coherent sentence structures with no significant variations in length or complexity. The texts demonstrate consistency in sentence structure and length.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The narrative styles in the two texts differ. The first text conveys a more informal and opinionated tone, while the second text maintains a more objective and explanatory tone. There is a clear disparity in narrative styles and tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either of the texts. Both texts exhibit correct spelling and punctuation. There are no spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Overall, the texts show some similarities in punctuation and absence of spelling errors, but they significantly differ in lexical and grammatical features, narrative styles, and tone. The overall confidence score is moderate, suggesting that while there are some commonalities, the differences in writing style indicate a low likelihood that the texts were written by the same author.",
+    "score": 0.52
+  }
+}

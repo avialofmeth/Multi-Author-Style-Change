@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and periods regularly. However, Paragraph 2 includes more varied punctuation such as colons and parentheses.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice. However, Paragraph 2 includes technical terms related to the automotive industry.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Both texts have varying sentence lengths and structures. Paragraph 1 is more straightforward with shorter sentences, while Paragraph 2 contains longer and more complex sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts convey a critical tone and express skepticism. However, the subjects discussed in each paragraph differ significantly.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the varied punctuation use in Paragraph 2, technical terms specific to the automotive industry, sentence complexity differences, and distinct topics discussed, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.64
+    }
+}

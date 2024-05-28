@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a variety of punctuation marks like commas, quotation marks, and hyphens to separate clauses and provide information. Paragraph 2 lacks proper punctuation and has a more informal style.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and descriptive language style with specific terms related to the events in Ukraine. Paragraph 2 has a more casual tone with simpler language and lacks specific details.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences with detailed information about the situation in Ukraine. Paragraph 2 has shorter and simpler sentences, lacking cohesion and coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 follows a formal narrative style with clear reporting of facts and events. Paragraph 2 contains a speculative and emotive tone, suggesting potential future actions without providing concrete evidence.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit correct spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative tone, the likelihood of the two texts being written by the same author is moderate, with some similarities in spelling and typographical accuracy.",
+    "score": 0.54
+  }
+}

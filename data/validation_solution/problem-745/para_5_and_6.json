@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use standard punctuation marks like commas, periods, and quotation marks. However, there are differences in the use of dashes and brackets.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and tone between the two paragraphs. The first paragraph uses more informal language and has a sarcastic tone, while the second paragraph is more formal and neutral.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences with a narrative style, while Paragraph 2 is concise and straightforward as it is a disclaimer.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a sarcastic and informal tone, using idiomatic expressions, while Paragraph 2 is formal and robotic in nature.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, tone, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.6
+  }
+}

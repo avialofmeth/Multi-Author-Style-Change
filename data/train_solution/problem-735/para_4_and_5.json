@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and periods in a straightforward manner, while Paragraph 2 includes hyphens and commas in a more varied way.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 has a more formal and direct lexical and grammatical style with phrases like 'performed automatically', while Paragraph 2 has a more informal tone with phrases like 'absolute disgusting human being'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have similar sentence lengths and complexity, with coherent structures and clear expressions.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a neutral and informative tone typical of automated responses, while Paragraph 2 expresses strong opinions and emotions, demonstrating a different discourse style.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and discourse style, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.54
+    }
+}

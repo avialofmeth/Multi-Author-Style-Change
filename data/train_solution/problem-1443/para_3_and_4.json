@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation marks such as commas and quotation marks, but the first text contains more unconventional punctuation like forward slashes and periods within quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text exhibits a more informal and colloquial tone with phrases like 'Oh no, don't worry', while the second text is more formal and structured in its language use.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts contain relatively short sentences, but the first text is more fragmented and lacks cohesion compared to the second text which is more structured.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The first text has a critical and sarcastic tone, using direct quotes to convey a specific message, while the second text poses a question seeking information and clarification.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking into account the varying degrees of similarity and difference in the identified features, the overall confidence score that the two texts were written by the same author is moderate.",
+        "score": 0.56
+    }
+}

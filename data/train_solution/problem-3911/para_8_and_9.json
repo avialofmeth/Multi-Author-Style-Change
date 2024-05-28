@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use standard punctuation marks such as commas and periods. However, the first text includes more specialized punctuation like brackets and colons.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal tone with specific vocabulary choices. The first text appears more technical with terms like 'approved domains list and outlet criteria', while the second text emphasizes urgency with phrases like 'CRITICAL to our national security'.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "The first text consists of longer, more complex sentences with a focus on providing detailed information. In contrast, the second text uses shorter sentences to convey a strong message succinctly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The first text adopts a procedural or informative tone, indicating a formal context, whereas the second text is more persuasive and emotive in nature, stressing the importance of the message.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the assessment of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling accuracy, the texts exhibit some similarities in formal tone and vocabulary choice but differ in sentence complexity and punctuation usage. The overall confidence score is moderate, indicating a moderate likelihood that the texts were written by the same author.",
+        "score": 0.58
+    }
+}

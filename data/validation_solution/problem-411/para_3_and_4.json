@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 shows consistent use of commas and periods, while paragraph 2 lacks proper punctuation and has a more informal style.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical style, using complete sentences. In contrast, paragraph 2 is more casual with slang and incomplete sentences.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has a clearer sentence structure with proper coherence, while paragraph 2 lacks cohesion and has shorter, fragmented sentences.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone, focusing on reporting high-flying devices. Paragraph 2 has a more informal and conversational tone, with complaints and slang.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit some spelling errors, but paragraph 2 has more typographical mistakes, suggesting a less careful writing style.",
+        "score": 0.1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical style, sentence structure, tone, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.18
+    }
+}

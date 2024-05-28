@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation styles with the use of acronyms like 'lmao'. However, the presence of punctuation marks such as colons and parentheses differs between the two texts.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are similarities in lexical features such as informal language ('banging,' 'lmao') in both texts. However, the grammatical structures and word choices differ significantly.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and direct in structure. However, the coherence and cohesion of the texts vary due to the different topics discussed.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles and speech events are starkly different between the two texts. One is conversational with personal opinions, while the other is a formal automated response.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either of the texts, indicating a level of care in writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "The overall likelihood that the two texts were written by the same author is low, as the differences in grammatical features, narrative styles, and word choices outweigh the similarities in punctuation and lack of spelling errors.",
+    "score": 0.5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses a hyphen in 'hard-of-a-job', while Paragraph 2 uses hyphens in 'law-school' and 'NY-bar-exam'. Both paragraphs utilize commas effectively.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with no significant differences in grammatical categories and part of speech usage.",
+    "score": 0.9
+  },
+  "feature3": {
+    "explanation": "Both paragraphs demonstrate coherence and cohesion in their sentence structures, with similar sentence lengths and complexity.",
+    "score": 0.85
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 expresses surprise at Giuliani's role, while Paragraph 2 questions his behavior, showcasing a slight difference in tone. However, both paragraphs maintain a formal style.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors are present in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, there is a high likelihood that the two texts were written by the same author, with minor variations in tone.",
+    "score": 0.85
+  }
+}

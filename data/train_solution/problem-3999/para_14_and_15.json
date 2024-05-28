@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a similar range of punctuation marks including hyphens, colons, ampersand, commas, and ellipsis. However, the first text uses more dashes for emphasis.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit lexical variation and word choice indicative of a similar style. The use of words like 'apathetic', 'cowards', 'threatened', 'abused' in the first text and 'hell', 'unable', 'help' in the second text shows some commonality.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have a similar sentence structure with a mix of complex and shorter sentences. They maintain coherence and cohesion within each paragraph.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "The two texts differ in their tone and mood, with the first text being more confrontational and critical, while the second text expresses empathy and concern. However, both texts use emotive language.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities in punctuation, lexical and grammatical features, sentence structure, and absence of spelling errors, there is a moderate likelihood that the two texts were written by the same author despite differences in tone and mood.",
+        "score": 0.72
+    }
+}

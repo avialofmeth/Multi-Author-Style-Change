@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both paragraphs use similar punctuation styles including hyphens, commas, and periods. However, there are differences in the specific usage of punctuation marks such as colons and quotation marks.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features, with both paragraphs containing informal language and some grammatical errors like 'illigal' and 'likley'. However, the specific word choices and sentence structures differ slightly.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit a similar level of sentence complexity and coherence. The lengths of the sentences are relatively similar, but there are differences in the overall structure and arrangement of ideas.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both paragraphs convey a conversational tone and informal style. However, the specific expressions and mood vary, impacting the overall similarity.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are some spelling errors in both paragraphs such as 'illigal' and 'likley'. While these errors are present in both texts, the overall consistency in spelling issues is not high.",
+        "score": 0.4
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood that the two texts were written by the same author is moderate. There are notable similarities in punctuation, lexical features, and coherence, but differences in specific word choices, expressions, and spelling errors affect the overall assessment.",
+        "score": 0.52
+    }
+}

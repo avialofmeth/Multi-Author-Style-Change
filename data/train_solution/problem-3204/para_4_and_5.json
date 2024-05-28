@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and a period to separate ideas within a sentence. Paragraph 2 uses periods and commas similarly but with more informal language.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and specific terms related to political events (e.g., 'People Power'). Paragraph 2 has a more informal tone and includes slang ('wannabe authoritarian populist').",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences. Paragraph 2 has shorter sentences with abrupt shifts in tone and content.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 provides factual information in a more neutral tone. Paragraph 2 expresses personal opinions with a critical and judgmental tone.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, there is moderate evidence to suggest that the texts were not written by the same author.",
+    "score": 0.46
+  }
+}

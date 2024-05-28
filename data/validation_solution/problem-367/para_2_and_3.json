@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraphs 1 and 2 both use hyphens and commas in a similar manner, contributing to a consistent punctuation style.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit some lexical variation and word choice, but there are distinct differences such as the specific terms used (e.g., 'Transformers trailer' in Paragraph 1 vs. 'Fallout' in Paragraph 2).",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Sentence structure in both paragraphs is somewhat similar in terms of length and coherence, but there are differences in the topics discussed and the overall narrative style.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two paragraphs differ significantly, with Paragraph 1 focusing on technological progress and ominous events while Paragraph 2 mentions music and specific references like 'Butcher Pete.' This indicates a difference in tone and mood.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are free from spelling and typographical errors, maintaining a consistent level of accuracy in written language.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the five features, the likelihood that the two texts were written by the same author is moderate, as there are similarities in punctuation style and absence of errors, but notable differences in lexical choices, sentence structure, and narrative styles.",
+        "score": 0.6
+    }
+}

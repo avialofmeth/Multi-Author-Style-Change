@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features are different as one text discusses political violence while the other is a general automated response.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "The sentence structures are quite different, one being a complex statement about political violence while the other is a simple automated response. The length and coherence also vary significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The text and discourse features are contrasting; one is discussing a serious topic while the other is a general automated message.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical, sentence structure, and discourse features, along with the similar punctuation style and absence of spelling errors, the overall confidence score is moderate.",
+        "score": 0.5
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit the use of parentheses and quotation marks. However, paragraph 1 uses more diverse punctuation marks compared to paragraph 2.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts demonstrate a mix of formal and informal language with varying word choices. Paragraph 1 contains more specialized vocabulary due to the specific historical context, while paragraph 2 is more casual and straightforward.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 2 has shorter and more concise sentences compared to paragraph 1, which has longer and more complex sentences. Both paragraphs maintain coherence within their respective structures.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a narrative style discussing a historical event, while paragraph 2 presents a more informative and explanatory tone about brand ownership. Both paragraphs lack notable idiomatic expressions.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, there are similarities in punctuation style and absence of spelling errors, but differences in lexical choices, sentence structures, and narrative styles. The overall assessment suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.68
+    }
+}

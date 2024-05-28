@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of commas and periods, but paragraph 1 also includes a colon and a dash. Paragraph 2 uses parentheses and a period.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more informal language and contractions (e.g., it's, there's) compared to the formal language in paragraph 2. Paragraph 1 also includes slang ('swimmingly').",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both paragraphs contain relatively short sentences with straightforward structures. Paragraph 1 has a slightly higher level of informality in sentence structure.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a more casual and nonchalant tone compared to the formal and professional tone in paragraph 2.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, along with the presence of some commonalities in punctuation and absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"feature1": {
+		"explanation": "Paragraph 1 uses hyphens, commas, and periods in a more informal and conversational style, while paragraph 2 lacks these features and appears more formal.",
+		"score": 0.2
+	},
+	"feature2": {
+		"explanation": "Paragraph 1 uses a mix of informal and technical language with unique phrases like 'de-fi', 'self sovereignty', and 'shit done'. Paragraph 2 is straightforward and lacks such distinct vocabulary.",
+		"score": 0.3
+	},
+	"feature3": {
+		"explanation": "Paragraph 1 has longer and more complex sentences with varied structure and informal tone. Paragraph 2 is short, direct, and lacks complexity.",
+		"score": 0.2
+	},
+	"feature4": {
+		"explanation": "Paragraph 1 has a conversational tone with specific references to individuals and situations. Paragraph 2 is impersonal and more formal in nature.",
+		"score": 0.3
+	},
+	"feature5": {
+		"explanation": "Both texts are free from spelling and typographical errors.",
+		"score": 1.0
+	},
+	"overall": {
+		"explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the lack of spelling errors, the writing styles in the two texts are quite distinct, suggesting different authors.",
+		"score": 0.4
+	}
+}

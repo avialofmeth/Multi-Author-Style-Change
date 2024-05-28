@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use parentheses and quotation marks.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit variation in word choice and use of specific terms.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Both texts have varying sentence lengths and complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts have a conversational tone.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were found in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Taking an average of the individual feature scores, the overall likelihood that the two texts were written by the same author is moderately high.",
+        "score": 0.8
+    }
+}

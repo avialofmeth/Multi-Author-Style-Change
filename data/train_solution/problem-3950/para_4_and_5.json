@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of hyphens, commas, and numbers to convey technical information, while Paragraph 2 lacks proper punctuation and contains spelling errors ('nobudy' instead of 'nobody').",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 employs technical and formal language with precise terminology related to flight costs, while Paragraph 2 contains informal language, spelling errors, and lacks technical vocabulary.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of structured sentences with technical details and coherent information, while Paragraph 2 has shorter, less complex sentences and lacks cohesion in its narrative.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal tone and presents factual information, while Paragraph 2 lacks narrative style, uses colloquial expressions, and lacks a consistent tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 has no spelling or typographical errors, whereas Paragraph 2 contains a spelling error ('nobudy').",
+        "score": 0.5
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.34
+    }
+}

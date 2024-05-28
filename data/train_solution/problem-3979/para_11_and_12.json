@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal and casual punctuation, including hyphens and swear words. However, the first text contains more standard punctuation marks like periods and commas, while the second text uses more dashes and lacks some standard punctuation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display a similar level of informality and colloquial language. They both use modern vocabulary and expressions. However, the second text contains more explicit language and slang compared to the first text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively simple sentence structures with a mix of longer and shorter sentences. The first text focuses more on storytelling and family history, while the second text is more opinionated and critical. Both texts maintain coherence within their respective contexts.",
+        "score": 0.8
+    },
+    "feature4": {
+        "explanation": "Both texts exhibit a similar tone of personal reflection and critique of historical figures. They both convey strong emotions and opinions about the past. The narrative style differs slightly, with the first text being more descriptive and the second text being more confrontational.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text. Both texts demonstrate good spelling and overall correctness in language use.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the writing style similarities and differences indicate a moderate likelihood that the two texts were written by the same author, with some variations in punctuation usage and tone. The overall confidence score is 0.76.",
+        "score": 0.77
+    }
+}

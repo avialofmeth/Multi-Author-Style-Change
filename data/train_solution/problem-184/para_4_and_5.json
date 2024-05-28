@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses various punctuation marks such as commas, periods, and dashes effectively to separate ideas and clauses. Paragraph 2, being a concise information message, lacks the complexity and variety of punctuation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more expressive and varied choice of words and grammatical structures, reflecting a personal narrative style. In contrast, Paragraph 2 is more straightforward and uses simpler language as it serves an informative purpose.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 exhibits longer and more complex sentences with a narrative flow. Paragraph 2 consists of shorter, direct sentences typical of automated responses, lacking the narrative structure.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a personal, emotional tone with a recount of experiences. In contrast, Paragraph 2 is impersonal and formal, typical of automated messages.",
+    "score": 0.1
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, the overall likelihood of the two texts being written by the same author is low.",
+    "score": 0.4
+  }
+}

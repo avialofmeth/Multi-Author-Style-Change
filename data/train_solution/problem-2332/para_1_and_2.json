@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks such as commas and periods, while Paragraph 2 includes hyphens and parentheses. This difference in punctuation style may indicate a variation in writing style.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a formal and polite tone with specific terms related to rules and guidelines. In contrast, Paragraph 2 includes informal language, slang ('fucking'), and strong expressions ('Jesus'). The difference in lexical choice and formality suggests a discrepancy in writing styles.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of structured sentences focused on conveying rules and consequences clearly. In comparison, Paragraph 2 contains a lengthy and complex sentence with informal language and commentary on moderation practices. The disparity in sentence structure and coherence points to a divergence in writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a neutral and objective tone, emphasizing respectful communication. Conversely, Paragraph 2 adopts a more emotive and critical tone, expressing frustration and skepticism. The contrast in narrative styles and mood indicates a dissimilarity in writing styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate proper spelling and typographical accuracy, without any errors detected. The absence of spelling and typographical errors suggests consistency in this aspect of writing.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical choices, sentence structures, and narrative tones between the two paragraphs, it is likely that they were not written by the same author. However, the absence of spelling and typographical errors boosts the overall confidence score.",
+    "score": 0.44
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, commas, and quotation marks in a casual and conversational manner, whereas Paragraph 2 lacks these elements and appears more formal and structured.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more informal and varied lexical and grammatical style with colloquial expressions like 'NASCAR type fans,' while Paragraph 2 is straightforward and technical in its word choice.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer sentences with a mix of sentence types, creating a conversational flow. In contrast, Paragraph 2 is more concise and to the point with shorter sentences.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more casual and opinionated tone, using idiomatic expressions like 'lip service' and 'no wonder it's popular.' Paragraph 2, on the other hand, maintains a neutral and formal tone focused on guidelines.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit proper spelling and no typographical errors, showing similar attention to detail in writing mechanics.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show notable distinctions in writing style. However, the absence of spelling and typographical errors suggests a potential commonality in writing mechanics. The overall confidence score is moderate.",
+        "score": 0.44
+    }
+}

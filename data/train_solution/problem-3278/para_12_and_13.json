@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit informal punctuation styles with the use of hyphens and informal language.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Different word choice and tone in each text, which could indicate different authors.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Varied sentence structures with different levels of complexity and coherence.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Distinct narrative styles and tones in the two texts, suggesting potential different authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors detected in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the overall analysis of the features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.52
+  }
+}

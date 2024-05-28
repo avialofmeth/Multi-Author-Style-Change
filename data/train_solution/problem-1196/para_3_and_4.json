@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks for direct speech and colons for introducing a list or explanation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There is a difference in the lexical and grammatical features; Paragraph 1 uses formal language with specific terms related to media control, while Paragraph 2 uses informal language and slang terms like 'lame stream media'.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both paragraphs have varying sentence lengths and structures. Paragraph 1 is more complex with longer sentences, while Paragraph 2 is simpler and shorter.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a serious and informative tone discussing media conglomerates, while Paragraph 2 uses a sarcastic and dismissive tone towards a political group.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, tone, and level of formality between the two texts, the overall likelihood that they were written by the same author is moderate.",
+        "score": 0.62
+    }
+}

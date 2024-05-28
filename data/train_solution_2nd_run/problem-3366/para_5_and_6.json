@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes a mix of hyphens, quotation marks, and commas for punctuation. Paragraph 2 uses commas and periods but lacks the variety of punctuation seen in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a more casual and conversational tone with phrases like 'talking shop' and 'keep drinking poison.' Paragraph 2 is more formal and structured with technical terms like 'approved domains list.' There is a notable difference in word choice and style.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, more fragmented sentences with informal language. Paragraph 2 has longer, more structured sentences with technical terms. The sentence structures and lengths differ significantly.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a narrative style with personal experiences and direct quotes. Paragraph 2 is more informational and directive. The tone and mood vary significantly between the two texts.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, showing a similar level of care in writing. There are no noticeable differences in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the five features, the writing styles of the two paragraphs exhibit notable differences in punctuation, word choice, sentence structure, and tone. However, they share a commonality in the absence of spelling errors. The overall confidence score for the likelihood of the same authorship is moderate, taking into account the mix of similarities and distinctions.",
+    "score": 0.48
+  }
+}

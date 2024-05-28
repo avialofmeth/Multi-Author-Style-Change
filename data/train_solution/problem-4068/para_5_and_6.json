@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas appropriately and have a similar style of punctuation, with no noticeable differences in the use of hyphens, brackets, colons, and quotation marks.",
+        "score": 0.9
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the texts. The vocabulary and word choices vary significantly, indicating a potential difference in authorship.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts differ significantly. Paragraph 1 consists of shorter, more concise sentences, while Paragraph 2 has longer and more complex sentences. This suggests a divergence in writing styles.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Narrative styles, tone, and mood differ between the texts. Paragraph 1 has a neutral and formal tone, typical of automated messages, while Paragraph 2 carries a more informal and critical tone. These differences indicate potential distinct authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, showing a consistent level of accuracy in written language.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the likelihood of the two texts being written by the same author is low, with notable differences in lexical choices, sentence structures, and narrative styles. The overall confidence score is 0.58.",
+        "score": 0.58
+    }
+}

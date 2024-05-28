@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use standard punctuation marks like commas and full stops consistently. The first text includes hyphens and ellipses, while the second text lacks these specific punctuation features.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts exhibit a casual tone with simple language use, but the first text includes more specific terms related to politics. The second text is more general and automated in nature.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are straightforward and concise in sentence structure with no complex syntax. The first text contains shorter, more direct sentences, while the second text is more automated and repetitive.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The first text shows a tone of anticipation and political observation, while the second text is neutral and robotic in nature, lacking any emotional or expressive content.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors, displaying a basic level of writing proficiency.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse, the texts show notable distinctions that suggest different authors. The presence of spelling and typographical errors is a commonality that could indicate a similar level of writing proficiency.",
+    "score": 0.56
+  }
+}

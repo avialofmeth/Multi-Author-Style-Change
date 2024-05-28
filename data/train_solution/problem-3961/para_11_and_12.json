@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and parentheses, while Paragraph 2 uses parentheses. Both paragraphs utilize punctuation for clarity and structure.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 focuses on economic policy and unwinding, while Paragraph 2 discusses political events and victories. Despite the different topics, both paragraphs exhibit formal language and coherent expression.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with complex structures related to economic policy. Paragraph 2 has a mix of sentence lengths but maintains coherence in discussing political events.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 has a more serious and analytical tone due to its economic policy discussion. Paragraph 2 adopts a celebratory and informative tone about political victories. Despite the tone differences, both maintain a formal style.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both paragraphs are well-written without apparent spelling or typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors, there are noticeable similarities in writing style despite the differing content. The overall confidence score for the likelihood of the same authorship is moderate.",
+        "score": 0.72
+    }
+}

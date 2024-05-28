@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and a period for punctuation, while Paragraph 2 includes a colon and a comma. However, both texts demonstrate a similar use of punctuation marks overall.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal language related to discussing trends and population growth, while Paragraph 2 is informal and focused on sharing an event. Despite the difference in topic, the lexical and grammatical features do not show significant divergence.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more structured with longer sentences and a coherent explanation, while Paragraph 2 is shorter and focused on providing information about an event. The sentence structure and quantitative features show some variance.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more informative and analytical tone discussing trends, while Paragraph 2 is more direct and event-focused. The narrative styles and speech events differ due to the nature of the content.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of the individual features, the overall confidence score that the two texts were written by the same author is moderate, with some variance in sentence structure and narrative style but consistency in punctuation, lexical features, and absence of spelling errors.",
+    "score": 0.6
+  }
+}

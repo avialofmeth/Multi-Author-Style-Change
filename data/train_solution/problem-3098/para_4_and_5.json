@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses parentheses, while Paragraph 2 uses parentheses and quotation marks. Both paragraphs use commas and conjunctions similarly.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice with no significant differences in grammatical categories and part of speech usage.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both paragraphs are relatively straightforward and coherent, with similar lengths and arrangements. Both paragraphs maintain a similar level of complexity and cohesion.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "While the topics differ, both paragraphs have a formal tone and mood. Narrative styles and speech events are not significantly different between the two texts.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall assessment of the linguistic features, there is a moderate level of confidence that the two texts were written by the same author.",
+        "score": 0.76
+    }
+}

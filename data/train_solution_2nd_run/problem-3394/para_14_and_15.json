@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use hyphens and periods. However, the first text uses more formal punctuation marks like colons and question marks, while the second text uses more informal punctuation like ellipses and dashes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features differ significantly between the two texts. The first text is more formal and structured, with standard word choices and grammatical categories. In contrast, the second text is informal, with more casual language and unconventional word choices.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features also show a notable difference. The first text consists of complete sentences with proper coherence and cohesion, while the second text is fragmented and lacks coherence.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "In terms of text and discourse features, the narrative styles and tones are distinct. The first text maintains a neutral and informative tone, while the second text has a more opinionated and informal tone.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the shared absence of spelling and typographical errors, the overall confidence score that the two texts were written by the same author is low.",
+    "score": 0.5
+  }
+}

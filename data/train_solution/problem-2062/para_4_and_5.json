@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks, apostrophes, and commas. However, the second text lacks other punctuation marks like colons and parentheses seen in the first text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "The first text contains more formal language related to investigative reporting, while the second text is more informal and opinionated with political references. Different lexical choices and word usage patterns are observed.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The first text has longer and more complex sentences due to the nature of reporting details. The second text has shorter sentences with a more conversational tone. Sentence structures differ significantly.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "The first text has a narrative style reporting events, while the second text expresses personal opinion. Tone and mood are distinct between the two texts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "No significant spelling or typographical errors were noted in either text.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the presence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.52
+    }
+}

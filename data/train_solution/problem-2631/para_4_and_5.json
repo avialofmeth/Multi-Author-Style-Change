@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured use of punctuation with colons and commas for clarity and organization. Paragraph 2 lacks this structured use and instead includes a significant amount of punctuation, such as commas and hyphens, that seem disjointed and erratic.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a consistent use of formal language and grammatical structures suitable for informational content. In contrast, Paragraph 2 contains informal language, repetitive phrases, and lacks coherence in word choice and grammar.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 displays coherent sentence structures with a focus on conveying information logically. Paragraph 2, on the other hand, lacks cohesive sentence structures, coherence, and contains fragmented phrases that disrupt readability.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a serious and informative tone typical of political discourse. However, Paragraph 2 adopts a boastful and informal tone with repetitive phrases and a focus on self-promotion.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Paragraph 1 demonstrates correct spelling and typographical accuracy. Paragraph 2 contains typographical errors, such as missing spaces after commas and inconsistent punctuation use.",
+    "score": 0.4
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, as well as spelling and typographical errors, the overall confidence score in the likelihood that the two texts were written by the same author is moderately low.",
+    "score": 0.32
+  }
+}

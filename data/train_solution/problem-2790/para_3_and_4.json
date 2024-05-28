@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use commas and periods appropriately, but the first paragraph includes a colon, which is not present in the second paragraph. Overall, punctuation style shows some similarities but also a notable difference.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first paragraph includes more complex and varied vocabulary compared to the second paragraph, which is more straightforward and technical in nature. The lexical and grammatical features differ significantly between the two paragraphs.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both paragraphs have relatively similar sentence lengths and structures, with no major differences in coherence and cohesion. However, the first paragraph has a slightly higher complexity in sentence structure. Overall, sentence structure and quantitative features show some similarities.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The tone and mood in the first paragraph are more informal and opinionated, while the second paragraph is impersonal and formal due to being automated. The narrative styles and speech events differ significantly between the two paragraphs.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors, showing a commonality in this aspect.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, there are notable differences in punctuation style, lexical and grammatical features, and narrative styles between the two paragraphs, while similarities are observed in sentence structure, coherence, and absence of spelling errors. The overall confidence score is moderate, indicating a likelihood that the two texts were not written by the same author.",
+    "score": 0.6
+  }
+}

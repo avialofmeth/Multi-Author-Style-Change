@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent punctuation styles with the use of commas, periods, and parentheses. However, Paragraph 1 includes more diverse punctuation marks like slashes and colons, while Paragraph 2 lacks such variety.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Both texts display a formal and instructive tone, using similar vocabulary and grammar structures. They both employ technical terms and rules for communication. However, Paragraph 1 uses more specific terms related to behavior guidelines.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, both texts are relatively straightforward and direct, focusing on conveying information succinctly. Paragraph 1 contains longer sentences due to the inclusion of detailed rules, while Paragraph 2 is more concise with shorter sentences.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and procedural discourse style, emphasizing guidelines and rules. They maintain a serious and informative tone throughout. However, Paragraph 1 conveys a sense of authority with clear directives, whereas Paragraph 2 is more informative.",
+        "score": 0.75
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a high level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the similarities in punctuation, lexical and grammatical features, text and discourse features, and absence of spelling errors, there is a moderate confidence that the two texts were written by the same author.",
+        "score": 0.77
+    }
+}

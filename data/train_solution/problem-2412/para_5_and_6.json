@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and periods for punctuation, while Paragraph 2 only uses periods. The presence of hyphens in Paragraph 1 but not in Paragraph 2 is a distinguishing factor.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 is more informal with terms like 'MAGA' and 'rip the bandaid off', while Paragraph 2 is formal and straightforward. Different lexical and grammatical choices suggest a difference in authorship.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains shorter, fragmented sentences with a more conversational tone. In contrast, Paragraph 2 is concise and lacks sentence complexity. This disparity indicates distinct writing styles.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a confrontational and opinionated tone discussing a political topic, while Paragraph 2 is neutral and automated in nature. The disparity in narrative styles and tone suggests different authors.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either text, indicating a similarity in this aspect.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features between the two paragraphs, it is likely that they were written by different authors. The presence of spelling and typographical errors being the only commonality increases the confidence in this conclusion.",
+    "score": 0.42
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens in compound adjectives and to separate numbers whereas Paragraph 2 does not have any hyphens. This difference in punctuation style suggests a distinction between the two texts.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 displays a more varied lexical and grammatical style with complex terms related to mental health and medication. Paragraph 2, as a bot response, lacks the complexity and specific vocabulary seen in Paragraph 1. This indicates a noticeable difference in word choice and complexity.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more elaborate in sentence structure and content, discussing personal experiences and the journey with mental health. In contrast, Paragraph 2 is concise and straightforward, typical of automated responses. The disparity in sentence structure and content complexity suggests a divergence in writing style.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a narrative style to detail personal struggles and mental health issues, evoking a tone of introspection and vulnerability. Paragraph 2, being an automated response, lacks emotional depth and reflects a neutral, informative tone. The contrast in narrative styles and emotional content implies dissimilarity in authorship.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both texts exhibit proper spelling and no typographical errors. There are no differences in this aspect that would suggest distinct authors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the distinct differences in punctuation style, lexical and grammatical features, sentence structure and content, and narrative styles between the two texts, the likelihood of them being written by the same author is low. The lack of spelling and typographical errors is the only commonality. Therefore, the overall confidence score for these texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

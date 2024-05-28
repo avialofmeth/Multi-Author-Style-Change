@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and full stops appropriately, while Paragraph 2 lacks proper punctuation and has run-on sentences.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical choice compared to the informal and fragmented language in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 shows coherent sentence structures and moderate complexity, whereas Paragraph 2 lacks cohesion and has abrupt shifts in content.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 conveys a serious and informative tone, while Paragraph 2 contains abrupt shifts in topic and an unclear narrative style.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical and grammatical features, sentence structures, and discourse styles, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.48
+  }
+}

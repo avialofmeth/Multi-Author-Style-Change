@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens, colons, and commas in a complex manner to separate ideas and create specific punctuation patterns. Paragraph 2 lacks this level of punctuation complexity and uses simpler punctuation structures.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 displays a more diverse range of lexical and grammatical features, including technical terms related to oil shipping and trade. Paragraph 2 uses simpler language with a focus on general topics like India and the Ukraine war.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer sentences with multiple clauses and a higher level of coherence in linking ideas. Paragraph 2 consists of shorter, more straightforward sentences with less complex structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a more formal and informative tone, discussing economic implications and consequences. Paragraph 2 takes a more casual approach, providing a direct opinion on a current event.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts show good spelling and typographical accuracy without errors, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and tone, as well as the shared accuracy in spelling and typographical aspects, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.48
+    }
+}

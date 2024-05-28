@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods, but there is a difference in the complexity of punctuation usage. The first paragraph uses more formal punctuation like colons and parentheses, while the second paragraph lacks such formal punctuation.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts show differences in word choice and sentence structure. The first paragraph is more formal and structured, using specialized vocabulary related to media outlets. In contrast, the second paragraph is more informal and narrative-driven, focusing on a specific event without technical jargon.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features vary significantly between the two texts. The first paragraph is concise and directive, with shorter sentences focused on providing information. In comparison, the second paragraph is descriptive and contains longer sentences, emphasizing storytelling and context.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Text and discourse features highlight a stark contrast in narrative style and speech events. The first paragraph is informational and instructional, maintaining a formal tone. On the other hand, the second paragraph is anecdotal and personal, conveying a specific experience with informal language.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate accurate spelling and typographical errors, showing no significant deviations in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, the overall confidence score for the likelihood of the two texts being written by the same author is moderate due to notable differences in punctuation style, lexical and grammatical features, sentence structure and discourse features. The consistent spelling and typographical accuracy slightly elevate the overall score.",
+        "score": 0.48
+    }
+}

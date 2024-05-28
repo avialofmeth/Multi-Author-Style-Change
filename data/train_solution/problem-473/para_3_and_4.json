@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as colons, commas, and parentheses, while Paragraph 2 lacks such variety and mainly relies on commas and periods.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "There are differences in lexical and grammatical features between the two paragraphs. Paragraph 1 is more formal and directive, using technical terms like 'approved domains list and outlet criteria,' while Paragraph 2 is more informal and conversational, discussing a book and making a comparison.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, Paragraph 1 is concise and to the point with shorter sentences, while Paragraph 2 has longer sentences and a more descriptive style.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The text and discourse features differ significantly. Paragraph 1 is instructional and informative, typical of a formal setting, while Paragraph 2 is more personal and expressive, reflecting the opinion of the writer.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.46
+    }
+}

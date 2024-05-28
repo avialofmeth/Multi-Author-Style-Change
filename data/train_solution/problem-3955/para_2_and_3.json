@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as colons, commas, and periods. However, the first text shows more formal punctuation usage with the inclusion of parentheses and quotation marks.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of formal and informal language. Text 1 uses more technical language related to media outlets, while Text 2 contains a more casual tone with phrases like 'grasp the nettle.'",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 consists of shorter, more structured sentences focused on conveying information. In contrast, Text 2 has longer, more complex sentences with a narrative tone.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Text 1 adopts a formal and directive tone, providing instructions. Text 2 takes on a more descriptive and narrative style, discussing a situation. Both texts lack idiomatic expressions.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

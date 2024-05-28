@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both paragraphs use hyphens and commas appropriately, but paragraph 1 also includes a colon, which paragraph 2 lacks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a similar level of lexical variation and word choice, with no significant differences observed.",
+    "score": 0.8
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is more complex in sentence structure and has longer sentences compared to paragraph 2.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs convey a serious tone and discuss societal issues, but paragraph 1 focuses on historical events while paragraph 2 addresses personal beliefs.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering all the features, there are some similarities in writing style, particularly in punctuation, lexical choice, and tone. However, the differences in sentence structure and content suggest some variation in authorship.",
+    "score": 0.7
+  }
+}

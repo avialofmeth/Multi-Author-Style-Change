@@ -1,0 +1,26 @@
+{
+feature1: {
+explanation: "Both texts exhibit a casual, informal style with the use of informal language and profanity. Paragraph 1 uses more hyphens and parentheses compared to Paragraph 2.",
+score: 0.5
+},
+feature2: {
+explanation: "Both texts show a lack of formal language and use informal vocabulary. Paragraph 1 includes more slang and derogatory terms compared to the more neutral language in Paragraph 2.",
+score: 0.6
+},
+feature3: {
+explanation: "Paragraph 1 has longer and more complex sentences compared to the concise and straightforward sentences in Paragraph 2. Additionally, Paragraph 1 lacks coherence and cohesion.",
+score: 0.4
+},
+feature4: {
+explanation: "Both texts have a different tone and mood. Paragraph 1 is aggressive and confrontational, while Paragraph 2 is neutral and informative.",
+score: 0.3
+},
+feature5: {
+explanation: "There are no spelling or typographical errors in either text.",
+score: 1.0
+},
+overall: {
+explanation: "The overall confidence score, which is the average of individual feature scores, suggests that while there are some similarities in informal style and lexical features, the differences in sentence structure, tone, and mood indicate a lower likelihood of the texts being written by the same author.",
+score: 0.56
+}
+}

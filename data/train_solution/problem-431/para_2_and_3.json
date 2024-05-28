@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas and ellipses for punctuation. However, the first text includes more formal punctuation such as colons and parentheses while the second text has more informal punctuation like ellipses for emphasis.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "The lexical choices in the two texts differ significantly. The first text uses more formal and technical language related to subreddit guidelines, while the second text uses informal language discussing opinions on Trump. The grammatical structures also vary with the first text being more structured and the second more conversational.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure, the first text is more formal and directive with clear organization, whereas the second text is more conversational and has shorter, fragmented sentences. The coherence in the first text is focused on guidelines, while the second text is more narrative and anecdotal.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The first text adopts a formal and informative tone related to subreddit guidelines, while the second text has a more informal and critical tone towards Trump and Republicans. The narrative styles and speech events are quite distinct between the two texts.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a level of care in writing. The spelling and grammar seem to be consistent within each text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the consistency in spelling and typographical errors, the overall likelihood that the two texts were written by the same author is low.",
+        "score": 0.52
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar usage of punctuation such as commas and periods. However, the presence of parentheses in one text and hyphens in the other may suggest some variance.",
+    "score": 0.7
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features in both texts show some similarity in terms of word choice and sentence structure. However, there are differences in the specific vocabulary used.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Both texts display a mix of sentence lengths and complexity, but there are differences in the overall coherence and cohesion due to varying topics.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative styles and tone in the texts are somewhat different, with one focusing on truth and lies while the other discusses horrifying lyrics. This indicates a potential difference in writing style.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the mixed similarity and differences in the identified features, the overall likelihood that the two texts were written by the same author is moderate.",
+    "score": 0.62
+  }
+}

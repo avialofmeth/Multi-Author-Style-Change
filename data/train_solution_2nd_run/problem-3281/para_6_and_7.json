@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses standard punctuation marks like commas and periods, while Paragraph 2 also employs similar punctuation marks but in a more complex way with colons and apostrophes.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit differences in lexical and grammatical features. Paragraph 1 uses straightforward language typical of automated responses, while Paragraph 2 expresses more complex ideas with a wider vocabulary.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, concise sentences, typical of automated responses. In contrast, Paragraph 2 has longer and more complex sentences with a different structure.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "The text in Paragraph 1 has a formal and neutral tone, characteristic of automated responses. Paragraph 2, on the other hand, contains more emotional language and a different narrative style.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and similarities in spelling and typographical errors, the overall likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.48
+  }
+}

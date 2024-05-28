@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use quotation marks to indicate direct speech and hyphens for compound words. However, there are differences in the use of other punctuation marks like parentheses, colons, and commas.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a mix of complex and simpler lexical and grammatical structures. There are variations in word choices and grammatical categories, which may suggest a difference in writing style.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "The sentence structures in both texts vary in complexity and length. While both show coherence and cohesion within each paragraph, there are differences in word, clause, and sentence length and frequency.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "The narrative styles in the two texts differ significantly. The first text focuses on a statistical claim with a more neutral tone, while the second text involves a persuasive argument with a critical tone towards a political topic.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors, indicating a similar level of attention to detail in writing.",
+        "score": 0.8
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the texts show moderate similarities in spelling and typographical accuracy. The overall confidence in the likelihood of the same authorship is moderate.",
+        "score": 0.52
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use commas, periods, and apostrophes appropriately. However, Paragraph 1 includes a colon, while Paragraph 2 does not. The punctuation styles are somewhat consistent but also exhibit some differences.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts have a similar level of formality and simplicity in language use. There is a mix of short and straightforward sentences with a lack of complex vocabulary or grammar structures.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer sentences with multiple clauses, while Paragraph 2 consists of a single sentence. The sentence structures differ significantly in terms of complexity and length.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts lack narrative styles and speech events, as they are more informative in nature. The tone in both is neutral and objective, without any distinct idioms or expressions.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the five features, there are some similarities in punctuation style, lexical and grammatical features, and absence of errors. However, significant differences in sentence structure and text discourse features suggest a moderate likelihood that the texts were written by the same author.",
+        "score": 0.64
+    }
+}

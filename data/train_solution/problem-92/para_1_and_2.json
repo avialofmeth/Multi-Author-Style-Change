@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas, colons, brackets, and quotation marks.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "There are notable differences in lexical and grammatical features between the two texts, with differences in vocabulary, tone, and word choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "The sentence structures in the two texts vary significantly in complexity, length, and coherence. Paragraph 1 contains longer and more complex sentences compared to the shorter and more direct sentences in Paragraph 2.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "The narrative styles, speech events, tone, and mood are starkly different between the two texts. Paragraph 1 is a historical account with a serious and factual tone, while Paragraph 2 is informal and speculative with a different mood.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.54
+    }
+}

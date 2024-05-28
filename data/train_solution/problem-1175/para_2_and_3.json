@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit a lack of hyphens, brackets, colons, and parentheses. However, Text 1 contains quotation marks, which are absent in Text 2.",
+        "score": 0.5
+    },
+    "feature2": {
+        "explanation": "Text 1 includes more complex and varied lexicon compared to Text 2. Text 2 is more straightforward and technical in word choice.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively short sentence lengths and a direct writing style. Text 1 shows slightly more complexity in sentence structure with its use of clauses.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more opinionated and critical tone, while Text 2 is instructional and factual. Different narrative styles and tones are observed.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts appear to be free of spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and the absence of spelling errors, the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.56
+    }
+}

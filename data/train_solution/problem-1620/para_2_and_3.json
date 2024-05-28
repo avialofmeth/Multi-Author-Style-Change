@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses more formal punctuation like colons and commas, while Paragraph 2 includes hyphens and quotation marks. Both texts show a mix of punctuation styles.",
+    "score": 0.5
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses more professional and formal language related to media outlets and subreddit rules, whereas Paragraph 2 has a more informal and conversational tone with phrases like 'quote my very frustrated gen-Z friend' and 'red wave'. There are clear differences in lexical and grammatical features.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of a straightforward sentence with formal language, while Paragraph 2 has a more playful and sarcastic tone. Sentence structures and lengths vary significantly between the two texts.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, focusing on guidelines and details. In contrast, Paragraph 2 includes a direct quote with a sarcastic and humorous tone. The narrative styles and speech events differ markedly.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are well-written without spelling or typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling and typographical errors, the overall confidence in the likelihood of the two texts being written by the same author is low.",
+    "score": 0.44
+  }
+}

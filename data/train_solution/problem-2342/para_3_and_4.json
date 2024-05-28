@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens, colons, and commas more extensively, while Paragraph 2 only uses quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 shows a more formal and structured lexical choice and grammatical features compared to the informal and direct language in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 contains longer and more complex sentences with cohesive arrangements, while Paragraph 2 consists of shorter, more direct sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both texts exhibit a direct and informal tone, with Paragraph 2 having a slightly more confrontational tone.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "No significant spelling or typographical errors were observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, there are notable differences in the writing styles of the two texts, particularly in terms of formality, sentence complexity, and tone, indicating a moderate likelihood that they were not written by the same author.",
+    "score": 0.56
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and whilst, while Paragraph 2 uses quotation marks and hyphens. Differences in punctuation style indicate some variation.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses words like 'favour', 'massive', 'comparison', while Paragraph 2 uses technical terms like 'power plant ships', 'total capacity'. Different lexical choices suggest some variation.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has shorter sentences and focuses on presenting survey results, whereas Paragraph 2 has a longer, more technical sentence. Differences in sentence structure and length indicate some variation.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys survey results and public opinion, while Paragraph 2 discusses a specific technical project. Differences in narrative styles and content suggest significant variation.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "No spelling or typographical errors were observed in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "The analysis shows moderate variation in punctuation style, lexical choices, and sentence structure, with significant differences in narrative style and content. The absence of spelling errors is noted. The overall confidence score is 0.44.",
+        "score": 0.44
+    }
+}

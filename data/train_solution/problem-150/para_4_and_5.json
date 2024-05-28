@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 demonstrates a formal tone with clear punctuation usage, while Paragraph 2 lacks proper punctuation and has a more casual tone.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 uses formal language and avoids extreme statements, while Paragraph 2 contains informal language and expresses a strong opinion.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of well-structured sentences with a focus on clarity, whereas Paragraph 2 has shorter sentences and lacks coherence in its argument.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 follows a professional discourse style focusing on rules and guidelines, while Paragraph 2 adopts a critical and opinionated tone towards a specific individual.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts display correct spelling and typographical errors are absent.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical features, sentence structure, and discourse style, the texts are likely not written by the same author.",
+    "score": 0.46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 utilizes a colon for listing information, while Paragraph 2 does not use any colons. Both paragraphs do not use hyphens, brackets, commas, parentheses, quotation marks in a distinct manner.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Both texts have a formal tone and use specialized vocabulary related to media outlets and political figures. However, Paragraph 2 contains more direct and informal language compared to the slightly more structured language in Paragraph 1.",
+    "score": 0.6
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is a longer and more complex sentence than Paragraph 2. Both paragraphs are coherent but differ in sentence structure complexity and length.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a more formal and informative tone related to subreddit guidelines, while Paragraph 2 has a more informal and assertive tone related to exposing past actions.",
+    "score": 0.8
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the analysis of different features, there are noticeable differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features. However, the absence of spelling and typographical errors contributes to a moderate likelihood that the two texts were written by the same author.",
+    "score": 0.7
+  }
+}

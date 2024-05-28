@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses colons and commas for punctuation, while Paragraph 2 also utilizes commas but lacks colons. Both texts have consistent punctuation styles overall.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a similar level of lexical variation and word choice. While the topics differ, the writing style in terms of vocabulary usage remains consistent.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both paragraphs vary in length and complexity but maintain coherence in their respective contexts.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "There is a difference in narrative styles and speech events between the two texts, indicating a divergence in tone and mood, lowering the likelihood of the same author.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, demonstrating a consistent level of attention to detail in this aspect.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the overall analysis of the linguistic features, there is a moderate level of consistency in the writing style, with some differences in narrative style and speech events. The average confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.76
+    }
+}

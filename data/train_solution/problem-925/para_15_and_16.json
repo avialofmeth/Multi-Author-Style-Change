@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas, colons, and question marks for punctuation, while Paragraph 2 uses commas and parentheses. Both paragraphs display a similar level of formality in punctuation usage.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 utilizes a more formal and complex lexical and grammatical structure compared to Paragraph 2. The vocabulary and sentence structure in Paragraph 1 suggest a higher level of sophistication.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both paragraphs exhibit varied sentence structures and coherence, but Paragraph 1 tends to have longer sentences with more intricate arrangements compared to the more straightforward sentences in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "The narrative styles in both paragraphs differ significantly - Paragraph 1 focuses on political changes and foreign policy, while Paragraph 2 discusses public perception of law enforcement. Their tones and moods are distinct, indicating potential different authors.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "There are no noticeable spelling or typographical errors in either paragraph, indicating a similar level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, there is moderate evidence to suggest that the two texts were not likely written by the same author. However, the punctuation style and absence of spelling errors provide some commonality.",
+        "score": 0.58
+    }
+}

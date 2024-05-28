@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit similar punctuation styles with the use of commas and quotation marks. However, the presence of hyphens and colons is inconsistent between the texts.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts display similarities in lexical and grammatical features, such as the use of specific terms like 'republicans' and 'unions'. However, there are also differences in word choice and sentence structures.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "The texts show comparable sentence structures in terms of length and arrangement. Both contain coherent arguments and similar sentence complexity. However, there are variations in word and clause lengths.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, both texts convey opinions and political viewpoints. The tone and mood are consistent in discussing political matters. However, there are differences in narrative styles and speech events.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Based on the analysis of the five features, the texts exhibit moderate similarities in punctuation, lexical and grammatical features, sentence structure, and absence of spelling errors. However, differences in text and discourse features suggest some variation in writing style. The overall confidence score is moderate, indicating a likelihood that the texts may have been written by the same author.",
+        "score": 0.62
+    }
+}

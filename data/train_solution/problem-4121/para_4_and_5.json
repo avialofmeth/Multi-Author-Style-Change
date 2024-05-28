@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use informal language and profanity, as indicated by the presence of strong expletives.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 includes slang and informal expressions, while Text 2 uses more formal and technical vocabulary related to social issues. This indicates a difference in lexical and grammatical features.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Text 1 has shorter, fragmented sentences with non-standard punctuation, while Text 2 features longer, more structured sentences. There is a notable difference in sentence structure and quantitative features.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts discuss societal issues with a critical tone, highlighting injustices. Text 1 is more confrontational, while Text 2 is more informative and persuasive. The narrative styles and mood differ slightly.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts are relatively free of spelling and typographical errors.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Overall, the texts show mixed similarities and differences in writing style, with notable distinctions in lexical and grammatical features as well as sentence structure and quantitative features. The presence of profanity and common narrative themes provide some common ground. The average confidence score for authorship similarity is moderate.",
+        "score": 0.62
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use hyphens, quotation marks, and commas appropriately for punctuation.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Text 1 is more formal and includes technical terms related to military actions, while Text 2 is informal and criticizes media coverage. Different lexical and grammatical choices are observed.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Text 1 contains longer, structured sentences discussing military actions, while Text 2 has shorter, more conversational sentences expressing criticism.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Text 1 follows a news reporting style with a serious tone, while Text 2 adopts a more opinionated and critical tone towards media and Putin.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical choices, sentence structures, and tones, it is less likely that the two texts were written by the same author.",
+        "score": 0.64
+    }
+}

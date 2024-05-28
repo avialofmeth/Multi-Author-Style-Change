@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of various punctuation marks such as commas, periods, and apostrophes. However, there are no hyphens, brackets, colons, parentheses, or quotation marks used. In contrast, Paragraph 2 lacks punctuation marks entirely.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Both paragraphs exhibit a mix of lexical choices and grammatical features, with Paragraph 1 containing more formal and complex language compared to the simpler language used in Paragraph 2.",
+        "score": 0.6
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 consists of longer, more structured sentences with a focus on providing detailed information and analysis. In contrast, Paragraph 2 features short, fragmented sentences that lack cohesion and depth.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style with a serious and analytical tone, focusing on political issues and societal observations. Paragraph 2, on the other hand, lacks narrative elements and presents terse, observational statements.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors evident in either paragraph.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical choices, sentence structure, and narrative tone between the two paragraphs, there is a moderate likelihood that they were not written by the same author.",
+        "score": 0.54
+    }
+}

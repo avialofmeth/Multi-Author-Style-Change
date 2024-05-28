@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses commas and a colon to separate clauses, while Paragraph 2 uses commas and periods for sentence structure. Both paragraphs employ different punctuation styles.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 contains more specialized vocabulary related to geopolitical events and factions compared to Paragraph 2, which has a more general tone. Word choice and lexical variation differ between the two texts.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with multiple clauses, while Paragraph 2 has shorter and more straightforward sentences. The sentence structures and lengths vary significantly.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 discusses armed conflicts and political dynamics, displaying a serious and informative tone. In contrast, Paragraph 2 talks about future alliances and activities in a speculative manner. The narrative styles and tones differ.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors present in either paragraph.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation, lexical choices, sentence structures, and narrative tones, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.44
+    }
+}

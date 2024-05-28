@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use similar punctuation styles such as hyphens, commas, and periods. However, the first text includes more punctuation marks like slashes, colons, and parentheses compared to the second text.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Both texts exhibit a formal and professional tone with a focus on clarity and instruction. They use standard grammatical structures and vocabulary. However, the first text is more directive and explicit in language compared to the slightly more passive tone in the second text.",
+        "score": 0.7
+    },
+    "feature3": {
+        "explanation": "Both texts are structured with clear and concise sentences. The first text contains longer sentences with detailed instructions and rules, while the second text is more straightforward and to the point. There is a difference in sentence complexity and length.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Both texts adopt a formal and instructional style, focusing on providing guidelines and information. However, the first text emphasizes rules and consequences, whereas the second text addresses specific queries. The overall tone and mood differ slightly.",
+        "score": 0.7
+    },
+    "feature5": {
+        "explanation": "Both texts demonstrate proper spelling and typographical accuracy without errors or inconsistencies. There are no noticeable spelling or typographical mistakes in either text.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the commonalities and distinctions in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence score suggests a moderate likelihood that the two texts were written by the same author.",
+        "score": 0.7
+    }
+}

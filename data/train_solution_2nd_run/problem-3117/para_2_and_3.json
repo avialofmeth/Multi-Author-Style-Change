@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons and parentheses for structuring information, while Paragraph 2 lacks complex punctuation usage.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Both paragraphs exhibit a formal tone with technical language, although Paragraph 2 shows more casual word choices.",
+    "score": 0.5
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 is structured with clear sentences and formal language, while Paragraph 2 has shorter, less complex sentences.",
+    "score": 0.4
+  },
+  "feature4": {
+    "explanation": "Both paragraphs lack narrative elements and exhibit an informative style, but Paragraph 2 has a slightly more conversational tone.",
+    "score": 0.6
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were found in either paragraph.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Based on the analysis of the linguistic features, there are some similarities in formality and structure, but differences in punctuation, word choice, and sentence complexity. Therefore, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

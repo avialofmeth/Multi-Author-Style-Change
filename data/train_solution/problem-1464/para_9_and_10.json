@@ -1,0 +1,24 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, apostrophes, and quotation marks, while Paragraph 2 utilizes periods, commas, and expletives.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains formal language with terms like 'consequence' and 'revolution,' while Paragraph 2 includes informal and emotionally charged language like 'disgusting,' 'fuck them,' and 'grooming.'",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Both paragraphs are relatively short and direct in structure, but Paragraph 2 has more emotional intensity and abrupt transitions.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Both texts express strong opinions, but the tone and target of the opinions differ significantly. Paragraph 1 discusses a hypothetical situation, while Paragraph 2 directly attacks specific individuals.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1.0
+  },
+  "overall explanation": "The writing style differences in punctuation, language formality, emotional intensity, and target of opinions suggest that the two texts are likely not written by the same author.",
+  "overall score": 0.4
+}

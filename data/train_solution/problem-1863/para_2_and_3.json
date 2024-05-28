@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses colons, commas, and parentheses, while Paragraph 2 uses hyphens and quotation marks. Both texts exhibit different punctuation styles.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on technical terms related to media outlets and subreddit guidelines, while Paragraph 2 discusses political branches and power dynamics. The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of shorter, more direct sentences, while Paragraph 2 has longer, more complex sentences. The sentence structures and quantitative features vary substantially.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 maintains a formal and informative tone, emphasizing guidelines and criteria. In contrast, Paragraph 2 adopts a critical and analytical tone towards political actions. The text and discourse features exhibit distinct styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were detected in either text.",
+    "score": 1.0
+  },
+  "overall": {
+    "explanation": "Considering the substantial differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the absence of spelling errors, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.36
+  }
+}

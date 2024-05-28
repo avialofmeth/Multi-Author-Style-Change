@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts employ similar punctuation styles, including hyphens, colons, and commas. However, the use of parentheses in the first text is absent in the second text.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "The lexical and grammatical features in both texts show similarities in terms of technical language and formal tone. Both texts use specialized vocabulary related to technology.",
+        "score": 0.9
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, both texts exhibit complexity in sentence length and arrangement. They contain detailed information with a similar level of coherence and cohesion.",
+        "score": 0.85
+    },
+    "feature4": {
+        "explanation": "The text and discourse features in both texts reflect a formal and technical style, focusing on conveying factual information rather than expressive or narrative elements.",
+        "score": 0.9
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors, indicating attention to detail and professionalism in writing.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of all five features, the likelihood that the two texts were written by the same author is moderately high, given the strong alignment in punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and absence of spelling errors.",
+        "score": 0.89
+    }
+}

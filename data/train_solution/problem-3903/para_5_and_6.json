@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a variety of punctuation marks such as commas, quotation marks, and question marks. Paragraph 2 contains only basic punctuation marks like periods and commas.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and complex lexical and grammatical structure with specific references to legal concepts and detailed descriptions. Paragraph 2 is informal and straightforward, using colloquial language.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 has longer and more complex sentences with a focus on providing detailed information and examples. In contrast, Paragraph 2 consists of shorter sentences with a direct expression of opinion.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a serious and critical tone discussing political and legal issues. Paragraph 2 has a more casual and opinionated tone discussing social interactions.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts are free from spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, it is unlikely that the two texts were written by the same author.",
+        "score": 0.42
+    }
+}

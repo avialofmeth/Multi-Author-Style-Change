@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts display similar punctuation styles with the use of commas and periods. However, there are differences in the use of specific punctuation marks like hyphens and quotation marks.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "The lexical and grammatical features show some commonality in sentence structures and word choices. However, there are differences in the specific vocabulary and grammatical constructions used.",
+      "score": 0.5
+   },
+   "feature3": {
+      "explanation": "There are variations in sentence complexity and coherence between the two texts. While both texts contain coherent sentences, their lengths and structures differ.",
+      "score": 0.4
+   },
+   "feature4": {
+      "explanation": "The texts exhibit differences in narrative styles and tone. One text is more focused on criminal elements, while the other criticizes a political figure, indicating distinct discourse features.",
+      "score": 0.3
+   },
+   "feature5": {
+      "explanation": "No spelling or typographical errors were noted in either text, indicating a similar level of attention to detail in terms of spelling and typographical accuracy.",
+      "score": 0.8
+   },
+   "overall": {
+      "explanation": "Considering the commonalities and distinctions in punctuation, lexical features, sentence structure, discourse features, and spelling accuracy, the overall confidence score for the likelihood of the same author is moderate.",
+      "score": 0.52
+   }
+}

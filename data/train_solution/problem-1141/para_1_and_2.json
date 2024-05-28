@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 utilizes hyphens, colons, and parentheses to separate and provide additional information within sentences. Paragraph 2 lacks these punctuation features, opting for straightforward sentence structures.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and complex lexical and grammatical style with terms like 'gematria' and 'spiritually transformative.' Paragraph 2, on the other hand, is more straightforward and uses simpler vocabulary.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 shows a higher level of sentence complexity and structure with references to spiritual concepts and teachings. Paragraph 2, being more directive and regulatory, has simpler sentence structures.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 conveys a reflective and instructional tone, focusing on spiritual growth and teachings. Paragraph 2, however, takes on a more legal and directive tone in discussing regulations related to slavery.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a level of attention to detail in writing.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical complexity, sentence structure, and tone between the two paragraphs, there is moderate evidence to suggest that the texts were not written by the same author.",
+        "score": 0.5
+    }
+}

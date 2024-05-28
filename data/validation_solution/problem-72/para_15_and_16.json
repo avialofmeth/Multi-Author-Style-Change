@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of quotation marks and hyphens. However, Paragraph 1 uses more commas and colons compared to Paragraph 2.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "There are differences in lexical choices and grammatical structures between the two texts. Paragraph 1 uses more complex vocabulary and sentence structures compared to the more straightforward language in Paragraph 2.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and coherent, but Paragraph 1 has longer sentences with more intricate arrangements compared to the simpler sentence structures in Paragraph 2.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "The narrative style and tone differ significantly between the two texts. Paragraph 1 discusses political structures while Paragraph 2 focuses on economic aspects, leading to distinct narrative styles.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of individual features, the overall likelihood that the two texts were written by the same author is moderate, with differences in lexical choices, sentence structures, and narrative styles decreasing the likelihood.",
+    "score": 0.52
+  }
+}

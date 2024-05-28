@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 demonstrates the use of various punctuation marks such as hyphens, commas, and parentheses to provide additional information and structure the text. Paragraph 2, on the other hand, contains less diverse punctuation marks and relies more on straightforward sentence structures.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 exhibits a higher degree of lexical and grammatical complexity with a mix of informal and formal language. In contrast, Paragraph 2 is more straightforward and technical, using specific terms related to aviation and geography.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "In terms of sentence structure and quantitative features, Paragraph 1 contains longer and more complex sentences that contribute to the narrative flow. Paragraph 2, however, is characterized by shorter sentences focused on conveying factual information.",
+        "score": 0.5
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 adopts a narrative style with personal anecdotes and emotional elements, while Paragraph 2 presents a more informative and descriptive tone related to geographical locations and aviation. The narrative events and expressions differ significantly between the two texts.",
+        "score": 0.2
+    },
+    "feature5": {
+        "explanation": "Both texts exhibit accurate spelling and typographical errors, maintaining a similar level of correctness in language usage.",
+        "score": 1
+    },
+    "overall": {
+        "explanation": "Considering the analysis of the individual features, the likelihood that the two texts were written by the same author is moderate. While there are some similarities in terms of punctuation and spelling, the substantial differences in lexical choices, sentence structures, and narrative styles suggest potential different authors.",
+        "score": 0.52
+    }
+}

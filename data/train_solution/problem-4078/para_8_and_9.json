@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses a more formal and structured punctuation style with proper use of colons and commas. Paragraph 2 lacks this formal punctuation style and includes more informal punctuation.",
+        "score": 0.3
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a more formal and structured lexical and grammatical feature with specific vocabulary related to media outlets. Paragraph 2, on the other hand, has a more casual and colloquial tone with phrases like 'Hey, you planted those documents'.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 displays a higher level of sentence complexity and coherence with a clear structure. Paragraph 2 has shorter and more fragmented sentences with abrupt shifts in topic.",
+        "score": 0.3
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a formal and informative discourse style related to media outlets. Paragraph 2 features a more conversational and confrontational discourse with informal expressions like 'Hey, you planted those documents'.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the analysis of various linguistic features, the likelihood that the two texts were written by the same author is relatively low due to significant differences in punctuation style, lexical choices, sentence structure, and discourse features.",
+        "score": 0.48
+    }
+}

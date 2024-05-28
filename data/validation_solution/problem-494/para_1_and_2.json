@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit the use of complex punctuation marks like hyphens, colons, and parentheses. There are also instances of commas used in a similar fashion.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The texts share similarities in lexical variation and word choice, using phrases like 'Western policy towards Iran,' 'keeping in mind,' 'regional foe,' and 'none proliferation treaty.' Grammatical categories are employed in a consistent manner.",
+    "score": 0.7
+  },
+  "feature3": {
+    "explanation": "Sentence structure in both texts is complex, with varying lengths and arrangements. They display coherence and cohesion in presenting arguments. However, the quantitative features may differ slightly due to the differing topics.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "The narrative styles in both texts convey a critical tone towards specific geopolitical issues. Common expressions and idioms are utilized, and the overall mood is analytical and commentary-like.",
+    "score": 0.75
+  },
+  "feature5": {
+    "explanation": "There are no apparent spelling or typographical errors in either text, indicating a consistency in the author's attention to detail.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the alignment in punctuation style, lexical and grammatical features, narrative styles, and absence of spelling errors, there is a moderate confidence level that the two texts were written by the same author.",
+    "score": 0.75
+  }
+}

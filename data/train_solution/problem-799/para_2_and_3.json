@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts contain a similar use of punctuation marks like hyphens, colons, and commas, although the first paragraph has more formal punctuation due to its informative nature.",
+        "score": 0.7
+    },
+    "feature2": {
+        "explanation": "In terms of lexical and grammatical features, both texts exhibit a formal tone with specific terminology. While the topics differ, the sentence structures are well-formed.",
+        "score": 0.8
+    },
+    "feature3": {
+        "explanation": "Sentence structure and quantitative features show similarity in the organization of information in both texts. Both maintain coherence and use a standard length of sentences.",
+        "score": 0.75
+    },
+    "feature4": {
+        "explanation": "Text and discourse features differ due to the topics discussed. However, both texts follow a formal style with no significant variations. The tone is factual and informative in both cases.",
+        "score": 0.6
+    },
+    "feature5": {
+        "explanation": "Both texts are free of spelling and typographical errors, indicating a level of attention to detail. The writing quality is consistent across both samples.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the above features, the likelihood of the two texts being written by the same author is moderately high, as they share significant similarities in punctuation style, lexical and grammatical features, sentence structure, and absence of spelling errors.",
+        "score": 0.77
+    }
+}

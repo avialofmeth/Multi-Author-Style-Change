@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and period, while paragraph 2 uses hyphens and commas. Both paragraphs lack consistency in punctuation style.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 contains more formal language related to medical treatment, while paragraph 2 includes military and informal language. Different lexical and grammatical features are observed.",
+    "score": 0.2
+  },
+  "feature3": {
+    "explanation": "Both paragraphs consist of short and direct sentences, lacking complexity and variety. The sentence structures and lengths are somewhat similar.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 presents a neutral tone about a medical situation, while paragraph 2 has a more informal and aggressive tone related to military actions. Different narrative styles and tones are evident.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation, lexical, and discourse features, there is a moderate likelihood that the two texts were not written by the same author.",
+    "score": 0.46
+  }
+}

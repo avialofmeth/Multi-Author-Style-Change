@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and dashes in the form of an en dash and an em dash, while Paragraph 2 does not exhibit such punctuation style. Both paragraphs use commas and quotation marks.",
+    "score": 0.4
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 focuses on a specific event related to animal deaths, using technical terms related to agriculture ministry. Paragraph 2, on the other hand, discusses language and cultural aspects with terms like 'dig' and 'Irish'. The lexical and grammatical features differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of longer and more complex sentences with detailed information, while Paragraph 2 contains shorter and simpler sentences. The sentence structures and quantitative features contrast notably.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 adopts a formal and informative tone to report on a specific incident, lacking expressive or idiomatic language. In contrast, Paragraph 2 presents a more informal and conversational tone discussing cultural similarities.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "Both paragraphs are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the analysis of all features, the likelihood of the two texts being written by the same author is low due to significant differences in punctuation style, lexical and grammatical features, sentence structures, and tone.",
+    "score": 0.4
+  }
+}

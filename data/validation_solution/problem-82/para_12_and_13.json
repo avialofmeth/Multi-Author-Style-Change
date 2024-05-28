@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use colons and commas for listing items and providing additional information within the sentence.",
+    "score": 0.9
+  },
+  "feature2": {
+    "explanation": "Text 1 uses legal and formal language with specific terms related to law and consequences. Text 2 uses informal language with slang terms and references to current events.",
+    "score": 0.3
+  },
+  "feature3": {
+    "explanation": "Text 1 has longer and more complex sentences related to legal matters. Text 2 has shorter and simpler sentences focused on expressing opinions or events.",
+    "score": 0.6
+  },
+  "feature4": {
+    "explanation": "Text 1 has a formal and serious tone discussing legal consequences. Text 2 has a more casual and opinionated tone discussing a specific event.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and narrative styles, the overall likelihood that the two texts were written by the same author is low.",
+    "score": 0.64
+  }
+}

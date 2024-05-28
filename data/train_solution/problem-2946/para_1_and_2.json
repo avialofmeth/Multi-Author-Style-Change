@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses formal punctuation such as colons and commas appropriately. Paragraph 2 lacks proper punctuation and contains informal language with no clear structure.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 uses academic and formal language with specific terminology related to the topic. Paragraph 2 employs informal language and slang, with a more casual tone.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 is well-structured with coherent sentences and clear organization. Paragraph 2 exhibits fragmented and disjointed sentence structure, lacking cohesion.",
+        "score": 0.1
+    },
+    "feature4": {
+        "explanation": "Paragraph 1 maintains a neutral and informative tone suitable for academic or formal writing. Paragraph 2 contains profanity and derogatory language, indicating a more informal and opinionated style.",
+        "score": 0.4
+    },
+    "feature5": {
+        "explanation": "Paragraph 1 shows no spelling or typographical errors. Paragraph 2 contains spelling errors and lacks proper proofreading.",
+        "score": 0.2
+    },
+    "overall": {
+        "explanation": "Considering the significant differences in punctuation, language style, sentence structure, tone, and proofreading quality between the two texts, the likelihood of them having the same author is low.",
+        "score": 0.24
+    }
+}

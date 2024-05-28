@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 includes colons and commas for listing and clarification, while Paragraph 2 uses commas for listing and separating phrases.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both paragraphs show differences in lexical choices and word usage, indicating potential variation in writing style.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer sentences with more complex structures, while Paragraph 2 contains shorter, more straightforward sentences.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a narrative style discussing a specific scenario, while Paragraph 2 seems to urge action in a different context.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "There are no significant spelling or typographical errors in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+    "score": 0.56
+  }
+}

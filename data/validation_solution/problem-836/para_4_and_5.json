@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts use a variety of punctuation marks such as hyphens, commas, and quotation marks. However, the first text has more complex punctuation with colons and dashes, while the second text mainly uses commas and hyphens.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "Text 1 uses more technical and formal language related to climate science, while text 2 includes more casual language in discussing concerns about firms. There are differences in lexical choices and word usage.",
+        "score": 0.4
+    },
+    "feature3": {
+        "explanation": "Both texts have relatively similar sentence structures in terms of length and complexity. However, the first text has clearer quantitative features with specific emission reduction targets, while the second text discusses concerns without specific numerical data.",
+        "score": 0.7
+    },
+    "feature4": {
+        "explanation": "Text 1 has a more formal and informative tone discussing scientific findings, while text 2 has a critical tone towards firms. The narrative styles and speech events differ between the two texts.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, the likelihood that the two texts were written by the same author is moderate.",
+        "score": 0.6
+    }
+}

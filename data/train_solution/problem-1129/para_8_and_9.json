@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 uses hyphens and quotation marks, while Paragraph 2 does not. This difference in punctuation style suggests some variation in writing style.",
+        "score": 0.4
+    },
+    "feature2": {
+        "explanation": "Paragraph 1 demonstrates a specific word choice and sentence structure, using phrases like 'hung out to dry' and 'gang of thugs'. In contrast, Paragraph 2 lacks such distinctive lexical and grammatical features.",
+        "score": 0.2
+    },
+    "feature3": {
+        "explanation": "Paragraph 1 contains longer, complex sentences with a narrative style, reflecting a certain coherence and cohesion in the text. On the other hand, Paragraph 2 is short and straightforward, lacking the same level of sentence complexity.",
+        "score": 0.6
+    },
+    "feature4": {
+        "explanation": "Both Paragraph 1 and Paragraph 2 exhibit a formal tone with a clear purpose in communication. However, the specific expressions and idioms used in Paragraph 1 differ from the more straightforward language in Paragraph 2.",
+        "score": 0.5
+    },
+    "feature5": {
+        "explanation": "There are no spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the variations in punctuation style, lexical and grammatical features, and sentence structure, along with the similarities in text and discourse features and lack of spelling errors, the likelihood of both texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

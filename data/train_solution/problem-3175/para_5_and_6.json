@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit informal language and lack of proper punctuation marks, such as hyphens, brackets, and colons. However, Text 1 uses more punctuation marks like quotation marks.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "Both texts contain informal and colloquial language with unique word choices. Text 2 includes profanity, which is not present in Text 1. Different political terms are used in each text.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts are relatively short and lack complex sentence structures. Text 1 is more structured and coherent compared to Text 2, which is fragmented and less cohesive.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Both texts convey strong opinions and emotions, reflecting a similar tone. However, Text 2 is more aggressive and sarcastic compared to the assertive tone in Text 1.",
+    "score": 0.7
+  },
+  "feature5": {
+    "explanation": "Both texts are free of spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the combination of features, the overall likelihood that the two texts were written by the same author is moderate as some commonalities in punctuation style, text features, and tone exist despite differences in word choice and sentence structure.",
+    "score": 0.64
+  }
+}

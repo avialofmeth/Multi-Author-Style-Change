@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts exhibit similar punctuation styles with the use of commas and periods.",
+    "score": 0.8
+  },
+  "feature2": {
+    "explanation": "The lexical and grammatical features show differences in content and word choice, which may affect the overall assessment.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "The sentence structure and quantitative features differ significantly due to the nature of the content.",
+    "score": 0.2
+  },
+  "feature4": {
+    "explanation": "Text and discourse features point to different contexts and speech events, impacting the evaluation.",
+    "score": 0.3
+  },
+  "feature5": {
+    "explanation": "There are no spelling or typographical errors observed in either text.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the variations in lexical and sentence structure, along with differing contexts in text and discourse features, the likelihood of the same author is low.",
+    "score": 0.54
+  }
+}

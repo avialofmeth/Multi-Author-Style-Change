@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Paragraph 1 exhibits a more aggressive and informal punctuation style with excessive use of expletives and offensive language. In contrast, Paragraph 2 uses punctuation more conventionally and primarily for clarity and structure.",
+        "score": 0.2
+    },
+    "feature2": {
+        "explanation": "Both texts display a significant difference in lexical and grammatical features. Paragraph 1 contains highly offensive and violent language, while Paragraph 2 focuses on geopolitical issues with a more formal tone and vocabulary.",
+        "score": 0.1
+    },
+    "feature3": {
+        "explanation": "Sentence structures differ greatly between the two texts. Paragraph 1 consists of short and aggressive sentences, whereas Paragraph 2 contains longer, more complex sentences discussing a political topic.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "In terms of text and discourse features, Paragraph 1 is emotionally charged and aggressive, targeting a specific individual. In contrast, Paragraph 2 adopts a more analytical and critical tone towards a political situation.",
+        "score": 0.1
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors observed in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the distinct differences in punctuation style, lexical and grammatical features, sentence structure, and text discourse features, along with the lack of spelling errors, the likelihood of the two texts being written by the same author is low.",
+        "score": 0.32
+    }
+}

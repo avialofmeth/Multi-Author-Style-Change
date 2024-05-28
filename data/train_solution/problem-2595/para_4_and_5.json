@@ -1,0 +1,26 @@
+{
+   "feature1": {
+      "explanation": "Both texts use similar punctuation marks such as hyphens, commas, and quotation marks. However, paragraph 1 uses more formal punctuation like colons and parentheses, while paragraph 2 has more casual punctuation with ellipses and informal language.",
+      "score": 0.6
+   },
+   "feature2": {
+      "explanation": "Paragraph 1 has a more formal and standard lexical and grammatical style, typical of automated responses. In contrast, paragraph 2 exhibits informal language with contractions and slang terms.",
+      "score": 0.3
+   },
+   "feature3": {
+      "explanation": "Both paragraphs have relatively simple sentence structures, but paragraph 2 includes more colloquial expressions and sentence fragments. Paragraph 1 is more coherent and structured.",
+      "score": 0.5
+   },
+   "feature4": {
+      "explanation": "Paragraph 1 maintains a neutral and informative tone consistent with automated responses. Paragraph 2, on the other hand, includes opinionated language and a specific reference to a political figure.",
+      "score": 0.4
+   },
+   "feature5": {
+      "explanation": "Both texts are free from spelling and typographical errors.",
+      "score": 1.0
+   },
+   "overall": {
+      "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and discourse features, the likelihood of the two texts being written by the same author is moderate.",
+      "score": 0.56
+   }
+}

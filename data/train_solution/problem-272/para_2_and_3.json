@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses hyphens and quotation marks in a specific context related to the narrative style, while Paragraph 2 lacks such punctuation marks.",
+    "score": 0.3
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 includes a mix of technical and narrative vocabulary related to the SciFi genre, while Paragraph 2 uses more casual and colloquial language.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 has longer and more complex sentences due to the detailed narrative, while Paragraph 2 consists of shorter and simpler sentences typical of casual conversation.",
+    "score": 0.5
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a serious and dramatic tone related to the SciFi scenario presented, while Paragraph 2 expresses a more personal and relaxed opinion about the movie.",
+    "score": 0.4
+  },
+  "feature5": {
+    "explanation": "Both paragraphs demonstrate correct spelling and typographical errors, showing a similar level of language proficiency.",
+    "score": 0.9
+  },
+  "overall": {
+    "explanation": "Considering the analysis of punctuation style, lexical and grammatical features, sentence structure, text and discourse features, and spelling, the overall confidence score of the two texts being written by the same author is moderate.",
+    "score": 0.5
+  }
+}

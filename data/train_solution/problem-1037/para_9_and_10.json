@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts exhibit consistent use of punctuation marks such as commas and periods. However, there are differences in the use of hyphens and colons which could indicate different writing styles.",
+        "score": 0.6
+    },
+    "feature2": {
+        "explanation": "There are similarities in lexical and grammatical features like word choice and sentence structure. However, variations in vocabulary and sentence complexity suggest potential differences in authorship.",
+        "score": 0.5
+    },
+    "feature3": {
+        "explanation": "Text 1 shows longer, more complex sentences with a focus on psychological aspects, while Text 2 is more straightforward and direct. This difference in sentence structure and content affects the coherence and cohesion between the texts.",
+        "score": 0.4
+    },
+    "feature4": {
+        "explanation": "Both texts maintain a serious tone, but the topics and narrative styles differ significantly. Text 1 discusses psychological challenges, while Text 2 mentions military logistics. These variations in narrative style and speech events suggest potentially different authors.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no apparent spelling or typographical errors in either text, indicating a similar level of attention to detail in writing.",
+        "score": 0.9
+    },
+    "overall": {
+        "explanation": "Considering the differences in punctuation style, lexical and grammatical features, sentence structure, and narrative styles, along with the similarities in spelling and typographical accuracy, the overall likelihood of the same authorship is moderate.",
+        "score": 0.54
+    }
+}

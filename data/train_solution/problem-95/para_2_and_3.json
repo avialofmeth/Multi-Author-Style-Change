@@ -1,0 +1,26 @@
+{
+    "feature1": {
+        "explanation": "Both texts show consistent use of hyphens, commas, and quotation marks for direct speech. The punctuation style is similar in both texts.",
+        "score": 0.8
+    },
+    "feature2": {
+        "explanation": "Texts have differences in lexical choices and word usage, such as formal vs. informal language and specific vocabulary related to the Holocaust. The grammatical structure also varies in terms of formality and complexity.",
+        "score": 0.3
+    },
+    "feature3": {
+        "explanation": "Overall, the sentence structures and quantitative features differ significantly between the two texts. One text is a direct quote with shorter sentences, while the other is a more informal, longer text with varied sentence structures.",
+        "score": 0.2
+    },
+    "feature4": {
+        "explanation": "The narrative styles and discourse features differ notably between the texts, with one being a direct quote with a serious tone, and the other expressing personal feelings and observations about the Holocaust with a more informal tone.",
+        "score": 0.3
+    },
+    "feature5": {
+        "explanation": "There are no significant spelling or typographical errors in either text.",
+        "score": 1.0
+    },
+    "overall": {
+        "explanation": "Considering the differences in lexical and grammatical features, sentence structure, and discourse features, along with the similarities in punctuation style and lack of spelling errors, the overall confidence score for the likelihood of the two texts being written by the same author is moderate.",
+        "score": 0.52
+    }
+}

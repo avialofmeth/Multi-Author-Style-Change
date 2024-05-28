@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Both texts use informal punctuation marks like exclamation points and question marks. However, the first text includes parentheses, colons, and periods whereas the second text lacks these features.",
+    "score": 0.6
+  },
+  "feature2": {
+    "explanation": "The first text shows a more formal and structured use of language with clear sentence constructions. The second text includes informal language and slang terms.",
+    "score": 0.4
+  },
+  "feature3": {
+    "explanation": "Both texts contain short and direct sentences. The first text is more coherent and organized compared to the second text, which lacks cohesion.",
+    "score": 0.7
+  },
+  "feature4": {
+    "explanation": "The first text maintains a neutral tone and focuses on conveying information. The second text uses informal and confrontational language.",
+    "score": 0.5
+  },
+  "feature5": {
+    "explanation": "Both texts are free from spelling and typographical errors.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical and grammatical features, and text and discourse features, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.64
+  }
+}

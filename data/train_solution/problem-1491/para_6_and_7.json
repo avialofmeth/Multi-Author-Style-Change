@@ -1,0 +1,26 @@
+{
+  "feature1": {
+    "explanation": "Paragraph 1 uses commas and periods for punctuation, while Paragraph 2 uses hyphens, brackets, and ellipsis. There is a difference in punctuation style.",
+    "score": 0.2
+  },
+  "feature2": {
+    "explanation": "Paragraph 1 has a straightforward and concise style with words like 'solar', 'desert', and 'US', while Paragraph 2 uses more complex words like 'Neanderthals' and 'cropped up'. Lexical and word choice differ significantly.",
+    "score": 0.1
+  },
+  "feature3": {
+    "explanation": "Paragraph 1 consists of short, direct sentences, while Paragraph 2 has longer, more complex sentences. There is a contrast in sentence structure and complexity.",
+    "score": 0.3
+  },
+  "feature4": {
+    "explanation": "Paragraph 1 has a factual and informative tone, focusing on a specific topic, while Paragraph 2 introduces a historical timeframe comparison. The narrative styles and content differ notably.",
+    "score": 0.2
+  },
+  "feature5": {
+    "explanation": "No spelling or typographical errors were observed in either paragraph.",
+    "score": 1
+  },
+  "overall": {
+    "explanation": "Considering the differences in punctuation style, lexical features, sentence structure, and narrative tone, the likelihood of the two texts being written by the same author is low.",
+    "score": 0.36
+  }
+}

@@ -18,9 +18,9 @@ from datasets import Dataset
 from utilities import (read_paragraphs,
                        read_ground_truth, 
                        generate_dataset)
-
-
-
+# Open the JSON file
+with open('./config/fine_tune_bert_base.json', 'r') as f:
+    fine_tune_conf = json.load(f)
 
 # 更新路径 Path prefixes
 train_directory = './data/train_processed'
@@ -31,26 +31,28 @@ train_label_directory = './data/train_label'
 test_directory = './data/validation_processed'
 test_label_directory = './data/validation_label'
 
-checkpoint = 'bert-base-cased' #### 改这里
-run_name = 'multi_author_analyse_' + checkpoint
+checkpoint = fine_tune_conf['checkpoint']
+run_name = fine_tune_conf["run_name_prefix"] + checkpoint
 # 读取段落数据
 # Read documents
 # max(end_id) = 4200
-train_data = read_paragraphs(train_directory, start_id=1, end_id=4200) # {'problem-x': [sen 1, sen 2, ...], ...}
+train_data = read_paragraphs(train_directory, 
+                             start_id=fine_tune_conf['train_data_start_id'], 
+                             end_id=fine_tune_conf['train_data_end_id']) # {'problem-x': [sen 1, sen 2, ...], ...}
 # max(end_id) = 900
-test_data = read_paragraphs(test_directory, start_id=1, end_id=900)
+test_data = read_paragraphs(test_directory, 
+                            start_id=fine_tune_conf['test_data_start_id'], 
+                            end_id=fine_tune_conf['test_data_end_id'])
 # 读取 ground truth 数据
 # Read ground truth labels
-train_labels = read_ground_truth(train_label_directory, start_id=1, end_id=4200) # {'problem-x': [1, ...], ...}
-test_labels  = read_ground_truth(test_label_directory, start_id=1, end_id=900)
-
-# for doc_id, paragraphs in train_data.items():
-#     print(f"{doc_id}: {paragraphs}")
-#     print(train_labels[doc_id])
-
+train_labels = read_ground_truth(train_label_directory, 
+                                 start_id=fine_tune_conf['train_data_start_id'], 
+                                 end_id=fine_tune_conf['train_data_end_id']) # {'problem-x': [1, ...], ...}
+test_labels  = read_ground_truth(test_label_directory, 
+                                 start_id=fine_tune_conf['test_data_start_id'], 
+                                 end_id=fine_tune_conf['test_data_end_id'])
 
 tokenizer = BertTokenizer.from_pretrained(checkpoint)
-tokenizer.model_max_length
 
 train_dataset = generate_dataset(train_data, train_labels, tokenizer)
 test_dataset = generate_dataset(test_data, test_labels, tokenizer)
@@ -88,25 +90,25 @@ def compute_metrics(eval_preds):
         eval_result[key] = me(predictions, labels).item()
     return eval_result
 
-
+# hyper-parameter search, using sweep
 sweep_config = {
                 'method': 'random',
-                'metric': {'goal': 'maximize', 'name': 'F1'},
+                'metric': {'goal': 'maximize', 'name': 'eval/F1'},
                 'parameters': {
                     'batch_size': {
                         'distribution': 'q_log_uniform_values',
-                        'max': 48,
-                        'min': 24
+                        'max': fine_tune_conf['sweep_config']['max_batch_size'],
+                        'min': fine_tune_conf['sweep_config']['min_batch_size']
                     },
-                    'epochs': {'values': [1, 2, 3]},
+                    'epochs': {'values': fine_tune_conf['sweep_config']['epochs']},
                     'learning_rate': {'distribution': 'uniform',
-                                      'max': 2e-5,
-                                      'min': 1e-6},
+                                      'max': fine_tune_conf['sweep_config']['max_learning_rate'],
+                                      'min': fine_tune_conf['sweep_config']['min_learning_rate']},
                     'optimizer': {'values': ['adam']}
                 }
  }
 
-sweep_id = wandb.sweep(sweep_config, project="Multi_author_test")
+sweep_id = wandb.sweep(sweep_config, project=fine_tune_conf["sweep_project_name"])
 
 def train(config=None):
   with wandb.init(config=config):
@@ -117,13 +119,13 @@ def train(config=None):
     # there will be 546 training steps and 182 validation steps
     training_args = TrainingArguments(
         output_dir=f"finetuned-{checkpoint}",
-        eval_strategy = "steps",
-        eval_steps=10,
+        evaluation_strategy = "steps",
+        eval_steps=fine_tune_conf['training_arguments']['eval_steps'],
         gradient_accumulation_steps=4,
         save_strategy='epoch',
         learning_rate=config.learning_rate,
         per_device_train_batch_size=config.batch_size, 
-        per_device_eval_batch_size=32,
+        per_device_eval_batch_size=16,
         num_train_epochs=config.epochs,
         weight_decay=0.01,
         report_to="wandb",  # enable logging to W&B
@@ -142,11 +144,12 @@ def train(config=None):
 
     trainer.train()
 
-    # trainer.evaluate(tokenized_datasets['validation'])
+    trainer.evaluate(tokenized_datasets['validation'])
 
-    trainer.evaluate(tokenized_datasets['test'])
+    # trainer.evaluate(tokenized_datasets['test'])
+    torch.cuda.empty_cache()
 
-wandb.agent(sweep_id, train, count=10)
+wandb.agent(sweep_id, train, count=fine_tune_conf['training_arguments']['sweep_count'])
 # wandb.finish()
 
 

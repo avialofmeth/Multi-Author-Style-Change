@@ -1,0 +1,22 @@
+{
+    "checkpoint": "bert-base-cased",
+    "run_name_prefix": "multi_author_analyse_",
+    "train_data_start_id": 1,
+    "train_data_end_id": 4200, 
+    "test_data_start_id": 1,
+    "test_data_end_id": 900, 
+
+    "sweep_project_name": "Multi_author_test",
+    "sweep_config": {
+            "max_batch_size": 40,
+            "min_batch_size": 24,
+            "epochs": [1, 2, 3],
+            "max_learning_rate": 2e-5,
+            "min_learning_rate": 1e-6
+        },
+    "training_arguments": {
+        "eval_steps": 20,
+        "sweep_count": 10
+    }
+  }
+  

@@ -27,5 +27,5 @@ Table 1: F1 scores on our test set of the Medium hard task
 | ----------- | ----------- | ----------- | ----------- | ----------- 
 | Medium       | 0.594       | 0.795       | 0.806       | 0.811      
 
-
+For more details, please refer to the **final report** PDF.  
 

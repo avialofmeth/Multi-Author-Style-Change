@@ -16,6 +16,16 @@ Run `prompting.ipynb` to get LLM generated responses; Run `process_json.ipynb` t
 ### BERT
 For fine-tuning, refer to `fine_tune_bert.ipynb`; for random forest classifier, refer to `train_test_random_forest_classifier.ipynb`; for attention visualization, refer to `visualize_attention.ipynb`. 
 
-#### Linguistic method
+### Linguistic method
 
 For the baseline model, refer to `linguistic_method_baseline.ipynb`.
+
+# Results
+Table 1: F1 scores on our test set of the Medium hard task  
+
+| Task| Prompt Engineering|BERT + Random Forest|Fine-tuned BERT + Random Forest|Linguistic method (baseline)
+| ----------- | ----------- | ----------- | ----------- | ----------- 
+| Medium       | 0.594       | 0.795       | 0.806       | 0.811      
+
+
+
